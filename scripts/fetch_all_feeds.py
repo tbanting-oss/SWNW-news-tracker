@@ -27,6 +27,7 @@ import json
 import os
 import re
 import sys
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
@@ -35,8 +36,20 @@ import requests
 
 RECENCY_WINDOW_HOURS = 48  # keep items published within this window
 FALLBACK_ITEM_COUNT = 10   # if a feed has no usable dates, take the N newest entries
-REQUEST_TIMEOUT = 20
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; SWNW-signal-scan/1.0)"}
+REQUEST_TIMEOUT = 30
+RETRY_ATTEMPTS = 2
+RETRY_BACKOFF_SECONDS = 4
+# A real-browser UA rather than a self-identifying "compatible; ...bot" string -
+# several publishers (UC Today, Telecom Reseller, Microsoft blogs) returned 403s
+# to the bot-style UA in testing; some WAFs specifically flag the "compatible;"
+# pattern regardless of what follows it.
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+}
 
 # Feeds that are broad, multi-industry wires where most items are NOT
 # relevant to UC/CCaaS/CPaaS/CX - these get the keyword filter applied.
@@ -104,12 +117,22 @@ def fetch_feed(name: str, url: str, rss_url_overrides: dict) -> dict:
     # or the account-specific query string may rotate.
     actual_url = rss_url_overrides.get(name, url)
 
-    try:
-        resp = requests.get(actual_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
-        parsed = feedparser.parse(resp.content)
-    except Exception as exc:  # noqa: BLE001 - deliberately broad, one feed shouldn't kill the run
-        return {"name": name, "url": actual_url, "error": str(exc), "items": []}
+    last_error = None
+    parsed = None
+    for attempt in range(1, RETRY_ATTEMPTS + 1):
+        try:
+            resp = requests.get(actual_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
+            last_error = None
+            break
+        except Exception as exc:  # noqa: BLE001 - one feed shouldn't kill the whole run
+            last_error = str(exc)
+            if attempt < RETRY_ATTEMPTS:
+                time.sleep(RETRY_BACKOFF_SECONDS)
+
+    if last_error is not None:
+        return {"name": name, "url": actual_url, "error": last_error, "items": []}
 
     cutoff = datetime.now(timezone.utc) - timedelta(hours=RECENCY_WINDOW_HOURS)
     needs_filter = name in BROAD_FEEDS_NEEDING_FILTER
@@ -165,6 +188,9 @@ def main() -> int:
         results.append(result)
         status = f"ERROR: {result['error']}" if result["error"] else f"{len(result['items'])} items"
         print(f"{feed['name']}: {status}")
+        time.sleep(1.5)  # brief gap between requests - three sequential GlobeNewswire
+        # industry-feed timeouts in the first live run suggest hammering the
+        # same host back-to-back was a factor
 
     errors = [r for r in results if r["error"]]
     output = {
