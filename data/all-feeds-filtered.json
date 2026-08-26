@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T12:09:04.373657+00:00",
+  "generated_at": "2026-08-26T12:16:49.129435+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
-  "feeds_with_errors": 8,
+  "feeds_with_errors": 7,
   "fetch_errors": [
     {
       "name": "UC Today",
@@ -12,17 +12,12 @@
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
-      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=20)"
+      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=30)"
     },
     {
-      "name": "Telecom Reseller / Technology Reseller News",
-      "url": "https://telecomreseller.com/feed/",
-      "error": "403 Client Error: Forbidden for url: https://telecomreseller.com/feed/"
-    },
-    {
-      "name": "Microsoft 365 Blog",
-      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
-      "error": "403 Client Error: Forbidden for url: https://www.microsoft.com/en-us/microsoft-365/blog/feed/"
+      "name": "Industry News – CPaaSAA",
+      "url": "https://cpaasaa.com/category/industry-news/feed/",
+      "error": "429 Client Error: Too Many Requests for url: https://cpaasaa.com/category/industry-news/feed/"
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
@@ -30,19 +25,19 @@
       "error": "404 Client Error: Not Found for url: https://www.channelpronetwork.com/rss.xml"
     },
     {
-      "name": "Technology News For IT Channel Partners and Solution Providers",
-      "url": "https://www.crn.com/rss.xml",
-      "error": "404 Client Error: Not Found for url: https://www.crn.com/rss.xml"
+      "name": "Verdict",
+      "url": "https://www.verdict.co.uk/feed/",
+      "error": "403 Client Error: Forbidden for url: https://www.verdict.co.uk/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/9000-Technology/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Technology",
-      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=20)"
+      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=30)"
     },
     {
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
-      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=20)"
+      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=30)"
     }
   ],
   "feeds": [
@@ -247,7 +242,92 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": []
+      "items": [
+        {
+          "title": "The Compromised Account",
+          "link": "https://telecomreseller.com/2026/08/25/the-compromised-account/",
+          "published": "Tue, 25 Aug 2026 20:00:24 +0000",
+          "summary": "The Compromised Account; When a Real Account Is Taken Over and the Credential Is Genuine By John Perkins, Chief Executive Officer, ICA AI, Inc. Every trust approach has a weakest [...]\nThe post The Compromised Account appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Europe’s Cyber Resilience Act Puts Pressure on the Channel",
+          "link": "https://telecomreseller.com/2026/08/25/europes-cyber-resilience-act-pressure-on-the-channel/",
+          "published": "Tue, 25 Aug 2026 19:19:25 +0000",
+          "summary": "By: Moshe Beauford, Editor Europe&#8217;s Cyber Resilience Act is moving from something companies could put on a compliance roadmap to something they have to operationalize. The first major Cyber Resilience [...]\nThe post Europe&#8217;s Cyber Resilience Act Puts Pressure on the Channel appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "CTM Connects Marketing Attribution with Contact Center Intelligence, Podcast",
+          "link": "https://telecomreseller.com/2026/08/25/ctm-connects-marketing-attribution-with-contact-center-intelligence-podcast/",
+          "published": "Tue, 25 Aug 2026 18:53:30 +0000",
+          "summary": "“We’re helping businesses answer a simple question: why is somebody calling me, and was it because of my ad?” In this Technology Reseller News podcast, Todd Fisher of CTM returns [...]\nThe post CTM Connects Marketing Attribution with Contact Center Intelligence, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "BCN Automates Network Recovery With Managed Remote Power Service",
+          "link": "https://telecomreseller.com/2026/08/25/bcn-automates-network-recovery/",
+          "published": "Tue, 25 Aug 2026 16:16:27 +0000",
+          "summary": "By: Moshe Beauford, Editor A network outage doesn&#8217;t always require a complicated fix. Sometimes, the equipment simply needs to be restarted. BCN is building that basic reality into its managed [...]\nThe post BCN Automates Network Recovery With Managed Remote Power Service appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "ZOO Digital Automates Media QC",
+          "link": "https://telecomreseller.com/2026/08/25/zoo-digital-automates-media-qc/",
+          "published": "Tue, 25 Aug 2026 15:22:35 +0000",
+          "summary": "By: Moshe Beauford, Editor  ZOO Digital is adding automated quality control to the media workflows behind its global localization business, selecting Interra Systems’ BATON to check audio and video files [...]\nThe post ZOO Digital Automates Media QC appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Leaseweb: AI Infrastructure Is Not One Size Fits All Anymore, Podcast",
+          "link": "https://telecomreseller.com/2026/08/25/leaseweb-ai-infrastructure-is-not-one-size-fits-all-anymore-podcast/",
+          "published": "Tue, 25 Aug 2026 12:30:44 +0000",
+          "summary": "“Create your value and your wealth as a strategic consultant instead of being a technology vendor.” In this Technology Reseller News podcast, Tim Mandell of Leaseweb launches an ongoing infrastructure [...]\nThe post Leaseweb: AI Infrastructure Is Not One Size Fits All Anymore, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "How Do I Switch Business Internet Providers Without Downtime?",
+          "link": "https://telecomreseller.com/2026/08/25/how-do-i-switch-business-internet-providers-without-downtime/",
+          "published": "Tue, 25 Aug 2026 12:00:44 +0000",
+          "summary": "The answer is simpler than most businesses expect: you run the new connection alongside the old one, test it under real conditions, move your traffic over, and only then cancel [...]\nThe post How Do I Switch Business Internet Providers Without Downtime? appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Uniti Expands Cato Partnership",
+          "link": "https://telecomreseller.com/2026/08/24/uniti-expands-cato-partnership/",
+          "published": "Mon, 24 Aug 2026 16:11:09 +0000",
+          "summary": "By: Moshe Beauford, Editor Uniti Solutions is expanding its relationship with Cato Networks, renewing a multi-year partnership and earning Cato&#8217;s “Advanced Partner” designation. The status is held by fewer than [...]\nThe post Uniti Expands Cato Partnership appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "8×8 Makes Voice Quality Part of the AI Contact Center",
+          "link": "https://telecomreseller.com/2026/08/24/ai-contact-center/",
+          "published": "Mon, 24 Aug 2026 16:01:57 +0000",
+          "summary": "By: Moshe Beauford, Editor  AI is changing what happens after a customer conversation, but 8&#215;8 is focusing on something that happens before much of that analysis begins: the quality of [...]\nThe post 8&#215;8 Makes Voice Quality Part of the AI Contact Center appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Verizon, Google Cloud Expand AI Partnership",
+          "link": "https://telecomreseller.com/2026/08/24/verizon-google-cloud-expand-ai-partnership/",
+          "published": "Mon, 24 Aug 2026 15:43:49 +0000",
+          "summary": "By: Moshe Beauford, Editor Verizon and Google Cloud are expanding their relationship as the telecom provider looks to scale AI across customer experience, network operations and other parts of the [...]\nThe post Verizon, Google Cloud Expand AI Partnership appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "AI Agent Market Poised for 6X Growth by 2030",
+          "link": "https://telecomreseller.com/2026/08/24/ai-agent-market-poised-for-growth/",
+          "published": "Mon, 24 Aug 2026 15:03:49 +0000",
+          "summary": "By: Moshe Beauford, Editor  The market for AI agents is projected to grow from $7.84 billion in 2025 to $52.62 billion by 2030, representing a 46.3% compound annual growth rate, [...]\nThe post AI Agent Market Poised for 6X Growth by 2030 appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "AI Doesn’t Just Consume Compute. It Creates a Data Management Problem.",
+          "link": "https://telecomreseller.com/2026/08/24/ai-doesnt-just-consume-compute-it-creates-a-data-management-problem/",
+          "published": "Mon, 24 Aug 2026 14:48:40 +0000",
+          "summary": "By Leaseweb Why Storage, Networking, and Data Architecture Are Becoming the Next Competitive Advantage for MSPs Everyone wants to talk about GPUs. How many do we need? Which ones should [...]\nThe post AI Doesn&#8217;t Just Consume Compute. It Creates a Data Management Problem. appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "From Check-In to Check-Out: Two Years of the Vodia-Cloudbeds Integration",
+          "link": "https://telecomreseller.com/2026/08/24/from-check-in-to-check-out-two-years-of-the-vodia-cloudbeds-integration/",
+          "published": "Mon, 24 Aug 2026 14:43:09 +0000",
+          "summary": "Hotels never stop moving. Guests check in and out, rooms turn over, calls need to reach the right people, and charges need to appear on the correct bill. When the [...]\nThe post From Check-In to Check-Out: Two Years of the Vodia-Cloudbeds Integration appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "AI Adoption Is Outrunning Employee Trust",
+          "link": "https://telecomreseller.com/2026/08/24/ai-trust-issue/",
+          "published": "Mon, 24 Aug 2026 14:40:52 +0000",
+          "summary": "By: Moshe Beauford, Editor  Enterprise AI adoption is moving quickly, but do the people inside those organizations understand where it is going? A July survey of 1,004 full-time U.S. employees [...]\nThe post AI Adoption Is Outrunning Employee Trust appeared first on Telecom Reseller / Technology Reseller News."
+        }
+      ]
     },
     {
       "name": "CMSWire.com - All News",
@@ -292,14 +372,7 @@
     },
     {
       "name": "Twilio Blog",
-      "items": [
-        {
-          "title": "Build a Serverless Video Chat Application with JavaScript and Twilio Programmable Video",
-          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/serverless-video-chat-application-javascript-twilio-programmable-video",
-          "published": "Mon, 24 Aug 2026 20:00:00 -0400",
-          "summary": "Learn how to build a video calling application and deploy it to the Twilio Serverless platform."
-        }
-      ]
+      "items": []
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -828,12 +901,6 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlZOYzNJOU4ycXZSbFMtelY1VW16SHRuWDhRNXN3NDBUNmhhS29Qc0gxQzZ2VHAyMlVBd3hGelJOcVNoNTFNN3FYeU9DX3ZGblZKOTEwQlNDekR5RGhJMDdPZC11MGtPdU5MX2gyLXVjNUlFWE1uQk4ydm1QMEVJZzBfblBPSEtkdkxOVTBB?oc=5",
           "published": "Mon, 24 Aug 2026 12:22:58 GMT",
           "summary": "AI Stock Picks Today: CRM, TSLA, NET trade ideas August 24, 2026&nbsp;&nbsp;StartupHub.ai"
-        },
-        {
-          "title": "Salesforce (NYSE:CRM) Earns \"Buy\" Rating from BTIG Research - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWldpZktEYlByZ1c1a1BDU3Nqb1NnNFl4bEl3c2pqcDIxTUI4LU9lMHZualRTT0swaHBxRmFoV3lEd1NONUpDTDFmN25UUk9LSndYdXh3UkRXNWd0YVFJTG5ONVlCQTNUNUxGNUtzSGFacHV0OUpRZDJqMGZMaGNUNFNqZjhsYVFiTTUzTHVCNE4zeVAtcjJDeDN2ZTZHU2hCTFJocWoxaFB2eHll?oc=5",
-          "published": "Mon, 24 Aug 2026 12:09:51 GMT",
-          "summary": "Salesforce (NYSE:CRM) Earns \"Buy\" Rating from BTIG Research&nbsp;&nbsp;MarketBeat"
         }
       ]
     },
@@ -856,6 +923,12 @@
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "Stability AI’s $76M Bet: Can Licensed AI Win Creative Industries?",
+          "link": "https://futurumgroup.com/insights/stability-ais-76m-bet-can-licensed-ai-win-creative-industries/?utm_source=rss&utm_medium=rss&utm_campaign=stability-ais-76m-bet-can-licensed-ai-win-creative-industries",
+          "published": "Wed, 26 Aug 2026 12:08:11 +0000",
+          "summary": "The post Stability AI&#8217;s $76M Bet: Can Licensed AI Win Creative Industries? appeared first on Futurum.\nStability AI's $76M Series B from Sony, Universal, and Warner Music Group signals a shift toward licensed AI in creative industries, with Stable Audio 3.0 positioning the company as a product-led player for professionals.\nThe post Stability AI&#8217;s $76M Bet: Can Licensed AI Win Creative Industries? appeared first on Futurum."
+        },
         {
           "title": "SCSK and SMFL Bundle AI Analytics With Finance to Crack Japan’s GX Gap",
           "link": "https://futurumgroup.com/insights/scsk-and-smfl-bundle-ai-analytics-with-finance-to-crack-japans-gx-gap/?utm_source=rss&utm_medium=rss&utm_campaign=scsk-and-smfl-bundle-ai-analytics-with-finance-to-crack-japans-gx-gap",
@@ -931,6 +1004,12 @@
     {
       "name": "Constellation Research",
       "items": [
+        {
+          "title": "Box CEO Levie says model prices falling, excited about open weight options",
+          "link": "https://www.constellationr.com/insights/news/box-ceo-levie-says-model-prices-falling-excited-about-open-weight-options",
+          "published": "Wed, 26 Aug 2026 12:06:37 +0000",
+          "summary": "Box CEO Levie says model prices falling, excited about open weight options\nLarry Dignan\nWed, 26 Aug 2026 - 05:06\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technolo"
+        },
         {
           "title": "10 takeaways from recent DisrupTV episodes",
           "link": "https://www.constellationr.com/insights/news/10-takeaways-recent-disruptv-episodes",
