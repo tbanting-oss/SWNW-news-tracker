@@ -1,0 +1,37 @@
+name: Daily feed aggregation (UC/CCaaS/CPaaS/CX signal scan sources)
+
+on:
+  schedule:
+    # 05:30 UTC daily - ahead of the morning signal scan
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}   # lets you trigger a manual run from the Actions tab
+
+permissions:
+  contents: write   # needed to commit the consolidated JSON back to the repo
+
+jobs:
+  fetch-all-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests feedparser
+
+      - name: Fetch, filter, consolidate
+        env:
+          BUSINESSWIRE_RSS_URL: ${{ secrets.BUSINESSWIRE_RSS_URL }}
+        run: python scripts/fetch_all_feeds.py
+
+      - name: Commit consolidated output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/all-feeds-filtered.json
+          git diff --staged --quiet && echo "No changes" || git commit -m "Daily feed aggregation run"
+          git pull --rebase origin main
+          git push
