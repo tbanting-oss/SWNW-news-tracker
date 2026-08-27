@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SWNW Signal Log — UC / CCaaS / CPaaS / CX</title>
+<style>
+  :root {
+    --bg:#0f1115; --card:#171a21; --line:#262b36; --ink:#e8eaed; --mut:#9aa3b2;
+    --signal:#3b82f6; --signalplus:#0ea5a4; --pattern:#8b5cf6; --teardown:#ef4444; --flag:#b45309;
+  }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#f6f7f9; --card:#ffffff; --line:#e3e6eb; --ink:#14171c; --mut:#5b6472; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width:820px; margin:0 auto; padding:28px 20px 64px; }
+  header.mast { border-bottom:1px solid var(--line); padding-bottom:16px; margin-bottom:8px; }
+  .mast h1 { font-size:20px; margin:0 0 4px; letter-spacing:-.2px; }
+  .mast .sub { color:var(--mut); font-size:13px; }
+  .legend { display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 4px; }
+  .pill { display:inline-block; font-size:12px; font-weight:700; padding:3px 10px;
+    border-radius:999px; color:#fff; letter-spacing:.2px; white-space:nowrap; }
+  .pill-signal { background:var(--signal); }
+  .pill-signalplus { background:var(--signalplus); }
+  .pill-pattern { background:var(--pattern); }
+  .pill-teardown { background:var(--teardown); }
+  .legend .lg { color:var(--mut); font-size:12px; align-self:center; }
+  section.day { margin-top:26px; }
+  .day-head { font-size:13px; text-transform:uppercase; letter-spacing:.6px; color:var(--mut);
+    margin:0 0 10px; font-weight:700; }
+  .day-head.is-today { color:var(--ink); }
+  .day-head.is-today::after { content:" · today"; color:var(--signal); }
+  .pattern-watch { font-size:13px; color:var(--mut); background:var(--card);
+    border:1px solid var(--line); border-radius:8px; padding:8px 12px; margin:0 0 12px; }
+  .row { display:grid; grid-template-columns:96px 1fr auto; gap:12px; align-items:start;
+    background:var(--card); border:1px solid var(--line); border-radius:10px;
+    padding:12px 14px; margin-bottom:10px; }
+  .headline { color:var(--ink); text-decoration:none; font-weight:650; font-size:15px; }
+  .headline:hover { text-decoration:underline; }
+  .sowhat { color:var(--mut); font-size:13.5px; margin-top:3px; }
+  .meta { text-align:right; display:flex; flex-direction:column; gap:4px; align-items:flex-end; }
+  .cat { font-size:11px; font-weight:700; color:var(--mut); border:1px solid var(--line);
+    border-radius:6px; padding:2px 7px; }
+  .run { font-size:10px; color:var(--mut); }
+  .vendorflag { font-size:10px; font-weight:700; color:#fff; background:var(--flag);
+    padding:1px 6px; border-radius:5px; vertical-align:middle; }
+  .empty { color:var(--mut); font-size:13px; font-style:italic; }
+  @media (max-width:560px) {
+    .row { grid-template-columns:70px 1fr; }
+    .meta { grid-column:2; flex-direction:row; gap:8px; align-items:center; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="mast">
+      <h1>SWNW Signal Log</h1>
+      <div class="sub">UC · CCaaS · CPaaS · CX · AI — rolling 7 days · Updated Thu 27 Aug 2026, 17:46 UTC · Covers Thu 27 Aug 2026</div>
+    </header>
+    <div class="legend">
+      <span class="lg">Legend:</span>
+      <span class="pill pill-signal">Signal</span>
+      <span class="pill pill-signalplus">Signal+</span>
+      <span class="pill pill-pattern">Pattern</span>
+      <span class="pill pill-teardown">Teardown</span>
+      <span class="lg">— default-down, never inflated. Signal+ = stop for it. Pattern = shared thread. Teardown = sceptical takedown.</span>
+    </div>
+    <!-- LOG-START -->
+      <section class="day is-today">
+        <h2 class="day-head is-today">Thu 27 Aug 2026</h2>
+        <div class="pattern-watch"><b>Pattern watch:</b> Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread.</div>
+        
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
+          <div class="body">
+            <a class="headline" href="https://www.cxtoday.com/crm/salesforces-outcome-based-pricing-strategic-masterstroke-or-defensive-scramble-against-ai-seat-compression/" target="_blank" rel="noopener">Salesforce reports record Q2, raises full-year guidance</a>
+            <div class="sowhat">Strong AI-led growth and a $10bn Anthropic gain signal that seat-based SaaS revenue can still expand alongside agentic automation—at least for now.</div>
+          </div>
+          <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
+          <div class="body">
+            <a class="headline" href="https://www.cxtoday.com/crm/salesforces-claudeforce-deal-with-anthropic-points-to-what-comes-after-the-crm-ui/" target="_blank" rel="noopener">Salesforce, Anthropic launch Claudeforce—CRM inside Claude</a>
+            <div class="sowhat">This signals a potential post-UI strategy where the CRM becomes headless infrastructure callable by third-party AI agents, not just a Salesforce-controlled front end.</div>
+          </div>
+          <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://www.cxtoday.com/ai-automation-in-cx/ttec-digital-lands-first-agentforce-contact-center-go-live/" target="_blank" rel="noopener">TTEC Digital completes first Agentforce Contact Center deployment</a>
+            <div class="sowhat">Compass Working Capital&#x27;s live go-live gives Salesforce a public proof point that enterprise CCaaS buyers can actually put agentic agents into production.</div>
+          </div>
+          <div class="meta"><span class="cat">CCaaS</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://www.cxtoday.com/ai-automation-in-cx/is-the-standalone-contact-center-dead-why-zooms-q2-signals-a-vendor-purge/" target="_blank" rel="noopener">Zoom Q2 revenue up 4.9%, Enterprise up 7.8%</a>
+            <div class="sowhat">Consolidation is driving enterprise growth, but single-digit top-line expansion shows the UC-to-CCaaS bundle isn&#x27;t yet a high-velocity revenue lever.</div>
+          </div>
+          <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://blog.webex.com/customer-experience/modernizing-premises-contact-center-ai-webex-ai-agent-now-available-cce-release-15/" target="_blank" rel="noopener">Cisco Webex launches AI Agent for CCE 15</a>
+            <div class="sowhat">Webex AI Agent extends intelligent self-service to on-prem CCE deployments, preserving enterprise control while bringing agentic capabilities to legacy estates.</div>
+          </div>
+          <div class="meta"><span class="cat">CCaaS</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://telecomreseller.com/2026/08/26/sangoma-jazzware/" target="_blank" rel="noopener">Sangoma partners with Jazzware on hospitality UC-PMS integration</a>
+            <div class="sowhat">Connecting UC platforms to property-management systems pushes vertical differentiation deeper into the channel&#x27;s back-office stack, not just telephony features.</div>
+          </div>
+          <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://telecomreseller.com/2026/08/27/infobip-launches-sim-based-number-verification-to-help-telecom-operators-unlock-new-authentication-revenue/" target="_blank" rel="noopener">Infobip launches SIM-based Number Verification for operators</a>
+            <div class="sowhat">Carriers gain a revenue share by monetising SIM-based authentication, reducing SMS OTP abuse and opening a channel margin play in enterprise identity flows.</div>
+          </div>
+          <div class="meta"><span class="cat">CPaaS</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://www.cxtoday.com/security-privacy-compliance/google-spirit-ai-enterprise-data-market/" target="_blank" rel="noopener">Google bids $10m for bankrupt Spirit Airlines&#x27; corporate data</a>
+            <div class="sowhat">This creates a market for enterprise operational data as AI training collateral, raising questions for CIOs about data sovereignty when a business fails.</div>
+          </div>
+          <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
+        </div>
+      </section>
+  </div>
+</body>
+</html>

@@ -1,0 +1,84 @@
+{
+  "days": [
+    {
+      "iso": "2026-08-27",
+      "label": "Thu 27 Aug 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce reports record Q2, raises full-year guidance",
+          "sowhat": "Strong AI-led growth and a $10bn Anthropic gain signal that seat-based SaaS revenue can still expand alongside agentic automation—at least for now.",
+          "url": "https://www.cxtoday.com/crm/salesforces-outcome-based-pricing-strategic-masterstroke-or-defensive-scramble-against-ai-seat-compression/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce, Anthropic launch Claudeforce—CRM inside Claude",
+          "sowhat": "This signals a potential post-UI strategy where the CRM becomes headless infrastructure callable by third-party AI agents, not just a Salesforce-controlled front end.",
+          "url": "https://www.cxtoday.com/crm/salesforces-claudeforce-deal-with-anthropic-points-to-what-comes-after-the-crm-ui/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "TTEC Digital completes first Agentforce Contact Center deployment",
+          "sowhat": "Compass Working Capital's live go-live gives Salesforce a public proof point that enterprise CCaaS buyers can actually put agentic agents into production.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/ttec-digital-lands-first-agentforce-contact-center-go-live/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom Q2 revenue up 4.9%, Enterprise up 7.8%",
+          "sowhat": "Consolidation is driving enterprise growth, but single-digit top-line expansion shows the UC-to-CCaaS bundle isn't yet a high-velocity revenue lever.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/is-the-standalone-contact-center-dead-why-zooms-q2-signals-a-vendor-purge/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Cisco Webex launches AI Agent for CCE 15",
+          "sowhat": "Webex AI Agent extends intelligent self-service to on-prem CCE deployments, preserving enterprise control while bringing agentic capabilities to legacy estates.",
+          "url": "https://blog.webex.com/customer-experience/modernizing-premises-contact-center-ai-webex-ai-agent-now-available-cce-release-15/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Sangoma partners with Jazzware on hospitality UC-PMS integration",
+          "sowhat": "Connecting UC platforms to property-management systems pushes vertical differentiation deeper into the channel's back-office stack, not just telephony features.",
+          "url": "https://telecomreseller.com/2026/08/26/sangoma-jazzware/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Infobip launches SIM-based Number Verification for operators",
+          "sowhat": "Carriers gain a revenue share by monetising SIM-based authentication, reducing SMS OTP abuse and opening a channel margin play in enterprise identity flows.",
+          "url": "https://telecomreseller.com/2026/08/27/infobip-launches-sim-based-number-verification-to-help-telecom-operators-unlock-new-authentication-revenue/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Google bids $10m for bankrupt Spirit Airlines' corporate data",
+          "sowhat": "This creates a market for enterprise operational data as AI training collateral, raising questions for CIOs about data sovereignty when a business fails.",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/google-spirit-ai-enterprise-data-market/",
+          "vendor_flag": false,
+          "run": "PM"
+        }
+      ],
+      "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
+    }
+  ],
+  "updated": "2026-08-27T17:46:40.827120+00:00"
+}
