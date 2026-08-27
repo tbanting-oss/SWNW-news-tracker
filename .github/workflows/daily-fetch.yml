@@ -2,8 +2,11 @@ name: Daily feed aggregation (UC/CCaaS/CPaaS/CX signal scan sources)
 
 on:
   schedule:
-    # 05:30 UTC daily - ahead of the morning signal scan
+    # 05:30 UTC - ahead of the 08:30 UTC morning signal scan
     - cron: "30 5 * * *"
+    # 14:30 UTC - ahead of the ~15:38 UTC afternoon (US-business-day) scan,
+    # so US-morning press releases (from ~13:00 UTC) are in the feed before the run.
+    - cron: "30 14 * * *"
   workflow_dispatch: {}   # lets you trigger a manual run from the Actions tab
 
 permissions:
