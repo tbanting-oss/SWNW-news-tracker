@@ -138,9 +138,72 @@
           "url": "https://www.nojitter.com/ai-automation/real-time-ai-coaching-is-becoming-continuous-surveillance",
           "vendor_flag": false,
           "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce embeds full CRM inside Anthropic Claude",
+          "sowhat": "Sellers can now run pipeline reviews and execute CRM workflows directly in Claude via 37 prebuilt skills, making the CRM interface optional and billing by agent traffic instead of seat count.",
+          "url": "https://www.cxtoday.com/crm/marc-benioff-maintains-there-is-no-saaspocalypse-as-salesforce-argues-ai-models-need-software/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco launches sovereign data infrastructure in Canada",
+          "sowhat": "Canadian government and regulated organisations gain a sovereignty-compliant Webex deployment option, addressing data residency requirements for UC workloads.",
+          "url": "https://www.google.com/url?rct=j&sa=t&url=https://telecomreseller.com/2026/08/28/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0mEf5UTmCXD6wakDhIi6fB",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft Teams enables third-party agents from Admin Center",
+          "sowhat": "IT admins can now discover, enable, and configure agents for existing enterprise apps directly within Teams Admin Center, streamlining agentic deployment for Microsoft shops.",
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=569608",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "G-P opens HR data to AI via MCP",
+          "sowhat": "Global employment platform G-P adopted Anthropic's Model Context Protocol, letting AI agents read and act on workforce data without building custom integrations.",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVNkWXhuSFhuUXI5SlVnemNDb21JYlppZkp6S29KZ2VXc1paMlpUc243Skx3bGFfMDJuQXNfenRPRXN6d2owMjZPNFR5RmRnOXZkTzJtOG1RR1dFd0IwZHE2TWE3ZlZSM3B4aDJNTmsxSG53LW1jdnJjNVZxZnN0bkhn?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "NVIDIA nears $12.9B acquisition of Hugging Face",
+          "sowhat": "If completed, this would give NVIDIA direct control of the largest open-model repository and community, consolidating the GenAI supply chain under one vendor.",
+          "url": "https://futurumgroup.com/insights/nvidia-nears-12-9b-deal-for-hugging-face-escalating-ai-ecosystem-strategy/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "AWS acquires DuckLabs to embed DuckDB in S3",
+          "sowhat": "Amazon will run in-process OLAP analytics directly inside S3 storage, bypassing data warehouse costs and challenging Snowflake's margin structure.",
+          "url": "https://futurumgroup.com/insights/in-process-analytics-goes-hyperscale-inside-the-aws-ducklabs-acqui-hire/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Workday joins NZ government hub for public-sector reach",
+          "sowhat": "Workday gains a direct procurement pathway into New Zealand's public sector via an approved government hub, lowering sales friction for HCM deals.",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Zd3M2SE5ETF9ERndWXzRQQkxGRkxWX2pfd2NGMFJ2Rl9TRWotaDRPRTkzV0FWUWdnUEhmb2FRTENxNlNFREw0VWVOaWFWLXhjNDZMUk1vd1ViSUl4SzRSdVlJU0hZTEJvZWh2dU5XbmlqbTJyakJxOUNWay1Gclk?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "Salesforce Q2, Talkdesk readiness survey, and NICE partner pivot all point to AI-CX deployment rushing ahead of operational maturity—adoption theatre without cross-functional orchestration."
+      "pattern_watch": "Three items (Salesforce/Anthropic, G-P MCP, AWS DuckDB) show vendors embedding agent-execution logic directly into data platforms, bypassing traditional UIs."
     },
     {
       "iso": "2026-08-27",
@@ -222,5 +285,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-08-28T18:22:11.506636+00:00"
+  "updated": "2026-08-28T23:52:37.040886+00:00"
 }
