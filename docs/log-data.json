@@ -75,9 +75,72 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1QnR3cXVZbXRYS0k1NE5BcHpWOThEOUNpLWtsNUg1T1hxa29lZUJqeGZncThDOUVhcmVfdzg0OHFJUHlJU0NUZWRsWEZiN296Rmh0TS1VUE50aVF2VVpZNkhwaTZ6emJtSlpzYkh3T1JpQk11MVE?oc=5",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce Q2 beats, raises guidance on AI momentum",
+          "sowhat": "Agentforce driving reacceleration; Anthropic partnership (Claudeforce) embeds CRM inside Claude, signalling intent to move beyond traditional UI—buyers must assess whether this expands AI ROI or complicates platform lock-in.",
+          "url": "https://www.nojitter.com/ai-automation/salesforce-q2-revenue-jumps-11-percent-launches-claudeforce",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Talkdesk: 98% deploy AI; 15% achieve agentic orchestration",
+          "sowhat": "CX AI adoption has outpaced readiness—only 15% combine agentic AI with cross-departmental orchestration, indicating most deployments remain pilot-stage and fail to address systemic workflow needs.",
+          "url": "https://telecomreseller.com/2026/08/28/enterprise-ai-readiness/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "NICE shifts partner model to strategic value creation",
+          "sowhat": "NICE is repositioning TSD partners as strategic advisors amid AI-CX uptake, suggesting channel margins will increasingly depend on implementation depth rather than product resale.",
+          "url": "https://telecomreseller.com/2026/08/28/nice-tsd-partners/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Lumen completes Alkira acquisition for AI networking push",
+          "sowhat": "Lumen embeds Alkira's cloud networking into Lumen Connect, expanding channel footprint for AI-optimised network fabrics—watch whether partners can monetise complexity or simply absorb SKU sprawl.",
+          "url": "https://telecomreseller.com/2026/08/28/lumens-alkira-acquisition/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Manchester Airport breach exposes 8.7 million customer records",
+          "sowhat": "A large-scale data exposure at a UK critical infrastructure operator underscores that operational CX platforms remain prime targets; buyers must re-audit third-party access and lounge/parking data hygiene.",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/8-7-million-customers-exposed-in-manchester-airport-cyberattack/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Cisco unveils NVIDIA-compliant rack-scale AI factory architecture",
+          "sowhat": "Cisco's Secure AI Factory, partnered with Supermicro, addresses neocloud and sovereign cloud demand—signalling infrastructure competition intensifying below the hyperscaler tier.",
+          "url": "https://telecomreseller.com/2026/08/28/cisco-expands-secure-ai-factory-with-nvidia-for-the-rack-scale-era/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "CX",
+          "headline": "Real-time AI coaching drifts into continuous workforce surveillance",
+          "sowhat": "No Jitter argues organisations lack guardrails between coaching and opaque performance management—buyers should audit whether real-time tools empower agents or diminish autonomy under the guise of assistance.",
+          "url": "https://www.nojitter.com/ai-automation/real-time-ai-coaching-is-becoming-continuous-surveillance",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "AI security and agent governance emerging as distinct enterprise spend drivers (CrowdStrike/Okta + Google legal AI)."
+      "pattern_watch": "Salesforce Q2, Talkdesk readiness survey, and NICE partner pivot all point to AI-CX deployment rushing ahead of operational maturity—adoption theatre without cross-functional orchestration."
     },
     {
       "iso": "2026-08-27",
@@ -159,5 +222,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-08-28T09:42:26.578785+00:00"
+  "updated": "2026-08-28T18:22:11.506636+00:00"
 }
