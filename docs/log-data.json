@@ -1,6 +1,85 @@
 {
   "days": [
     {
+      "iso": "2026-08-28",
+      "label": "Fri 28 Aug 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Crescendo launches AI-native unified CX platform",
+          "sowhat": "A new vendor is bundling CCaaS, ticketing, WFM, QA, VoC, and knowledge with specialized AI agents—an architectural claim that demands proof at scale.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/can-crescendos-ai-agents-really-run-the-whole-cx-operation/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "CrowdStrike, Okta tie Q2 strength to AI security",
+          "sowhat": "Two enterprise security vendors flag autonomous agent security as the new demand driver, not infrastructure defence—a notable enterprise positioning shift.",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/crowdstrike-okta-warn-ai-is-turning-cybersecurity-into-an-enterprise-imperative-following-mythos-moment/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "ibex partners Sierra for managed AI-to-human handoff",
+          "sowhat": "A contact-centre outsourcer now integrates Wave iX, Sierra, and human agents as one operational layer—testing whether agentic CX can scale in BPO.",
+          "url": "https://www.cxtoday.com/contact-center/ibex-cx-integration/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce launches outcome-based pricing for Agentforce",
+          "sowhat": "Salesforce is pricing on business outcomes, not seats, preparing for a market where AI agents displace the traditional CRM user model.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/salesforces-outcome-based-pricing-strategic-masterstroke-or-defensive-scramble-against-ai-seat-compression/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "HP Q3 earnings show Poly becoming workplace platform",
+          "sowhat": "HP is repositioning Poly from devices into a broader workplace platform play, signalling a shift in how collaboration hardware vendors compete.",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3d0JBX25xbkhPT2ZUcUhRLTUwNXpZZWdaY0R4QkNIUV9SNml4eHVJOVF4bHdRTzR3STVySmVTeFA2aGdUSXV1X2pDR0pVUVNmOUNqRjlycjFIN3AwMnhua1ZjbzAyNVRyenZ0cnJWUGpKYmRCLTBJSw?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom Q2 driven by enterprise and AI growth",
+          "sowhat": "Zoom's enterprise revenue hit a three-year high, validating its shift toward AI-enabled contact centre and digital labour tools.",
+          "url": "https://www.nojitter.com/digital-workplace/zoom-q2-2027-earnings-driven-by-enterprise-revenue-growth",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "Mitel research finds workers drowning in comms tools",
+          "sowhat": "Mitel-backed survey flags fragmentation as a productivity drag, reinforcing the case for unified AI orchestration layers across workplace tech.",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0s5enV0QWRUR2tJYnlQSng1REczNTh3Z1VuVDZYM1dQVEUxMWxHRVZSQ2VmeTlHakpLQmdySDFhcDlXR3V0S3l3UE12d2xuN1JzZEw0VXk2anJwOHRjM0dLMTZHb3lEYTRaTTJCaFNjdmk2b1k3eUxna25WVlkwTzA4NnA3LWpMQ1dodUUzVi1acUhV?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Google launches Gemini Enterprise for legal sector",
+          "sowhat": "Google is targeting enterprise legal with governed AI connectors and compliance controls, addressing a vertical where confidentiality blocks adoption.",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1QnR3cXVZbXRYS0k1NE5BcHpWOThEOUNpLWtsNUg1T1hxa29lZUJqeGZncThDOUVhcmVfdzg0OHFJUHlJU0NUZWRsWEZiN296Rmh0TS1VUE50aVF2VVpZNkhwaTZ6emJtSlpzYkh3T1JpQk11MVE?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "AI security and agent governance emerging as distinct enterprise spend drivers (CrowdStrike/Okta + Google legal AI)."
+    },
+    {
       "iso": "2026-08-27",
       "label": "Thu 27 Aug 2026",
       "rows": [
@@ -80,5 +159,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-08-27T17:46:40.827120+00:00"
+  "updated": "2026-08-28T09:42:26.578785+00:00"
 }
