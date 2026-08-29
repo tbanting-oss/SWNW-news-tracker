@@ -48,9 +48,63 @@
           "url": "https://www.constellationr.com/insights/news/workday-q2-strong-says-ai-attracting-more-wallet-share",
           "vendor_flag": false,
           "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "T-2 becomes first certified Yeastar SIP provider",
+          "sowhat": "Slovenia's T-2 joins Yeastar's ecosystem with certified SIP trunk connectivity, extending IP-PBX interoperability in a regional niche.",
+          "url": "https://telecomreseller.com/2026/08/28/t-2-becomes-the-first-certified-yeastar-sip-trunk-provider-in-slovenia/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco ships sovereign critical infrastructure for Canada",
+          "sowhat": "Cisco's configurable on-prem and air-gapped deployment option addresses government compliance needs but offers no differentiation beyond localization.",
+          "url": "https://telecomreseller.com/2026/08/28/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce soars 22% on Q2 beat, Anthropic tie-up",
+          "sowhat": "Benioff's Claudeforce partnership and AI-driven growth silence SaaSpocalypse critics, but buyers must assess whether agentic CRM execution matches the hype.",
+          "url": "https://www.cmswire.com/digital-marketing/oreo-dunked-in-the-dark-marketing-has-been-chasing-that-moment-ever-since/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Nasuni acquires DryvIQ for AI data governance",
+          "sowhat": "Nasuni adds DryvIQ's metadata capabilities to its file platform, targeting AI-ready governance as enterprises struggle with unstructured data sprawl.",
+          "url": "https://futurumgroup.com/insights/nasuni-acquires-dryviq-to-bring-ai-ready-data-governance/?utm_source=rss&utm_medium=rss&utm_campaign=nasuni-acquires-dryviq-to-bring-ai-ready-data-governance",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Tech Mahindra, Uniphore launch agentic AI factory",
+          "sowhat": "Tech Mahindra's 90-country reach combined with Uniphore's Business AI Cloud aims at BFSI and retail, but production proof remains unseen.",
+          "url": "https://futurumgroup.com/insights/tech-mahindra-and-uniphore-build-an-agentic-ai-factory/?utm_source=rss&utm_medium=rss&utm_campaign=tech-mahindra-and-uniphore-build-an-agentic-ai-factory",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "CCaaS",
+          "headline": "Mitel healthcare contact centre proposal needs scrutiny",
+          "sowhat": "Buyers must confirm whether Mitel CX or MiContact Center Enterprise is proposed, how patient context flows, and what survives EHR or network failure.",
+          "url": "https://www.cxtoday.com/contact-center/mitel-cx-healthcare-contact-center/",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "Salesforce-Anthropic, Google Cloud verticals, and Workday all position AI as wallet-share expansion plays—buyers should press for proof of ROI before upselling."
+      "pattern_watch": "AI-native integrations (Salesforce-Anthropic, Tech Mahindra-Uniphore, Nasuni-DryvIQ) reflect platform vendors embedding agentic capabilities rather than building standalone tools."
     },
     {
       "iso": "2026-08-28",
@@ -337,5 +391,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-08-29T12:30:33.936113+00:00"
+  "updated": "2026-08-29T18:11:31.935627+00:00"
 }
