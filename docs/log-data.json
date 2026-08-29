@@ -1,6 +1,58 @@
 {
   "days": [
     {
+      "iso": "2026-08-29",
+      "label": "Sat 29 Aug 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce Q2 beat launches Agentforce-Anthropic partnership debate",
+          "sowhat": "Salesforce's 23% stock surge and Claudeforce integration signal that AI agents may bypass CRM UIs, questioning whether SaaS interfaces remain strategic or become optional layers.",
+          "url": "https://futurumgroup.com/insights/salesforce-q2-fy-2027-can-agentforce-drive-revenue-reacceleration/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Okta Q2 beats on identity strength, agentic claims stay vague",
+          "sowhat": "Okta delivered a beat-and-raise on core identity momentum, but agentic identity positioning remains early and undefined, offering no buyer roadmap yet.",
+          "url": "https://futurumgroup.com/insights/okta-q2-fy-2027-earnings-beat-and-raise-on-core-identity-strength/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Google Cloud launches vertical AI platforms for legal, finance",
+          "sowhat": "Google Cloud's Gemini Enterprise for Legal and Financial Services targets confidentiality and hallucination concerns, directly competing with Microsoft's vertical plays.",
+          "url": "https://futurumgroup.com/insights/google-cloud-targets-legal-ai-with-purpose-built-governed-platform/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Twilio research finds 78% of consumers bypass AI agents",
+          "sowhat": "Twilio's data confirms customers actively avoid AI agents to reach humans, underscoring deployment quality over deployment speed remains the CX priority.",
+          "url": "https://www.twilio.com/en-us/blog/insights/why-customers-bypass-ai-agents",
+          "vendor_flag": true,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Workday Q2 credits AI for expanding wallet share",
+          "sowhat": "Workday attributed strong Q2 results to AI features driving higher spend per customer, not new logo growth—a land-and-expand signal for existing HCM bases.",
+          "url": "https://www.constellationr.com/insights/news/workday-q2-strong-says-ai-attracting-more-wallet-share",
+          "vendor_flag": false,
+          "run": "PM"
+        }
+      ],
+      "pattern_watch": "Salesforce-Anthropic, Google Cloud verticals, and Workday all position AI as wallet-share expansion plays—buyers should press for proof of ROI before upselling."
+    },
+    {
       "iso": "2026-08-28",
       "label": "Fri 28 Aug 2026",
       "rows": [
@@ -285,5 +337,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-08-28T23:52:37.040886+00:00"
+  "updated": "2026-08-29T12:30:33.936113+00:00"
 }
