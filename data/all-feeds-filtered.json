@@ -1,18 +1,13 @@
 {
-  "generated_at": "2026-08-30T10:41:47.121568+00:00",
+  "generated_at": "2026-08-30T18:14:39.208713+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
-  "feeds_with_errors": 4,
+  "feeds_with_errors": 3,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "name": "Industry News – CPaaSAA",
-      "url": "https://cpaasaa.com/category/industry-news/feed/",
-      "error": "429 Client Error: Too Many Requests for url: https://cpaasaa.com/category/industry-news/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -46,18 +41,6 @@
           "link": "https://www.cxtoday.com/contact-center/mitel-cx-healthcare-contact-center/",
           "published": "Sat, 29 Aug 2026 15:52:24 +0000",
           "summary": "Mitel brings plenty to the healthcare contact center, but the proposal needs closer inspection. Buyers should confirm whether it includes Mitel CX or MiContact Center Enterprise, how patient context travels, and what remains available when the EHR, cloud, or network fails. A hospital may spend years improving care and still frustrate a patient before anyone [&#8230;]"
-        },
-        {
-          "title": "Big CX News From Salesforce, Zoom, Meta and Google",
-          "link": "https://www.cxtoday.com/contact-center/big-cx-news-from-salesforce-zoom-meta-and-google/",
-          "published": "Fri, 28 Aug 2026 11:30:42 +0000",
-          "summary": "From Salesforce and Zoom&#8217;s latest quarterly earnings, to Meta&#8217;s 18 billion settlement, here are extracts from this week’s most popular news stories. Marc Benioff Maintains “There is No SaaSpocalypse” as Salesforce Argues AI Models Need Software Salesforce CEO Marc Benioff has repeatedly pushed back against warnings that AI could undermine the software-as-a-service (SaaS) business model. [&#8230;]"
-        },
-        {
-          "title": "Why AI-Only QA Still Leaves Support Leaders Doing the Heavy Lifting",
-          "link": "https://www.cxtoday.com/contact-center/why-ai-only-qa-still-leaves-support-leaders-doing-the-heavy-lifting/",
-          "published": "Fri, 28 Aug 2026 10:46:27 +0000",
-          "summary": "Support leaders are under pressure to improve customer experience, coach agents, manage technology, and keep operations moving. Yet quality assurance often becomes another task on an already overloaded list. In this CX Today interview, Rhys Fisher speaks with Ty Given, Founder and CEO at CX Collective, about why Quality as a Service could offer a [&#8230;]"
         }
       ]
     },
@@ -82,20 +65,7 @@
     },
     {
       "name": "No Jitter",
-      "items": [
-        {
-          "title": "Salesforce Q2 revenue jumps 11%, launches Claudeforce",
-          "link": "https://www.nojitter.com/ai-automation/salesforce-q2-revenue-jumps-11-percent-launches-claudeforce",
-          "published": "Fri, 28 Aug 2026 14:12:05 GMT",
-          "summary": "Salesforce in Claude leverages Anthropic’s models to help knowledge workers more easily unlock insights from business data."
-        },
-        {
-          "title": "Real-time AI coaching is becoming continuous surveillance",
-          "link": "https://www.nojitter.com/ai-automation/real-time-ai-coaching-is-becoming-continuous-surveillance",
-          "published": "Fri, 28 Aug 2026 14:01:39 GMT",
-          "summary": "Organizations need guardrails separating useful assistance from opaque performance management, intrusive monitoring and diminished worker autonomy."
-        }
-      ]
+      "items": []
     },
     {
       "name": "TechCrunch",
@@ -105,16 +75,22 @@
       "name": "UC Today",
       "items": [
         {
+          "title": "Accenture: Coverage - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RQTdGWFRlYjlHbTBJWlhUaXNVamhxM2JTT0ZBM3JmdEhTTE04MjhocnhkTl93elVrRzJuNzlBdXZjdHZYdTFGZGFDSzVtUVE?oc=5",
+          "published": "Sun, 30 Aug 2026 17:25:36 GMT",
+          "summary": "Accenture: Coverage&nbsp;&nbsp;UC Today"
+        },
+        {
           "title": "Oracle: Coverage - UC Today",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpcy10WUoweU0tMkJDRXA3Y2tOcUhKeVNxaXNHWDF5RTd3TVVKbnBka0R4a3VwV1BMMHhla1kwdXNZNUJqTDFDeHQwZw?oc=5",
-          "published": "Sun, 30 Aug 2026 09:33:03 GMT",
+          "published": "Sun, 30 Aug 2026 17:21:35 GMT",
           "summary": "Oracle: Coverage&nbsp;&nbsp;UC Today"
         },
         {
-          "title": "Bandwidth: Coverage - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUeXNSWjB2N3hHZ2JUeGxBcWFFdlZNb3ZFckFxUExrMGtCbmRsanF4YmlDSnhVODIxUFJEaml2VHpxaVlqVXFHSE9ZV1BMcHM?oc=5",
-          "published": "Sun, 30 Aug 2026 09:23:01 GMT",
-          "summary": "Bandwidth: Coverage&nbsp;&nbsp;UC Today"
+          "title": "How we label paid work - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wSHVoZXJ2YWZGc3VieUFSNGhWc3dCQkFORVdQb1FxLXpWTVdKcDExZ3RjYVczaEtrb1RCaUhidVhRbVZCUlJRNGlaV1ZFZ0gwT3doVA?oc=5",
+          "published": "Sun, 30 Aug 2026 13:52:21 GMT",
+          "summary": "How we label paid work&nbsp;&nbsp;UC Today"
         },
         {
           "title": "Sennheiser: Coverage - UC Today",
@@ -141,6 +117,12 @@
           "summary": "PWC: Coverage&nbsp;&nbsp;UC Today"
         },
         {
+          "title": "Workday: Coverage - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LdXBYNjljMTR1NVBFQU5HeUVJQjNwQVBwelMxWFlvVXRIeVpPNk45YnY3ZmZUUzFhQU9NRmN2THFVbHItdkZISzNSQXQ?oc=5",
+          "published": "Sat, 29 Aug 2026 22:30:02 GMT",
+          "summary": "Workday: Coverage&nbsp;&nbsp;UC Today"
+        },
+        {
           "title": "Qualtrics: Coverage - UC Today",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OWWg2MEE1Unp3YW5ybUFXNmlfRGtrSDgyXzdKRXYwQXhUc0ZTSGtuV0g3RU55TTN0YkplbkxCQm56SENuc0ZVM2FiMUxFdGc?oc=5",
           "published": "Sat, 29 Aug 2026 22:22:29 GMT",
@@ -157,6 +139,12 @@
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44VmNhNHl6YXc0R2hnZV9tWm9XSUV4bkcyRklsTTdsbjFvTXk5V3FlUGcxQ3Q1cDFYLXVkSkQtSGQwZ3ZwaWVzN2cyakE?oc=5",
           "published": "Sat, 29 Aug 2026 21:37:33 GMT",
           "summary": "Samsung: Coverage&nbsp;&nbsp;UC Today"
+        },
+        {
+          "title": "Akixi: Coverage - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VYmVVLXBvR2lJSHNjWmlwVlNxMWRkN01CTHdoQUctWllOZXlsbDVWeE1PemoxWFZGWEk0aWZvb0NXQk1EOUZNUjBFeHRCekpNenIxSUwwa1d1aXJWM2c?oc=5",
+          "published": "Sat, 29 Aug 2026 19:36:28 GMT",
+          "summary": "Akixi: Coverage&nbsp;&nbsp;UC Today"
         },
         {
           "title": "Mobility: News & Analysis - UC Today",
@@ -181,6 +169,12 @@
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZaWFvbzJmTnJIZmRzUk5LQUNkZGJKSS1WRlNXejF5OHhhSDZHbk1rWWVLWlIzenRCdUFJc1RLdWdLUno1a0hEVm14UQ?oc=5",
           "published": "Sat, 29 Aug 2026 12:45:23 GMT",
           "summary": "Yamaha: Coverage&nbsp;&nbsp;UC Today"
+        },
+        {
+          "title": "RingCentral: Coverage - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90MW1YcnZxYk83cFN2emhlWDl5c3F4VFhkRnZmTERNNkJROHlpSzRNVVBfRkw3a1BKaVEyYkJKTkd3QUdyS2stRVpUdExva1VuN3c?oc=5",
+          "published": "Sat, 29 Aug 2026 11:14:27 GMT",
+          "summary": "RingCentral: Coverage&nbsp;&nbsp;UC Today"
         },
         {
           "title": "Alcatel-Lucent Enterprise: Coverage - UC Today",
@@ -223,36 +217,6 @@
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZTEZuWWJaNjRhd1RUeGpOUE4tdFZxR0x4MFJmSW9CNURfOFEtTG1yR1p6YUtxWThydU1XazY1MXR3SFRrR29STk85Y1c1cXIt?oc=5",
           "published": "Fri, 28 Aug 2026 21:09:15 GMT",
           "summary": "Editorial standards&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Gamma: Coverage - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41eER4OVpDXzZlQWVuektsSDRPSmNwVlN3eXFCR0ZsM0l3UVZ3WVNSQ004Qk4tNDBmeVJ3am1GOFQtcDVxajdmdDdR?oc=5",
-          "published": "Fri, 28 Aug 2026 20:59:26 GMT",
-          "summary": "Gamma: Coverage&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Fusion Connect: Coverage - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdHZOTjZINnlfS2x6MlJvWGM3UXZ4VWZWWUN2SFF5U0lzSUtrY2tfLUZOWE9jVnBJT0ZGaUNSZ2VhSFFNWHVqNkpnWFRHeWxwdDNSQzdR?oc=5",
-          "published": "Fri, 28 Aug 2026 15:28:55 GMT",
-          "summary": "Fusion Connect: Coverage&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Toku: Coverage - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIM1lCSUhxQnBkS0FoR3lDX2tFM09FSUQyX3djMlNTdldiUllUNTFOQzIzYl9HNUM2bVRwX000YWs4dmJqLU94S3AybnRva2M0LUcweVR3?oc=5",
-          "published": "Fri, 28 Aug 2026 14:45:15 GMT",
-          "summary": "Toku: Coverage&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "How we label paid work - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wSHVoZXJ2YWZGc3VieUFSNGhWc3dCQkFORVdQb1FxLXpWTVdKcDExZ3RjYVczaEtrb1RCaUhidVhRbVZCUlJRNGlaV1ZFZ0gwT3doVA?oc=5",
-          "published": "Fri, 28 Aug 2026 14:42:39 GMT",
-          "summary": "How we label paid work&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Plivo: Coverage - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wcUZxYzY5SE9QZm83cWthQXV6d0pNX002aWRVVnY3MDM5OU5YZVZCdFFkYXY3QzQ5clkyVzlJWUpVaXdXTDR4a0J3?oc=5",
-          "published": "Fri, 28 Aug 2026 12:09:43 GMT",
-          "summary": "Plivo: Coverage&nbsp;&nbsp;UC Today"
         }
       ]
     },
@@ -266,74 +230,7 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "The Last Human Advantage Series: Judgment",
-          "link": "https://telecomreseller.com/2026/08/28/the-last-human-advantage-series-judgment/",
-          "published": "Fri, 28 Aug 2026 19:19:28 +0000",
-          "summary": "By Phil Moen, President and CEO of Unimax Why smart leaders still matter when machines can answer almost anything There is a moment every leader recognizes. The reports are in. [...]\nThe post The Last Human Advantage Series: Judgment appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Lumen’s Alkira Acquisition Pushes Partners Into AI Networking",
-          "link": "https://telecomreseller.com/2026/08/28/lumens-alkira-acquisition/",
-          "published": "Fri, 28 Aug 2026 16:53:10 +0000",
-          "summary": "By: Moshe Beauford, Editor Lumen completed the acquisition of Alkira, bringing the company&#8217;s cloud networking technology into Lumen&#8217;s portfolio and making it part of the broader Lumen Connect offering. The [...]\nThe post Lumen’s Alkira Acquisition Pushes Partners Into AI Networking appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "NiCE Pushes TSD Partners Toward Strategic Role in AI-CX",
-          "link": "https://telecomreseller.com/2026/08/28/nice-tsd-partners/",
-          "published": "Fri, 28 Aug 2026 16:02:36 +0000",
-          "summary": "By: Moshe Beauford, Editor  NiCE is putting more emphasis on the strategic value of its technology service distributor (TSD) partners as enterprise customers move deeper into AI-powered customer experience. Michael [...]\nThe post NiCE Pushes TSD Partners Toward Strategic Role in AI-CX appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Talkdesk: CX AI Adoption Has Outpaced Enterprise Readiness",
-          "link": "https://telecomreseller.com/2026/08/28/enterprise-ai-readiness/",
-          "published": "Fri, 28 Aug 2026 15:27:19 +0000",
-          "summary": "By: Moshe Beauford, Editor  New research from Talkdesk found that 98% of organizations have deployed AI somewhere in the customer journey, but only 15% combine agentic AI with cross-departmental orchestration. [...]\nThe post Talkdesk: CX AI Adoption Has Outpaced Enterprise Readiness appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "T-2 Becomes the First Certified Yeastar SIP Trunk Provider in Slovenia",
-          "link": "https://telecomreseller.com/2026/08/28/t-2-becomes-the-first-certified-yeastar-sip-trunk-provider-in-slovenia/",
-          "published": "Fri, 28 Aug 2026 15:05:46 +0000",
-          "summary": "T-2 joins the Yeastar ecosystem, offering certified SIP trunk connectivity and expert support for businesses using Yeastar IP-PBX systems. LJUBLJANA, SLOVENIA / XIAMEN, CHINA &#8211; August 24, 2026 &#8211; T-2 has [...]\nThe post T-2 Becomes the First Certified Yeastar SIP Trunk Provider in Slovenia appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cisco Expands Secure AI Factory with NVIDIA for the Rack-Scale Era",
-          "link": "https://telecomreseller.com/2026/08/28/cisco-expands-secure-ai-factory-with-nvidia-for-the-rack-scale-era/",
-          "published": "Fri, 28 Aug 2026 14:56:33 +0000",
-          "summary": "Cisco’s full-stack architecture adds massive AI computing power, offering an NVIDIA Cloud Partner compliant reference architecture built for surging neocloud and sovereign cloud demand. News Summary Cisco, partnering with Supermicro, [...]\nThe post Cisco Expands Secure AI Factory with NVIDIA for the Rack-Scale Era appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cisco Launches Sovereign Critical Infrastructure in Canada – Government and Organizations Gain More Choice and Control",
-          "link": "https://telecomreseller.com/2026/08/28/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control/",
-          "published": "Fri, 28 Aug 2026 14:49:52 +0000",
-          "summary": "News Summary Cisco’s Sovereign Critical Infrastructure is configurable for on-premises and air-gapped deployment, where required, giving Canadian organizations what they need to build and operate their own sovereign infrastructure. Government, [...]\nThe post Cisco Launches Sovereign Critical Infrastructure in Canada – Government and Organizations Gain More Choice and Control appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Intermedia Expands the Teams Voice Opportunity for MSPs, Podcast",
-          "link": "https://telecomreseller.com/2026/08/28/intermedia-expands-the-teams-voice-opportunity-for-msps-podcast/",
-          "published": "Fri, 28 Aug 2026 14:00:20 +0000",
-          "summary": "“We work for you—the partner.” In this Technology Reseller News podcast, Mark Sher, Senior Vice President of Product Marketing at Intermedia, discusses how the company’s embedded Microsoft Teams solution can [...]\nThe post Intermedia Expands the Teams Voice Opportunity for MSPs, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Leaseweb: The Future of Cloud Is About Choice, Not Migration, Podcast",
-          "link": "https://telecomreseller.com/2026/08/28/leaseweb-the-future-of-cloud-is-about-choice-not-migration-podcast/",
-          "published": "Fri, 28 Aug 2026 13:00:54 +0000",
-          "summary": "“Hybrid used to be a transition strategy. It shouldn’t be anymore. It should be the strategy.” In this Technology Reseller News podcast, Tim Mandell of Leaseweb continues an ongoing discussion [...]\nThe post Leaseweb: The Future of Cloud Is About Choice, Not Migration, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Trustworthy AI For High Stakes Decisions",
-          "link": "https://telecomreseller.com/2026/08/28/trustworthy-ai-for-high-stakes-decisions/",
-          "published": "Fri, 28 Aug 2026 12:30:47 +0000",
-          "summary": "@Evan Kirstel, Special to Technology Reseller News Interested in being a guest? Email us at admin@evankirstel.com Read more from Evan AI is making decisions that shape real lives, yet most people cannot [...]\nThe post Trustworthy AI For High Stakes Decisions appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "The Engineer Shortage and the AI Bill",
-          "link": "https://telecomreseller.com/2026/08/28/the-engineer-shortage-and-the-ai-bill/",
-          "published": "Fri, 28 Aug 2026 12:00:35 +0000",
-          "summary": "I&#8217;ve been in telecom for over thirty years. My first real job was at Glenayre in the early &#8217;90s, building paging infrastructure alongside Motorola and a then-obscure Canadian outfit called [...]\nThe post The Engineer Shortage and the AI Bill appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
@@ -367,18 +264,24 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmdHa3puc2dxSWpOMm9Va0FoaHZ2di1nMmMzNFdIWnVFZXNUcnZvMmJjVFNTa29KS2c5Snh4SkQ4UDRUMEdCbXBNUy05TmdEcUtqeGVEbUk0ZGZ0bjdLUjRMS3hyM0U0UExSSDBMR2o4TmJTTFQ4dzVlN1AxeWFEQVdBcTk5WFhjZUFxaGhTa2lpcDNOTUlYRHVVd0N4dFFOYjVZQ1U0VGdSQTM2QjhVenBNSndmWWM?oc=5",
           "published": "Fri, 28 Aug 2026 19:49:33 GMT",
           "summary": "Ulta combines promotions and experiences to win over cautious customers&nbsp;&nbsp;Customer Experience Dive"
-        },
-        {
-          "title": "Understanding why surveillance pricing is a CX issue - Customer Experience Dive",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmhfR3dpZXZtNUZubE5fdGFKY2xZaWZRZkpqN05WN3B3WnJrVEthb0JiV1h3bUcyTUV3SjZsSHpKQnJlNVNPeF9VQVdSWDkwRVdWQ0phTDRQODcwWFNjSktKM3VweVR5SkltYnpJMkNKZVFITENEanlPd2g5YmlRNlJTeXYyTkU4Ry1rdXprelRQMjZsWnpDc3B6d3J6MkZkUUlaVVZDYw?oc=5",
-          "published": "Fri, 28 Aug 2026 13:35:24 GMT",
-          "summary": "Understanding why surveillance pricing is a CX issue&nbsp;&nbsp;Customer Experience Dive"
         }
       ]
     },
     {
       "name": "\"CRM\" - Google News",
       "items": [
+        {
+          "title": "Your HubSpot Integration Is Not Finished at Launch: A Five-Contract Model for Containing CRM Drift - HackerNoon",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWVvWmpMSVYwVXlTY1dPVDBQY1g4eXNZZEdTX3RRam9VT29QSkRfdjl1MjZjandyRUR1eTFQUURjNmtHdUtZeS0xd1RIc3JCSzVTLWtVMzh0RTdPMjFZSGJDWm54VmRwOEhQZWRUSmZEcExad3RVTlZKQjVYZFRJZ2d3eDlTUE5FdS1wUmRaNURuS2NGaVc2U3BHVURmNU5uOFpJMkNLVWg2dUhya0hybEdOTkQ3LTY5dDdkXw?oc=5",
+          "published": "Sun, 30 Aug 2026 16:35:41 GMT",
+          "summary": "Your HubSpot Integration Is Not Finished at Launch: A Five-Contract Model for Containing CRM Drift&nbsp;&nbsp;HackerNoon"
+        },
+        {
+          "title": "GTS Securities LLC Increases Holdings in Salesforce Inc. $CRM - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWRuQmZ4bEhYNGhxZGgtV2JYOXhzQ0tZQmNDQWpBd0taaHdwS2l1TEw4NXUzeGoyZjQxUEpsNVFxOWlWTXJ4Y3NkM254S3FBMkFmbTRvR0VIblhjc2xsWURwcVJraXlScExpQXo1bk0zMTFFeVBfaThPM0N5b0llYWx1VnpiRGx0bkpFWW9STEh5ekJsMU8yemQyNHN5QlVLd2U1MkVRaEdQVVg0cHhhNE90eDB2M1lhNm5DWg?oc=5",
+          "published": "Sun, 30 Aug 2026 11:03:36 GMT",
+          "summary": "GTS Securities LLC Increases Holdings in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
+        },
         {
           "title": "Nissay Asset Management Corp Japan Cuts Stock Position in Salesforce Inc. $CRM - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakRXa3VxM0NHRnF0Tm43UnRFSEw4NXg2UzUzbld4cHNWU3RvVnhFMl9WajF5WWtubnVoZk9YdHhqZEY4WFdHY1JiZXptN0YxYUwyejVxUkFkREgyckFBMzZuNHpkcTI1OTlUSEJjNVVZbzc4bVZXYnhIQ29zMEtJNXFXWGdQUWY1allSaDVXcE5JSTl4ZlBENzVlanlRYzAzYkM2TEJHdmVxaDhvTFY5QnBDS25ycU9RLU1XM01ZUkxHVjhCLVJjTVcwLTlxb2R3Ukdj?oc=5",
@@ -434,10 +337,10 @@
           "summary": "Alyeska Investment Group L.P. Purchases New Position in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
         },
         {
-          "title": "Salesforce Shares Lift 1.6% on 2.3x Volume as AI Surge Tests Analyst Price Targets - TechStock²",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUUyR3Q5OE5WcWQ4dXlCMl9FRHYzSVkyLXNNQ0VPbm03TFVESmJ3NzNJY3V1Tnc1eVNOMUxoM3d4c0daX05iRkduYTkwczlDMk82MXYzNVRBanFUY3hZc1g2OUx2ejhBclFuOGRCQUNCQ28xN1ZwX3NsaG9BWEk0STlndUM0azdQbVM1cXlTU2oxRWNNUmFIM2NmQQ?oc=5",
-          "published": "Sun, 30 Aug 2026 04:18:00 GMT",
-          "summary": "Salesforce Shares Lift 1.6% on 2.3x Volume as AI Surge Tests Analyst Price Targets&nbsp;&nbsp;TechStock²"
+          "title": "Nasdaq, S&P 500, Dow Futures Climb As Nvidia Outlook Boosts Markets: WEN, CRWD, CRM Stocks Also In Focus - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTGMwX0k0b2R5bkU2WmNFa20zM1Q3T0JabElaeUltcm5xb3ZaV0l5bXI5X0lLc25mMF9VLS1zdnFxWkJQTmRVbzN2YjlVdlAxalVNc05ZMGpPWjhrUm1seFkyeHdhMGNUeGtsd0NINTA3NHR6ZDZkaVFPWUhhU1N3eXF2MjdhNWItOGotVW9uMXpCNEZGLXJKam9idW5Pdl9JTUtUemRiVGVwYjNISFRrYnJxTWdNaldBYVk2VGhuc1FJQ3h6UERmbGdINnFtTTV5U0tGcW9QbnhVZUhLdWh4VlBmSEtoVXRfZm1OdHlhdy1Lal9LTC1VX3I4WQ?oc=5",
+          "published": "Sun, 30 Aug 2026 06:10:15 GMT",
+          "summary": "Nasdaq, S&amp;P 500, Dow Futures Climb As Nvidia Outlook Boosts Markets: WEN, CRWD, CRM Stocks Also In Focus&nbsp;&nbsp;Stocktwits"
         },
         {
           "title": "How Saleoid Turned Years of Software Experience Into an AI CRM for Small Businesses - EIN Presswire",
@@ -560,12 +463,6 @@
           "summary": "Salesforce (CRM) Stock Soars on Q2 Earnings: Is It Too Late to Buy?&nbsp;&nbsp;Yahoo Finance"
         },
         {
-          "title": "Nasdaq, S&P 500, Dow Futures Climb As Nvidia Outlook Boosts Markets: WEN, CRWD, CRM Stocks Also In Focus - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTGMwX0k0b2R5bkU2WmNFa20zM1Q3T0JabElaeUltcm5xb3ZaV0l5bXI5X0lLc25mMF9VLS1zdnFxWkJQTmRVbzN2YjlVdlAxalVNc05ZMGpPWjhrUm1seFkyeHdhMGNUeGtsd0NINTA3NHR6ZDZkaVFPWUhhU1N3eXF2MjdhNWItOGotVW9uMXpCNEZGLXJKam9idW5Pdl9JTUtUemRiVGVwYjNISFRrYnJxTWdNaldBYVk2VGhuc1FJQ3h6UERmbGdINnFtTTV5U0tGcW9QbnhVZUhLdWh4VlBmSEtoVXRfZm1OdHlhdy1Lal9LTC1VX3I4WQ?oc=5",
-          "published": "Fri, 28 Aug 2026 18:55:37 GMT",
-          "summary": "Nasdaq, S&amp;P 500, Dow Futures Climb As Nvidia Outlook Boosts Markets: WEN, CRWD, CRM Stocks Also In Focus&nbsp;&nbsp;Stocktwits"
-        },
-        {
           "title": "Why Salesforce's Alliance With Anthropic Changes Everything (NYSE:CRM) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTM3Q3AyMnN1SVAyYkVrYTdEN0hMdmI2Y0h4d2R0QXBMWmlvQk43U2tpNkw3amRRSGowbVNhbWlLVzh2X0I0Qkk5bmNXcGIzMmlKR25jd3piaWlKNE1hckt0dDhjZTZFNjhYajQ5NnB6X3J6aWVDemNfdjB1UWNEaldkNzZiRXE2R0RQM1dpQlhoM1Y0ZnBaRnBMNndxR24x?oc=5",
           "published": "Fri, 28 Aug 2026 18:41:50 GMT",
@@ -576,36 +473,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUldHUEl0ekpxckZVaHVpR1M2bjgzSUxOeWJDbWJDOXJpaWpYcjJ2YjY1ZWJwM0NLLWZiaTYyN0xmdjRRTk1lb3NzX25zMWlabkVoOWJhTEl3WU0wLTAyakgwM1RkalZtNl9IamJzbGE5YnhPQWhxdk1xLU05WUxCM2J5VTdkNGNPMEkyb1dkbkk3d1VpWU9wdy1UQUZENVRUNk9QbjR2UQ?oc=5",
           "published": "Fri, 28 Aug 2026 18:32:03 GMT",
           "summary": "Salesforce (CRM) Stock Soars on Q2 Earnings: Is It Too Late to Buy?&nbsp;&nbsp;Zacks Investment Research"
-        },
-        {
-          "title": "WealthStack Roundup: Practifi Pivots to AI-Driven CRM Sentir - Wealth Management",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1NkaGNfdDlTS2ZORG5ydlktN1E1QUQ5TlFtdTUtOHFSYmRuWDdVaWI4TkJtNTl2a1VYRDd3NzNqODhOUFJhRHFRODEyM3BmckpNTUNiVmM5WG0tdFVkRW42Vk9kTjkyNTlPdmxPLU1uekVidUwxOTctbnNKNVFyLU9NaGxVV0wyVll0aG5XcDJJTlRPTGVxM2s5S01zTXpoelFpVFFEUng2VW0zVzV6OXl2YnhHUWoxMDVn?oc=5",
-          "published": "Fri, 28 Aug 2026 15:07:18 GMT",
-          "summary": "WealthStack Roundup: Practifi Pivots to AI-Driven CRM Sentir&nbsp;&nbsp;Wealth Management"
-        },
-        {
-          "title": "Salesforce’s Claudeforce plug-in makes AI agent rollouts look like a CRM upgrade - MarketScale",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZW04R3kwREhrUGpGdElOOTYxZzNKdGl0OVB2OThSaUhGU2RWd0xZZ3UySDcta01PVl9wYkxBT0ZER1lFMnRfUHZ2bE5ZZDFUMFk3U2pGdXNQUTBkOWdTR2pIUTBadzJwZXVla1otRDZuUDJ0c1B3UGVNR1h6eVU4bXZiTFhUUVhBTVl6eGdWQ1JneWJpZkRjcm5hZWV5OGI0bXZlU2pRYmE2cHpsb0VCMWpPbjN2ajJVbWZCQlotX0MxU1RuN0hxeG44a29LUGM5REdsbWh5dEtrUQ?oc=5",
-          "published": "Fri, 28 Aug 2026 14:12:36 GMT",
-          "summary": "Salesforce’s Claudeforce plug-in makes AI agent rollouts look like a CRM upgrade&nbsp;&nbsp;MarketScale"
-        },
-        {
-          "title": "Canadian Ukrainian Credit Union Builds an Agentic CRM Foundation to Fuel Membership Growth - The National Law Review",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0RXWFlqVUNsTmRKWkUxQ3BPYVJSRDQ5VnR5STFaR2RjUjgyY1JWcE9aa1VMc2hGWXFVeTdUdjhIZ1pUVnNUWmtwcVdHQVR5bWxHUGxhQlFJY0lzQTJYN29uR2l1SmpqdnFhX2prck0tSGFHWDhCQXQxSkdZaGtDTWVUQ3RKQ21ZY2hSVjAtV0xyT2dGUEY2cGhfUXl4TTgtaGctRFBfZVl0Zw?oc=5",
-          "published": "Fri, 28 Aug 2026 14:11:50 GMT",
-          "summary": "Canadian Ukrainian Credit Union Builds an Agentic CRM Foundation to Fuel Membership Growth&nbsp;&nbsp;The National Law Review"
-        },
-        {
-          "title": "Veeva: Operating Income Jumps 40% As Vault CRM And AI Adoption Accelerate - Pulse 2.0",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONjhOTlprU05hT3pSQXktd2NmaVFWd3FNcU0wc0JxN3Y4d3NOQTRlaTQxMi1wcndrNl96MGMzWERGMmo3UjVfNDlaRWZPNHVsMWVXcGZKRlNoNElrNTYwUlN1d2ZjeVlCZW5OcVVkTU9kQlBiM0hNaEtYMzRZdmNfWW95LVJlMWhCSzJQM19pV1A2ejhLc2fSAZsBQVVfeXFMTUF3TkZYMVJMRGx4akw5TUpndEVTdzVFekJ4SWRjVnNqRkVFR1kyWVRtQXY1akVMTVRxcXZXTU9GV2dZaEJwOGVEQ0FROFg1NXFJWVVIUzR0dXFyU3Y2Q3dPSXN4Y210TlFMc2NGUzduX3JtMmMtWG5QTXBjMTlXcVo3OTBBUVlzQV9hTGdMVG5FdDNpV2t4RktCUjg?oc=5",
-          "published": "Fri, 28 Aug 2026 11:46:40 GMT",
-          "summary": "Veeva: Operating Income Jumps 40% As Vault CRM And AI Adoption Accelerate&nbsp;&nbsp;Pulse 2.0"
-        },
-        {
-          "title": "Salesforce (NYSE:CRM) Rating Increased to Strong-Buy at Wolfe Research - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUG9ReGNNTFRxamNCUTUwTHBEdXFQb1oySzJDekk3RE1tZmtZT3hGZUZPam53QkhfdjYzQ1RpZEg2djhRbl9pU1NhNW8tY1BGUVlkYWJIUHpFd3pnbHhONkgxLU9WX2dYTkFuWnF1M3pId25CUm1sQUhBZTFZTEU5WkhRQjJFSWdXcUZJd0g4OVZxOUQyeWROLW81ZFJnWGt5YlNNaTBZYWp4R0M1Q19EUFBzYnR3bFprUFE4cmN4b1dNU0t5TThBMzJR?oc=5",
-          "published": "Fri, 28 Aug 2026 11:33:43 GMT",
-          "summary": "Salesforce (NYSE:CRM) Rating Increased to Strong-Buy at Wolfe Research&nbsp;&nbsp;MarketBeat"
         }
       ]
     },
@@ -625,6 +492,12 @@
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
       "items": [
         {
+          "title": "Speaker - ChannelPro Network Events",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kX0lLMms5dW4ybkd0MUJNZmxHaTE0U0doSkNXLVpOdFA1MnpLcTQ5TFp0X0xOQk1wZS1JQU01NEhfUjMtVVQ4RWxuLTBTcllwTXhnMDh1cUNwdF9rdHdtTHcteWVIY051Q0VWdVFDWlRMTXBlNUlhNFdLNA?oc=5",
+          "published": "Sun, 30 Aug 2026 09:27:23 GMT",
+          "summary": "Speaker&nbsp;&nbsp;ChannelPro Network Events"
+        },
+        {
           "title": "Key headlines: TD SYNNEX expands PartnerFirst and more - The ChannelPro Network",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWmR1LUpwNmpvdWphTXN5dTBUYVdwazg5bWtTd2xBMFVUa1UyMTNHYXhwTEdWaTZYZ0Jmc09sRTRURXh2bkRaMVVZUFhmdXVWWEtkNTZndTBDQ1Z0bV8ta2VVSUc5eGVIeWlrTzRybDQwQzlCem8tLTRkanhxc01yR1RobWw3eDhLOVFsTHA2NFpNU3U3YXlmUDFuNjE3ZmNGV2JCWnlRUVpZN0hIZzFHZE9STmpXelhsSzZHS1B6dkxlalNNTHdMTGZhVFRKck1aS25BTnFFbzZWWkFIQWNuQUdObzNTbUx2akpmcVdZWGFTWUlqcWRHVy13?oc=5",
           "published": "Fri, 28 Aug 2026 21:30:19 GMT",
@@ -641,6 +514,12 @@
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "Tieto’s €5M Buyback: Confidence Signal in a Growing SLE Market",
+          "link": "https://futurumgroup.com/insights/tietos-5m-buyback-confidence-signal-in-a-growing-sle-market/?utm_source=rss&utm_medium=rss&utm_campaign=tietos-5m-buyback-confidence-signal-in-a-growing-sle-market",
+          "published": "Sun, 30 Aug 2026 12:04:48 +0000",
+          "summary": "The post Tieto&#8217;s €5M Buyback: Confidence Signal in a Growing SLE Market appeared first on Futurum.\nTieto Corporation's €5M share repurchase signals management confidence as the Software Lifecycle Engineering market surges 15.4% annually through 2028, reflecting strong enterprise demand fundamentals.\nThe post Tieto&#8217;s €5M Buyback: Confidence Signal in a Growing SLE Market appeared first on Futurum."
+        },
         {
           "title": "vLLM Becomes Production Infrastructure at PyTorch Conference 2026",
           "link": "https://futurumgroup.com/insights/vllm-becomes-production-infrastructure-at-pytorch-conference-2026/?utm_source=rss&utm_medium=rss&utm_campaign=vllm-becomes-production-infrastructure-at-pytorch-conference-2026",
@@ -664,108 +543,6 @@
           "link": "https://futurumgroup.com/insights/calians-dual-capital-move-buybacks-meet-shelf-flexibility/?utm_source=rss&utm_medium=rss&utm_campaign=calians-dual-capital-move-buybacks-meet-shelf-flexibility",
           "published": "Sat, 29 Aug 2026 12:11:14 +0000",
           "summary": "The post Calian&#8217;s Dual Capital Move: Buybacks Meet Shelf Flexibility appeared first on Futurum.\nCalian Group filed a renewed bid to repurchase 994,301 shares and a shelf prospectus, demonstrating strategic capital management as the software lifecycle engineering market accelerates toward $344B by 2028.\nThe post Calian&#8217;s Dual Capital Move: Buybacks Meet Shelf Flexibility appeared first on Futurum."
-        },
-        {
-          "title": "Autonomy Over Analytics: The Read-Write Decree Rewiring Enterprise Data Platforms",
-          "link": "https://futurumgroup.com/insights/autonomy-over-analytics-the-read-write-decree-rewiring-enterprise-data-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=autonomy-over-analytics-the-read-write-decree-rewiring-enterprise-data-platforms",
-          "published": "Fri, 28 Aug 2026 16:22:48 +0000",
-          "summary": "The post Autonomy Over Analytics: The Read-Write Decree Rewiring Enterprise Data Platforms appeared first on Futurum.\nBrad Shimmin, VP &#038; Practice Lead at Futurum, reveals findings from the new Data Intelligence Platforms Signal report, highlighting how read-write AI agents and transactional execution realigned competitive market standings.\nThe post Autonomy Over Analytics: The Read-Write Decree Rewiring Enterprise Data Platforms appeared first on Futurum."
-        },
-        {
-          "title": "SiFive BigSky Ships the First RISC-V Server. Is the GPU Head Node the Prize?",
-          "link": "https://futurumgroup.com/insights/sifive-bigsky-ships-the-first-risc-v-server-is-the-gpu-head-node-the-prize/?utm_source=rss&utm_medium=rss&utm_campaign=sifive-bigsky-ships-the-first-risc-v-server-is-the-gpu-head-node-the-prize",
-          "published": "Fri, 28 Aug 2026 15:44:20 +0000",
-          "summary": "The post SiFive BigSky Ships the First RISC-V Server. Is the GPU Head Node the Prize? appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, shares his insights on SiFive's BigSky, the first enterprise-grade RISC-V server, and why CUDA head node duty for NVIDIA GPUs is the socket that matters.\nThe post SiFive BigSky Ships the First RISC-V Server. Is the GPU Head Node the Prize? appeared first on Futurum."
-        },
-        {
-          "title": "Nasuni Acquires DryvIQ to Bring AI-Ready Data Governance",
-          "link": "https://futurumgroup.com/insights/nasuni-acquires-dryviq-to-bring-ai-ready-data-governance/?utm_source=rss&utm_medium=rss&utm_campaign=nasuni-acquires-dryviq-to-bring-ai-ready-data-governance",
-          "published": "Fri, 28 Aug 2026 15:15:23 +0000",
-          "summary": "The post Nasuni Acquires DryvIQ to Bring AI-Ready Data Governance appeared first on Futurum.\nAlastair Cooke, analyst at Futurum, shares his insights on why Nasuni acquires DryvIQ and what the deal means for AI data governance and file platform consolidation.\nThe post Nasuni Acquires DryvIQ to Bring AI-Ready Data Governance appeared first on Futurum."
-        },
-        {
-          "title": "Okta Q2 FY 2027 Earnings Beat and Raise on Core Identity Strength",
-          "link": "https://futurumgroup.com/insights/okta-q2-fy-2027-earnings-beat-and-raise-on-core-identity-strength/?utm_source=rss&utm_medium=rss&utm_campaign=okta-q2-fy-2027-earnings-beat-and-raise-on-core-identity-strength",
-          "published": "Fri, 28 Aug 2026 15:00:12 +0000",
-          "summary": "The post Okta Q2 FY 2027 Earnings Beat and Raise on Core Identity Strength appeared first on Futurum.\nMitch Ashley, VP and Practice Lead, CIO &#038; Technology Buyers at The Futurum Group, reviews Okta's Q2 FY 2027 earnings, where core identity strength and new products drove a beat and raise while agentic identity stayed an early, forward-looking driver.\nThe post Okta Q2 FY 2027 Earnings Beat and Raise on Core Identity Strength appeared first on Futurum."
-        },
-        {
-          "title": "NVIDIA Nears $12.9B Deal for Hugging Face, Escalating AI Ecosystem Strategy",
-          "link": "https://futurumgroup.com/insights/nvidia-nears-12-9b-deal-for-hugging-face-escalating-ai-ecosystem-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-nears-12-9b-deal-for-hugging-face-escalating-ai-ecosystem-strategy",
-          "published": "Fri, 28 Aug 2026 14:45:40 +0000",
-          "summary": "The post NVIDIA Nears $12.9B Deal for Hugging Face, Escalating AI Ecosystem Strategy appeared first on Futurum.\nNick Patience, VP &#038; Practice Lead of AI Platforms at Futurum, shares his insights on NVIDIA's reported $12.9 billion bid for Hugging Face and what it would mean for the future of open AI.\nThe post NVIDIA Nears $12.9B Deal for Hugging Face, Escalating AI Ecosystem Strategy appeared first on Futurum."
-        },
-        {
-          "title": "QumulusAI Q2 FY 2026: 118% Revenue Growth for Hyperspeed AI Compute Deployment",
-          "link": "https://futurumgroup.com/insights/qumulusai-q2-fy-2026-118-revenue-growth-for-hyperspeed-ai-compute-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=qumulusai-q2-fy-2026-118-revenue-growth-for-hyperspeed-ai-compute-deployment",
-          "published": "Fri, 28 Aug 2026 14:30:00 +0000",
-          "summary": "The post QumulusAI Q2 FY 2026: 118% Revenue Growth for Hyperspeed AI Compute Deployment appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, analyzes QumulusAI’s Q2 FY 2026 earnings, focusing on direct AI compute demand, GPU fleet expansion, and capacity execution.\nThe post QumulusAI Q2 FY 2026: 118% Revenue Growth for Hyperspeed AI Compute Deployment appeared first on Futurum."
-        },
-        {
-          "title": "In-Process Analytics Goes Hyperscale: Inside the AWS DuckLabs Acqui-Hire",
-          "link": "https://futurumgroup.com/insights/in-process-analytics-goes-hyperscale-inside-the-aws-ducklabs-acqui-hire/?utm_source=rss&utm_medium=rss&utm_campaign=in-process-analytics-goes-hyperscale-inside-the-aws-ducklabs-acqui-hire",
-          "published": "Fri, 28 Aug 2026 14:15:38 +0000",
-          "summary": "The post In-Process Analytics Goes Hyperscale: Inside the AWS DuckLabs Acqui-Hire appeared first on Futurum.\nAWS acquires DuckLabs to embed DuckDB’s in-process OLAP engine natively into Amazon S3 storage, challenging data warehouse economics while keeping open-source governance independent.\nThe post In-Process Analytics Goes Hyperscale: Inside the AWS DuckLabs Acqui-Hire appeared first on Futurum."
-        },
-        {
-          "title": "NXP Tech Days: Can Physical AI Reference Designs Solidify the Neural Axis?",
-          "link": "https://futurumgroup.com/insights/nxp-tech-days-can-physical-ai-reference-designs-solidify-the-neural-axis/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-tech-days-can-physical-ai-reference-designs-solidify-the-neural-axis",
-          "published": "Fri, 28 Aug 2026 14:00:35 +0000",
-          "summary": "The post NXP Tech Days: Can Physical AI Reference Designs Solidify the Neural Axis? appeared first on Futurum.\nBrendan Burke and Olivier Blanchard, Research Directors at Futurum, share their insights from NXP Tech Days Silicon Valley, where reference designs from humanoid hands to a four-board MCX A5 networking demo gave NXP's neural axis architecture production weight.\nThe post NXP Tech Days: Can Physical AI Reference Designs Solidify the Neural Axis? appeared first on Futurum."
-        },
-        {
-          "title": "MTG-I2 Launch Reveals Thales’s Critical Infrastructure Security Depth",
-          "link": "https://futurumgroup.com/insights/mtg-i2-launch-reveals-thaless-critical-infrastructure-security-depth/?utm_source=rss&utm_medium=rss&utm_campaign=mtg-i2-launch-reveals-thaless-critical-infrastructure-security-depth",
-          "published": "Fri, 28 Aug 2026 12:21:07 +0000",
-          "summary": "The post MTG-I2 Launch Reveals Thales&#8217;s Critical Infrastructure Security Depth appeared first on Futurum.\nThales Alenia Space's MTG-I2 satellite completes the Meteosat Third Generation constellation, positioning Thales as a critical infrastructure security provider for European meteorological data in the expanding cybersecurity market.\nThe post MTG-I2 Launch Reveals Thales&#8217;s Critical Infrastructure Security Depth appeared first on Futurum."
-        },
-        {
-          "title": "Conduent’s Tenth NEAT Leader Win: Is AI the New Moat?",
-          "link": "https://futurumgroup.com/insights/conduents-tenth-neat-leader-win-is-ai-the-new-moat/?utm_source=rss&utm_medium=rss&utm_campaign=conduents-tenth-neat-leader-win-is-ai-the-new-moat",
-          "published": "Fri, 28 Aug 2026 12:20:51 +0000",
-          "summary": "The post Conduent&#8217;s Tenth NEAT Leader Win: Is AI the New Moat? appeared first on Futurum.\nConduent has earned its tenth consecutive NelsonHall NEAT Leader designation in HR Transformation Services, marking a significant milestone that validates the company's AI-first strategy centered on its Conni GenAI virtual assistant.\nThe post Conduent&#8217;s Tenth NEAT Leader Win: Is AI the New Moat? appeared first on Futurum."
-        },
-        {
-          "title": "SCSK Embeds Generative AI Into Workforce DNA",
-          "link": "https://futurumgroup.com/insights/scsk-embeds-generative-ai-into-workforce-dna/?utm_source=rss&utm_medium=rss&utm_campaign=scsk-embeds-generative-ai-into-workforce-dna",
-          "published": "Fri, 28 Aug 2026 12:20:38 +0000",
-          "summary": "The post SCSK Embeds Generative AI Into Workforce DNA appeared first on Futurum.\nSCSK launched an AI-powered Digital Skill Assessment System evaluating 40 competencies across all employees, reflecting industry momentum as 86.7% of AI consulting sellers expect AI-driven growth in 2026.\nThe post SCSK Embeds Generative AI Into Workforce DNA appeared first on Futurum."
-        },
-        {
-          "title": "Tech Mahindra and Uniphore Build an Agentic AI Factory",
-          "link": "https://futurumgroup.com/insights/tech-mahindra-and-uniphore-build-an-agentic-ai-factory/?utm_source=rss&utm_medium=rss&utm_campaign=tech-mahindra-and-uniphore-build-an-agentic-ai-factory",
-          "published": "Fri, 28 Aug 2026 12:20:01 +0000",
-          "summary": "The post Tech Mahindra and Uniphore Build an Agentic AI Factory appeared first on Futurum.\nTech Mahindra and Uniphore partnered to create an Agentic AI Factory, combining Uniphore's Business AI Cloud with Tech Mahindra's global reach across 90 countries to serve BFSI and Retail enterprises.\nThe post Tech Mahindra and Uniphore Build an Agentic AI Factory appeared first on Futurum."
-        },
-        {
-          "title": "FPT IS Puts Its AI Platform on the Mekong Map",
-          "link": "https://futurumgroup.com/insights/fpt-is-puts-its-ai-platform-on-the-mekong-map/?utm_source=rss&utm_medium=rss&utm_campaign=fpt-is-puts-its-ai-platform-on-the-mekong-map",
-          "published": "Fri, 28 Aug 2026 12:19:53 +0000",
-          "summary": "The post FPT IS Puts Its AI Platform on the Mekong Map appeared first on Futurum.\nFPT IS demonstrates its Akabot AI ecosystem to Lao PDR's Deputy Prime Minister, signaling growing credibility as a regional platform partner for public-sector digital modernization across Southeast Asia.\nThe post FPT IS Puts Its AI Platform on the Mekong Map appeared first on Futurum."
-        },
-        {
-          "title": "PyTorch Grows Up: Open-Source AI Tooling Targets Enterprise Production",
-          "link": "https://futurumgroup.com/insights/pytorch-grows-up-open-source-ai-tooling-targets-enterprise-production/?utm_source=rss&utm_medium=rss&utm_campaign=pytorch-grows-up-open-source-ai-tooling-targets-enterprise-production",
-          "published": "Fri, 28 Aug 2026 12:18:22 +0000",
-          "summary": "The post PyTorch Grows Up: Open-Source AI Tooling Targets Enterprise Production appeared first on Futurum.\nPyTorch Conference North America 2026 showcases the framework's evolution into production-grade infrastructure, addressing enterprise deployment gaps as the AI platforms market reaches $181.3B.\nThe post PyTorch Grows Up: Open-Source AI Tooling Targets Enterprise Production appeared first on Futurum."
-        },
-        {
-          "title": "ScyllaDB’s Rust Driver Delivers 58% Throughput Gain for DynamoDB Users",
-          "link": "https://futurumgroup.com/insights/scylladbs-rust-driver-delivers-58-throughput-gain-for-dynamodb-users/?utm_source=rss&utm_medium=rss&utm_campaign=scylladbs-rust-driver-delivers-58-throughput-gain-for-dynamodb-users",
-          "published": "Fri, 28 Aug 2026 12:18:03 +0000",
-          "summary": "The post ScyllaDB&#8217;s Rust Driver Delivers 58% Throughput Gain for DynamoDB Users appeared first on Futurum.\nScyllaDB released an open-source Rust driver for its DynamoDB-compatible Alternator API, achieving 58% higher throughput than AWS SDK on 3-node clusters. The driver maintains full API compatibility while enabling cluster-aware load balancing.\nThe post ScyllaDB&#8217;s Rust Driver Delivers 58% Throughput Gain for DynamoDB Users appeared first on Futurum."
-        },
-        {
-          "title": "Summit 7’s CRN #57 Ranking Signals DIB Cybersecurity Demand",
-          "link": "https://futurumgroup.com/insights/summit-7s-crn-57-ranking-signals-dib-cybersecurity-demand/?utm_source=rss&utm_medium=rss&utm_campaign=summit-7s-crn-57-ranking-signals-dib-cybersecurity-demand",
-          "published": "Fri, 28 Aug 2026 12:17:09 +0000",
-          "summary": "The post Summit 7&#8217;s CRN #57 Ranking Signals DIB Cybersecurity Demand appeared first on Futurum.\nSummit 7 earned CRN's #57 Fast Growth ranking as DIB cybersecurity demand accelerates. The Huntsville firm tripled headcount to 300+ employees while the global cybersecurity market heads toward $337.8B by 2029.\nThe post Summit 7&#8217;s CRN #57 Ranking Signals DIB Cybersecurity Demand appeared first on Futurum."
-        },
-        {
-          "title": "You.com Turns Real-Time Web Search Into a One-Line Agent Capability",
-          "link": "https://futurumgroup.com/insights/youcom-turns-real-time-web-search-into-a-one-line-agent-capability/?utm_source=rss&utm_medium=rss&utm_campaign=youcom-turns-real-time-web-search-into-a-one-line-agent-capability",
-          "published": "Fri, 28 Aug 2026 12:07:02 +0000",
-          "summary": "The post You.com Turns Real-Time Web Search Into a One-Line Agent Capability appeared first on Futurum.\nYou.com and Pydantic AI integrate real-time web search into AI agents, directly addressing hallucination—the top barrier to enterprise AI adoption cited by 55.4% of decision-makers.\nThe post You.com Turns Real-Time Web Search Into a One-Line Agent Capability appeared first on Futurum."
         }
       ]
     },
@@ -787,12 +564,6 @@
           "link": "https://www.constellationr.com/video/disruptv/how-ai-and-super-teams-are-redefining-customer-experience-and-work-disruptv-ep-450",
           "published": "Fri, 28 Aug 2026 19:10:11 +0000",
           "summary": "How AI and Super Teams Are Redefining Customer Experience and Work | DisrupTV Ep. 450\nElle DeRosa\nFri, 28 Aug 2026 - 12:10\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  R \"Ray\"\n   Wang\n\n                  Principal Analyst and Founder\n  Constellation Research\n\n            \n            \n                R “Ray” Wang is the CEO of Silicon Valley-based Constellation Research Inc. He co-hosts DisrupTV, a weekly enterprise tech and leadership webcast that "
-        },
-        {
-          "title": "Elastic's bets on context pay off as AI agents need to be more accurate, cost effective",
-          "link": "https://www.constellationr.com/insights/news/elastics-bets-context-pay-ai-agents-need-be-more-accurate-cost-effective",
-          "published": "Fri, 28 Aug 2026 11:45:40 +0000",
-          "summary": "Elastic's bets on context pay off as AI agents need to be more accurate, cost effective\nLarry Dignan\nFri, 28 Aug 2026 - 04:45\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterp"
         }
       ]
     },
