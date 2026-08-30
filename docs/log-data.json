@@ -1,6 +1,67 @@
 {
   "days": [
     {
+      "iso": "2026-08-30",
+      "label": "Sun 30 Aug 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce Q2 beats; Benioff rejects SaaSpocalypse narrative",
+          "sowhat": "Strong quarterly performance with AI uptake gives CIOs renewed confidence in SaaS resilience despite agent-driven disruption fears.",
+          "url": "https://www.cxtoday.com/contact-center/big-cx-news-from-salesforce-zoom-meta-and-google/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce launches Claudeforce with Anthropic for agentic CRM",
+          "sowhat": "Embedding Claude directly into CRM signals the shift from co-pilots to autonomous agents, fundamentally changing implementation risk profiles.",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQandTUzRwY1JsYUFFU1lzSWhkNG9HYTJWZS1kRng1azgzMU5jMU8xZkJGOGEtbVRKQUFOYmxiN290b1NlUThFYWhvUUg1WFR0dnBNNkQtc0h6SjBacHVXMDhfcGNkcjRQLXpzYW05alpzU29NQk9wMVp4QlIxcEdfYzNuc0xCMUJJbDh5M05hWDdqT0gzcnZZdDBPcU1IdnVMTVpMS21IWm1oa2JpM3lMWmc1ZG1IaDEzczlKZHl6YnRzc2lK0gHKAUFVX3lxTE9mUFZMTHNibnJXektLSTRCdGZPQVllY21hNTVBYW56NUNfYkNWWXlQdG1EUFAtMTdhbHlJNncxZnZTSUdrZThmZUJlNGFUR1ZRc25wLV81bGNXNkJqcy10ZjZYd05wMFpHdDFndy1wemlnYXVfTXVmOHlrMFZxV1RnNlUzakVOUWl1ZHlhaFF4SFhFM0duc1pxdWxVX3pVa0E3bDZoYXZ2dEFtT1RrSlVJWFJ4VXd2SUdBODJNSjBKMWhxeFhIbTJuRmc?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Veeva Q2: 40% operating income jump on CRM AI adoption",
+          "sowhat": "Life sciences vertical shows measurable AI revenue contribution, giving pharma buyers a sector-specific proof point for AI-led CRM deployment.",
+          "url": "https://futurumgroup.com/insights/qumulusai-q2-fy-2026-118-revenue-growth-for-hyperspeed-ai-compute-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=qumulusai-q2-fy-2026-118-revenue-growth-for-hyperspeed-ai-compute-deployment",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "You.com integrates real-time web search into Pydantic AI agents",
+          "sowhat": "One-line agent capability for live web data directly attacks hallucination—the top barrier (55%) to enterprise AI adoption per decision-makers.",
+          "url": "https://futurumgroup.com/insights/youcom-turns-real-time-web-search-into-a-one-line-agent-capability/?utm_source=rss&utm_medium=rss&utm_campaign=youcom-turns-real-time-web-search-into-a-one-line-agent-capability",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "ScyllaDB Rust driver delivers 58% throughput gain vs AWS SDK",
+          "sowhat": "Meaningful performance uplift for DynamoDB-compatible workloads gives CIOs a concrete cost-out path when evaluating database portability.",
+          "url": "https://futurumgroup.com/insights/scylladbs-rust-driver-delivers-58-throughput-gain-for-dynamodb-users/?utm_source=rss&utm_medium=rss&utm_campaign=scylladbs-rust-driver-delivers-58-throughput-gain-for-dynamodb-users",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "PyTorch Conference 2026 showcases production-grade tooling for enterprises",
+          "sowhat": "Open-source AI framework evolution into enterprise infrastructure addresses the deployment gap holding back production AI at scale.",
+          "url": "https://futurumgroup.com/insights/pytorch-grows-up-open-source-ai-tooling-targets-enterprise-production/?utm_source=rss&utm_medium=rss&utm_campaign=pytorch-grows-up-open-source-ai-tooling-targets-enterprise-production",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "Salesforce Q2 + Claudeforce + Veeva CRM results collectively signal measurable enterprise AI traction moving from pilot to revenue."
+    },
+    {
       "iso": "2026-08-29",
       "label": "Sat 29 Aug 2026",
       "rows": [
@@ -391,5 +452,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-08-29T18:11:31.935627+00:00"
+  "updated": "2026-08-30T11:33:53.111540+00:00"
 }
