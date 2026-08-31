@@ -1,6 +1,58 @@
 {
   "days": [
     {
+      "iso": "2026-08-31",
+      "label": "Mon 31 Aug 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce embeds CRM into Teams via AI",
+          "sowhat": "Salesforce is weaponising Teams as a CRM entry-point, forcing enterprise CX buyers to consider whether collaboration-first sales workflows can replace seat-based CRM licences.",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkJuQUVNR1oyaGJrRHNEVjhmU2laSjVIQUJoTWg3bW9fZEdSR0ZEUEZfY3ZTdTRWRlJVdndIUlZ5RURJOUdESFRkRWpJV05vekloYVhfY0o1SU0tQ3BKdUphLURteW5LVll3QU1yb01PWFpJTV9QUDdnOEMwWG8wSDZhNFlEOXJrMEo2cmxuT3V3cHNS?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Crestron maps AI-ready meeting room roadmap",
+          "sowhat": "Crestron is positioning Flex hardware as AI-first infrastructure, betting that meeting-room vendors will compete on agent orchestration, not just cameras and codecs.",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYTVxVy1ETEVHaU1BS3gxRDA4WTNWU2ZiWk9EU3FQZm5zWklfa0tYTE5XQzFLZUF1RXA0LUxOcElwSHpmVThUcUxxdjdUWmd3MWZrLWhubWtyeXFTQ3E0dzZ5SjNpLWoxSGVBNGRrb0RjT3JuRFNuaWVrVGszOEZyRUNLYmxkUQ?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Dialpad integrates conversation AI with Glean knowledge",
+          "sowhat": "Dialpad is routing call transcripts and insights into Glean's enterprise search, making conversation data accessible to knowledge workflows but raising data-governance questions.",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObEtVSVN0UW80WWdSWm9NNThsZlNuTEdrbWxVZENxRk9hSkVRZFF2eFA4aGw2QmNhWm5xS0JoTmNFc1dkUG95Sm8xVm9EOEg4RXRPWmFfMXJSZnMxdk9VdEpVbXNOSFRUS19FYUhKZ09JU0htbDdzSWRDNFhXb1RTVGd6X2FPY0w5RlZZMjhRZUFZOHhxNl9YSmRzeVhEekE?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio ships Identity Match API in PHP",
+          "sowhat": "Twilio's Lookup Identity Match extends verification into PII correlation at sign-up, letting developers block account fraud without third-party data brokers.",
+          "url": "https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-php",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Oracle shifts Fusion apps to outcome-based pricing",
+          "sowhat": "Oracle is testing usage-linked pricing in Fusion Apps, challenging the ERP seat model and forcing CX buyers to weigh cost predictability against pay-per-outcome risk.",
+          "url": "https://www.constellationr.com/insights/news/oracle-takeaways-ai-value-outcome-pricing-managing-ai-spend",
+          "vendor_flag": false,
+          "run": "PM"
+        }
+      ],
+      "pattern_watch": "Three CRM/CX vendors (Salesforce Teams, Oracle Fusion, per-seat commentary) signal concurrent shift toward usage-based or outcome-linked commercial models."
+    },
+    {
       "iso": "2026-08-30",
       "label": "Sun 30 Aug 2026",
       "rows": [
@@ -488,5 +540,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-08-30T18:26:11.876384+00:00"
+  "updated": "2026-08-31T13:08:32.027870+00:00"
 }
