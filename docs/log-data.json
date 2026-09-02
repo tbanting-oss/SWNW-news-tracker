@@ -57,9 +57,72 @@
           "url": "https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Genesys unveils agentic orchestration platform, reports $2.9B ARR",
+          "sowhat": "Genesys is betting enterprise CX needs governed agent orchestration, not standalone bots—a strategic shift that could define CCaaS architecture if buyers accept the premise.",
+          "url": "https://www.cmswire.com/contact-center/genesys-touts-nearly-2-9b-in-cloud-arr-unveils-new-agentic-orchestration-tools-at-xperience-2026/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Capacity closes $54M Series E at $100M ARR",
+          "sowhat": "St. Louis-based agentic support automation vendor sees enterprise buyers consolidating customer service AI into unified platforms, justifying material late-stage funding.",
+          "url": "https://www.cmswire.com/customer-experience/capacity-lands-54m-series-e-as-arr-tops-100m/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Alchemer launches Iris, AI-native CX platform consolidation",
+          "sowhat": "Iris merges Alchemer's scattered AI tools into one system—an acknowledgment that survey vendors now compete on orchestration, not isolated features.",
+          "url": "https://www.cmswire.com/customer-experience/alchemer-debuts-iris-an-ainative-cx-platform/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Sprinklr reports Q2 FY2027 results, no material surprises",
+          "sowhat": "Quarterly earnings with no disclosed strategic pivots—ordinary financial reporting for a CX platform vendor tracking enterprise AI spend.",
+          "url": "http://www.businesswire.com/news/home/20260902336713/en/Sprinklr-Announces-Second-Quarter-Fiscal-2027-Results/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom adds AI inbox tools for post-holiday catch-up",
+          "sowhat": "Zoom targets a familiar pain point—email overload after leave—with AI summarization features that incrementally extend collaboration platform value.",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jVHAxRHBoMEpzMUZqWTlQVW1YSGlhQmYwdk5IYTBWX0EzMXJLOWZOdC0wb05WemF4OUlLUmpmTm1MT1VKQXBoZ0x6emdKZ2F5RVI2TnNNcWZveXp2blBEMGhDMDdFUlNQX05qOFhncjRpa2tXTkh2NEJ1OHA?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "RingCentral partners Digital Island for New Zealand agentic voice",
+          "sowhat": "Regional channel deal brings RingCentral's agentic voice AI to New Zealand SMBs—ordinary geographic expansion through a local partner.",
+          "url": "https://telecomreseller.com/2026/09/01/digital-island-and-ringcentral-partner-to-bring-agentic-voice-ai-solutions-to-new-zealand-businesses/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Flamingo raises $4.5M to automate MSP workflows with agents",
+          "sowhat": "Seed-stage funding to deploy AI agents in MSP/MSSP tool orchestration—a narrow but plausible wedge if manual workflow overhead proves costly enough.",
+          "url": "https://telecomreseller.com/2026/09/02/flamingo-raises-4-5m/",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "Per-seat SaaS pricing under pressure as Salesforce, Zoom, Microsoft test outcome-based / consumption models in response to AI automation."
+      "pattern_watch": "Agentic orchestration—Genesys, Capacity, and Alchemer all position around governed multi-agent coordination, not standalone AI features."
     },
     {
       "iso": "2026-09-01",
@@ -752,5 +815,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-09-02T10:55:37.676725+00:00"
+  "updated": "2026-09-02T18:26:43.594063+00:00"
 }
