@@ -1,6 +1,67 @@
 {
   "days": [
     {
+      "iso": "2026-09-02",
+      "label": "Wed 02 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "iPipeline completes Origo acquisition post-CMA approval",
+          "sowhat": "A US life-insurance platform consolidates UK pensions infrastructure, signalling cross-border vertical integration in financial-services digital plumbing.",
+          "url": "http://www.businesswire.com/news/home/20260901113856/en/iPipeline-Completes-Acquisition-of-Origo-Advancing-Its-Vision-for-Connected-Financial-Services/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce embeds Claude natively via Anthropic partnership",
+          "sowhat": "Salesforce is handing its interface layer to Anthropic — a structural concession that raises whether CRM incumbents can defend their engagement surface as LLMs commoditise workflow orchestration.",
+          "url": "https://www.nojitter.com/ai-automation/claudeforce-strategic-partnership-or-structural-surrender",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Genesys 2026 CX report: agentic orchestration tests strategy",
+          "sowhat": "Genesys positions agentic orchestration as the operational filter separating CX AI pilots from production deployments — a useful framing, but still vendor-authored research with no discrete product move.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/genesys-ai-alone-wont-fix-broken-cx/",
+          "vendor_flag": true,
+          "run": "AM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CX",
+          "headline": "Salesforce, Zoom, Microsoft shift from per-seat to outcome pricing",
+          "sowhat": "All three are experimenting with pricing detached from headcount as AI automates seats — a commercial-model test that rewrites buyer ROI logic and vendor revenue predictability.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/the-end-of-per-seat-saas-how-microsoft-salesforce-and-zoom-are-rewriting-cx-economics/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Salesforce Winter '27 release extends agentic AI features",
+          "sowhat": "Salesforce is shipping agents across contact-centre, commerce, and scheduling — early deployments report 13% conversion lifts, suggesting the agent layer is moving from demo to production revenue impact.",
+          "url": "https://futurumgroup.com/insights/salesforce-winter-27-agents-now-run-the-workflow/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-winter-27-agents-now-run-the-workflow",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio guidance on AI disclosure in customer interactions",
+          "sowhat": "Twilio is advising on when to disclose AI use — a compliance and trust signal that CPaaS buyers will need to formalise as regulation tightens and customers demand transparency.",
+          "url": "https://www.twilio.com/en-us/blog/insights/how-to-disclose-ai-to-customers",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "Per-seat SaaS pricing under pressure as Salesforce, Zoom, Microsoft test outcome-based / consumption models in response to AI automation."
+    },
+    {
       "iso": "2026-09-01",
       "label": "Tue 01 Sep 2026",
       "rows": [
@@ -691,5 +752,5 @@
       "pattern_watch": "Salesforce + Anthropic integration across CRM and CCaaS signals headless-CRM architecture thread."
     }
   ],
-  "updated": "2026-09-01T18:10:31.885455+00:00"
+  "updated": "2026-09-02T10:55:37.676725+00:00"
 }
