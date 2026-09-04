@@ -57,6 +57,51 @@
           "url": "https://telecomreseller.com/2026/09/03/nvidias-hugging-face-deal/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Adobe names Chakravarthy CEO, Narayen to chair",
+          "sowhat": "Adobe's choice of its CX orchestration chief as CEO signals that customer experience will drive enterprise strategy, not just creative tools.",
+          "url": "http://www.businesswire.com/news/home/20260903776206/en/Adobe-Announces-Anil-Chakravarthy-to-Become-President-and-CEO-and-Shantanu-Narayen-to-Become-Executive-Chair-on-December-1-2026/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Bandwidth promotes Emily Harlan to General Counsel",
+          "sowhat": "Routine leadership succession as retiring GC Brandon Asbill hands over to internal counsel with no disclosed strategic shift.",
+          "url": "https://telecomreseller.com/2026/09/04/bandwidth-promotes-emily-harlan-to-general-counsel-and-secretary/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "TPx secures Chapter 11 approval, emerges with less debt",
+          "sowhat": "Court-approved reorganization clears TPx to exit bankruptcy with lower leverage and new ownership, enabling renewed investment in UCaaS/networking.",
+          "url": "https://telecomreseller.com/2026/09/04/tpx-secures-court-approval-of-plan-of-reorganization-positioning-company-for-long-term-success/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Phonely debuts Alma, voice-first LLM for call centres",
+          "sowhat": "Alma targets natural-language voice interactions in contact centres, competing with incumbent CCaaS vendors' embedded AI agents.",
+          "url": "https://www.nojitter.com/ai-automation/phonely-debuts-alma-a-voice-ai-centric-llm",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "OpenAI ships GPT-6 Astra with cyber threshold trade-offs",
+          "sowhat": "Astra's monitorability gains come at a cyber-risk cost, forcing enterprises to weigh compliance overhead against model performance.",
+          "url": "https://www.constellationr.com/insights/news/openai-launches-gpt-6-astra",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
       "pattern_watch": ""
@@ -912,5 +957,5 @@
       "pattern_watch": "Three items (Salesforce/Anthropic, G-P MCP, AWS DuckDB) show vendors embedding agent-execution logic directly into data platforms, bypassing traditional UIs."
     }
   ],
-  "updated": "2026-09-04T10:54:36.814313+00:00"
+  "updated": "2026-09-04T18:08:23.659543+00:00"
 }
