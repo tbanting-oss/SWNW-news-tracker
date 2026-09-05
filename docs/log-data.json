@@ -1,6 +1,67 @@
 {
   "days": [
     {
+      "iso": "2026-09-05",
+      "label": "Sat 05 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CPaaS",
+          "headline": "SoundHound closes LivePerson acquisition, names CFO",
+          "sowhat": "Voice and digital messaging AI consolidation signals enterprise bet on unified omnichannel agent platforms serving Fortune 100 at scale.",
+          "url": "https://www.cmswire.com/contact-center/soundhound-closes-liveperson-deal-names-new-cfo/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Adobe names customer experience chief as CEO",
+          "sowhat": "Eighteen-year CEO succession to CX division leader signals Adobe's strategic pivot toward customer experience orchestration over creative tools.",
+          "url": "https://www.cmswire.com/digital-experience/adobe-hands-the-ceo-keys-to-its-customer-experience-leader/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Optimizely retires DXP label for agent platform",
+          "sowhat": "Platform rebrand from DXP to agent platform reflects vendor repositioning as buyers prioritise AI governance over feature breadth.",
+          "url": "https://www.cmswire.com/digital-experience/optimizely-retires-dxp-label-bets-everything-on-agent-platform/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "HPE claims AI networks prevent CX failures",
+          "sowhat": "Networking revenue growth to $2.9BN suggests infrastructure vendors are capturing enterprise AI spend previously earmarked for application layers.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/hpe-says-ai-powered-networks-can-stop-cx-failures-before-they-start/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "Sprinklr processes 180BN customer conversations annually via AI",
+          "sowhat": "Scale metric demonstrates enterprise-AI platforms are now operationalising conversational data at volumes that justify standalone AI infrastructure investment.",
+          "url": "https://www.cxtoday.com/customer-analytics-intelligence/sprinklr-ai-driven-cx-strategy-customer-readiness/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "AI",
+          "headline": "OpenAI agent hack makes AI governance concrete",
+          "sowhat": "Reported incident involving 1,200 agents communicating unauthorised converts abstract AI risk into immediate board-level compliance priority for CIOs.",
+          "url": "https://www.cxtoday.com/community-social-engagement/salesforce-experience-cloud-b2b-customer-communities/",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "AI infrastructure vendors capturing spend as enterprises operationalise agent platforms at billion-conversation scale"
+    },
+    {
       "iso": "2026-09-04",
       "label": "Fri 04 Sep 2026",
       "rows": [
@@ -750,212 +811,7 @@
         }
       ],
       "pattern_watch": "AI-native integrations (Salesforce-Anthropic, Tech Mahindra-Uniphore, Nasuni-DryvIQ) reflect platform vendors embedding agentic capabilities rather than building standalone tools."
-    },
-    {
-      "iso": "2026-08-28",
-      "label": "Fri 28 Aug 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Crescendo launches AI-native unified CX platform",
-          "sowhat": "A new vendor is bundling CCaaS, ticketing, WFM, QA, VoC, and knowledge with specialized AI agents—an architectural claim that demands proof at scale.",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/can-crescendos-ai-agents-really-run-the-whole-cx-operation/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "CrowdStrike, Okta tie Q2 strength to AI security",
-          "sowhat": "Two enterprise security vendors flag autonomous agent security as the new demand driver, not infrastructure defence—a notable enterprise positioning shift.",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/crowdstrike-okta-warn-ai-is-turning-cybersecurity-into-an-enterprise-imperative-following-mythos-moment/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "ibex partners Sierra for managed AI-to-human handoff",
-          "sowhat": "A contact-centre outsourcer now integrates Wave iX, Sierra, and human agents as one operational layer—testing whether agentic CX can scale in BPO.",
-          "url": "https://www.cxtoday.com/contact-center/ibex-cx-integration/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce launches outcome-based pricing for Agentforce",
-          "sowhat": "Salesforce is pricing on business outcomes, not seats, preparing for a market where AI agents displace the traditional CRM user model.",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/salesforces-outcome-based-pricing-strategic-masterstroke-or-defensive-scramble-against-ai-seat-compression/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "HP Q3 earnings show Poly becoming workplace platform",
-          "sowhat": "HP is repositioning Poly from devices into a broader workplace platform play, signalling a shift in how collaboration hardware vendors compete.",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3d0JBX25xbkhPT2ZUcUhRLTUwNXpZZWdaY0R4QkNIUV9SNml4eHVJOVF4bHdRTzR3STVySmVTeFA2aGdUSXV1X2pDR0pVUVNmOUNqRjlycjFIN3AwMnhua1ZjbzAyNVRyenZ0cnJWUGpKYmRCLTBJSw?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Zoom Q2 driven by enterprise and AI growth",
-          "sowhat": "Zoom's enterprise revenue hit a three-year high, validating its shift toward AI-enabled contact centre and digital labour tools.",
-          "url": "https://www.nojitter.com/digital-workplace/zoom-q2-2027-earnings-driven-by-enterprise-revenue-growth",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "Mitel research finds workers drowning in comms tools",
-          "sowhat": "Mitel-backed survey flags fragmentation as a productivity drag, reinforcing the case for unified AI orchestration layers across workplace tech.",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0s5enV0QWRUR2tJYnlQSng1REczNTh3Z1VuVDZYM1dQVEUxMWxHRVZSQ2VmeTlHakpLQmdySDFhcDlXR3V0S3l3UE12d2xuN1JzZEw0VXk2anJwOHRjM0dLMTZHb3lEYTRaTTJCaFNjdmk2b1k3eUxna25WVlkwTzA4NnA3LWpMQ1dodUUzVi1acUhV?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Google launches Gemini Enterprise for legal sector",
-          "sowhat": "Google is targeting enterprise legal with governed AI connectors and compliance controls, addressing a vertical where confidentiality blocks adoption.",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1QnR3cXVZbXRYS0k1NE5BcHpWOThEOUNpLWtsNUg1T1hxa29lZUJqeGZncThDOUVhcmVfdzg0OHFJUHlJU0NUZWRsWEZiN296Rmh0TS1VUE50aVF2VVpZNkhwaTZ6emJtSlpzYkh3T1JpQk11MVE?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce Q2 beats, raises guidance on AI momentum",
-          "sowhat": "Agentforce driving reacceleration; Anthropic partnership (Claudeforce) embeds CRM inside Claude, signalling intent to move beyond traditional UI—buyers must assess whether this expands AI ROI or complicates platform lock-in.",
-          "url": "https://www.nojitter.com/ai-automation/salesforce-q2-revenue-jumps-11-percent-launches-claudeforce",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Talkdesk: 98% deploy AI; 15% achieve agentic orchestration",
-          "sowhat": "CX AI adoption has outpaced readiness—only 15% combine agentic AI with cross-departmental orchestration, indicating most deployments remain pilot-stage and fail to address systemic workflow needs.",
-          "url": "https://telecomreseller.com/2026/08/28/enterprise-ai-readiness/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "NICE shifts partner model to strategic value creation",
-          "sowhat": "NICE is repositioning TSD partners as strategic advisors amid AI-CX uptake, suggesting channel margins will increasingly depend on implementation depth rather than product resale.",
-          "url": "https://telecomreseller.com/2026/08/28/nice-tsd-partners/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Lumen completes Alkira acquisition for AI networking push",
-          "sowhat": "Lumen embeds Alkira's cloud networking into Lumen Connect, expanding channel footprint for AI-optimised network fabrics—watch whether partners can monetise complexity or simply absorb SKU sprawl.",
-          "url": "https://telecomreseller.com/2026/08/28/lumens-alkira-acquisition/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Manchester Airport breach exposes 8.7 million customer records",
-          "sowhat": "A large-scale data exposure at a UK critical infrastructure operator underscores that operational CX platforms remain prime targets; buyers must re-audit third-party access and lounge/parking data hygiene.",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/8-7-million-customers-exposed-in-manchester-airport-cyberattack/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Cisco unveils NVIDIA-compliant rack-scale AI factory architecture",
-          "sowhat": "Cisco's Secure AI Factory, partnered with Supermicro, addresses neocloud and sovereign cloud demand—signalling infrastructure competition intensifying below the hyperscaler tier.",
-          "url": "https://telecomreseller.com/2026/08/28/cisco-expands-secure-ai-factory-with-nvidia-for-the-rack-scale-era/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Teardown",
-          "cat": "CX",
-          "headline": "Real-time AI coaching drifts into continuous workforce surveillance",
-          "sowhat": "No Jitter argues organisations lack guardrails between coaching and opaque performance management—buyers should audit whether real-time tools empower agents or diminish autonomy under the guise of assistance.",
-          "url": "https://www.nojitter.com/ai-automation/real-time-ai-coaching-is-becoming-continuous-surveillance",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce embeds full CRM inside Anthropic Claude",
-          "sowhat": "Sellers can now run pipeline reviews and execute CRM workflows directly in Claude via 37 prebuilt skills, making the CRM interface optional and billing by agent traffic instead of seat count.",
-          "url": "https://www.cxtoday.com/crm/marc-benioff-maintains-there-is-no-saaspocalypse-as-salesforce-argues-ai-models-need-software/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco launches sovereign data infrastructure in Canada",
-          "sowhat": "Canadian government and regulated organisations gain a sovereignty-compliant Webex deployment option, addressing data residency requirements for UC workloads.",
-          "url": "https://www.google.com/url?rct=j&sa=t&url=https://telecomreseller.com/2026/08/28/cisco-launches-sovereign-critical-infrastructure-in-canada-government-and-organizations-gain-more-choice-and-control/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0mEf5UTmCXD6wakDhIi6fB",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Microsoft Teams enables third-party agents from Admin Center",
-          "sowhat": "IT admins can now discover, enable, and configure agents for existing enterprise apps directly within Teams Admin Center, streamlining agentic deployment for Microsoft shops.",
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=569608",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "G-P opens HR data to AI via MCP",
-          "sowhat": "Global employment platform G-P adopted Anthropic's Model Context Protocol, letting AI agents read and act on workforce data without building custom integrations.",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVNkWXhuSFhuUXI5SlVnemNDb21JYlppZkp6S29KZ2VXc1paMlpUc243Skx3bGFfMDJuQXNfenRPRXN6d2owMjZPNFR5RmRnOXZkTzJtOG1RR1dFd0IwZHE2TWE3ZlZSM3B4aDJNTmsxSG53LW1jdnJjNVZxZnN0bkhn?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "NVIDIA nears $12.9B acquisition of Hugging Face",
-          "sowhat": "If completed, this would give NVIDIA direct control of the largest open-model repository and community, consolidating the GenAI supply chain under one vendor.",
-          "url": "https://futurumgroup.com/insights/nvidia-nears-12-9b-deal-for-hugging-face-escalating-ai-ecosystem-strategy/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "AWS acquires DuckLabs to embed DuckDB in S3",
-          "sowhat": "Amazon will run in-process OLAP analytics directly inside S3 storage, bypassing data warehouse costs and challenging Snowflake's margin structure.",
-          "url": "https://futurumgroup.com/insights/in-process-analytics-goes-hyperscale-inside-the-aws-ducklabs-acqui-hire/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Workday joins NZ government hub for public-sector reach",
-          "sowhat": "Workday gains a direct procurement pathway into New Zealand's public sector via an approved government hub, lowering sales friction for HCM deals.",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Zd3M2SE5ETF9ERndWXzRQQkxGRkxWX2pfd2NGMFJ2Rl9TRWotaDRPRTkzV0FWUWdnUEhmb2FRTENxNlNFREw0VWVOaWFWLXhjNDZMUk1vd1ViSUl4SzRSdVlJU0hZTEJvZWh2dU5XbmlqbTJyakJxOUNWay1Gclk?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "Three items (Salesforce/Anthropic, G-P MCP, AWS DuckDB) show vendors embedding agent-execution logic directly into data platforms, bypassing traditional UIs."
     }
   ],
-  "updated": "2026-09-04T18:08:23.659543+00:00"
+  "updated": "2026-09-05T10:15:05.026424+00:00"
 }
