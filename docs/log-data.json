@@ -57,9 +57,63 @@
           "url": "https://www.cxtoday.com/community-social-engagement/salesforce-experience-cloud-b2b-customer-communities/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft Teams adds QR code phishing protection",
+          "sowhat": "External-sender QR codes will be obscured by default, narrowing a phishing vector but adding friction to legitimate B2B workflows.",
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=570439",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce bundles Agentforce, Slack, Tableau into editions",
+          "sowhat": "Consolidating AI, Slack, Tableau, and Premier Success into three SKUs may simplify buying but locks customers into a unified pricing model.",
+          "url": "https://futurumgroup.com/insights/salesforce-bundles-ai-slack-and-tableau-into-three-new-edition-tiers/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "CompleteSMS addresses A2P messaging compliance burden",
+          "sowhat": "Growing carrier enforcement of A2P registration creates channel opportunity but raises operational complexity for SMB messaging buyers.",
+          "url": "https://telecomreseller.com/2026/09/04/completesms-helps-businesses-navigate-growing-messaging-compliance-podcast/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Commio launches FlexNumbers for simplified voice billing",
+          "sowhat": "Flexible local and toll-free plans target resellers seeking predictable per-number costs, but differentiation hinges on actual pricing transparency.",
+          "url": "https://telecomreseller.com/2026/09/04/commio-announces-general-availability-of-flexnumbers-simplifying-voice-services/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Adobe names Chakravarthy CEO amid AI transition",
+          "sowhat": "Leadership succession positions Adobe to capitalise on agentic AI and CX orchestration demand, but execution risk remains during the handover.",
+          "url": "https://www.constellationr.com/insights/news/adobe-names-chakravarthy-ceo",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "FIS launches Embedded Banking Platform for US banks",
+          "sowhat": "Banks can now embed financial services into partner software while retaining balance-sheet control, challenging BaaS disruptors on compliance grounds.",
+          "url": "https://futurumgroup.com/insights/fis-bets-banks-can-win-embedded-finance-on-their-own-terms/",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "AI infrastructure vendors capturing spend as enterprises operationalise agent platforms at billion-conversation scale"
+      "pattern_watch": "Platform consolidation: Salesforce, FIS, and nCino all unifying fragmented capabilities into single SKUs or platforms."
     },
     {
       "iso": "2026-09-04",
@@ -813,5 +867,5 @@
       "pattern_watch": "AI-native integrations (Salesforce-Anthropic, Tech Mahindra-Uniphore, Nasuni-DryvIQ) reflect platform vendors embedding agentic capabilities rather than building standalone tools."
     }
   ],
-  "updated": "2026-09-05T10:15:05.026424+00:00"
+  "updated": "2026-09-05T17:10:29.706274+00:00"
 }
