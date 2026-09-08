@@ -1,6 +1,67 @@
 {
   "days": [
     {
+      "iso": "2026-09-08",
+      "label": "Tue 08 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Gamma backs Epiris takeover, posts H1 growth",
+          "sowhat": "A UK UCaaS/CPaaS provider changing hands may shift channel dynamics and product roadmaps for enterprise buyers.",
+          "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/company-announcements/gamma-communications-posts-solid-h1-results-as-board-backs-epiris-takeover&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3wfsmPpaDyEeDt98pyT3Ro",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "FNBO cuts financial crime review 50% with agentic AI",
+          "sowhat": "A deployed enterprise case quantifies agentic AI's operational impact beyond vendor promises, setting a benchmark for regulated contact-centre back-office use.",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yXzhrdTctbElvbjJlaG4tYjczSjFmd0cyRXBvcTBvQ1VJdTJ1ZHVLYmgxQjBhbTdxdjFWelUwNFdxRnZLcnY3eDR5QUg3ZjM2Tml3LVdHaHI0WGNwS1VCcERYVmxvOVhBdmJkc2k0XzZEQnVrVHNNVzVEcw?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "RingCentral positions multichannel versus omnichannel contact centres",
+          "sowhat": "Vendor educational content distinguishing multichannel from omnichannel suggests buyers still confused about fundamental architectural choices.",
+          "url": "https://www.ringcentral.com/us/en/blog/multichannel-contact-center/",
+          "vendor_flag": true,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce embeds CRM data inside Claude AI",
+          "sowhat": "A hyperscaler-CRM integration bypassing traditional middleware could compress the marketing-tech stack but raises data-residency questions.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTI4R04xU08ycm1OQkY4T2UzU2ktcG53bjdkeElaT0YxYm5xdnd0eHVibEtIbmFoQ0NpMEo0bWt5ZmNaWW5ReGZoRU9iMWhpYlo4clBjbU41WXJ6VzhKc0J0N2I1QVlpcjBCMEtsRTZLY3VocENMc2s4SFM0RllpUVhHTzJ3Ym1nWFBSV1psbm1SaU9lOVlJaQ?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "OPSWAT launches AI Content Inspector at GISEC",
+          "sowhat": "A new security layer for AI-generated content addresses semantic fraud missed by malware scans, relevant where contact centres ingest customer documents.",
+          "url": "https://futurumgroup.com/insights/opswat-at-gisec-2026-can-you-secure-what-you-cant-detect/?utm_source=rss&utm_medium=rss&utm_campaign=opswat-at-gisec-2026-can-you-secure-what-you-cant-detect",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Arm extends physical-AI roadmap, links edge and cloud",
+          "sowhat": "Chip-architecture shifts toward edge AI may alter device economics for desk phones, room systems, and contact-centre agents' endpoints.",
+          "url": "https://www.constellationr.com/insights/news/arm-steps-physical-ai-efforts-bridges-edge-cloud-ai",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-09-07",
       "label": "Mon 07 Sep 2026",
       "rows": [
@@ -705,113 +766,7 @@
         }
       ],
       "pattern_watch": ""
-    },
-    {
-      "iso": "2026-08-31",
-      "label": "Mon 31 Aug 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce embeds CRM into Teams via AI",
-          "sowhat": "Salesforce is weaponising Teams as a CRM entry-point, forcing enterprise CX buyers to consider whether collaboration-first sales workflows can replace seat-based CRM licences.",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkJuQUVNR1oyaGJrRHNEVjhmU2laSjVIQUJoTWg3bW9fZEdSR0ZEUEZfY3ZTdTRWRlJVdndIUlZ5RURJOUdESFRkRWpJV05vekloYVhfY0o1SU0tQ3BKdUphLURteW5LVll3QU1yb01PWFpJTV9QUDdnOEMwWG8wSDZhNFlEOXJrMEo2cmxuT3V3cHNS?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Crestron maps AI-ready meeting room roadmap",
-          "sowhat": "Crestron is positioning Flex hardware as AI-first infrastructure, betting that meeting-room vendors will compete on agent orchestration, not just cameras and codecs.",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYTVxVy1ETEVHaU1BS3gxRDA4WTNWU2ZiWk9EU3FQZm5zWklfa0tYTE5XQzFLZUF1RXA0LUxOcElwSHpmVThUcUxxdjdUWmd3MWZrLWhubWtyeXFTQ3E0dzZ5SjNpLWoxSGVBNGRrb0RjT3JuRFNuaWVrVGszOEZyRUNLYmxkUQ?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Dialpad integrates conversation AI with Glean knowledge",
-          "sowhat": "Dialpad is routing call transcripts and insights into Glean's enterprise search, making conversation data accessible to knowledge workflows but raising data-governance questions.",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObEtVSVN0UW80WWdSWm9NNThsZlNuTEdrbWxVZENxRk9hSkVRZFF2eFA4aGw2QmNhWm5xS0JoTmNFc1dkUG95Sm8xVm9EOEg4RXRPWmFfMXJSZnMxdk9VdEpVbXNOSFRUS19FYUhKZ09JU0htbDdzSWRDNFhXb1RTVGd6X2FPY0w5RlZZMjhRZUFZOHhxNl9YSmRzeVhEekE?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Twilio ships Identity Match API in PHP",
-          "sowhat": "Twilio's Lookup Identity Match extends verification into PII correlation at sign-up, letting developers block account fraud without third-party data brokers.",
-          "url": "https://www.twilio.com/en-us/blog/developers/tutorials/product/confirm-phone-number-ownership-lookup-identity-match-php",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Oracle shifts Fusion apps to outcome-based pricing",
-          "sowhat": "Oracle is testing usage-linked pricing in Fusion Apps, challenging the ERP seat model and forcing CX buyers to weigh cost predictability against pay-per-outcome risk.",
-          "url": "https://www.constellationr.com/insights/news/oracle-takeaways-ai-value-outcome-pricing-managing-ai-spend",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Optimizely launches role-based AI marketing teammates",
-          "sowhat": "DXP vendors are moving from conversational AI tools to persistent agent-like roles that execute recurring tasks without prompting — a step-change in how marketing automation is structured.",
-          "url": "https://www.cmswire.com/digital-experience/optimizely-debuts-rolebased-ai-teammates-for-marketers/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Twilio publishes research on AI disclosure transparency gap",
-          "sowhat": "81% of brands claim their AI identifies itself, but only 22% of consumers agree — a meaningful signal that auto-disclosure mechanisms are failing or that vendors are overstating compliance.",
-          "url": "https://www.twilio.com/en-us/blog/insights/ai-disclosure-transparency-gap",
-          "vendor_flag": true,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "WizCommerce launches AI-first CRM for wholesale distributors",
-          "sowhat": "A niche CRM targeting B2B distribution with AI-first architecture — no market-share data yet, but signals vertical-specific AI CRM fragmentation is accelerating.",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWo2YWc1Z20yQ3Bzbkt4N0pVOEUyYTNuWHJrbzJ4S3JXMEJuZlgxMXFHNWQ3UlZMWThwRDNOWjMzNHBpNElfTHFIbFZicDBnY2dCUnZ3b29Id1VGbUFYR0lyRksxbkVuR2xZRm9Hc0xPN2tLSl9YbVM5Y3dkTWpWdmhYRGRkQnlhU1pTRUFlWDh4d3QxZFlVY2tWQ0plSWpGTlpMY1ZLSkhxOGdrcmc?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Creatio CRM deployed at Ukrainian credit union",
-          "sowhat": "A single mid-market CRM win in financial services — worth noting only if part of a broader pattern in regulated or sovereign-focused deployments.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHlRVGx3WXpBS1dnb1ZDbU1Od1hFamNFd2hWSkhuLTdmMEp0b2k2ak5BSTZhR1pJNE93N1BGVXBhdFBjT1ZVVURnMzg2QTVWMFViNjQ2RWdVcnF3dXpHVnZGM0loZHpaa3NnaFBHYlViSFJFTG80QkFHbzRQWjF0akQ5SkF6cDV2Y3FFVnBjcnVsNGJfSWRpWHlfVjJpNVA5SVl0WkZ3WjRRb1dYaUV3?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Damovo launches SovereignStack for German public sector",
-          "sowhat": "First integrated sovereign comms platform unifying Rocket.Chat, Pexip, and Mitel — addresses a real buyer pain point in federated government environments that demand data residency.",
-          "url": "https://futurumgroup.com/insights/damovos-sovereignstack-ending-public-sector-comms-fragmentation/?utm_source=rss&utm_medium=rss&utm_campaign=damovos-sovereignstack-ending-public-sector-comms-fragmentation",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "VinSolutions expands AI-powered dealership CRM upgrades",
-          "sowhat": "Automotive CRM vendor rolls out AI-driven dealer tools — vertical-specific AI adoption in regulated sales environments, but no concrete deployment or ROI figures disclosed.",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4cFN2WU1JMWNNOGxYaGdneHdIYmhwT3lmYi03V2lxVVE3R3VkVW1IQTFleWFBYUtERTVUdTBXSVNRWVl4dmpfVVhMR01XWk02MjZKTzVESHZGN0hVMVVpa2ZSOFBKWnVldndsYTVSSlI5VjU3U1RKdVpPek56Zw?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "Three CRM/CX vendors (Salesforce Teams, Oracle Fusion, per-seat commentary) signal concurrent shift toward usage-based or outcome-linked commercial models."
     }
   ],
-  "updated": "2026-09-07T19:00:44.644904+00:00"
+  "updated": "2026-09-08T10:54:50.290049+00:00"
 }
