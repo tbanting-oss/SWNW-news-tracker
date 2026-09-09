@@ -66,6 +66,42 @@
           "url": "https://www.constellationr.com/insights/news/mistral-said-it-raised-eur3-billion-series-d-funding",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "Qualcomm wins $60B AWS custom silicon deal",
+          "sowhat": "A multi-generation custom chip and 1.6T optics commitment with a $4B warrant locks Qualcomm into AWS's AI infrastructure roadmap and signals hyperscaler build-out intensity.",
+          "url": "https://futurumgroup.com/insights/qualcomm-lands-60-billion-custom-silicon-and-16t-optics-deal-with-aws-backed-by-a-4-billion-warrant/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Genesys Xperience 2026 customers prioritise outcomes over orchestration",
+          "sowhat": "Customer presentations focused on measurable results provide a practical counterweight to Genesys's agentic orchestration messaging, signalling buyer scepticism about hype.",
+          "url": "https://www.nojitter.com/ai-automation/at-xperience-2026-genesys-customers-focused-on-outcomes",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio ships ConversationRelay with sub-0.5s latency",
+          "sowhat": "Low-latency voice infrastructure matters if conversational AI is moving beyond chatbots into real-time calls, but deployment scale remains unclear.",
+          "url": "https://www.twilio.com/en-us/blog/insights/low-latency-layer-conversational-ai",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "HPE issues Oracle equity warrant alongside AI infrastructure",
+          "sowhat": "HPE's use of a nominal-cost equity instrument instead of discounting suggests margin pressure in AI hardware and a scramble for long-term hyperscaler lock-in.",
+          "url": "https://futurumgroup.com/insights/why-hpe-gave-oracle-equity-instead-of-a-price-cut-on-ai-gear/",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
       "pattern_watch": ""
@@ -795,5 +831,5 @@
       "pattern_watch": "Agentic orchestration—Genesys, Capacity, and Alchemer all position around governed multi-agent coordination, not standalone AI features."
     }
   ],
-  "updated": "2026-09-09T10:59:09.746549+00:00"
+  "updated": "2026-09-09T18:19:37.715369+00:00"
 }
