@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T18:05:37.214556+00:00",
+  "generated_at": "2026-09-09T10:05:35.618392+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
-  "feeds_with_errors": 4,
+  "feeds_with_errors": 5,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
@@ -13,6 +13,11 @@
       "name": "Industry News – CPaaSAA",
       "url": "https://cpaasaa.com/category/industry-news/feed/",
       "error": "429 Client Error: Too Many Requests for url: https://cpaasaa.com/category/industry-news/feed/"
+    },
+    {
+      "name": "SiliconANGLE",
+      "url": "https://siliconangle.com/feed/atom/",
+      "error": "503 Server Error: Backend fetch failed for url: https://siliconangle.com/feed/atom/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -36,18 +41,35 @@
     },
     {
       "name": "Google Alert - Cisco Webex",
-      "items": [
-        {
-          "title": "Gamma Communications posts solid H1 results as board backs Epiris takeover - TipRanks",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/company-announcements/gamma-communications-posts-solid-h1-results-as-board-backs-epiris-takeover&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3wfsmPpaDyEeDt98pyT3Ro",
-          "published": "2026-09-07T06:39:46Z",
-          "summary": "... Cisco's Webex for Gamma across all its core markets to deepen its cloud communications offering. These operational gains and strategic initiatives&nbsp;..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Contact Center Modernization Has a New Risk Profile",
+          "link": "https://www.cxtoday.com/contact-center/contact-center-modernization-has-a-new-risk-profile/",
+          "published": "Wed, 09 Sep 2026 08:46:53 +0000",
+          "summary": "Contact center modernization has become one of the most consequential technology decisions in enterprise CX, and the latest signals suggest many buyers are still underestimating what has changed. The pressure is easy to understand. Legacy platforms limit scale, make customer data harder to use, and slow down service teams that need to act across voice, [&#8230;]"
+        },
+        {
+          "title": "Tealium Customer Data Hub Roadmap 2026: Is Governed AI Context the New CDP Battleground?",
+          "link": "https://www.cxtoday.com/crm/tealium-customer-data-hub/",
+          "published": "Tue, 08 Sep 2026 15:52:28 +0000",
+          "summary": "A clever AI agent with bad or outdated customer data is still a liability. It can recommend the wrong product, ignore a recent complaint, or contact someone who withdrew consent five minutes earlier. That makes the customer data layer a much bigger part of the AI argument than another model upgrade. Legacy CRM solutions simply [&#8230;]"
+        },
+        {
+          "title": "The Human Tempo Gap: What Is It And How Can We Overcome It?",
+          "link": "https://www.cxtoday.com/customer-analytics-intelligence/human-tempo-gap-ai-customer-experience-2/",
+          "published": "Tue, 08 Sep 2026 15:15:07 +0000",
+          "summary": "AI can predict, recommend and act in an instant, but customers still need time to interpret what is happening and decide whether they are comfortable proceeding.   Patricia Camden, US Marketing, CX and Loyalty Leader at EY, calls the resulting mismatch the “human tempo gap,” warning that automation can undermine trust when it gets ahead [&#8230;]"
+        },
+        {
+          "title": "The 57% Problem: Why Omnichannel Strategy is Stalling in 2026",
+          "link": "https://www.cxtoday.com/contact-center/the-57-problem-why-omnichannel-strategy-is-stalling-in-2026-mmdsmart-cs-0226/",
+          "published": "Tue, 08 Sep 2026 14:39:19 +0000",
+          "summary": "Omnichannel customer communication has become one of the defining priorities for organizations looking to improve customer experience, increase operational efficiency and unlock new revenue opportunities. Businesses understand that customers expect faster, more relevant and more connected interactions, and that relying on one or two legacy channels is no longer enough.   Yet many are still struggling [&#8230;]"
+        },
         {
           "title": "UJET Says Contact Center AI Adoption Is Moving Too Fast, Which Creates New Risks",
           "link": "https://www.cxtoday.com/ai-automation-in-cx/ujet-says-contact-center-ai-adoption-is-moving-too-fast-which-creates-new-risks-ujet-cs-0190/",
@@ -74,11 +96,73 @@
     },
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
-      "items": []
+      "items": [
+        {
+          "title": "Microsoft Viva: Copilot Analytics - Agent value insights in Agent 365 Dashboard",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570847",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "Customers can now view value insights in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics). These insights help business leaders and change and adoption specialists understand not only whether agents are being used, but also the estimated assisted hours agents provide and the types of work contributing to that value.\nThis update builds on the existing Agent 365 Dashboard adoption experience by connecting agent activity with a clearer view of the work agents support across th"
+        },
+        {
+          "title": "Microsoft Purview: Data Loss Prevention for Microsoft Cowork",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570845",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "Microsoft Purview Data Loss Prevention (DLP) is expanding to Microsoft Cowork, enabling data security admins to use a single policy across Microsoft 365 Copilot and Cowork. The integration helps protect sensitive AI interactions by preventing the use of labeled knowledge sources, blocking prompts that contain supported sensitive information types, and restricting sensitive prompts from being sent to Bing for web search.GA date: October CY2026Preview date: September CY2026"
+        },
+        {
+          "title": "Microsoft 365: Teams Channel Backup",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570668",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "A backup and recovery feature that lets you recover team &amp; channel data (like files, messages exchanged over channels) in Microsoft Teams to a previously known good state after accidental changes or security compromises. Supported items include Team, Channels (Standard, Private, Public) and underlying data. Retention period supported is 30 days.GA date: December CY2026"
+        },
+        {
+          "title": "OneDrive: Sync support for up to 1 million items on macOS",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570448",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "OneDrive Sync supports syncing up to 1 million items on macOS devices, helping teams manage large document libraries and shared content at scale without compromising access across devices. This preview requires the Insiders ring and that devices meet minimum hardware and configuration requirements. Devices that don't meet these requirements continue to sync at the existing 300,000-item supported limit with no disruption.GA date: June CY2027Preview date: October CY2026"
+        },
+        {
+          "title": "Microsoft Viva: Viva Glint - Survey taking experience refinements",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570429",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "This feature is a collection of improvements including updates to the auto-save experience for comments, simplifying survey navigation through buttons by consolidating the \"Skip\" and \"Done\" buttons into a single \"Next\" button, and to give the survey taker greater control over question progression by refining the auto-scroll behavior when updating answers to questions.GA date: September CY2026"
+        },
+        {
+          "title": "Microsoft Teams: Meeting Shared Files",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570427",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "The new Meeting Shared Files feature allows users to add relevant files and links to their meeting for easy access and to automatically share that content with all meeting participants. AI in the meeting, like the Facilitator agent, uses these files for targeted grounding to answer questions and enhance skill functionality.GA date: October CY2026"
+        },
+        {
+          "title": "Planner: Add times to task start, finish, and due dates",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570153",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "Add specific times to task start, finish, and due dates. Define a plan’s time zone and working hours to automatically provide default task times and choose whether to view times in the plan’s time zone or your local time zone. This helps distributed teams coordinate effectively across time zones and keep deadlines clear.GA date: November CY2026"
+        },
+        {
+          "title": "Planner: Task History",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569933",
+          "published": "Tue, 08 Sep 2026 22:57:21 Z",
+          "summary": "Task History helps keep teams up to date on changes made to a task. View recent activity to see what changed, when it changed, and track progress over time.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Finance: Support requirements of tax reform in Brazil in 2027",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570842",
+          "published": "Tue, 08 Sep 2026 20:38:18 Z",
+          "summary": "Microsoft plans to introduce additional Globalization Studio capabilities to help support Brazil tax reform requirements, including the new IS tax type, tax assessment capabilities for reformed taxes, expanded fiscal note functionality for additional business scenarios, enhanced tax posting processes, and further updates to CNPJ-related processes. Additional capabilities will continue to be introduced as future phases of Brazil's tax reform are implemented.GA date: November CY2026"
+        }
+      ]
     },
     {
       "name": "My Business Wire News",
-      "items": []
+      "items": [
+        {
+          "title": "Braze Reports Strong Fiscal Second Quarter 2027 Results",
+          "link": "http://www.businesswire.com/news/home/20260908586699/en/Braze-Reports-Strong-Fiscal-Second-Quarter-2027-Results/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
+          "published": "Tue, 8 Sep 2026 20:05:00 UT",
+          "summary": "NEW YORK--(BUSINESS WIRE)--Braze (Nasdaq: BRZE), the leading customer engagement platform that empowers brands to Be Absolutely EngagingTM, today announced results for its fiscal quarter ended July 31, 2026. \"Our strong second quarter results underscore the essential role Braze plays for brands globally, delivering 26% year-over-year revenue growth alongside improving operating leverage and record second quarter free cash flow,\" said Bill Magnuson, Cofounder and CEO of Braze. \"As customers acro"
+        }
+      ]
     },
     {
       "name": "No Jitter",
@@ -111,118 +195,46 @@
       "name": "UC Today",
       "items": [
         {
-          "title": "Sony: Coverage - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RYkg2ZkFRTEVFYXRjUnhxYzVTWEVKN3hiaXgxV1Nyd0p4c2xfbVUwV3RNWlNyOXRBLVVnbkc2eE1MamxsdW1oaw?oc=5",
-          "published": "Tue, 08 Sep 2026 16:26:07 GMT",
-          "summary": "Sony: Coverage&nbsp;&nbsp;UC Today"
+          "title": "EY Microsoft Copilot Deployment: The Path to AI Productivity - uctoday.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlTMUVnMnBFMjJMOUd4ak9wUlU2QkcwZUtFcWlGc1Z3cElFMWt5aXZZTWJNNGRqQ3BOSVhlM0F1enpjZ2V1d09VWDJwbUZEMF9FQl80dFB6dWxwOVFhOHZNemMyUGMwdzJKcko4YzVQTFBPdkFKSXNCcUpjdHRCTWdnODVaQQ?oc=5",
+          "published": "Wed, 09 Sep 2026 09:34:40 GMT",
+          "summary": "EY Microsoft Copilot Deployment: The Path to AI Productivity&nbsp;&nbsp;uctoday.com"
         },
         {
-          "title": "Why VergeSense and Pointr Partnered on Office Planning - UC Today",
+          "title": "Why VergeSense and Pointr Partnered on Office Planning - uctoday.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6RHZOeW1heUZZaG05cXUyNzA3N3phRUJYeWNxdTIwblljWXE5STg4bjNJT2wzT0h4TUFRSU9RbmtfbnJzekkwcExleWlHbXA5dWVDU3FnaUxxUUEwQnc?oc=5",
           "published": "Tue, 08 Sep 2026 14:02:58 GMT",
-          "summary": "Why VergeSense and Pointr Partnered on Office Planning&nbsp;&nbsp;UC Today"
+          "summary": "Why VergeSense and Pointr Partnered on Office Planning&nbsp;&nbsp;uctoday.com"
         },
         {
-          "title": "How FNBO Cut Financial Crime Review Time 50% with Agentic AI - UC Today",
+          "title": "How FNBO Cut Financial Crime Review Time 50% with Agentic AI - uctoday.com",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yXzhrdTctbElvbjJlaG4tYjczSjFmd0cyRXBvcTBvQ1VJdTJ1ZHVLYmgxQjBhbTdxdjFWelUwNFdxRnZLcnY3eDR5QUg3ZjM2Tml3LVdHaHI0WGNwS1VCcERYVmxvOVhBdmJkc2k0XzZEQnVrVHNNVzVEcw?oc=5",
           "published": "Tue, 08 Sep 2026 14:02:58 GMT",
-          "summary": "How FNBO Cut Financial Crime Review Time 50% with Agentic AI&nbsp;&nbsp;UC Today"
+          "summary": "How FNBO Cut Financial Crime Review Time 50% with Agentic AI&nbsp;&nbsp;uctoday.com"
         },
         {
-          "title": "The $130 Million Problem That Is Hiding in Your Calendar - UC Today",
+          "title": "The $130 Million Problem That Is Hiding in Your Calendar - uctoday.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRC1weHc0MldDaEhaS3pKanE4YXhkUGNkTEpOa0NnNEpRRExrSnB3Zk9ybHBmQXZYUENVQjhIaFFTMjJScW44UHVwT3FEYm4xdjVnV1NSMFRwWHZ5TklBV3duUXlKVUVQd29sTmVWNVBZZ2NrOXJaejRBb2g3ZEx0dlZZd2ZmNmhuUmh3R0ktbTNHY2M?oc=5",
-          "published": "Tue, 08 Sep 2026 12:34:20 GMT",
-          "summary": "The $130 Million Problem That Is Hiding in Your Calendar&nbsp;&nbsp;UC Today"
+          "published": "Tue, 08 Sep 2026 12:36:19 GMT",
+          "summary": "The $130 Million Problem That Is Hiding in Your Calendar&nbsp;&nbsp;uctoday.com"
         },
         {
-          "title": "Otter.ai Privacy Case Tests AI Meeting Data Ambitions - UC Today",
+          "title": "I Interviewed a Deepfake: Lessons From Hiring’s New Threat - uctoday.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWhLMHJSSXVtR3l0cm9Wc3o5WDdhSW9mU1dCakpqaXRrTlNGcEwxY0pseDEzdFVCQy1IYk03eUVaMHdLQkhvSXBScUlBekw2eFc1TmlmZHRJaF9FN1FISEp4dXR1OEdtdFYwZkhzRHp1cmVtZFladFE0U2JOQkpPdWt3?oc=5",
+          "published": "Tue, 08 Sep 2026 11:51:00 GMT",
+          "summary": "I Interviewed a Deepfake: Lessons From Hiring’s New Threat&nbsp;&nbsp;uctoday.com"
+        },
+        {
+          "title": "Otter.ai Privacy Case Tests AI Meeting Data Ambitions - uctoday.com",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHTmlnZzRaQkVOczBYYWNvMEE1Ni1pcnFkeU9NME93X2FYWjROY3BlTGRGR1FCZkxVOGRjcm9OWmItN0VhNEdVaGJqMEY3TmYzbkVCdWZldHc3UGtXaGJST1EtQjV4Vkw3X2VtNzlBdUpyTGZsZUEtZFdjbHlSZw?oc=5",
           "published": "Mon, 07 Sep 2026 16:16:00 GMT",
-          "summary": "Otter.ai Privacy Case Tests AI Meeting Data Ambitions&nbsp;&nbsp;UC Today"
+          "summary": "Otter.ai Privacy Case Tests AI Meeting Data Ambitions&nbsp;&nbsp;uctoday.com"
         },
         {
-          "title": "UC Awards 2026 Spotlight: Introducing The EX Layer - UC Today",
+          "title": "UC Awards 2026 Spotlight: Introducing The EX Layer - uctoday.com",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jSFpmbGlkUkoyVWdXTzlHTTFXNDVnSEY4bVJoeHA5MjJyaFFBNmNaMFVBTkVBaHVrRTdhYWQwX2JMdHBCc3lEakNNOUY2VVVOR1RSdUtzdEVtbENHY19RNUstRVo2X0Z2?oc=5",
           "published": "Mon, 07 Sep 2026 15:45:44 GMT",
-          "summary": "UC Awards 2026 Spotlight: Introducing The EX Layer&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Why Connectivity Can No Longer Be Treated as a Commodity - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHJzYkc5X2h4RWxkbHlnampZSG5UbXdBMGowOUdZaVNiUEJPS2Y3amQ5MmxqbGJaWldGbUVnUEw1M29yS0VYQ2Z4UmF6N0h3TFF0V2pQM3k2Yl9xRndMYjZQYmlyRXhGamFsWFo5T1FVQ0dVNmRfb3lodkRSdnNBMWhDVnF5Z0U4UjB0ak0xTUR6NWlw?oc=5",
-          "published": "Mon, 07 Sep 2026 09:33:06 GMT",
-          "summary": "Why Connectivity Can No Longer Be Treated as a Commodity&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Compliance and call recording - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZnhPWFlMR0puWnEtdFpXYU1iWGdnYlhYUWNlSWNqZmNYNWU4WVNKek5LbG0zbWtJbjhiOUNBQ0NtNl8zV3ptR0p1RExBUjVEbkxwWndFaEE0a05HbjZCUDRzeXNqUQ?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:22 GMT",
-          "summary": "Compliance and call recording&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Onboarding and enablement - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2WlZZVjhfa25INmJTYjlnSVl4RzljZ1V4UUo2UTN6RS15LVZfTnFhV1ZmN2xQX3RibG1rRExidEJUVU5PMnZ6dElYZnpiX2F6TVE3WmRmUVdXSHJWdmdJVHZhd0pWdw?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:22 GMT",
-          "summary": "Onboarding and enablement&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Governance for generated content - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uZDAxWEIxUk1PWGxENUNGN2dqOHlQMk1OS1dVX2VneVpCc2puQlJVRTJIRnBSY2RJV0tXTkFHMUdKSUc3UDVpTTk3ZDI5d1dBVnYzaHd6WnRLZUt2TUE3LVRkUmZBZDNiRHc?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:21 GMT",
-          "summary": "Governance for generated content&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Internal comms at scale - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WTFhCc0hOSlhqTmN6cGczMS15YTFNc0czSHl1a2pUMTE5VFRuX0hJYjZELWxxVkRFdTBUWUgydmYtOWJ6NU5oVGVJeGZubC1UUk1yRXpwUFFOeXpSTHItaXZISQ?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:20 GMT",
-          "summary": "Internal comms at scale&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Telephony migration economics - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LMzVqRmtBOHBHVFAtcDJfSDBaTEszMkFiejU5RFpEb0RmLWlqOGxFVXAyM0ZWZTR4N2E1b3V5cEF0QUV4OGo2d2Q0QWR5SEJjUC1lM1V4ZTdmUm8xMVFzcmI0UjhnVnV4MU9r?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:20 GMT",
-          "summary": "Telephony migration economics&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Data readiness for assistants - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxS3VPMlBhQTNwclhORjU5dGNCOTVQZ1ZneWU1RWZUMjVFbFBuU1F6cHRWN1ZMYlRWSVNPSzlfd19YTkNBVll3MElGZGpYWmhjYTN3LXJGUjAzQUhOOTljTVhxcmdBR0ozbVpB?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:20 GMT",
-          "summary": "Data readiness for assistants&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Data residency across regions - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LcVB5ZTB2SG9oa2h1WVVLRFhJRC1hSEhKTjFacmRMczk2NDQ2cGUycUpuYTlVbFJtY2NMeFVROUtSb1l2a1hOM29NYUkwT0tNbmV4UURHVUFubjl1a3c4TGNoTWFVSzdIa0c0?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:19 GMT",
-          "summary": "Data residency across regions&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "License sprawl and right-sizing - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NWm5HSXNYcFE2T2x5TkFIVXpQQVhtTWRsNHVRR0JRX3FjMkppeUhYZFFJZjlHclgzNWZmRkRUMEY3OGdqNjVvTE03aTZFdnFtVFFxdFlvN3Jyekd0Xzd2eEpiaWIwLWxl?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:19 GMT",
-          "summary": "License sprawl and right-sizing&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Device lifecycle and refresh - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zY295a3B3cU96eHlVeXdEZ2xaQU9wTU5oNUtWQWw4cVVSaHlxM1BTLVE1Zl9nekxUODJXS2h4Tm5JNzNqdWFlZ1hhblBsMTJiVUw4RjRqcnB3STVxMkpSMGNJZDR4VUFBRmc?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:18 GMT",
-          "summary": "Device lifecycle and refresh&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Personal devices and headsets - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KQ0w4WFl2elRlU1hUbVE4VE81NTZBUTgtVGxVSjVRTVpEa3RoWURRMVA1TTlKa1dEX0wwOTFyVHk5VWtBY2xFbDJrdmJGY0xGRUNGR3RZVWI2cHlHYzJzVDRGZ051dWlDSzhv?oc=5",
-          "published": "Mon, 07 Sep 2026 04:19:17 GMT",
-          "summary": "Personal devices and headsets&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Meeting equity in hybrid rooms - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lU3R2dzBUcGtjd0hCaUlJR09SSWw5RHRMTFBVVXF6eF9HREp0d2ZiQmdPblktZGpscVdDaDBqTHlCalhZR2w0bThHZ01KWFJfS1lRSDhRU2lUblZ1LVJGQmJGby1kd3lL?oc=5",
-          "published": "Mon, 07 Sep 2026 04:18:40 GMT",
-          "summary": "Meeting equity in hybrid rooms&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Booking and utilization data - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUZmFyMVBCUDAyVzRRYUs0TElmc2lOYlVzM2dhY3F2Y2IxY2ZTTzBseEtOVk4tN19naTIxdzBrYUFrNTQyYk9oT3NlSDJGeElKa09Lcm4yaFVvSlBpMkphLTBwR2FSR0lha2c?oc=5",
-          "published": "Mon, 07 Sep 2026 04:18:39 GMT",
-          "summary": "Booking and utilization data&nbsp;&nbsp;UC Today"
+          "summary": "UC Awards 2026 Spotlight: Introducing The EX Layer&nbsp;&nbsp;uctoday.com"
         }
       ]
     },
@@ -236,84 +248,23 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "SkySwitch AI Agent: Native AI-Powered Automation for White-Label UCaaS, Podcast",
-          "link": "https://telecomreseller.com/2026/09/08/skyswitch-ai-agent-native-ai-powered-automation-for-white-label-ucaas-podcast/",
-          "published": "Tue, 08 Sep 2026 17:42:48 +0000",
-          "summary": "In this Technology Reseller News podcast, Rakesh Unni and Jessica Campas of SkySwitch make the case that &#8220;native&#8221; is more than marketing language when it comes to AI agents it&#8217;s [...]\nThe post SkySwitch AI Agent: Native AI-Powered Automation for White-Label UCaaS, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Rightfiber Launches After Ritter-Great Plains Merger",
-          "link": "https://telecomreseller.com/2026/09/08/rightfiber-launches-after-ritter-great-plains-merger/",
-          "published": "Tue, 08 Sep 2026 16:58:14 +0000",
-          "summary": "By Moshe Beauford, Editor Rightfiber has launched following the completion of the merger between Ritter Communications and Great Plains Communications, creating one of the larger privately held fiber broadband operators [...]\nThe post Rightfiber Launches After Ritter-Great Plains Merger appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Other World Computing (OWC) Announces New Thunderbolt™ 5 Dock with Dual HDMI and Thunderbolt 5 (USB-C) Cables Now Available in 1.5-Meter Length",
-          "link": "https://telecomreseller.com/2026/09/08/other-world-computing-owc-announces-new-thunderbolt-5/",
-          "published": "Tue, 08 Sep 2026 15:39:18 +0000",
-          "summary": "OWC’s Roster of Thunderbolt 5 Solutions Delivers An Unrivaled Combination of Performance, Flexibility, and Freedom for Professional Workflows WOODSTOCK, IL &#8211; September 8, 2026 &#8211; Other World Computing (OWC®), a trusted leader [...]\nThe post Other World Computing (OWC) Announces New Thunderbolt&#x2122; 5 Dock with Dual HDMI and Thunderbolt 5 (USB-C) Cables Now Available in 1.5-Meter Length appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "How MSPs Can Build Recurring Revenue by White-Labeling the Vodia PBX",
-          "link": "https://telecomreseller.com/2026/09/08/how-msps-can-build-recurring-revenue-by-white-labeling-the-vodia-pbx/",
-          "published": "Tue, 08 Sep 2026 15:33:58 +0000",
-          "summary": "Our mission at Vodia Networks is to support the growth and success of our partners and customers, including enterprises, MSPs, and VARs. One of the ways we do this is [...]\nThe post How MSPs Can Build Recurring Revenue by White-Labeling the Vodia PBX appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "CIOs Carry the Blame for AI Failure, Often Without the Authority to Prevent It, 8×8 Survey Finds",
-          "link": "https://telecomreseller.com/2026/09/08/cios-carry-the-blame-for-ai-failure-often-without-the-authority-to-prevent-it-8x8-survey-finds/",
-          "published": "Tue, 08 Sep 2026 15:23:04 +0000",
-          "summary": "Technology leaders worldwide are struggling with an accountability gap between AI adoption and governance infrastructure CAMPBELL, CA &#8211; September 8, 2026 &#8211; A majority of technology leaders, 52%, say they [...]\nThe post CIOs Carry the Blame for AI Failure, Often Without the Authority to Prevent It, 8&#215;8 Survey Finds appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cavell Summit North America Returns to Boston to Address the Decisions Shaping Cloud Communications",
-          "link": "https://telecomreseller.com/2026/09/08/cavell-summit-north-america-returns-to-boston/",
-          "published": "Tue, 08 Sep 2026 15:18:10 +0000",
-          "summary": "Senior leaders across UCaaS, CCaaS and cloud communications will meet at Harvard University on 13 October 2026 BOSTON, MA &#8211; September 8, 2026 &#8211; Cavell, the independent research and consulting [...]\nThe post Cavell Summit North America Returns to Boston to Address the Decisions Shaping Cloud Communications appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Apple Expands AI Hiring in India",
-          "link": "https://telecomreseller.com/2026/09/08/apple-expands-ai-hiring-in-india/",
-          "published": "Tue, 08 Sep 2026 15:17:46 +0000",
-          "summary": "By Moshe Beauford, Editor Apple is expanding its technology hiring in India across artificial intelligence, data platforms, software engineering, infrastructure and manufacturing intelligence, suggesting the country is taking on a [...]\nThe post Apple Expands AI Hiring in India appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "NGMN Pushes Operators Toward Simpler 5G-to-6G Migration",
-          "link": "https://telecomreseller.com/2026/09/08/ngmn-pushes-operators-toward-simpler-5g-to-6g-migration/",
-          "published": "Tue, 08 Sep 2026 15:04:23 +0000",
-          "summary": "By Moshe Beauford, Editor The Next Generation Mobile Networks Alliance (NGMN) has updated its operator guidance on the transition from 5G to 6G, putting Multi-RAT Spectrum Sharing (MRSS) at the [...]\nThe post NGMN Pushes Operators Toward Simpler 5G-to-6G Migration appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Mobilise Moves From APIs to Full MVNO Platform",
-          "link": "https://telecomreseller.com/2026/09/08/mobilise-moves-from-apis-to-full-mvno-platform/",
-          "published": "Tue, 08 Sep 2026 14:33:49 +0000",
-          "summary": "By Moshe Beauford, Editor Telecom software provider Mobilise is giving businesses two ways to get into digital telecom, launching its HERO API Suite and HERO MVNO Platform. The products are [...]\nThe post Mobilise Moves From APIs to Full MVNO Platform appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cyara Taps New APAC GTM Leader as It Expands Regional Business",
-          "link": "https://telecomreseller.com/2026/09/08/cyara-taps-new-apac-gtm-leader/",
-          "published": "Tue, 08 Sep 2026 14:20:49 +0000",
-          "summary": "By Moshe Beauford, Editor Cyara is adding new leadership in Asia-Pacific as companies across the region increase their investment in AI and customer experience technology. The customer experience software company [...]\nThe post Cyara Taps New APAC GTM Leader as It Expands Regional Business appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "8×8: When AI Agents Fail, CIOs Own the Risk, Podcast",
-          "link": "https://telecomreseller.com/2026/09/08/8x8-when-ai-agents-fail-cios-own-the-risk-podcast/",
-          "published": "Tue, 08 Sep 2026 13:00:06 +0000",
-          "summary": "“If the AI makes a promise, it’s your promise.” In this Technology Reseller News podcast, Jono McKenzie, Principal Product Manager at 8&#215;8, discusses new research examining AI agent failures, accountability [...]\nThe post 8&#215;8: When AI Agents Fail, CIOs Own the Risk, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "How Enterprise Tech Awards Help Buyers Find Real Innovation",
-          "link": "https://telecomreseller.com/2026/09/08/how-enterprise-tech-awards-help-buyers-find-real-innovation/",
-          "published": "Tue, 08 Sep 2026 12:00:19 +0000",
-          "summary": "@Evan Kirstel, Special to Technology Reseller News Interested in being a guest? Email us at admin@evankirstel.com Read more from Evan Enterprise tech is having a weird moment: innovation is real, but so [...]\nThe post How Enterprise Tech Awards Help Buyers Find Real Innovation appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
       "items": [
+        {
+          "title": "Why Customer Intent Gets Lost Between Search and Automation",
+          "link": "https://www.cmswire.com/customer-experience/why-customer-intent-gets-lost-between-search-and-automation/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Tue, 08 Sep 2026 19:01:20 -0500",
+          "summary": "When AI shopping assistants skip straight to recommendations, they can solve the wrong problem fast. Here&apos;s the missing layer CX teams need.\nContinue reading..."
+        },
+        {
+          "title": "Your All-Green Customer Experience AI Dashboard Should Worry You",
+          "link": "https://www.cmswire.com/customer-experience/your-all-green-customer-experience-ai-dashboard-should-worry-you/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Tue, 08 Sep 2026 18:37:20 -0500",
+          "summary": "A flawless AI report is either a miracle or a warning sign. One rigorous study found both gains and damage in the same rollout.\nContinue reading..."
+        },
         {
           "title": "Observe.AI Launches AI Coaching Agents for Contact Centers",
           "link": "https://www.cmswire.com/customer-experience/observeai-launches-ai-coaching-agents-for-contact-centers/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
@@ -334,16 +285,28 @@
       "name": "RingCentral Blog",
       "items": [
         {
+          "title": "What is a hosted contact center? A complete guide for CX leaders",
+          "link": "https://www.ringcentral.com/us/en/blog/hosted-contact-center/",
+          "published": "Wed, 09 Sep 2026 01:21:26 +0000",
+          "summary": "How hosted contact centers work, how they differ from on-premises and cloud CCaaS models, and what enterprise teams should weigh before they buy. The hosted contact center conversation often starts with a familiar problem: the contact center you inherited may be built for a different decade. It runs on servers in a room down the ...\nThe post What is a hosted contact center? A complete guide for CX leaders appeared first on RingCentral Blog."
+        },
+        {
+          "title": "Banking chatbots: How to deflect volume and keep trust",
+          "link": "https://www.ringcentral.com/us/en/blog/banking-chatbot/",
+          "published": "Wed, 09 Sep 2026 00:49:51 +0000",
+          "summary": "Where banking chatbots cut costs, where they erode trust, and how to deploy one that does both jobs right. Your queues fill with the same handful of requests every day: balance checks, card locks, payment inquiries. Agents spend their shifts answering questions a well-built flow could resolve in seconds. Handle time climbs, cost per contact ...\nThe post Banking chatbots: How to deflect volume and keep trust appeared first on RingCentral Blog."
+        },
+        {
+          "title": "Financial services compliance software: 2026 buyer’s guide",
+          "link": "https://www.ringcentral.com/us/en/blog/financial-services-compliance-software/",
+          "published": "Tue, 08 Sep 2026 23:20:53 +0000",
+          "summary": "A practical guide to the capabilities regulated firms should weigh before adding compliance software to their stack. A regulatory audit rarely arrives when your recordkeeping is in perfect order. Examiners ask for a sample—or even a complete record—of customer communications across voice, chat, and text, and they expect full documentation instead of a representative sample. ...\nThe post Financial services compliance software: 2026 buyer’s guide appeared first on RingCentral Blog."
+        },
+        {
           "title": "RingCentral climbs even higher in the G2 Fall 2026 Report",
           "link": "https://www.ringcentral.com/us/en/blog/g2-fall-2026-report/",
           "published": "Tue, 08 Sep 2026 15:00:56 +0000",
           "summary": "RingCentral posted its strongest G2 season yet. In the newly released G2 Fall 2026 reports, our portfolio of RingEX, RingCX, RingCentral Events, and AI Receptionist earned these results: Featured in 724 reports, up from 592 in the summer Earned 176 product badges Ranked #1 in 33 distinct reports Improved standing in 247 reports These numbers ...\nThe post RingCentral climbs even higher in the G2 Fall 2026 Report appeared first on RingCentral Blog."
-        },
-        {
-          "title": "Multichannel contact center: How it works and how it compares to omnichannel",
-          "link": "https://www.ringcentral.com/us/en/blog/multichannel-contact-center/",
-          "published": "Tue, 08 Sep 2026 04:57:56 +0000",
-          "summary": "What a multichannel contact center is, where it helps, where it breaks down, and how omnichannel picks up the slack. Adding a channel is the easy part. Any team can deploy live chat, wire in SMS, and open a support inbox on social in a quarter. The hard part is making those channels share what ...\nThe post Multichannel contact center: How it works and how it compares to omnichannel appeared first on RingCentral Blog."
         }
       ]
     },
@@ -358,6 +321,18 @@
     {
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
+        {
+          "title": "Ticketmaster puts personalization at the core of its app - Customer Experience Dive",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1FlMHNWQ1VsXzlnRnNEZFRvcjlQWFFFZ1EzSXNnTXU3bXlLZkY2WUxGWU9XUWFENWZxYTBVY3FBdWJ2MUswZTBFd1hYUHppNGdhSXVaX1R6d3ppQ19nRlNtc0pyTnBwQnY0M1lobEhKUUJSZmVZTWRjVG1SejBHZ0ZSZUdMcGNxaV9GY0g1ZDBQZVU1bVp1dm12SnF6bVh1QjdVM3lNX21MYVRj?oc=5",
+          "published": "Tue, 08 Sep 2026 19:11:14 GMT",
+          "summary": "Ticketmaster puts personalization at the core of its app&nbsp;&nbsp;Customer Experience Dive"
+        },
+        {
+          "title": "AI in customer experience - Comms Business",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMW1qSFdfbGJIa0xmNHZpZmVaYV8tWFBhZG9vRC1jZ3BIdnhxTGhNQWlieDlVSE1XLVByZGZlWThJZEhhOFBqclVVUjJiblpXTUZiVE5HRThCSDI2Y0o5QzRWVVY5cVJCaUNCeHpMS1hHZzNkVlh5bS1uQ1VjelJ0enZn?oc=5",
+          "published": "Tue, 08 Sep 2026 17:34:11 GMT",
+          "summary": "AI in customer experience&nbsp;&nbsp;Comms Business"
+        },
         {
           "title": "How Domino’s app redesign went wrong and what CX leaders can learn - Customer Experience Dive",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHRzdDZ6OXlOVVZaZ1Z4NjJ5TGNRVnNWYndvcVh0djNUYUpoeDJ0NHlZaXp5bmZfX0JVOHpxck95Y0tfVFF0Q3hhSlFGc0pyc3lWM2pTT1Zkc2dDZGNJUDNDY0hzcGhyWXM5MmJfQTUtQmwwd1ZLa2Y1blJOOFBVOHBpNlFuZzYxQmp2YTI5b195dGEwUkpjT0lnM1ZIRktuUEt6UkZXNDRDVmdvblRUUG9iSFlSTTJW?oc=5",
@@ -375,12 +350,6 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDJ2Qk50U0xMOXBmR014dU9WQUhVTkVCMTRobl9ERy1idVhpS19LMHpETWxDN2cteXF3RTN1Nm12djM3b1JKM29JbkpqWEo0Nk5tVXJvODhzaVE1dUZIdFN1SURrVnlOakFtWmhsYzI3Y3JrQThfVnBDVXRlVmxObW5pemsyb1JmR0pjSHFsQ05seTlOZi1rVjN5TjhZczJpVWtOclFkLWtUR0ZhOWxkSFhRQXluaWhWNTh6Sg?oc=5",
           "published": "Mon, 07 Sep 2026 10:45:51 GMT",
           "summary": "Customer Experience Management (CEM) Africa 2026 closes on a high with a strong community response&nbsp;&nbsp;Africa24 TV"
-        },
-        {
-          "title": "Customer Experience in the AI Era: Why Enterprises Are Redesigning Every Customer Journey - Silicon UK",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0M0STJ4UkhfTU1qY1BuQXpOdUhhbjNRaGNuZk5LNEI1YUJZWURqbWRtb1lZUXcydWFpcmY1X3A5TU1RYkRkWThyWFd2UlNFaFY2emRpbmRzQ0NYYUZRSlZSajJ3elQwMk1uaWhGMDluR0luQ094aTRaX3ZyRDZXYjhSZXNYMEYyTjlFWlg0NzRtSnktVXg5OTFPNm9GWHZQbU9majF1cmZUQlNBWXg0LWFtNGZmcEFnSGtGYURuU01Qd9IBxwFBVV95cUxNVkQwb0NxbW5najZkWFhneG81RGVJN3B5al9SZkFJTFk1RW4yM2g2OWRsQUIxQlRLS2ZCX3lZVzQ2a3hOeDlHX3Jod21sR19wLXd5SU45dllJSGtubHM0NVJSTDZ2dkFkb3RyRUZDMkE5b0t4dU9nQjhoaXZuazJBVWJFM0JQcmtuUnc2aHl4cU05ZUMzZzdEWW1Ua1puM25ubGNEckV0NUYwNE1yLVh4NjdNZ0lLRjhxMUhoVXhIZVhyOXI5T3hR?oc=5",
-          "published": "Mon, 07 Sep 2026 09:56:45 GMT",
-          "summary": "Customer Experience in the AI Era: Why Enterprises Are Redesigning Every Customer Journey&nbsp;&nbsp;Silicon UK"
         }
       ]
     },
@@ -388,40 +357,106 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
-          "title": "Channel 4 in 'multimillion' pound data and CRM investment - Campaign UK",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWllbGZ1eEFvQUt4Z1ZMMzNYalkyWE1TVkFnTTZGUW5YWTEyaWFKY3VSc1NTVkNlblF5eWlNWVdmMmQwVTdlRktrMF85WjNtV0l0U2FTenZWNzJiWDZJaUNDcVVsQTFrTVYyVU12enppVm5mZ05yemIyNlZlMGU3TFgxX0lqREtCTnZPUElkMTZXTU5acVRhbGdLOFVZaGo0YXF1Ui1JQ3o1N0xGNWtnc2w1cDN5YUt0YXZrcEpB?oc=5",
-          "published": "Tue, 08 Sep 2026 16:51:15 GMT",
-          "summary": "Channel 4 in 'multimillion' pound data and CRM investment&nbsp;&nbsp;Campaign UK"
+          "title": "Gstaad Palace selects dailypoint as provider for guest data and customer relationship management solutions - Hospitality Net",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTnlXZVdDUHV2Mzh4d0ZCRnJSRXp2LTVjc2loZDRNZ0FVQmhXU3BfQmkwMTNXUDNJT21GbFplRzNPNFB4SUQ5M3o0dXQ2amZXQ3hhVDJaSXhoMmxnUGx4d2JwMG96Q1M5YlR6R3kySEE0NDhfTmpGT25YQTRPd2wzeUlLdFN3bmJFT3NWdXpiTG5sWm5mSnFub09MbW1wbDJkMnRrYTRWWVRPVXdiVlhWNXBzSndEQktxZzk5R09zdFNFZE9Gc0ltTDRMdmtacnVmWTh2S1FaYjZCSEczcUxGU1JPWFI?oc=5",
+          "published": "Wed, 09 Sep 2026 09:39:31 GMT",
+          "summary": "Gstaad Palace selects dailypoint as provider for guest data and customer relationship management solutions&nbsp;&nbsp;Hospitality Net"
         },
         {
-          "title": "Flycore Appoints Christopher Warren as VP of Engineering - afm.aero",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBieE1ONFBfRXVheHZVM25rY3ZaZGc3UWQ5ZGZ6VjRTbmJPZTVZUC1LbjB0M0RaVFNQWFhiYlk1Tk1vT2hYSnQtUUwzb2I2NEVZVzNQVGxobUhwU3BMT2VtdnZkdU5naUFrTWxkaUZRWnd1ZlVqSnpEdU52YUlKdw?oc=5",
-          "published": "Tue, 08 Sep 2026 16:45:29 GMT",
-          "summary": "Flycore Appoints Christopher Warren as VP of Engineering&nbsp;&nbsp;afm.aero"
+          "title": "Waverly Advisors LLC Reduces Stock Position in Salesforce Inc. $CRM - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXpDN00wTVotSmg2ZGxWU0xOWUJvcHgwTjEyaG40ZWVQcVlDZ216OGNCMGxFRTQ2Z2h4dUlxMFE1Ny14elllMnlHLWs4a2o0cHlnTmtQSExfaEpocThSUEc1YnliWVZvV1ZVQUJMeHI0ZG0xUnVQbkhvU3FiemFkcW5ndEdWLU4yelFxX09oZmpCdmc4MEZlWnBtME03UThVdG5tbnp3cnM5NHRERHdTaVpPOXU3cnc0bUNubU9WZWJHSl9w?oc=5",
+          "published": "Wed, 09 Sep 2026 09:31:34 GMT",
+          "summary": "Waverly Advisors LLC Reduces Stock Position in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
         },
         {
-          "title": "Dealers Adopt Solera AI Sales Coach to Turn CRM Performance Data into Smarter Daily Coaching - GlobeNewswire",
+          "title": "Are Your Marketing Metrics Telling the Whole Story? - Athletech News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1FIV0VNQmNGN3pMU0Ztdjl3czFSSnM2VGt1YnZmM2dsaFNmeThvdW1FTkdxbFZiR3pyUXl4ck1fV1I1MVJELUJGY2ZzcEd6ZGZuclhBZUlaOVZlWHd2N293Y3FnQzlnYXp6WHZYY0FUSmZIZmJSenFaQkNxQUlkdDNYYw?oc=5",
+          "published": "Wed, 09 Sep 2026 09:30:41 GMT",
+          "summary": "Are Your Marketing Metrics Telling the Whole Story?&nbsp;&nbsp;Athletech News"
+        },
+        {
+          "title": "Community Bank N.A. Boosts Holdings in Salesforce Inc. $CRM - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1hHQ2wwcE1sUGlLRGVmbG1EZ1c0YWtuN3ExXzgyTFBhMEJmVmsxUjFTY0tMcFI3Q1ZhZ3NHcC1jOWFPdk1IUjZZNU1jX3hDc3pNazItdHc2bV9mbWFiWGk2WHJBV0xxbDhxdmRld1dkSXBvazhwbER1RkRVLTA1OHUwN0R3bk5sNGlFcUlqbF9KXzV4TkFwUG5FbkJSWHk3RTh2QTd6VjZCc1MzdmRvQ19SYTdJZDA?oc=5",
+          "published": "Wed, 09 Sep 2026 09:03:16 GMT",
+          "summary": "Community Bank N.A. Boosts Holdings in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
+        },
+        {
+          "title": "BetMakers names Xtremepush CRM partner for Apollo platform - europeangaming.eu",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV24tSWgzTWhVYzJSOEZKZDBBOXZsQ1gyMjJkZDRuZmZBTUFYNXJmeG56cS1UbWcwY3czUm1JY04wZTM3R1B5VjVYMXpHR2poR1FxNXZvZmg2Uk0zbUp1QjR3Z0ZYT1dDY3FxTXdhOGpvOUxlTWpfVU5QbDlZWHU5c01mZ29ubHU4X1RvVmhnRXA3OVpseENLQWZ4YV9ldFpodmFaRzNQYTgza1Job0E4?oc=5",
+          "published": "Wed, 09 Sep 2026 08:29:46 GMT",
+          "summary": "BetMakers names Xtremepush CRM partner for Apollo platform&nbsp;&nbsp;europeangaming.eu"
+        },
+        {
+          "title": "Salesforce Inc. $CRM Shares Sold by Beacon Investment Advisory Services Inc. - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmlBckJaTU44dVVHek55QXBpeUNQWm8tdW94VkZPQWRWalE1ZWJadTlKOHJXaVZXQ01oa0pOTWVIVGowbmRTUWpNRTcxYWhmZkp5SG5aelNoYWFOalRrNk1JalhrZDkwa29ZdlBWZFFKaEdJTmp0NXk0dVJsaGNCYXY3WE9iMnNZWHdkLV81Y0xMcU8zMF9UbFhrbmZjdGtYcnZWSmRrdGstbm9Ea3o3VzdkX1Naa0Jla2VwR0ZMZHBOOWFsenZBcjJPU1VDdnM?oc=5",
+          "published": "Wed, 09 Sep 2026 08:23:10 GMT",
+          "summary": "Salesforce Inc. $CRM Shares Sold by Beacon Investment Advisory Services Inc.&nbsp;&nbsp;MarketBeat"
+        },
+        {
+          "title": "Salesforce Inc. $CRM Stock Position Trimmed by Groupe la Francaise - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmZzeEFvTk1OcnVIVmxJY1o4ZVlPSjNBdFBRam9zMURLbXpUc3p6bVE4Z2tZS1duMWk2RkhSaHFteEN0ZEtQMjNRemZNTkZRN2tGWG1pWlRNM1JRUk81NVZQeDRzR1R5YVpaU1hZbVF1VU40OGhna0wtdGFqd1hJMGZNMzQzdzlweExrQ0o5LTQ3VlVCZ3dhNFZqOFRQcGw3VTNQaGlGQ1N3LXo2NWQxQzFYbDFYRGtsdmxWSW5lOC1qRjA?oc=5",
+          "published": "Wed, 09 Sep 2026 08:03:04 GMT",
+          "summary": "Salesforce Inc. $CRM Stock Position Trimmed by Groupe la Francaise&nbsp;&nbsp;MarketBeat"
+        },
+        {
+          "title": "Amwhiz Delivers HubSpot CRM Services To Businesses Across Global Markets - outlookbusiness.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUW5IWkh0X0ZObFlTY1VmN1pRTE9pZWdJLTdVNl9HazE2djlRQTRUVVJabUd4YzlPZ3lTTlhhYlBZSWFvUGR5QWN0S19sQmNKaWh6X19LV1EtN3NpMzc5U2dyWE9MZlFHQzBfYkVwYjBoRVU3Y29BVHpGSVpuSFBLbjBrZy1odThHcEhSOGpOYllvVlBuVTVueFFfU2NkcnVpcTQzcVpuQ0c1cS11aWg3ckM3cXRTQkV4WE1Fekt2X0pzd9IBzwFBVV95cUxPbmh2Ym1zU0VRYUpBMlhvX1R4Q216Z0RZN04wRUNHLVFGemd3cEthZUNGWHNTZU1KMUJrdTQzYWpXY2ZwTWNHR0hJaDNGOTJRN09fV2Flei13MHMwbWtHR0djZ0k1WVdFM2ZBeHpQVEFXMUtMRkxfSDZGcUhRT1FDZmk4SkZxMXFhRUpobkU2Qjd1a1loSGdnMlVfaVBmNi1EOTdLM3JhMnhaWm43bFZCWTNoNThHZzVHdWNBNFc3Y0stMTFyMkRoNzJwZDBmdm8?oc=5",
+          "published": "Wed, 09 Sep 2026 06:54:09 GMT",
+          "summary": "Amwhiz Delivers HubSpot CRM Services To Businesses Across Global Markets&nbsp;&nbsp;outlookbusiness.com"
+        },
+        {
+          "title": "Healthcare CRM: Meaning, How It Works and Benefits in 2026 - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnU4Vkp6eXVTZ09iLWJlSXBJS25LOWRhd0VUc2NqQV9WRDN4bzJraFh4eVpSVmtBeEJLTHExcHFxNGpXdjJqM3R5bk5iVW5hMngxMkJaTWFFZnVnOHgwV1Z2aDZUdXpOcG5kc21maHdESFRDTDQzR1VOWVpGaS0wTmxydWJtcldf?oc=5",
+          "published": "Wed, 09 Sep 2026 06:46:04 GMT",
+          "summary": "Healthcare CRM: Meaning, How It Works and Benefits in 2026&nbsp;&nbsp;TechBullion"
+        },
+        {
+          "title": "Vulcan Value Partners LLC Lowers Stock Holdings in Salesforce Inc. $CRM - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFllc2xCUWNsS2UtU0JNam5JbHZzOWtwT2dURVl1VXVfVzFXSVVTR05YVmlsQ2d2N1ZjTlpRUm1XRjMyTnBnTzVHNk9WblpCajhXc2p1SnBZWEpmLVB6elIyQ3Z0bTBTZGNCQnZYdldUY0xCSHVTZy14T0cwczZDQ2ZPamdDTkxLU3hDQzJycHMycjJ5RTRyQTNsQ3JBeHlHdGRoYllaU2I3cWJGaXpnOHlJeEtsdFFxRFNVSDR1bnNVc0FYMlExRWRB?oc=5",
+          "published": "Tue, 08 Sep 2026 23:35:05 GMT",
+          "summary": "Vulcan Value Partners LLC Lowers Stock Holdings in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
+        },
+        {
+          "title": "Salesforce Inc. $CRM Stock Position Lessened by Veritas Asset Management LLP - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEtMR1pFUjU3Z1kyMWJzckdiZTdleVpXVmhVejhzMHI0NWhXcDBySWIwUnNDeXFlVUwyVFJ6bXdCSDdqczF0ZHkzaXhmU0pwUHBNZVJubHVWY1FqS1JKYy1RWElvcm5BaDdHV2VnOThPYWhGUll1QlAxQW9fY1YtOTBTc1pUdGpsaFZZeHVrTElNZTZhWnVNeS1TajZhdlQ1SVlpcDF4S1F6ZXcyQndCSHpOQnhGUXZtOEFjUTlrZ1JCZlNCWjdSNzVoNHhxbkRE?oc=5",
+          "published": "Tue, 08 Sep 2026 23:35:02 GMT",
+          "summary": "Salesforce Inc. $CRM Stock Position Lessened by Veritas Asset Management LLP&nbsp;&nbsp;MarketBeat"
+        },
+        {
+          "title": "Access FS rolls out Elev8 adviser CRM - Mortgage Soup",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2empOMUJUNWVmQlVnVER5cGNhellZa2FpZnhXUzdJd3FCSmFuMU4tMlVadzdGTmFERnVlQzVDbmpodUNDRHhPRWVoMG93RnFacThlNXkxRXVmTkZOX2VpVXl3eWpyNDdFa29CZmZxUlgtYmc?oc=5",
+          "published": "Tue, 08 Sep 2026 23:06:10 GMT",
+          "summary": "Access FS rolls out Elev8 adviser CRM&nbsp;&nbsp;Mortgage Soup"
+        },
+        {
+          "title": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition - crn.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd21MdWVoLVduS2JwcDJtVk9lQjZkWnVrNlRVb3o5MF80OVZILUZONkVsUjRoZjE4alpBNTRKZWlhUmpXZnRWZ2UwQ2ZuVDl5XzdiSEVibktoWC1DOF8yNzNWTS1aUDJnSENLSnlfRkRxbk1lZkExbjJGNjVkY0l1RGlHb1Y2azVmdk5UdUVXUE5ySjRSc0ljVmVrTmxJZw?oc=5",
+          "published": "Tue, 08 Sep 2026 21:50:00 GMT",
+          "summary": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition&nbsp;&nbsp;crn.com"
+        },
+        {
+          "title": "Salesforce Inc (CRM) Shares Fall 3.9% -- What GF Score of 91 Tel - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1dzQzcyWURYNXRvczBSa3N3czMySy1rdTBDWG9BSFBZM2tXN3dEdzU0ODRnZ2xFSVFhcVUzUUNPY2RVZnVYN3duTDFkSVFnMlJVQUdCYVBwenNFUDYwZlJIcDk2N2NYRWJRUnotUHh6MlJkZ2Y5eUhNUlpTSjQtX0ZiRGVSdmlvYnBCX2U3VlVJMHVzUk8zMUFfZzZLVHN6NklRQkY3YWVTUGps?oc=5",
+          "published": "Tue, 08 Sep 2026 21:29:39 GMT",
+          "summary": "Salesforce Inc (CRM) Shares Fall 3.9% -- What GF Score of 91 Tel&nbsp;&nbsp;GuruFocus"
+        },
+        {
+          "title": "Why Has Salesforce (NYSE:CRM) Staged Such A Sharp Comeback? - Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0pGUnZDMUJ3bDdBTlJ1TkJCTjVQZDZPTXl6bGdReGhGYmdOWDQtck9ucFJCajNUTGljNU1SeW5xbFFFLUpBYkFaRjFiOWIxR3ZOMTRiVVdyUWo3SVNpbGtJMVZvVHB0QVBGaVcwOTd4ZUxGbDBjcVJIRmtXbllfclNRYUtSUWJnSXVwdGxRbEhkMENIcjRXekMzaktoYTN5bkxz?oc=5",
+          "published": "Tue, 08 Sep 2026 21:03:00 GMT",
+          "summary": "Why Has Salesforce (NYSE:CRM) Staged Such A Sharp Comeback?&nbsp;&nbsp;Kalkine Media"
+        },
+        {
+          "title": "Dealers Adopt Solera AI Sales Coach to Turn CRM Performance Data into Smarter Daily Coaching - globenewswire.com",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbkxpUXZUaUtMS2RQMXdfMllibkN6RlNuUjYwRTRsYk1ZM1hMSTNtdmJYM2kxNjluRXQ3anY0RDNmbGhVSHo4TEVaeVRaLTVOeDBaMEs3Y0pNeDJSUFJ6Z2JhVS1vTDA1UE1LWWNKQXBVUVU5UnRjeUt1Y0xxX2lVVzZEWU1Uc2FZMXFESVV6akpUWnBiNUVtQ0NCQmpQeEdZNjUyLWRRVlRyeWticmE1ZTB1NnAzRVFKVUs2Zl9IdzFDdThnRWZLSFhaTzhkaVJtdDJpNW5xRm9qRnIxd0NCUmFhVVZJVG1RX1NxUFBSUDAxREtPS1dj?oc=5",
           "published": "Tue, 08 Sep 2026 16:11:41 GMT",
-          "summary": "Dealers Adopt Solera AI Sales Coach to Turn CRM Performance Data into Smarter Daily Coaching&nbsp;&nbsp;GlobeNewswire"
-        },
-        {
-          "title": "Dealers Adopt Solera AI Sales Coach to Turn CRM Performance Data into Smarter Daily Coaching - The Spec",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSGlnMWpBeVVDNmNSSUZKYTVscmgyS0dvNUxEUWdvdUczZk9xS0RsSmJnYXp5ajNDek56MzN1U3ZqcFJaZDFWT1lpWWpFX2ZQbGZBdmxDd0FWU092ZkZLaDQ0SWgtS0syTjZqejd4OVZJQ0c4aGN1ZTdGRGhhTkdnQUs3OHVqZ0U5UTljNmlfSzBzZTZLUndLTFFCcWxDZXAzNnExX1Z1MHZiS3dFeHpPSWpuQ0VfenRMM1N1RUJwVEtmaERmX1ltVXQ3Z254NG9uamlCM3lCbDFZWjdtbkJjSmN1S0pycjhWR3pxbW1uMUVIX1hzTE1kR3F0aEp4eWNFT2pRUmFfYmk?oc=5",
-          "published": "Tue, 08 Sep 2026 16:11:41 GMT",
-          "summary": "Dealers Adopt Solera AI Sales Coach to Turn CRM Performance Data into Smarter Daily Coaching&nbsp;&nbsp;The Spec"
+          "summary": "Dealers Adopt Solera AI Sales Coach to Turn CRM Performance Data into Smarter Daily Coaching&nbsp;&nbsp;globenewswire.com"
         },
         {
           "title": "Tealium Customer Data Hub Roadmap 2026: Is Governed AI Context the New CDP Battleground? - CX Today",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iWGUxbms3YVJoZlNJMmtWQWtRZlM3LVFkZVVrU1I1dEtKdUExdTJwcnpYTG1TeHE0X2tWbVducmJpYmRzRFBzWmJCYlRLdU1XTWtvUVlicVhJUDlyRHBsNEVwbW0?oc=5",
-          "published": "Tue, 08 Sep 2026 16:04:05 GMT",
+          "published": "Tue, 08 Sep 2026 16:03:35 GMT",
           "summary": "Tealium Customer Data Hub Roadmap 2026: Is Governed AI Context the New CDP Battleground?&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "The $400 Million Admin Tool - salesforcedevops.net",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2FlU05yYS1mRE1XcWR1bGoza2ZuQ3RHaFBJZllxOHhnX1Y2S0g1b1lnbFRzaTJ6cDIwd21JRjFxT3E0MFpIcm8tb3pld2hId2FlYVF3RkN4WGpZeDNGRTBqd181TE5sTHFaMmZab3dSOUZnc09ZRi1nVjYyLXNULTc1OA?oc=5",
-          "published": "Tue, 08 Sep 2026 15:02:15 GMT",
-          "summary": "The $400 Million Admin Tool&nbsp;&nbsp;salesforcedevops.net"
         },
         {
           "title": "Salesforce stock falls as investors appear to take profits amid a broader rate-driven software selloff - Quiver Quantitative",
@@ -432,32 +467,32 @@
         {
           "title": "7 Best Lead Tracking Software for Sales Teams in 2026 - TechRepublic",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByLXY0RlZWZlEyeVF1Wkw4U3E3UWR5VXpqNDBRQlBwaWhOMk9pV1RsOXVNaWdWYlFrU2M5c0ttMzZRNjJqU2FMRURhTl83RkVaNUpBR1U0enhqVDJlUnJFN1dXVDJ4dVhMVXBEeXZKdTBOOTQ?oc=5",
-          "published": "Tue, 08 Sep 2026 14:14:21 GMT",
+          "published": "Tue, 08 Sep 2026 14:15:05 GMT",
           "summary": "7 Best Lead Tracking Software for Sales Teams in 2026&nbsp;&nbsp;TechRepublic"
         },
         {
-          "title": "Before You Chase Salesforce’s Rally, Take a Closer Look at Its Latest Earnings Beat - 247wallst.com",
+          "title": "Before You Chase Salesforce’s Rally, Take a Closer Look at Its Latest Earnings Beat - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDAya1JLdjhWaWxCUW94eUVhd2EyaE15N0Qxam1PU0lQQXB2eDZYZDU2RWRjSE5pTWRpU2YyZ1M1eVg4VTBzZmFiMU5iYnZFUURabzcxTjF4dDRiTXFQekZ3UzBrbnpCRnd3dzg4Y1R2d3NaZ2FKLTVkYmVBbzZUUTNOM3dEZGlPdXJodzNTUWw2dVVzZTVKSlVnVmZBY3M0Njh4aDlwVGlvUHhFWXFDNVkxTXlNOEl4aGxIcnRTbkIxNm8?oc=5",
           "published": "Tue, 08 Sep 2026 13:37:00 GMT",
-          "summary": "Before You Chase Salesforce’s Rally, Take a Closer Look at Its Latest Earnings Beat&nbsp;&nbsp;247wallst.com"
+          "summary": "Before You Chase Salesforce’s Rally, Take a Closer Look at Its Latest Earnings Beat&nbsp;&nbsp;24/7 Wall St."
         },
         {
-          "title": "Salesforce Stock Gains 34% in a Month: Time to Hold or Book Profits? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSU94aGhCRl9hTm42eVN5dnE1T1dpSWRNeUo3VWhFMDF2VERjWkZwb3RSQnhqYnZQNmZBUXBmSUYwZmhlaS1PX2hjZ0EyRk5UVzhaMnJZNTdXQWJsX1hBaVQ4Zkx2RTJvcUU5WVhubmdNaFdhOUtuUUhnNFdGWE9YX0RVaWNBZG4tUGV3WG1tMmFEUGp2ZzNsYTVhTUViRURFelFCOE1ud2ZPTk9PU2dTMm9POEJQMkdxQVJGV2Fn?oc=5",
+          "title": "Salesforce Stock Gains 34% in a Month: Time to Hold or Book Profits? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUdTaWVlTWNvMFJUTFZ1V1pycHZ3ZHBvbG9GdjFIbGpFMEdqMXQweXhzTG5nazlMWlVQTWZkejU5M1g0eDZHV0g5NWZ4MXVHZWpxYV9Xdk1Pd3JuU2xjSnQ5N095Sk5vWmROc2xWTVBEempidVIxRy1ndmNWMEx5VXZoNFhLRVV2TmtjU3o2cVc3bW81TzJpRHZEbmo?oc=5",
           "published": "Tue, 08 Sep 2026 13:06:00 GMT",
-          "summary": "Salesforce Stock Gains 34% in a Month: Time to Hold or Book Profits?&nbsp;&nbsp;TradingView"
+          "summary": "Salesforce Stock Gains 34% in a Month: Time to Hold or Book Profits?&nbsp;&nbsp;Yahoo Finance"
+        },
+        {
+          "title": "SBC Summit 2026 Hosts Digital Marketing & CRM Academy - Canadian Gaming Business",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlBwbWRxOGRZd1JfWlN6VllHMXFWUGxnMVBOeGxSSzhzamx2ekZtZ3FQQmg3NGhEWHg3Y3NfQk5NRTNuNHdPZll0MGtxY3BFdW5KSENOcTlCVTVXVjdLQThid0cwZzM3TURVZVJ2ZTgxZTRaVExvTFMzeWs4OVhTYzhfUldRS0o2OURjQnBITC0?oc=5",
+          "published": "Tue, 08 Sep 2026 12:20:09 GMT",
+          "summary": "SBC Summit 2026 Hosts Digital Marketing & CRM Academy&nbsp;&nbsp;Canadian Gaming Business"
         },
         {
           "title": "SBC Summit 2026 Hosts Digital Marketing & CRM Academy - sbcamericas.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CeXJUSHlvaFlXaE9JSGxmRE1FVnZTQll2R0FpOVBMWVpLMHREWGlMZUs4WjVJUTlDNHRNNDRSQ2ZlVU5OQVZ4UGM1RWE0Z2thZC1VVGh0RFJMZ0pIZzRBYUhkcHM1U0Y1VkJfRU9TMTdGXzJaTnpRdjJFYlXSAYIBQVVfeXFMTVZfSmpqYlR0Um1oN1FmdktoQnBFTERySkVBZzFCc1c3WklGdm1wSXZ1aDVpR05sQ2RBbVhvVDM1Nk5WbERFdnNvTFNUcWM4S01wNzBhWkNXaG5fSmdIMHZUTDBQSXBBelFvZnVVUGVGbUhrMzJHMlNIZmJHNHZ1QlRDZw?oc=5",
           "published": "Tue, 08 Sep 2026 12:13:14 GMT",
           "summary": "SBC Summit 2026 Hosts Digital Marketing & CRM Academy&nbsp;&nbsp;sbcamericas.com"
-        },
-        {
-          "title": "Why Salesforce Stock Skyrocketed 40% Last Month - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3pRQW1JMkQ3VTQ2SXI3SUk3YUdjRnc4dER3MEdaa3RCWVg4MlBUaXVGcUJwakp3c29jQzZ0eTZGQ0ZJSU1iSTY2NE5fa05kdzRVdUFQZWZqNnZhbzM1YnNSaVlKVmZ3djdyblpyS1RnMGt1NWVjWWtRYTB5UkFuTm5vZkNENHQ5ZDVwVFpWaUd1UUk?oc=5",
-          "published": "Tue, 08 Sep 2026 12:00:00 GMT",
-          "summary": "Why Salesforce Stock Skyrocketed 40% Last Month&nbsp;&nbsp;The Motley Fool"
         },
         {
           "title": "CRM Looks 23.9% Undervalued on GF Value™ - GuruFocus",
@@ -472,18 +507,6 @@
           "summary": "CRM DCF Analysis: Intrinsic Value $526 vs Price $259&nbsp;&nbsp;GuruFocus"
         },
         {
-          "title": "Why Salesforce Stock Skyrocketed 40% Last Month - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUxZT1I0cmVQek1mSEN6OE5hYUxNVVVDQUU5SkpaM2huZUF5bXh4aFpUVUY4Zmw3d2s3dzhQdmRuTnFPd1N2SzQwZzc1TDRGUlBKMUhoQ2k4NE84QVQ1eDBKTFRfdm9wQ2plT2h4akpLaHBuczVKcFp3TnpaTVAtNGladldUalN6MnJhLXlLMzZPeFNOZlpYdnBYdmt4UWNhblE?oc=5",
-          "published": "Tue, 08 Sep 2026 11:20:00 GMT",
-          "summary": "Why Salesforce Stock Skyrocketed 40% Last Month&nbsp;&nbsp;Yahoo Finance"
-        },
-        {
-          "title": "Ashapura Softech Expands Salesforce and AI Capabilities to Help Businesses Build Smarter CRM Operations - Issuewire.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVGFlQzdQSnM4b1hwWDZ0WnBwWkFod29KUTZZcjlxTnlESW90SHVZQmdySU5FWFZnNldqQmZlZVl1SGlJM3VnNE1JbENHcTYxTDJtNUszcW9Ec05xcUpfYUVCZXRBSFpxZ0FSWTFha0FGRjBUZzhDbXFhYUlEZGRkOWt3a3VabGVSb21SbTgzNm0tb0NuZWlxS3VuQmcwUjhYd1JWYkZ0a3dOaG5wTXhYby1hZmNfUGU4RWhzdEdOdUhTdkpZdUJOQXdvRzZpekkzMlo3dGplLU1lVkpQVXpz?oc=5",
-          "published": "Tue, 08 Sep 2026 10:13:56 GMT",
-          "summary": "Ashapura Softech Expands Salesforce and AI Capabilities to Help Businesses Build Smarter CRM Operations&nbsp;&nbsp;Issuewire.com"
-        },
-        {
           "title": "Wedmont Private Capital Has $1.98 Million Holdings in Salesforce Inc. $CRM - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZE5GN0VtbnpwYjRjdmo5NjlodDcxLWtaaVNhbnBxcHVwLVZ6MExzRWdmUTFSTzRSaU9jQXdpWTFNUmQ5THkweU9CaG51M2t5OWZHc2RZcDlobWJEd2NmMWNYWEx0RGNkXzljN1JsajQ0dVlxbDN6cmk3U09RM19DWlgwcU9hM2JuU2lTOFh2aEZ4S1AyNkZjRXlKRlItdkNrZVBOQzZyTXFNU3ZiUlpQeUh3Z3ExdmtEdmlYbmR5UTVOU3VKZHBwdG5Hdw?oc=5",
           "published": "Tue, 08 Sep 2026 09:25:08 GMT",
@@ -494,12 +517,6 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1F5WDVFLW9JUjBPbzkxMTItdF9ZNmRyd1poTHpqNTVIaXlGMnF5eVBGUmZtVDBOdW1KcG1GcDYxeHpJdXVOZzBNbHVCWE9pRHpCQWlacXVXYlhUdGt4T241ZnlkZ0xPaFphSmprREU4VnpsemRhblJCcWRoNGU3cmt4Y2dqWFlkaWY5V0hoMExQMzg1cmJKVkFFNWNwaW00OGZHYmFfTVNuM0pScEFndkE4cVpOM0NudlkwX0xtQQ?oc=5",
           "published": "Tue, 08 Sep 2026 08:37:38 GMT",
           "summary": "HighTower Advisors LLC Reduces Holdings in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "Salesforce refreshes identity for the agentic AI era - 2026 - Articles - Transform magazine",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVhxRlBrUGtfX1Y3QndsWVNMZDUwVHJadWt6Qjl1V3FNektJVWVCYkpITHZoTV9sdWNlLXExcDBheWRqNE80Uk9KNzgzM1Uzd19NelFrWHRXOVhCU3lxVTk5c3R4Z1ZIRVRVcUdBMXNDb3FicURybUR6OGt0RU1sYlVITnNuRkNBcU1OdmZzRXVVWjlyRjllUEJ0cXNVTG5VdGFB?oc=5",
-          "published": "Tue, 08 Sep 2026 08:31:08 GMT",
-          "summary": "Salesforce refreshes identity for the agentic AI era - 2026 - Articles&nbsp;&nbsp;Transform magazine"
         },
         {
           "title": "Salesforce Inc. $CRM Shares Sold by HB Wealth Management LLC - MarketBeat",
@@ -520,64 +537,22 @@
           "summary": "Understanding the Setup: (CRM) and Scalable Risk&nbsp;&nbsp;Stock Traders Daily"
         },
         {
-          "title": "Follow The Dex CRM Discount Code: GET25OFF Crypto Portfolio Picks - CoinMarketCap",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uNXdRTl9XdFl5RXRCclo1a1lJMGFhWm5BQXgxdS1FQy1TQkZseExnNHh5dm1lWHRFVV9uZm5ESGF4TDNUNEhNNE9uZzRqenJNUFEzSjhPUEZvSHBOcEZhUG0xTEczQWxqNVJFYXN3?oc=5",
-          "published": "Tue, 08 Sep 2026 07:51:58 GMT",
-          "summary": "Follow The Dex CRM Discount Code: GET25OFF Crypto Portfolio Picks&nbsp;&nbsp;CoinMarketCap"
-        },
-        {
-          "title": "California State Teachers Retirement System Purchases 186,677,290 Shares of Salesforce Inc. $CRM - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQelEwMmhkOHcxM2ZReW0wSXh4MUlOUTlwSlZKb01aRFItTWNWMklZVUdGanpKSVlhZlYyeEVhLXpaT2h0cUdGTml1akh2bV9tS0JYYUVXbnpuZ3RXMklMTndSa2hNWUpyUFZYZzlveFB6ejBlRzg0UnFxZUV0VTdHMmNWcW5GaDV6ZVd2cmlTN21ISDBBMWNnZ3A3TlU4cm9jMm44TW5Qem1Dc2tfdVE3YXFacEZldzdIdHVsa25LNjBqeHV0elg5NTVndER6TG1WSG1jaGo3X3NoNzU5QjQ0cE95MGh4OVRk?oc=5",
-          "published": "Tue, 08 Sep 2026 07:33:22 GMT",
-          "summary": "California State Teachers Retirement System Purchases 186,677,290 Shares of Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
-        },
-        {
           "title": "Amundi Trims Stock Holdings in Salesforce Inc. $CRM - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFM2cUJnTjJyV2NiR0NEXzA3NlF3VmZ1TWVmNEZ6aG5fTEoyNE04Q3Z6TTJYRVpCVlBraDd0aGRjMWxfdXNDanhUY3ZhNnc2TWF3a0U5TEVibnlRaFQwbVM5YmZGcWlYbHBzOWpxTVJtV25TRGlIa0hVWklwdll1TWVITFdnWDZUZG5QS2VOMllZZllkUWtIY3hIaDZ0eDh0NVUxbW5LSnZadi1yaXhB?oc=5",
           "published": "Tue, 08 Sep 2026 07:31:33 GMT",
           "summary": "Amundi Trims Stock Holdings in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
         },
         {
-          "title": "The Future of CRM in Regulated Markets: How to Maximise Player Lifecycles - igamingfuture.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xTUUwV0I5bTF1eHhmeW00MnpLU0h4bW5ycnhJd0VCNW5uMHdLanNfb25mVFZpanJITV9ob3JmVlJxcDA3ekJKdFFCdUpjZGhlVk1xRDE0OTc2R0dnTURVcDZ5SmpwUnVOSEtKbjdWU2l6QlE?oc=5",
-          "published": "Tue, 08 Sep 2026 07:00:43 GMT",
-          "summary": "The Future of CRM in Regulated Markets: How to Maximise Player Lifecycles&nbsp;&nbsp;igamingfuture.com"
-        },
-        {
-          "title": "Strategic by design: Making EU development cooperation work for critical raw materials - The Hague Centre for Strategic Studies",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1ZVMwV19mZW5VeWxnaVJWSXNYVmk4aThZSlhuNEtJaThsWm1UbDMzR2xpTjhFcnNIU1dydzFPSUxBZGVGbkxJdXNoR3JIbHpmeVB2Wmd3?oc=5",
-          "published": "Tue, 08 Sep 2026 06:40:24 GMT",
-          "summary": "Strategic by design: Making EU development cooperation work for critical raw materials&nbsp;&nbsp;The Hague Centre for Strategic Studies"
-        },
-        {
-          "title": "Mria CRM Brings Customer and Sales Data to Atlassian Teamwork Graph - Issuewire.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3RoTFNoX0dWc09jNm1TSzRQTUE3THlKOHUyTjZKTldfLWR6cFhUY0JrRHB0aHhxOWU4Y1MwNHZ0TWxHSURFRndjMnloWlExTk84VnlwTDYzdU42LU85SllXaGl0RzZJNTVxdkpQRnZOeW04dV9SMkNXTjEybmJyZ3BvM1pSVDVodE8zdC10ZF9hOWRYbURXTVUtMDFfc0J3c1dOdHhPWXdBWldtVGdF?oc=5",
-          "published": "Tue, 08 Sep 2026 06:29:21 GMT",
-          "summary": "Mria CRM Brings Customer and Sales Data to Atlassian Teamwork Graph&nbsp;&nbsp;Issuewire.com"
-        },
-        {
-          "title": "Why Monday.com Stock Popped in August - theglobeandmail.com",
+          "title": "Why Monday.com Stock Popped in August - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWVtQUpjaHZsaVBlVU42ekN6VHZYMjFEWDdPS2hnUlBnZVh6cFVrWmRMV1hlQUVMaFhRQnR4UV92UEpJUklYM3M3cFlQcDlrX05TTWFPWU04NDBkdTdRUjFtc21PcTNuSUZZcExCaC1NcUluemF0d0daam1SRjZRQVhDajlNN2FfU3RId3kzNHVZSWR6UlktNUFkY1dQUWlTZS12THZIeUM4WjkzTEMzNUhZeTRjXy1LcVVkWjh3?oc=5",
           "published": "Tue, 08 Sep 2026 03:32:40 GMT",
-          "summary": "Why Monday.com Stock Popped in August&nbsp;&nbsp;theglobeandmail.com"
+          "summary": "Why Monday.com Stock Popped in August&nbsp;&nbsp;The Globe and Mail"
         },
         {
           "title": "Salesforce Puts Its CRM Inside Claude: Claudeforce Aims to Transform the Marketing Stack - portada-online.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTI4R04xU08ycm1OQkY4T2UzU2ktcG53bjdkeElaT0YxYm5xdnd0eHVibEtIbmFoQ0NpMEo0bWt5ZmNaWW5ReGZoRU9iMWhpYlo4clBjbU41WXJ6VzhKc0J0N2I1QVlpcjBCMEtsRTZLY3VocENMc2s4SFM0RllpUVhHTzJ3Ym1nWFBSV1psbm1SaU9lOVlJaQ?oc=5",
           "published": "Tue, 08 Sep 2026 02:49:40 GMT",
           "summary": "Salesforce Puts Its CRM Inside Claude: Claudeforce Aims to Transform the Marketing Stack&nbsp;&nbsp;portada-online.com"
-        },
-        {
-          "title": "Salesforce Stock And 2 Other AI Stocks To Own - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckxYbHdEdFp6akl6M2cxTkRVQUZlN2NpdzBOV0wxLTlmWVJnbm9UQmxYbG1RUzM4SHA4SWdYd0gzUV9pVmNUZ3lSalBTanVHVVlmenJoOW9YdmUtY2ttblNqX1QybDR2eVplQ3RtdEpZRHhkNnZwQWtIemtUVVozX3VsQ3ExZ3dka3RHU1JtaDZXTkRuU2ppcnpOX09NRXVxMzk1di1wRG00V3pyZkdqNtIBtgFBVV95cUxPMFQxVDRSYWk3M3ViSDd5dlpwUEotNVNzbXRGaGQyYk1aRjlFaWwzRF8wVFdBTllzc3I1YlM4S1M3Q3ZwOXUzcFdQTlFuZWVKWUNGVzhyY3lqUnI1bXpRZFZfSDdUaUFjMU16STdwLUFmVmdoWGxPVXRqc2dCeGxjcTh5RmMzODRPWXNOMlpjcTNDWmMzZUEwUXp5QUQ3bWlENjVSZzdQQ3ZVWTlTMXZDQWxEOFNnUQ?oc=5",
-          "published": "Mon, 07 Sep 2026 23:48:46 GMT",
-          "summary": "Salesforce Stock And 2 Other AI Stocks To Own&nbsp;&nbsp;simplywall.st"
-        },
-        {
-          "title": "Best Lead Scoring Software for Sales and Marketing Teams in 2026 - TechRepublic",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8taDMzUlpOcTk2TmhMZ295MVp2eDZUWWY0YUtJdjN4azhka3VaRDRwa0ItaTFHemZ2eTBOYjdVMGVPQWJZME9rOGxqT1FnVkdHMlRrNzk2RzFhQkpsbGRFcHJ1WENXbDZISjNwdW55d21BZw?oc=5",
-          "published": "Mon, 07 Sep 2026 21:28:26 GMT",
-          "summary": "Best Lead Scoring Software for Sales and Marketing Teams in 2026&nbsp;&nbsp;TechRepublic"
         },
         {
           "title": "Modernizing healthcare data takes more than a CRM: report - Outsource Accelerator",
@@ -596,24 +571,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmNZYkRTaGdNQkpSMEUwTmlkUVVrUEVJUk9oQUNLYmpOQmVubHJTY3VMM3d4ampqdUlSY01CYmVhQ1JraXdPa1Zib2dzeUIzaF93bkRKVE1LM1Nsa0dHeEZEb3BUczlMZW90Z1A3UDdCQVlrV2ZDZVpoNUhxRHdzLXEzdjc3RGEzbE9IenVid1Z1RmdHTVJPcXdXTkMyRmpxeTRGVlNocFZld1FYNzVBRmZRU2NkdC1uRmow?oc=5",
           "published": "Mon, 07 Sep 2026 11:31:34 GMT",
           "summary": "Salesforce (NYSE:CRM) Qualifies as a High-Quality Compound Growth Stock&nbsp;&nbsp;ChartMill"
-        },
-        {
-          "title": "Why Happlicant Tops the List of Affordable ATS & CRMs for Recruitment Agencies in 2026 - WBOC TV",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQalNqSTFXelhwZzU5WUVrSjF5eThaMTREdFJMVTk1U3RCeG55SWZreFZZNkc4NWttUExDRlRGWHZpamxpeTc5V09QOW9fcXJFdGp1cDJIOGlzRzZ3RkZ5T2VYa2twMXF4VzhQLVRkVUtlTGZYdmFlV0dSYWhlUTBaTUZxSkZrUXRBSERTOFVtUTY0SllvamhtczFyZ0JyaUZtVDYyQlJRVGNrdUFMNzZpZDhnTUdhSDBQWjFLTVJGYTB5Q1ZsMzZvQVhYRGdseEswMjdScEVFZzIxc2ZmaGZPb0t0Z0FOaFlRMUZhOTZtVzRzaHFBaElhVFVUV3ROd213dHgyb1p5NVpyZlVaenlNcFhMSmo?oc=5",
-          "published": "Mon, 07 Sep 2026 08:05:02 GMT",
-          "summary": "Why Happlicant Tops the List of Affordable ATS & CRMs for Recruitment Agencies in 2026&nbsp;&nbsp;WBOC TV"
-        },
-        {
-          "title": "2,731 Shares in Salesforce Inc. $CRM Purchased by AlphaGrep UK Ltd - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1ZUcU03bmpSVzhkZVg1LWhUSlpGaUc2Y0FHNWNqaDZWLWJWemdhdlA2T25zSTRId2h1ZjFWU3haSXN4WUlWS3MwMWtVMElYalhLYXRQVHZ4aGRLbE5HbUNTdVM0N28tN0VaNkxuaTUzR2s0V3V2cnpnNXpIalpqUC1kOUpnbTBBZ0h5RFVUbjR5WUZwS2tOLUhKYnkzckFHcE9jd2ZOTHAyNGNvYmRmcEM0T3NsOUNxRE9IN2s0R2lKQQ?oc=5",
-          "published": "Mon, 07 Sep 2026 07:47:09 GMT",
-          "summary": "2,731 Shares in Salesforce Inc. $CRM Purchased by AlphaGrep UK Ltd&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmhRbjZ2TlRxRElpaWRmbHJQYTVSREV5UzNxdFdxTV9rNTJTR3hsSEhlQ2g5S242SUtFOXNnSC1xalN4NDVNM20yd2lnaUZTbXI3aFpxMjlLa0hBVENKRDJrOTR4aktVaWF4djFFT0lzbjhWYzRfY1FzQUxUQTNoeVA1cVlMTnpUYUNZaTlTa0xFSUFJcmpLbnZR?oc=5",
-          "published": "Sun, 06 Sep 2026 20:56:54 GMT",
-          "summary": "Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back&nbsp;&nbsp;Yahoo Finance"
         }
       ]
     },
@@ -631,7 +588,20 @@
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "items": []
+      "items": [
+        {
+          "title": "Black Hat/DEF CON attendees targeted with malware-laced Google Docs - channelpronetwork.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUgtYUlhTUNDWjNvNjlEOVN6dmtlM09oeWJIdzNwOG9SdXpMQy1wTXJBNW1NQ2xtM1owNUVIZ0ZYNTU0WGp1MGtoaVhuOEVGeVluMExYMHNPWU5TUWs2eE1XVTloMmU3dEFMVndwendZeUFXMTlzbU44RzhvZzRvejNTVXE2MXFvanVv?oc=5",
+          "published": "Tue, 08 Sep 2026 20:39:45 GMT",
+          "summary": "Black Hat/DEF CON attendees targeted with malware-laced Google Docs&nbsp;&nbsp;channelpronetwork.com"
+        },
+        {
+          "title": "AI-assisted cyberattack on Taiwan government signals shift toward autonomous threats - channelpronetwork.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0ZGN05RTi1mckI3dV8wajFWMzNzcTY3TGpKelV5QzM5TU1VOHpJSzFueWQ4RDBsV2lkN2RiXzgzeGNGM1lqSlBucFJYNm95MGtYemdTcmhCVEQ4eTc2VzQxRl9EeW9zcy1LOGJzd0FBdUpONlJYRmhkWng2dWhob3VR?oc=5",
+          "published": "Tue, 08 Sep 2026 20:39:45 GMT",
+          "summary": "AI-assisted cyberattack on Taiwan government signals shift toward autonomous threats&nbsp;&nbsp;channelpronetwork.com"
+        }
+      ]
     },
     {
       "name": "Futurum",
