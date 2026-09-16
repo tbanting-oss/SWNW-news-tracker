@@ -111,9 +111,45 @@
           "url": "https://www.cxtoday.com/contact-center/round-up-contact-center-ai-moves-from-claims-to-operating-proof/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Mutare expands voice security rules for Webex",
+          "sowhat": "A third-party vendor adds custom call-screening controls for Webex Calling, signaling niche security demand that Cisco hasn't prioritized natively.",
+          "url": "https://www.google.com/url?rct=j&sa=t&url=https://telecomreseller.com/2026/09/15/mutare-expands-voice-security-for-webex-calling/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2_DkTwISithT4Lx4V7fKUZ",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Oracle cuts Customer Success teams to fund AI",
+          "sowhat": "Oracle is forcing enterprise CX buyers to absorb support cuts while the vendor redirects savings into its agentic AI infrastructure—a financing model shift worth watching industry-wide.",
+          "url": "https://www.cxtoday.com/contact-center/oracles-agentic-ai-gamble-replacing-human-support-to-fund-data-centers/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "RingCentral warns AI ROI fails without cross-system context",
+          "sowhat": "RingCentral flags the integration gap: AI agents hear the call but lose the customer context across systems, breaking trust and ROI.",
+          "url": "https://www.ringcentral.com/us/en/blog/ai-roi-customer-context-low-across-systems/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce suffers global outage during Dreamforce keynotes",
+          "sowhat": "A live service failure during Salesforce's flagship event undercuts the AIforce narrative and raises operational trust questions for enterprise buyers.",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlFMTkJqV3BDQ1V3dWJaU19GN1FJM09vUVpNVk42Tk56ck45QjBHQmxYZ0F4QWduR3F1T042LXZmNWpTeU9WeklYaFhkX2JNYXh3OGd5SEgtR01SOUxia3E3Q0NNaW5CdjdpVWhuMk81ZGRKb0llUmhnUnI2VExoVjRFOUJGNjcxeEZ4bmlac01rSVFPVUhWbHpoU1ByZDJTbGJvSjR1YlJGdXVaN190YmlzX1NvTUEyRndrVlRjT1ZQNkhq?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "Three items share a thread: CRM and CX platforms embedding reasoning models and direct LLM access rather than relying on external AI layers."
+      "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     },
     {
       "iso": "2026-09-10",
@@ -301,5 +337,5 @@
       "pattern_watch": ""
     }
   ],
-  "updated": "2026-09-16T11:08:51.424011+00:00"
+  "updated": "2026-09-16T18:41:08.706380+00:00"
 }
