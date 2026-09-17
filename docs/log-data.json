@@ -1,6 +1,49 @@
 {
   "days": [
     {
+      "iso": "2026-09-17",
+      "label": "Thu 17 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Plivo launches Vibe Agent for CPaaS journey orchestration",
+          "sowhat": "Plivo is moving up-stack from pipes to journey coordination, but public evidence shows infrastructure scale more than finished customer outcomes.",
+          "url": "https://www.cxtoday.com/customer-engagement-journey-orchestration/plivo-cpaas-journey-orchestration/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Treble raises $18M for voice simulation platform targeting AI",
+          "sowhat": "Iceland-based Treble is capitalizing on demand from AI wearable and robotics firms for realistic voice synthesis as agent UX matures.",
+          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Profound raises $180M at $1.8B valuation for agentic marketing",
+          "sowhat": "The Series D round signals accelerating enterprise appetite for AI that writes, tests, and deploys marketing rather than just suggesting it.",
+          "url": "https://www.cmswire.com/digital-experience/profound-nabs-180m-to-scale-ai-marketing-platform/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft 365 G7 bundles Copilot and agent governance for government",
+          "sowhat": "Microsoft is packaging AI, compliance, and agent controls into a single SKU, treating government vertical demands as a design gate not a feature add.",
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "Three vendors (Salesforce, HubSpot, Plivo) simultaneously positioning their platforms as agent orchestration layers, not just CRM or CPaaS endpoints."
+    },
+    {
       "iso": "2026-09-16",
       "label": "Wed 16 Sep 2026",
       "rows": [
@@ -229,113 +272,7 @@
         }
       ],
       "pattern_watch": "Three CX vendors (Writer, Qualtrics, Klaviyo) shipping agent-native infrastructure same week—signal of platform unbundling to support agentic workflows."
-    },
-    {
-      "iso": "2026-09-09",
-      "label": "Wed 09 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Braze posts 26% revenue growth, record cash flow",
-          "sowhat": "Customer engagement platform hits dual growth-and-leverage milestone, suggesting CX personalisation budgets remain protected even as SaaS spending tightens elsewhere.",
-          "url": "http://www.businesswire.com/news/home/20260908586699/en/Braze-Reports-Strong-Fiscal-Second-Quarter-2027-Results/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "RingCentral gains 176 G2 product badges across portfolio",
-          "sowhat": "RingCentral's strongest G2 season yet — 724 reports, 33 #1 rankings — suggests sustained customer satisfaction but tells buyers nothing about contract lock-in or migration readiness.",
-          "url": "https://www.ringcentral.com/us/en/blog/g2-fall-2026-report/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Tealium pitches governed AI context as CDP differentiator",
-          "sowhat": "Tealium's roadmap frames data governance as the new CDP battleground, but the real question is whether legacy integrations can actually deliver real-time consent updates to AI agents.",
-          "url": "https://www.cxtoday.com/crm/tealium-customer-data-hub/",
-          "vendor_flag": true,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Snowflake raises FY 2027 guidance on AI consumption",
-          "sowhat": "Snowflake's Q2 beat and raised outlook turn on CoCo adoption and CoWork growth — signaling enterprise data workloads are shifting toward AI-specific consumption models.",
-          "url": "https://futurumgroup.com/insights/snowflake-q2-fy-2027-coco-and-cowork-expand-ai-consumption/?utm_source=rss&utm_medium=rss&utm_campaign=snowflake-q2-fy-2027-coco-and-cowork-expand-ai-consumption",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "CrowdStrike launches own AI models, agent security offering",
-          "sowhat": "CrowdStrike's Fal.Con 2026 push into proprietary models and agent security is defensible from the endpoint, but enterprises still need to map vendor AI sprawl before adding another model dependency.",
-          "url": "https://futurumgroup.com/insights/crowdstrike-bets-on-its-own-models-to-secure-the-ai-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=crowdstrike-bets-on-its-own-models-to-secure-the-ai-revolution",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft adds native app builder to Copilot Studio",
-          "sowhat": "Microsoft's Copilot Studio now builds native apps, lowering the barrier for teams that want agents but lack the development capacity — assuming they're already locked into the Microsoft stack.",
-          "url": "https://www.constellationr.com/insights/news/microsoft-adds-native-app-building-copilot-studio",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Mistral raises €3bn Series D at undisclosed valuation",
-          "sowhat": "Mistral's €3bn raise cements Europe's largest AI funding round this cycle, but buyers need to watch how much of that capital translates to enterprise-grade inference reliability versus research prestige.",
-          "url": "https://www.constellationr.com/insights/news/mistral-said-it-raised-eur3-billion-series-d-funding",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "Qualcomm wins $60B AWS custom silicon deal",
-          "sowhat": "A multi-generation custom chip and 1.6T optics commitment with a $4B warrant locks Qualcomm into AWS's AI infrastructure roadmap and signals hyperscaler build-out intensity.",
-          "url": "https://futurumgroup.com/insights/qualcomm-lands-60-billion-custom-silicon-and-16t-optics-deal-with-aws-backed-by-a-4-billion-warrant/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Genesys Xperience 2026 customers prioritise outcomes over orchestration",
-          "sowhat": "Customer presentations focused on measurable results provide a practical counterweight to Genesys's agentic orchestration messaging, signalling buyer scepticism about hype.",
-          "url": "https://www.nojitter.com/ai-automation/at-xperience-2026-genesys-customers-focused-on-outcomes",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Twilio ships ConversationRelay with sub-0.5s latency",
-          "sowhat": "Low-latency voice infrastructure matters if conversational AI is moving beyond chatbots into real-time calls, but deployment scale remains unclear.",
-          "url": "https://www.twilio.com/en-us/blog/insights/low-latency-layer-conversational-ai",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "HPE issues Oracle equity warrant alongside AI infrastructure",
-          "sowhat": "HPE's use of a nominal-cost equity instrument instead of discounting suggests margin pressure in AI hardware and a scramble for long-term hyperscaler lock-in.",
-          "url": "https://futurumgroup.com/insights/why-hpe-gave-oracle-equity-instead-of-a-price-cut-on-ai-gear/",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": ""
     }
   ],
-  "updated": "2026-09-16T18:41:08.706380+00:00"
+  "updated": "2026-09-17T11:17:43.438483+00:00"
 }
