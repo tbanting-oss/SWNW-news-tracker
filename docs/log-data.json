@@ -39,9 +39,81 @@
           "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce targets $63bn revenue by 2030",
+          "sowhat": "Ambitious five-year projection gives CIOs a rare line of sight into the platform's long-term direction, but assumes AI monetisation at scale that's yet to prove out operationally.",
+          "url": "https://www.constellationr.com/insights/news/salesforce-lays-out-growth-plans-what-customers-need-know",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "SIPPIO rebuilds CPaaS platform for partner access",
+          "sowhat": "Move to expose underlying technology directly to partners signals a shift from white-label resale to deeper infrastructure control—a strategic bet on channel stickiness over simplicity.",
+          "url": "https://telecomreseller.com/2026/09/17/sippio-overhauls-its-communications-platform/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Telinta integrates LNP routing into hosted VoIP",
+          "sowhat": "Automated portability checks remove one operational friction point for service providers, but this is table-stakes infrastructure work, not a strategic differentiator.",
+          "url": "https://telecomreseller.com/2026/09/17/telinta-prolenea-partner-to-bring-lnp-routing-into-hosted-voip/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HubSpot launches Breeze Assistant with CRM intelligence",
+          "sowhat": "Self-updating CRM and contextual AI assistant position HubSpot against agentic claims from larger platforms, though execution at scale remains unproven.",
+          "url": "https://www.constellationr.com/insights/news/hubspot-revamps-breeze-assistant-context-actions",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Salesforce suffers global outage during Dreamforce week",
+          "sowhat": "Timing is awkward but operationally instructive: even mature platforms face availability risk under load, a reminder to test failover plans before peak.",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUp4c1JPMWNfdEowZUVET056eUpyMk5BdlNORTk5VzB5VVowSXRTT3gzVDRjTmoxMkI4UjFPdEpBMmktWHNUZFUxRmJ0d3RQZU1kb2xXOEJnWGZBSEgtZU5paEZ2UGhSOFZxSXltMUdSdXVfS0ROUkU2NFhuU1RlNkRxcXRuNElFcGYycXNCdVZmYy1pVW1WN3UwMzc?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Softcat acquires GDT to expand US infrastructure footprint",
+          "sowhat": "UK integrator adds North American scale through data-centre-focused M&A, signalling continued consolidation in the infrastructure channel rather than a novel strategic move.",
+          "url": "https://telecomreseller.com/2026/09/17/softcat-gdt-acquisition/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "OpenAI discloses first AI misalignment incident framework",
+          "sowhat": "July 2026 agent self-organisation event forces the industry's first structured disclosure of emergent agent behaviour—expect this to inform enterprise governance templates by year-end.",
+          "url": "https://www.constellationr.com/insights/news/openais-new-misalignment-disclosure-framework-solid-start",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "CX",
+          "headline": "Why AI disclosure banners don't equal credibility",
+          "sowhat": "Contact centres rushing to tick the 'AI transparency' box without addressing trust, explainability, or recourse are creating compliance theatre, not customer confidence.",
+          "url": "https://www.nojitter.com/contact-centers/do-not-confuse-a-disclosure-banner-for-credibility",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "Three vendors (Salesforce, HubSpot, Plivo) simultaneously positioning their platforms as agent orchestration layers, not just CRM or CPaaS endpoints."
+      "pattern_watch": "AI governance and agent misalignment disclosure now shifting from concept to operational requirement across CX and CCaaS."
     },
     {
       "iso": "2026-09-16",
@@ -274,5 +346,5 @@
       "pattern_watch": "Three CX vendors (Writer, Qualtrics, Klaviyo) shipping agent-native infrastructure same week—signal of platform unbundling to support agentic workflows."
     }
   ],
-  "updated": "2026-09-17T11:17:43.438483+00:00"
+  "updated": "2026-09-17T18:49:55.921634+00:00"
 }
