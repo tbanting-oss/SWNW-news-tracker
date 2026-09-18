@@ -66,9 +66,63 @@
           "url": "https://www.cxtoday.com/crm/alation-data-intelligence/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "SAS CI 360 claims 4× productivity gain",
+          "sowhat": "HAPPY GO reports 4–5× productivity from SAS Customer Intelligence 360, but the case study lacks independent validation or explanation of how the gain was measured.",
+          "url": "https://www.cxtoday.com/customer-analytics-intelligence/sas-customer-intelligence/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Salesforce brings CRM data into Slack natively",
+          "sowhat": "Slackforce Surfaces embeds Salesforce business data directly inside Slack, reducing context-switching and potentially accelerating enterprise comms adoption where CRM is already entrenched.",
+          "url": "https://telecomreseller.com/2026/09/18/salesforce-turns-slack-into-a-front-door-for-business-data/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce and Google Cloud integrate Gemini Enterprise",
+          "sowhat": "Google's Gemini Enterprise ties directly to Agentforce and live Salesforce CRM data, offering enterprises a second generative‑AI option beyond OpenAI inside the same workflow.",
+          "url": "https://futurumgroup.com/insights/salesforce-and-google-cloud-expand-access-to-crm-workflows/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HubSpot ships Breeze Assistant, self‑updating Smart CRM",
+          "sowhat": "HubSpot's Breeze Assistant consolidates third‑party AI agents under one interface, reducing sprawl, but evidence of enterprise CRM update accuracy and reliability remains thin.",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjRwNWtHazNPNjFkSUU2b0FUeWNtRTUwT0VtbWVaTWdrY1BtU1hDUFZ4UVM3aDVXaVBFbUxvd0IzMExnLUpZTVZONno1YjV0aG95WHUtR1BWSU4wRG9FVElYSlgwWU9WNXZsWHhITE94VzcxT0h2NTBlODFyQU9sMHVpemQ5X1I5SDJOcEdfMGNwcGYxU0RkNktQWEZ0bHBGSDFKbg?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "RingCentral adds AI Receptionist to AT&T Office@Hand",
+          "sowhat": "24/7 AI call‑answering moves into the Ultimate package at no extra cost, offering real‑estate agents instant lead routing without third‑party tools—but adoption hinges on call‑quality benchmarks in practice.",
+          "url": "https://www.ringcentral.com/us/en/blog/ai-receptionist-att-officehand-real-estate-agents/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Spain reports first personal data breach by AI",
+          "sowhat": "Spain's data authority confirms an AI agent caused the country's first personal‑data breach, underscoring the governance gap CX leaders must close before autonomous systems scale.",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/cybersecurity-roundup-who-controls-the-data-identity-and-ai-agents-is-the-new-battleground/",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "HubSpot and Salesforce both shipping agentic CRM foundations within 48 hours — the AI-native CRM layer has arrived."
+      "pattern_watch": "Multiple items point to generative AI integration inside existing CRM/UC platforms—Salesforce + Google/AWS, HubSpot + OpenAI, RingCentral + AT&T—signalling vendor consolidation of AI agents rather than standalone tools."
     },
     {
       "iso": "2026-09-17",
@@ -337,5 +391,5 @@
       "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     }
   ],
-  "updated": "2026-09-18T10:51:11.713134+00:00"
+  "updated": "2026-09-18T18:05:37.993337+00:00"
 }
