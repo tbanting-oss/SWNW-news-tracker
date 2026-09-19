@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-09-19T09:46:04.495695+00:00",
+  "generated_at": "2026-09-19T17:27:26.541473+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
-  "feeds_with_errors": 3,
+  "feeds_with_errors": 4,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "name": "Industry News – CPaaSAA",
+      "url": "https://cpaasaa.com/category/industry-news/feed/",
+      "error": "429 Client Error: Too Many Requests for url: https://cpaasaa.com/category/industry-news/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -53,42 +58,6 @@
           "link": "https://www.cxtoday.com/ai-automation-in-cx/the-flatbot-is-dead-the-real-cx-question-is-what-replaces-it/",
           "published": "Fri, 18 Sep 2026 07:11:27 +0000",
           "summary": "For years, customer experience teams have been sold the same promise: put a chatbot on the front door, deflect some contacts, and call it transformation. The problem is that most of those bots are flat. They can retrieve a help article. They can recognize a keyword. They can point a customer toward a form, a [&#8230;]"
-        },
-        {
-          "title": "Can Adobe’s New CEO Put CX Orchestration at the Center of Its AI Era?",
-          "link": "https://www.cxtoday.com/customer-engagement-journey-orchestration/adobe-ceo-anil-chakravarthy-cx-orchestration/",
-          "published": "Thu, 17 Sep 2026 14:35:13 +0000",
-          "summary": "Adobe had plenty of options when it came to replacing Shantanu Narayen. The vendor could have turned to a Creative Cloud leader, looked outside the business, or picked an executive with a more obvious AI pedigree. Instead, the company chose Anil Chakravarthy, President of Adobe’s Customer Experience Orchestration business and worldwide field operations. It came [&#8230;]"
-        },
-        {
-          "title": "Frontier AI Slowdown Debate: What It Means for CX Leaders",
-          "link": "https://www.cxtoday.com/ai-automation-in-cx/ai-slowdown-debate-cx-leaders/",
-          "published": "Thu, 17 Sep 2026 14:31:57 +0000",
-          "summary": "Anthropic CEO Dario Amodei’s call to “pace the frontier” has found unusual support from two of his biggest rivals. OpenAI CEO Sam Altman and xAI founder Elon Musk have all backed a slower, more coordinated approach to developing the most powerful AI models. But is this a genuine push for safety, a strategic move by [&#8230;]"
-        },
-        {
-          "title": "Why WFM Leaders Need to Measure AI-Enabled Work",
-          "link": "https://www.cxtoday.com/workforce-engagement-management/ai-workforce-management-shadow-ai-coaching-wfm-round-up/",
-          "published": "Thu, 17 Sep 2026 13:00:31 +0000",
-          "summary": "WFM is expanding beyond forecasting and scheduling as contact centers adapt to AI-enabled operations. Today, more providers are linking interaction analytics, quality management, coaching, knowledge, and performance data to give leaders a clearer view of what drives service outcomes. Rather than measuring capacity solely through staffing levels and handle times, organizations are looking to understand [&#8230;]"
-        },
-        {
-          "title": "Contextual Messaging is the New CX Gold Standard, MMDSmart Explains",
-          "link": "https://www.cxtoday.com/contact-center/contextual-messaging-is-the-new-cx-gold-standard-mmdsmart-explains-mmdsmart-cs-0226/",
-          "published": "Thu, 17 Sep 2026 12:00:41 +0000",
-          "summary": "﻿ Nicole Willing speaks with Karen Krivaa, Chief Marketing Officer at MMDSmart, about why so many businesses are still struggling to turn omnichannel ambition into real execution. Krivaa explains why fragmented systems, disconnected customer data, and poorly integrated messaging tools are holding organizations back. Findings from MMDSmart’s survey of more than 300 marketing and operations [&#8230;]"
-        },
-        {
-          "title": "AI Is Moving Faster Than Customer Operations. That Is the Real CX Challenge.",
-          "link": "https://www.cxtoday.com/ai-automation-in-cx/ai-is-moving-faster-than-customer-operations-that-is-the-real-cx-challenge/",
-          "published": "Thu, 17 Sep 2026 10:17:19 +0000",
-          "summary": "At Dreamforce 2026, Salesforce and OpenAI set out a future of increasingly capable AI agents, dynamic interfaces, and automated enterprise work. But better models will not repair fragmented customer data, unclear service policies, or broken handoffs. For CX leaders, that gap is where the real work begins. Salesforce’s Dreamforce keynote was full of big claims [&#8230;]"
-        },
-        {
-          "title": "Round Up: Why Governing Enterprise AI Has Become a High-Stakes Challenge",
-          "link": "https://www.cxtoday.com/ai-automation-in-cx/round-up-global-leaders-call-for-development-slowdown-salesforce-and-ai-security/",
-          "published": "Thu, 17 Sep 2026 10:12:08 +0000",
-          "summary": "The enterprise technology sector is currently caught in a structural tension between the rapid deployment of autonomous systems and mounting fears over data governance. As organizations rush to integrate artificial intelligence (AI) into their workflows, the conversation has shifted from capability to control. This week, that tension reached the highest levels of global leadership and [&#8230;]"
         }
       ]
     },
@@ -223,7 +192,7 @@
         {
           "title": "Cyber Round Up: AI Risks Get Real, Agents Take On More - UC Today",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xbk9rajRuaVh3Zk02S0tGUlJ4TzUwVTFKRXdpaDNrenRuXzhIa1FtanZZWGlTRVVKUlZBM2N5aWg4T2ZpT2NHRTVCMDhnc1NaVE5PMjhZZ05ZZnpmOEFhY29uSk5hZFljdlc5ZjZudGxrNFZwd2tyaEItSzM?oc=5",
-          "published": "Sat, 19 Sep 2026 08:06:11 GMT",
+          "published": "Sat, 19 Sep 2026 08:05:48 GMT",
           "summary": "Cyber Round Up: AI Risks Get Real, Agents Take On More&nbsp;&nbsp;UC Today"
         },
         {
@@ -249,24 +218,6 @@
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oc0gzVXNLU0xfazdha3ZKd3JEUGRkNENGVFF1UDBjZmVLVl9oUlJvM1F4MnBaVGhyZDRVNUxmNi1HUGhCaUJnT3NITXg4X3hIQmNwYjJ0NExVX19odVlRUVRhRUNCYkxzWVViemxIdw?oc=5",
           "published": "Fri, 18 Sep 2026 01:46:48 GMT",
           "summary": "Dreamforce Roundup: 5 Takeaways on AIforce, Slack, and Agent Trust&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Why Network Redundancy Does Not Always Prevent Outages - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nY0JqNkVMY2ZHc3ZnWXJ1aE9PQlc1VFo1TnV4VEp5YnRFYWJhem12VUFFQWtKelBOZnctVlhmQ0FGcWttS2pqMnJxc25aVTJJZHlPY3BJbG9hMHUyMjJvNDFmMTFsSXJBa3hfRDU4bUtkNEtDbWowdzBtenBLTEU?oc=5",
-          "published": "Thu, 17 Sep 2026 14:01:00 GMT",
-          "summary": "Why Network Redundancy Does Not Always Prevent Outages&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Is Enterprise AI Productivity Becoming Operational? - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2VTSFZEX3VkUzg2TkJxNzY3VU5sY0x3Tm0wMVpLY2hJejlzVW1mRTZXSkpNZVdWdVh5TGhRS25jS0ljOWdkSzEyWm1USTNBcTdfeEQwdDd3SHRud1QwZll5REcyaXpFZ2hFZFh5TUVHNjYtMURSOEdYZHhfOW1hdk5NOWhOdw?oc=5",
-          "published": "Thu, 17 Sep 2026 12:31:34 GMT",
-          "summary": "Is Enterprise AI Productivity Becoming Operational?&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "The Future Is Female (and Technical): Next-Gen Leaders - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU091b3NHQlNHSl9ORkd3eE1LdmFkdG1NWHpzcy10emFsdlY3dk9reHNRV0VzYnJsUC1LZjB4dnNDV2d1dmhEeTlrMXE3bENXc05KbDdiWDQtcVVCQVo4dkc3aGZpS0pYY2FFc2NpSExxUTBkRzc5VXpvTjdhNDRyenNZWUgwMGVtUXdn?oc=5",
-          "published": "Thu, 17 Sep 2026 11:01:35 GMT",
-          "summary": "The Future Is Female (and Technical): Next-Gen Leaders&nbsp;&nbsp;UC Today"
         }
       ]
     },
@@ -339,24 +290,6 @@
           "link": "https://www.cmswire.com/digital-marketing/ai-wont-save-your-marketing-career-judgment-will/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Thu, 17 Sep 2026 13:21:45 -0500",
           "summary": "CMOs who lean on AI for judgment, not just automation, are the ones pulling ahead.\nContinue reading..."
-        },
-        {
-          "title": "Measuring the ROI of AI Customer Service Strategy",
-          "link": "https://www.cmswire.com/customer-experience/measuring-the-roi-of-ai-customer-service-strategy/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 17 Sep 2026 10:57:14 -0500",
-          "summary": "Businesses are measuring CX outcomes wrong. Here’s how to gauge the success of your AI customer service strategy.\nContinue reading..."
-        },
-        {
-          "title": "CX Shouldn't Run AI Governance. It Still Needs a Seat.",
-          "link": "https://www.cmswire.com/customer-experience/cx-shouldnt-run-ai-governance-it-still-needs-a-seat/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 17 Sep 2026 10:52:09 -0500",
-          "summary": "An AI agent approves a claim that was never real. Gartner says 60% of AI projects fail on bad data — and most CX leaders still aren&apos;t in the room.\nContinue reading..."
-        },
-        {
-          "title": "HubSpot, OpenAI Deepen CRM-ChatGPT Integration",
-          "link": "https://www.cmswire.com/customer-experience/hubspot-openai-deepen-crmchatgpt-integration/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 17 Sep 2026 09:34:48 -0500",
-          "summary": "New ChatGPT Ads management inside HubSpot and a joint pricing bundle target small and midsize businesses chasing AI-driven growth.\nContinue reading..."
         }
       ]
     },
@@ -382,12 +315,6 @@
           "link": "https://www.ringcentral.com/us/en/blog/ai-receptionist-att-officehand-real-estate-agents/",
           "published": "Fri, 18 Sep 2026 16:00:26 +0000",
           "summary": "Key takeaways: AI Receptionist, 24/7 AI call-answering feature, is now included in the AT&#38;T Office@Hand Ultimate package. Real estate agents on AT&#38;T Office@Hand can answer every call instantly, route urgent leads, and book tours automatically, without adding a separate tool. It works inside the phone system you already have, so there’s nothing new to set ...\nThe post AI Receptionist with AT&#038;T Office@Hand: What it means for real estate agents appeared first on RingCentral Blog."
-        },
-        {
-          "title": "Beyond the desk: Building a community in our Bulgarian office",
-          "link": "https://www.ringcentral.com/us/en/blog/beyond-the-desk-building-a-community-in-our-bulgarian-office/",
-          "published": "Thu, 17 Sep 2026 09:54:15 +0000",
-          "summary": "At our core, RingCentral Bulgaria is more than a workplace. We are a community in our own right. While our global mission is to help people connect all across the world, our local priority is building genuine, everyday connections right here in Sofia.  In August, we’ve created a few wonderful opportunities to step away from ...\nThe post Beyond the desk: Building a community in our Bulgarian office appeared first on RingCentral Blog."
         }
       ]
     },
@@ -409,28 +336,10 @@
           "summary": "Service quality is eroding for household appliances, electronics&nbsp;&nbsp;Customer Experience Dive"
         },
         {
-          "title": "Customer willingness to leave brands over bad experiences softens slightly - Customer Experience Dive",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUZydk5UeTIwQWxoYzF0RVVSUVRPMUlEZ0VPNjA5UGoyaFRIN1ptMEtwZi13SEU2LXYzaUVZeml2RkhOMVgwektocVA3TzMzMG43SmpxUzN3UDM0OHhHbFBBUFhPTmN4QmxNN3BFRUV4UFd1WUFRZWVOZVRhMDF5UGxJdXBCWUozbGk0TVJqTlEyWGdXSld0WG9rb2MzOURlNUtVYi1pVloybnc1RjlqdEhMTGE?oc=5",
-          "published": "Thu, 17 Sep 2026 21:10:31 GMT",
-          "summary": "Customer willingness to leave brands over bad experiences softens slightly&nbsp;&nbsp;Customer Experience Dive"
-        },
-        {
           "title": "Agentic AI in CX management: A strategic guide for business leaders - TechTarget",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRENlTFdCc1BDRlRCS01xeTZWbW4zSEZKcmRaSE5oM1VFaWcwQ1JOX0tveUJkcE1qd1VLNkQtV2tLUzRLcld2UDAtSnpLNkRLcU02VVR0TE83R0JQZHppbWdnN2h5SXVoV1RyVjItZ2pIRlVtQkJieXFvUjJ0OEZnWDBwa2VWcDR6aGtJeU9tYVF1eVdMamFodm1nQWFvWkx3WFlnUjk5SW8wVmgtWnp6VHZ0c9IBuwFBVV95cUxQbTJ0eDFYMFZGZ2pHdTNUNlB1SFlIN0t6TThZWFJaRFU2YlI3ajlxbjAzYlNfNmlXc05vN0haanNPX1BBQXJ4RW1oV0F4ZE9LMHNMbW9zLTMzalZEdTJySThGZ3hRam1IMlhrQ0RXcmVXNDR4UWlRUFlOd2ZSQ3o5QkdibldhWnk0OVJNUWlsR2FGVHBXcGVoSl9jT1dXdnFzcXpNbGh3dlpNSlE2RldzTnVCSHdqNnFwWlI0?oc=5",
           "published": "Thu, 17 Sep 2026 19:59:55 GMT",
           "summary": "Agentic AI in CX management: A strategic guide for business leaders&nbsp;&nbsp;TechTarget"
-        },
-        {
-          "title": "CX Doesn't Own AI Governance. It Still Belongs in the Room. - CMSWire",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0FjUWkxY2VkT2IweXJVdjFxc0drOEtXTEh4VllTeUM4bFRGNUJxc2I3aG5ya1pvaG0wVmZlVkNOWk1ISnJLWk84dVhnOXMtc3QyVUxUcThwX3B5MEgzeVBGME5mZnFGU0x0RHg4LXQ5NHJiVzk1dFBndGttcWhVdVZQY2JHUGJxdWw4cHhBazVfeXZXN1dFcGtqcnU?oc=5",
-          "published": "Thu, 17 Sep 2026 14:56:05 GMT",
-          "summary": "CX Doesn't Own AI Governance. It Still Belongs in the Room.&nbsp;&nbsp;CMSWire"
-        },
-        {
-          "title": "Can Adobe’s New CEO Put CX Orchestration at the Center of Its AI Era? - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTBTcHFDVE5mUDBWM3k1LTVUUWVvUTg5TlFKaExhaGt6Z3E3OFhpWmJxN2Z0NHhaallIM1RRd0RxZndIa0Y5TFNmZFJHRnRPMzU0VXlGazB5bDRMSm8zZ3lTWmNnVURlZkVpY1VUOXozWi1ob0dFSjdyZlp0d1B1VGozeXRBb2F0Y3VORE9odXR5d0tDWUxyM25EX0x1cGFreC1saElqQ3BBTFY2MVlpWA?oc=5",
-          "published": "Thu, 17 Sep 2026 14:37:09 GMT",
-          "summary": "Can Adobe’s New CEO Put CX Orchestration at the Center of Its AI Era?&nbsp;&nbsp;CX Today"
         }
       ]
     },
@@ -438,22 +347,34 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
+          "title": "$CRM stock fell 4% this week. Here's what we see in our data. - Quiver Quantitative",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0J3R3RvMEJ6MWwtNnpwYUREVnBzbko1NjJyOTR0RkYtQ1Blc0JHdk5EVEx3d0xfVUNVRzIwckdiT1NOT1Bwb2pNM0hINHpWeEszSElQSWpfSFFmdlBaSnhRdkdSR3pPejgzeTRaajcxVlAyTlRxOFBTeGhQakJoMHVqOXlobGYxek5YNzdDem9vdGgzVk5xYk1KUVlSYlBUZGc?oc=5",
+          "published": "Sat, 19 Sep 2026 16:37:00 GMT",
+          "summary": "$CRM stock fell 4% this week. Here's what we see in our data.&nbsp;&nbsp;Quiver Quantitative"
+        },
+        {
+          "title": "Analysts Offer Insights on Technology Companies: Autodesk (ADSK), Salesforce (CRM) and Intuit (INTU) - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVHVzeFpoaV9LSGdnaWJRTFphc3U4TDA4LWZ5ZlJWRE1TM3VhOFg5QnppNEVYWWM5MUhMNW5hM1Fzb3cxelVPUXBxWDVKZUtXZHRqTWZ1V1A2T3ZSd2ZnTWRHaTJJWDFLVjA4RHFWUDgtdHpESEVZRlJLcy1nOFZiNmVzRmh2ZnNqeVA1eHBtOGNZV1d4RVFsNms4NWpNTWRPaHl5UkphYVRSRUx5eE1PVmJzMmlaZ1hhcDlOUFpVSkhnV25jUS1keHRhcFN1SHFqaC1GeHprZE9yUVVJdWtvU2tkOWJtM2dLcjFOMUhDN2xTd29JVVRTUVJFc1ZEU1JQRE5aWFlkQQ?oc=5",
+          "published": "Sat, 19 Sep 2026 12:55:06 GMT",
+          "summary": "Analysts Offer Insights on Technology Companies: Autodesk (ADSK), Salesforce (CRM) and Intuit (INTU)&nbsp;&nbsp;The Globe and Mail"
+        },
+        {
+          "title": "Analysts Offer Insights on Technology Companies: Salesforce (CRM), Lyft (LYFT) and HubSpot (HUBS) - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZWxPSXl6bmRaSkRhUWVOLXJ2NHBoaWRBLThCTS1LRHB4UUdFQkRrQ3ZrSms1dVFyRExNX3NyWVNvaG5nVDJzM2JFbXJIQ3hIaTFRZDVxb2w0VEhrRjdGQkZRNC12eWE1N1R4N2g3aWEyM0pnQ0liVlRma3RXX0lDdVlWNnMzSGJfMVpHV0ctd0I4ZFVIaU9uN2U0cmhDd1czV0hZZ0gyb3ZIUG11UDA3bWRST3RxVzNnLUNUb0g1YThfWVFibzUzWlRjS2VxLXlHNTJzc1liRVpMUW1lWGJ0ZXRlbGN5LWdlTTJ4WXlYNW9xUXZEVUViYS14VW81TzR6bUVn?oc=5",
+          "published": "Sat, 19 Sep 2026 11:02:33 GMT",
+          "summary": "Analysts Offer Insights on Technology Companies: Salesforce (CRM), Lyft (LYFT) and HubSpot (HUBS)&nbsp;&nbsp;The Globe and Mail"
+        },
+        {
+          "title": "Salesforce AIforce Launch: How CRM Goes Headless - NeoTeo",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2ZESHJDT2tQVFZobVBrelZoQXN0ZWVxcEZIVVlNeUVwUk1tREJ1UHF0d3l5bFdlM21uYml1TjUxMXlWNnBlQUZCRENxWU5Rd203MDFGX1NXdHdneGpPT0dkUWt6TzRxakgwdmtrRDc1Zkc1Q0trZHNSOFlzTVd4LUFXZ0JtWHVuSEM5N0JtV2ZQUQ?oc=5",
+          "published": "Sat, 19 Sep 2026 10:02:12 GMT",
+          "summary": "Salesforce AIforce Launch: How CRM Goes Headless&nbsp;&nbsp;NeoTeo"
+        },
+        {
           "title": "Nykredit A S Makes New $48.84 Million Investment in Salesforce Inc. $CRM - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanVDY2dBWmlYWDNpMGJrWU96V1hTZTExNmlXNm9PLVNiaERIcUgtMFh2YU5KVHJ4aFZGQnFLQzZLR1pUZjVxWk1YQV8tYlBjc1VNcGpmMUxYRWtmOERxT1RZUm91cmY1TFlIY2JYRGpJQjFIekJQS2JENU5IRllsb3QxV19KMEg5UUxfSVp3V0F6VTBORFBUalRMa2UyVTUwWXozME45ZVVaempFWjMwNTEtZzBBSExyWjRaSVkxRnNiNjhKZDVTdA?oc=5",
           "published": "Sat, 19 Sep 2026 07:38:19 GMT",
           "summary": "Nykredit A S Makes New $48.84 Million Investment in Salesforce Inc. $CRM&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "AerialReports Expands Contractor OS to Connect Roof Measurements, CRM, Estimating, Proposals and Production for Roofing Contractors - StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRWYyRk5NaXZlbHZ0dlVLT1VzNVVDTkdhT2dlNmQ3T0ZGSzNKMDdTWTh5ck1KUHpkNUJDaU80bmZaX2l4R1hKU2NWNm1NQkREVDVNTVBhN1FEc1Y4dWFnZGRRME81WmlyUDZ4bFNMcVFLMXp1dmdlZzBTUmJaTUd6YjVtWS1YNHI1TE1TOGVXeWUwWXRlcWdnWXlQTWh1cUFmM3JXQVU4TDQ3dWVTbVlkYkZTcTZxZE9CRTc5ODNwc3BEMmZWc05oRHNKV1VGV3h2bEEtWFpQc1pwaWs3LW1IYjV1blNaN2J4NThUX1lyWXpMTS11dUVIYWhobzRLYkhSd0tyTi15QnZLbDh5VVBOcjgxNTdWOV9W?oc=5",
-          "published": "Sat, 19 Sep 2026 00:03:03 GMT",
-          "summary": "AerialReports Expands Contractor OS to Connect Roof Measurements, CRM, Estimating, Proposals and Production for Roofing Contractors&nbsp;&nbsp;StreetInsider"
-        },
-        {
-          "title": "Nicole Mazza Expands International Luxury Marketing Career Across Fashion and Beauty - Carroll County Mirror-Democrat",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmpzS2JobUlXSjVzd1FQT3k4bFhwZVVUSzUwRDlnNlZ4N2xYXzM3aHp2dU5DMS1WMkcwSW53dEFHQ29vN1ZlU2h4SThWWnhLb3ItODRaTVVkZjVBN0tnbDdHMHBCdUpTcWg0OXhYYjVLcTdjQmpLcHRzX3FEZVp2Um9KLV83U1R5Y0VyTFpzM1BWSC1mdjItbjVyZ1JfdE9rM0o2N25RYXEweVJUTUR0aUszWkY5Ymc?oc=5",
-          "published": "Fri, 18 Sep 2026 23:05:01 GMT",
-          "summary": "Nicole Mazza Expands International Luxury Marketing Career Across Fashion and Beauty&nbsp;&nbsp;Carroll County Mirror-Democrat"
         },
         {
           "title": "Salesforce (NYSE:CRM) Trading Down 2.2% - Here's What Happened - MarketBeat",
@@ -486,12 +407,6 @@
           "summary": "HubSpot Smart CRM Review: Comprehensive Contact Management for Bigger Businesses - Review 2026&nbsp;&nbsp;PCMag UK"
         },
         {
-          "title": "HubSpot Unveils AI Agent Strategy, Lifts 2030 Margin Targets at Analyst Day - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXI2RTVxUTMxbzczOTJaWWtZS0ZUbGRvRE5kMmF6RnV4Z2VpRndUSUdzb3IteDlSLUNkZGR4ZkdoeTJ4QTBJOVluMHNlOHhmTnhlbllMLTREM21pWTJsV3h4aEJ2OXJieno0TWNPM2dUWWszNFZuY2hhWXBXNnNBR0tLWE01YnpUMlpFaW5idnVlcVhrSHBwVDJjakVZQzVCUUg0eWpJcXpSZ0NyRUJCa0FnNXRWTWFuQm43d3cwaHhCbGlncXdHb0Y5MTZpM1Vz?oc=5",
-          "published": "Fri, 18 Sep 2026 18:02:16 GMT",
-          "summary": "HubSpot Unveils AI Agent Strategy, Lifts 2030 Margin Targets at Analyst Day&nbsp;&nbsp;TradingView"
-        },
-        {
           "title": "HubSpot becomes OpenAI’s first CRM partner for ChatGPT Ads - TechInformed",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWlCYWRSZUlVTFB2NXdEdnluUm5hLWU2WHJKWTVxZ2dsS1NDc3I5SnJzMWNlV1JZN21WeXhVcDRveElESnE3cEpYbnc3d1JOMlVUMVREbEZCQ1VmUlZlNGxyY2xrZ1R4Mmx3eUx2bVpMZkY3Q1VoRERtSWxMcGpMTTZYRjhBczRaZV80?oc=5",
           "published": "Fri, 18 Sep 2026 17:42:31 GMT",
@@ -522,28 +437,16 @@
           "summary": "User-friendly CRMs are giving small businesses their training time back. Here’s how to use it.&nbsp;&nbsp;KVIA"
         },
         {
-          "title": "Salesforce and Google Cloud Expand Access to CRM Workflows - The Futurum Group",
+          "title": "Salesforce and Google Cloud Expand Access to CRM Workflows - futurumgroup.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkFBaVl5S013WGRyWl9EVmNMeXZuX25xMTNIQ0J5VW43UTdVdHBhTjlQZURmX1ctU0RfM0hyUU11SjBFYllBT2tEeVYwTnVTZTdKSmZOc0htM1JSTU5OZHdybmg2M1RjUExRWVZRZWlvOWNFSGR5NGNMVzkyNkd4Tm5Zb1dVRmtUcjI5dlZPUTF5WjJMemowUw?oc=5",
           "published": "Fri, 18 Sep 2026 14:09:53 GMT",
-          "summary": "Salesforce and Google Cloud Expand Access to CRM Workflows&nbsp;&nbsp;The Futurum Group"
+          "summary": "Salesforce and Google Cloud Expand Access to CRM Workflows&nbsp;&nbsp;futurumgroup.com"
         },
         {
           "title": "CRM Maintained by Wells Fargo -- Price Target Raised to $250 - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanJySVNzRUVQaUdPWVJnb0VxM0JoSnkwZzRMb0J3bGl6TUpXWmFTSlFwNjg0QTlHMGVTeFpYcGNHX3l4ZnFvMEdIZWwtZUw4eG5jRDhBUDhUUlNtcFZqb3RrSXZvVFlKcmV2ZTNJMkN0enc5MVR3OG9VR0FGVjFsYzlhelpGRGR0NmJIX0pYY2NhSEh6cUZqRFNGZw?oc=5",
           "published": "Fri, 18 Sep 2026 13:37:06 GMT",
           "summary": "CRM Maintained by Wells Fargo -- Price Target Raised to $250&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "Citizens Jmp Reiterates \"Market Outperform\" Rating for Salesforce (NYSE:CRM) - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczF6SGd1RlVUMmFKMnBtbjFsTWwtSWdsc1hhMzdXcTY1U3VST3Z5UzdLR3lGaFA2R1YtTnZ0N0g0WEE4UldJUHdpQVdNRHVhcHpBU1psekNPTTBZSVBTSW94SjNhTUlNXzlQN1JLZWpzOWtxenBMSFl2N0hhVnZVaTM3blNNSExJSndyb2M2dy1qeUR4UXJkMlJGTUJpQllJRXN6NEszdzVtOVp6SGdNM3dXUldzZ1BLbG4tYTVxRHZZeDVITlJCdTBrVGV0bEU?oc=5",
-          "published": "Fri, 18 Sep 2026 13:25:22 GMT",
-          "summary": "Citizens Jmp Reiterates \"Market Outperform\" Rating for Salesforce (NYSE:CRM)&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "Salesforce (NYSE:CRM) Receives Equal Weight Rating from Stephens - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOE1CWUN1MFYySnd2T0dFTWVObU8zUmYycWlLOFI4ZzM3UUQxOVAxQUYyNXlDQTdYaGc0a2syVkI5c3Boam8ySjdBZjc4YnQ5cGFROFFBc2VWd3dYQ1F3blNhd2Z4NTZ1ZUh5cGQ0WXRJYTJleURXNnptX0VTLTNlakIwOFdxbFpTOHJndktDRjZjdHBBaVdHVnRPMUxZNktVZVIxbC02SkpNMWJjUDZpSFR0WUlWUTVFRHVnTmpDQl9KUQ?oc=5",
-          "published": "Fri, 18 Sep 2026 13:25:22 GMT",
-          "summary": "Salesforce (NYSE:CRM) Receives Equal Weight Rating from Stephens&nbsp;&nbsp;MarketBeat"
         },
         {
           "title": "Analysts Are Bullish on Top Technology Stocks: Salesforce (CRM), Workiva (WK) - The Globe and Mail",
@@ -556,12 +459,6 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1NONk42a0NKZ25kb2xVcjJiMjRiVWpMU2xOT3RoS3RXcEt2WEVJcFhQUW1PNVhDTjJBbGxFZnpOd3k3T0NZVTQzb29OS3JrLVZ0YzVsQnM0V3VRSllIeTNldDRSU1VTdTE3UnZxLVpOWWRFQ1cxUm9WVG9VYTkwdDdGdm80elFqc2NuOXJTdmRCaE1ia1FZZWIyMW82NDhwVFFLcEpUWVlUbDRHa001REpjSUc0dw?oc=5",
           "published": "Fri, 18 Sep 2026 11:30:00 GMT",
           "summary": "Six Analysts Turn Bullish on Salesforce, Signaling Major Re-Rating Ahead&nbsp;&nbsp;24/7 Wall St."
-        },
-        {
-          "title": "AerialReports Expands Contractor OS to Connect Roof Measurements, CRM, Estimating, Proposals and Production for Roofing Contractors - Carroll County Mirror-Democrat",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0c2ZVptcXNjajlLV3lWVFoxRjBPRDlOTnhZUFAxWlhvTjVwWUlKRFRMSDZYa1NDQXVVSjRVb3JQajBrVUVPbF9EaHV2d2tfRF9zczVPaTRhdFlQQ2t4djVmU2Q2Nm0xSHVER19XbUE5Z184anZUdzA0LVdHX1BSMkwwVTlabWJVUG9tVTVHUkpoRWtHbWZsV0hHMmtLMjdIWUhpbDZfZkNGMUhQYXYwMWlVMVNMSGs?oc=5",
-          "published": "Fri, 18 Sep 2026 11:00:02 GMT",
-          "summary": "AerialReports Expands Contractor OS to Connect Roof Measurements, CRM, Estimating, Proposals and Production for Roofing Contractors&nbsp;&nbsp;Carroll County Mirror-Democrat"
         },
         {
           "title": "Stop automating your CRM, start orchestrating: opinion - Outsource Accelerator",
@@ -588,10 +485,10 @@
           "summary": "CRM Maintained by Freedom Broker -- Price Target Raised to $295&nbsp;&nbsp;GuruFocus"
         },
         {
-          "title": "Settlor integrates with TitleSphere, expands transaction data use - HousingWire",
+          "title": "Settlor integrates with TitleSphere, expands transaction data use - housingwire.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjdDMFNKRXlhaTh3c085RnhhX2Y4dGtuUkdFampqZTJIS0pGNDZEOFZ5S1FqYWNkbUtUR2Y1OHNZcDNoYTJlVDJSaVZxU3MzQkExaW82S3lJV0pFZkVJaTI2ZEJFR1JITmhfTk82MElweDR4RWhSMmZUbnZ5VTRTdGJyVGpTajJ5RWFfd3pfQzRtaDlLTV9xclU1VTJDdkFfYTFxdA?oc=5",
           "published": "Thu, 17 Sep 2026 20:33:51 GMT",
-          "summary": "Settlor integrates with TitleSphere, expands transaction data use&nbsp;&nbsp;HousingWire"
+          "summary": "Settlor integrates with TitleSphere, expands transaction data use&nbsp;&nbsp;housingwire.com"
         },
         {
           "title": "Salesforce (NYSE:CRM) Price Target Raised to $295.00 - MarketBeat",
@@ -604,12 +501,6 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FkZU1weWlheHg0U3FCNDA2LWxqLVBCV1NuNXFzcHZmMjhqZko4dnNrNjJ1ejdRcGFuME5GVnRxYXE1dDQweFFHZ1ZReXJ2SDc4MG1zcmJXUk83aW9qdXZEMlJyWmJBSzU0U2lBYW5QSGw1SkhfME5zT2dJNWlONl9MTXRRbTlaLUxRU1hqb05TbFRiWDc3QUtNeU16U0EycXcySTdickpNRnBUaXdHdE1GSlVhcU94aDBkSQ?oc=5",
           "published": "Thu, 17 Sep 2026 20:20:17 GMT",
           "summary": "Dreamforce 2026 - the wrap! Last word to Benioff on enterprise transformation, unreal views of what customers need, and why Salesforce has to stay number one in CRM&nbsp;&nbsp;diginomica"
-        },
-        {
-          "title": "Salesforce (CRM) CEO Warns AI Cannot Become “Social Media 2.0” - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPampCN25aNEtneHg2RFU1Y0k1M0ppZU1kUzg3ZjVUdzl3OG9MYzhPamlKdjNJd0pZUTNOQnp1UVB5Zjk5SDNiVmhVVmJLbW9KVGVyNDJuMGpBVDVrekNwTkdpeTQ4TEk2TkxMQllCUzdEX2pqaGYyU1dfcG4xWUtTSTl1cF9pLW1JZS1kQVdxR3pDUQ?oc=5",
-          "published": "Thu, 17 Sep 2026 20:11:27 GMT",
-          "summary": "Salesforce (CRM) CEO Warns AI Cannot Become “Social Media 2.0”&nbsp;&nbsp;TipRanks"
         },
         {
           "title": "Salesforce Stock Looks Enticing After Dreamforce 2026 (NYSE:CRM) - Seeking Alpha",
@@ -628,144 +519,6 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnVxQXFMTWdBMUJmVDdYSW5mQXpUMW5Ya05MWk5KbzRHS0daQnZZR29sOXRqdjFDVkFqSW9YWkhEWVlJOUc4LVZjM0VXelUwV25hbEhnVHJSQ2tRMFFCSlpldm5YS0xKQzRQUmc3T2FxdEtsSzVVODY5cmk5OTFMN1VVeGRMbFVZbnRKLUQ1Q1NRRENZdVhvY1A5QQ?oc=5",
           "published": "Thu, 17 Sep 2026 17:55:05 GMT",
           "summary": "Google Cloud, Salesforce Tie Gemini Enterprise to Agentforce and CRM Data&nbsp;&nbsp;TechRepublic"
-        },
-        {
-          "title": "Salesforce-in-Claude Ships on All Paid Plans, Making Enterprise CRM Data Native to Claude’s Interface - forkast.news",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeU4xR2JNSng5SW41N1AtWHIzamRKS3lid3RvcjBONl9LWXNDcTNYM2hHTnN4MjFPbkRWTVZfQnZMRENXS0NRdDBPcHFueFprbzNhWFFUcWg1SldYLWNnOGphWFYtaXRicnV0TU9yd1pvY2xXYTBPTEZCQ2tzNkxBUDN0TktnZEQ5d21XM0ltZG05UktEdzZwSW9hNGc1ZnU2Zmx1dkxmU3BlQUo1bTd1UXRFN3oxVGJNZ01iZG1n?oc=5",
-          "published": "Thu, 17 Sep 2026 17:26:14 GMT",
-          "summary": "Salesforce-in-Claude Ships on All Paid Plans, Making Enterprise CRM Data Native to Claude’s Interface&nbsp;&nbsp;forkast.news"
-        },
-        {
-          "title": "Salesforce (NYSE:CRM) Shares Gap Down - Here's What Happened - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc002Z3l5aFFxR2d3eW50YnNNLTV1aGRIdFVOanpYUk1McDM5V25HeTBoRk1wZU9GemRBU1I2Zk1IT0pSWkx6Y3M4SWNpRHhyWkxLNGF4X3h2SFJwd19jVXJRZ0JoQzNLcWxjNVN5Slg4MVd3NFFFUndRM1RQTGtGa3AwRWpwU2EydDV1bXR5ZHFRSnZEcnhveDV0cTJEbTFsMVlINk5uWjFfTWE3b2liTmM2blI5UQ?oc=5",
-          "published": "Thu, 17 Sep 2026 16:45:40 GMT",
-          "summary": "Salesforce (NYSE:CRM) Shares Gap Down - Here's What Happened&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "Salesforce (CRM) Projects Over $63 Billion Revenue by 2030 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSTMwZmJrMkhLZUhnYnFNaGliMzg0XzE5bWlZandYaEVhc1FGZjYtU0tLYmlQZ2FuSW1QN3pZclN2MEFXeGhRMHRyVHpwN0JMT0FKTE02RklyQTQtblNmdUVJaHJLeDZHSXRIbXhRRzNpZ3FDUWY3ZEpqbW9VUVlFbkhaSmQ5bk4teDZLTElyb1FpOXhScUM0ZVpn?oc=5",
-          "published": "Thu, 17 Sep 2026 16:08:55 GMT",
-          "summary": "Salesforce (CRM) Projects Over $63 Billion Revenue by 2030&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "CRM Stock Drops Despite Fresh Price Target Hikes – JPMorgan Believes Investor Day Was 'Incrementally Positive’ For Re-Rating Thesis - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSkVPeVBJTzFtMnQ3MEVHVnVjZzJzbDA3UERDSkE0RTVYSzVnRk9UYmtaMlNqQ2hiMFVOQUlGX1o0dVpfMS1YcTFKUWN3MGkxWU5laWI0NDdtdERnaUFaakV4NnF2SDNlN1lORUpjNGw1aFo3YV94cEtGM3EwWHU4OEhienlwTzlGZXBod0E3ZUZNS0MyZFZzd3RR?oc=5",
-          "published": "Thu, 17 Sep 2026 15:27:20 GMT",
-          "summary": "CRM Stock Drops Despite Fresh Price Target Hikes – JPMorgan Believes Investor Day Was 'Incrementally Positive’ For Re-Rating Thesis&nbsp;&nbsp;Yahoo Finance"
-        },
-        {
-          "title": "CRM Maintained by Stifel -- Price Target Raised to $300 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbGp0MVhnSDJrNzUwOWFDUTE0WnBFazQ5SVhpb25LcFh6dnNMQ2ZUN0hwNk44eGUzNXBoNjA0d3pvTmV1blV4X191NmdMTHpOMm9yX05ZYXJGZmtiY1VEZVFGcF9lZmFydkswV1hpdDF0MklUdVRoaTMyQ0o1WjZlQ2ViZFVvZnlYRUl0ZmtNWHRjYVNZ?oc=5",
-          "published": "Thu, 17 Sep 2026 15:10:45 GMT",
-          "summary": "CRM Maintained by Stifel -- Price Target Raised to $300&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "CRM Maintained by Citigroup -- Price Target Raised to $263 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTFnejNFdHd3Y1hNQ2t5R1hqWEhaNDZqc2Zlc3NPRTlsdV9MQk9ScnQ0ZmFBRFk4VUoxQjRkVGJnUThpSFVxcWVZSXRKWEI4NlBkTDNUdkFDaHExaGcxN2E5dzd6dDI4QXR5eEU2dW1LZDU2a2d5dVVJZ0dNM0xweTY1ODFvc1lhZTR3TE5PdXc1MWxaNi1pUA?oc=5",
-          "published": "Thu, 17 Sep 2026 14:31:44 GMT",
-          "summary": "CRM Maintained by Citigroup -- Price Target Raised to $263&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "CRM Reiterated by RBC Capital -- Price Target Maintained at $250 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlYweWtSV1l6Unh3bzg4Nm5zYU9zb3RPS3J6N3Uwb21ieEo0SDJ0Sno2aG41UDFrX3p3TjYyeDhYNmhKZWZ1YkhXWldlTldYSDN2XzJ3N0Mza3VFaU1rWmJKa0RNSTlaTDc2Z0xpNV9YcG5uOHhsRXpNZF9nLVlkZzcwZ1JoSDE0TldCSDBRUGVXRmNsZk1SenpwbXJlLWRu?oc=5",
-          "published": "Thu, 17 Sep 2026 14:31:43 GMT",
-          "summary": "CRM Reiterated by RBC Capital -- Price Target Maintained at $250&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "CRM Looks 27.2% Undervalued on GF Value™ as AI Strategy Gains Sp - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNElaTUpLZVVzaW9uMVBtVEotM1d4V19SMmxZNlFRbHlzSzVDSHhYOXo5OWxyWDJTUXp4cWd6RVc0VzRDS0tMUW9ybFNGbjVTb081aUdseUlyUUJOWUZVR3BrdENYNmdEZHE4ZFF3Y3NSdGZtQm5fMWMyNGxla05RVThYTUVUZEh2RlJJMkJHWEZWVGxIZmp0SUwzWkc2WFljd3RCYmt6MEN5RFk?oc=5",
-          "published": "Thu, 17 Sep 2026 14:11:42 GMT",
-          "summary": "CRM Looks 27.2% Undervalued on GF Value™ as AI Strategy Gains Sp&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "Salesforce (NYSE:CRM) Given New $300.00 Price Target at Stifel Nicolaus - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkdSWFZnaVBUcW9zZ0FXSUhfb3J2MUp3Qk80SEs3N2ZZTGpqT3BGbUNoQWo1YWg1VlFqNW1XYXloQWc2enBnLUh3OFFFN1ZMcWFoZHpoWGpHWVNpYjUtcEhyRF9qbWZBcHV1WGp6Q2RHZkpvaUhjd0c3anVHUFlQemFvRHVjTGxINm9wOGJjUW9QaHc5U0NTT2hYdWVuZGFFU05TMExON3I1UEVTTWc3V1E1cXF4ei1wcko2MzNidVRjQm0wT2lHRA?oc=5",
-          "published": "Thu, 17 Sep 2026 14:07:56 GMT",
-          "summary": "Salesforce (NYSE:CRM) Given New $300.00 Price Target at Stifel Nicolaus&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "Royal Bank Of Canada Reiterates \"Sector Perform\" Rating for Salesforce (NYSE:CRM) - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNk1DaEFfM1Vra1l4T0R4YkFiUG1fNDRVbW1iSXNXaURqVEExb0MwNG00LTd3dVk2Y0p5dWNXV20tUDRjWFA1OG1XdkpJMGRJUFkySlZ4RkplemJSWjczVDd4ODkwOGE3YUI0M2p1aWZBX0RTekIxeXVYb091TTNCWGJUOG1jajhyYkt1UG1JS2xMbE5xTUxoTzJlUERIOExfalpfcHFLWThBWWk5dnFMcGlXNi1sWGdST0NTVzA2b1J5Z2NYaHpueTJSWTdFWjExRm9QZjBB?oc=5",
-          "published": "Thu, 17 Sep 2026 13:47:48 GMT",
-          "summary": "Royal Bank Of Canada Reiterates \"Sector Perform\" Rating for Salesforce (NYSE:CRM)&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "HubSpot Adds ChatGPT Ads Inside CRM - CMSWire",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHhOal81RzRKb3o3emp5cFRHbS1xZmtHT0JESm9tVGxqcXJzZjNEbThMbjlPVkFCa3J5b3YzdUZ4WXpIZGh3VFhfMnlOUmVKRGZQb1RqU1Nhazg0bjB3RDZTWDFIMjFHNXRlRjBZeGtWU1JaT2Y3U0UzZU5RQ3dYcGlNU3FOdDJfM1RiNTUzanFKazA?oc=5",
-          "published": "Thu, 17 Sep 2026 13:38:05 GMT",
-          "summary": "HubSpot Adds ChatGPT Ads Inside CRM&nbsp;&nbsp;CMSWire"
-        },
-        {
-          "title": "Why Is Salesforce (CRM) Recasting CRM With AIforce And Koa? - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXRpa0tzclZ1Um5RUE9MYlo1WldfalBUT181cEc5TER6M0t2Tlk2VVRkek9nWDlKQVMzZ2l5VmdDMlBQOU5HQS16WGFvQjJTZnRqdGQ5VzdIQUxNTklYMnlGdFN1SUd6bG1xXzlBMlB3NnRiX1pHYTdSSVBSdDJOSE50OE1SaW9lczkxX1NSdEJnMVpGVGNYTko5Um5yeFZDaEVFUFBLNTVHbV96UjI2YmUySWwwSWUyeUV5LUJDb9IBxAFBVV95cUxQZDh4eWlTZnM5aXZUb3BHT2R3b09qYl9XZ1d6ZVloQ041YVdGYlJtN04yS25IeDJ6eWkyUE1kTnVVSjVTWjNZanJEREpGSzh4OWl0akRBTVBOakc4cEhJZWZTY1VveU9kakV1MTBCTzlmRC1XRjJweDVkellJTGptYlBkV0dYVXIyeHYwYUZxdk1XT1lHb251Z0s5azBROS1GOFMxaGpXdlphMFNvY3NoVjNlenAxUHJ4T1VhcjZJOVdqc0ZN?oc=5",
-          "published": "Thu, 17 Sep 2026 13:31:19 GMT",
-          "summary": "Why Is Salesforce (CRM) Recasting CRM With AIforce And Koa?&nbsp;&nbsp;simplywall.st"
-        },
-        {
-          "title": "CRM Maintained by Guggenheim -- Price Target Raised to $300 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUgtUHZBNkVVaGNZbzJQMTZCeG5TNG5rd2hWWFM2WGM4THZvVng4aHdUcEpOaEhLRmFaZTdhZmUwS3BjcjdnOUZxSUlNdnpsVzJ0RzdTR3ZMa0p1Mlo3azY0N3lWS0dvMW9uRlMxaUVxWjdMYTFRcHVKRlRhRTRWVHNzYllEWmlRa2QtbE1rTFFhbXFIMEtDRDJn?oc=5",
-          "published": "Thu, 17 Sep 2026 13:13:29 GMT",
-          "summary": "CRM Maintained by Guggenheim -- Price Target Raised to $300&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "CRM Maintained by Canaccord Genuity -- Price Target Raised to $3 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPel9YMEE1eEFNYmZTOFNyXzBrUW1XWGFEM2tjRHlPVk9DRGEwOW81OVZPLVRDemJZY056bE83N2tnOHlwVWNvX0luS0JDdW1UODZXdzI0U1pBeEpnSjhPQmxydktQRkotSTljOG1FWElqQW5NbHBHZGhQcUluRTRlbGV5M1lWVERZV0hoQzYyanpLRW02OVVSZ3d1c0VwQ1pIbzBJ?oc=5",
-          "published": "Thu, 17 Sep 2026 13:13:29 GMT",
-          "summary": "CRM Maintained by Canaccord Genuity -- Price Target Raised to $3&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "CRM Maintained by BMO Capital -- Price Target Raised to $285 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1hmSllwSDBkV3Vaakd5X196ZzZjd2xmbVdDUFhEYy05dVdtOUlINGlaTzQ2bkFlZmd2eWhtOEVYTG9va2tzTmgxc3F3aFlrUFZzTFhXR3FlYmhXR1AwVWo4V0VyU0xNT1AybE5RaTBmbm1PaWIteHhVVjJnVGVVR2hleHdrXzZ1SkplN3RyalpiZk5tQkU3MGU5cw?oc=5",
-          "published": "Thu, 17 Sep 2026 13:13:29 GMT",
-          "summary": "CRM Maintained by BMO Capital -- Price Target Raised to $285&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "4 stocks to watch on Thursday: GEV, MU, PSKY, and CRM (SP500:) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ3V1VW9jLWVJVGQzSkVWcjlLZ1FULWVCczRGcnlzTmZlVEhtbXFvakhKZHZyd3lxU1VOMDhBMEJaLXlyYS1iVVBqNGotOVYwWElzeFNVU2pzNXNXTXVrVFJqNVpITHNJOWtCY1pFNjVPTG4yVXU0UkZqdFZOQ01WNlFVMVNzamRBRnR4UkZlWUY?oc=5",
-          "published": "Thu, 17 Sep 2026 12:55:20 GMT",
-          "summary": "4 stocks to watch on Thursday: GEV, MU, PSKY, and CRM (SP500:)&nbsp;&nbsp;Seeking Alpha"
-        },
-        {
-          "title": "Salesforce Is Going Headless, And The Market Has Not Noticed (NYSE:CRM) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUZGdVRPY095YmJTQ01IdGVpMFFnV3FiZ3VWbUZhaENmc2tUUkRjaGc4N29Dbjl6RVJqU2pLWEtGZWNmbzdIZVZFbkhIWVBGSUtmUGV6NFZJSnVING41ZWVMa3dPMjlMN21ETWtNREh2Q2p4NW1EX2J6Vmh0RG9CcU5VblhOVFVWVzFMSURNRGRTNXZBRUU4ZjhkazdaZlR1S3c?oc=5",
-          "published": "Thu, 17 Sep 2026 12:30:42 GMT",
-          "summary": "Salesforce Is Going Headless, And The Market Has Not Noticed (NYSE:CRM)&nbsp;&nbsp;Seeking Alpha"
-        },
-        {
-          "title": "CRM Reiterates by Cantor Fitzgerald -- Price Target Maintained a - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWg5Q05EYndyY3l5R0Y2SHJLRk0xd1FMVGp3Y0NkYi02YmRYbkd1anZ0V0ZOSGpIS2ZsVnVwcmd3T3ZpOEhySG5ONmdZbXg3U2oxTDN6bFY4T0VvN0xuX1hYYVBrOW80ZVk2SmlESDFscGtYeEVraW9qZmJHLWpUNkRpdndzX2JDd1cwZlUyZlJ0WU5OR24xdXl3Nm1lQUw1aVFiUTdnZlg?oc=5",
-          "published": "Thu, 17 Sep 2026 12:14:33 GMT",
-          "summary": "CRM Reiterates by Cantor Fitzgerald -- Price Target Maintained a&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "Salesforce (CRM) Unveils Investor Day Presentation with Growth T - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObFR1Y2tXa0Z4MHBCRFZ3QWhiVGJBQ2RCNmhqQ0hiMzMxU3B4UGFtZjBiSXlkU0NTeUFLXzZWZDJ4LUZfUnM2U1F2LXo5VUE1MHJUZXVUbVdrZTVINDY5VTVJbnBJZVlTay1WRXZnMFNzQUowam5ZQVVPZnlKTmxFY3hhSHU2Qm9hTDEzc2lpUUlrQTJXYU5PcHVfazZDcldUck1vb3pLdVVwVEIwYy1mUUYya0lvdTRwcnd5NmMwdTF5Tmd1T0otZUtB?oc=5",
-          "published": "Thu, 17 Sep 2026 12:14:33 GMT",
-          "summary": "Salesforce (CRM) Unveils Investor Day Presentation with Growth T&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "Salesforce (NYSE:CRM) Price Target Raised to $300.00 - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzBlTHlnbzcyQktfQ1R3dzB4Z3JiNmxlR09XQU94ZmMyc21Ra25Dbi1EMFNUZ2h1bFVqbmZXMFFiTUYtMzB1M0daM19hU1I1SVFjUDJJMjJDRHo0YklJdVU0d3VVT2oxdkZtVXBiQWU1b3F2cE1leVhoZ0QtSkJhOTNOS05HYUNBN2NicG9SOVlFWEpiaUVtWWZUUE1jNkpEMnNjYk95aHZlZnBGQnJN?oc=5",
-          "published": "Thu, 17 Sep 2026 12:09:58 GMT",
-          "summary": "Salesforce (NYSE:CRM) Price Target Raised to $300.00&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "Salesforce (NYSE:CRM) Earns Overweight Rating from Cantor Fitzgerald - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQzkzZ1JQeUZHWDFJTmEzUncwbkVVQnZ1cHJVZGpXWW9aLVVrYlFCMFNrenQ4Rm9Wc1dWamFkUEhKdDJ0aDdKcU9GbjUycGFBMUE0WVBGcVY0bE8wX2QtbkhZSTg4SDJSQldYX0Vpb0pDbktWRHdhYXl5dHl4VDhfV0JTMDltM0RySXhidjFfSlhWdHFHcmZDNlJIV2xULUNEVlFBY2prR1Rva0t0cjF1TjJ3Uzl6dU5PaEgyblNBcHhwN0Z6cWo4?oc=5",
-          "published": "Thu, 17 Sep 2026 12:09:57 GMT",
-          "summary": "Salesforce (NYSE:CRM) Earns Overweight Rating from Cantor Fitzgerald&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "CRM Looks 27.0% Undervalued on GF Value™ Amid Positive Investor Day - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTktvMzNvVTY3bFlGRkluNllGbWVZME5xMGY1cjRyQVF2enNyLWQyOGRsWWc0MjEwZ2doRWpuOGJkbW1kYWtGeGctLU5XbkVFbkxIWGxVdF9EbUlCNE52LVlUUWVkb3NwUW03dklmUXliaFBvcDdpMGs3TmtNY1RuNlF5SHdaRTJzZVROcVF2X1BzUFIwOG9zSktodEpTTmNHVUVTZHBn?oc=5",
-          "published": "Thu, 17 Sep 2026 11:35:23 GMT",
-          "summary": "CRM Looks 27.0% Undervalued on GF Value™ Amid Positive Investor Day&nbsp;&nbsp;GuruFocus"
-        },
-        {
-          "title": "Salesforce (NYSE: CRM) plans to return 190% of FY27 free cash flow to investors - stocktitan.net",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzl2a3Ric0lsV2hFTkVodUQ1VnZzMW5zOWZJcV9VVWF3Q0l2YkNDNk5ZR05DNHdhZDl6SEZWN3dYRTZFVzg3UXA4V0Fud3dSYXU0SFZYZjQ3NFVLSENnZEVXdFRMVmdMTzF1SUFFY3dWQlZlZDlQOXJUMUFleVVjR2Rla3g3OWNoamRBR1ltZGxkRlFXbE8zV2hrQ3ZOZFY4ZHRjcw?oc=5",
-          "published": "Thu, 17 Sep 2026 10:02:55 GMT",
-          "summary": "Salesforce (NYSE: CRM) plans to return 190% of FY27 free cash flow to investors&nbsp;&nbsp;stocktitan.net"
         }
       ]
     },
@@ -860,54 +613,6 @@
           "link": "https://futurumgroup.com/insights/hcltech-pulse-targets-the-400b-mid-market-gap/?utm_source=rss&utm_medium=rss&utm_campaign=hcltech-pulse-targets-the-400b-mid-market-gap",
           "published": "Fri, 18 Sep 2026 12:04:44 +0000",
           "summary": "The post HCLTech Pulse Targets the $400B Mid-Market Gap appeared first on Futurum.\nHCLTech launched Pulse on September 17, 2026, targeting mid-market enterprises ($500M–$5B revenue) with integrated AI, cybersecurity, cloud, and managed services to address a $400 billion market gap.\nThe post HCLTech Pulse Targets the $400B Mid-Market Gap appeared first on Futurum."
-        },
-        {
-          "title": "Can Claude for Financial Advisors Meet Practice-Specific Needs?",
-          "link": "https://futurumgroup.com/insights/can-claude-for-financial-advisors-meet-practice-specific-needs/?utm_source=rss&utm_medium=rss&utm_campaign=can-claude-for-financial-advisors-meet-practice-specific-needs",
-          "published": "Thu, 17 Sep 2026 14:08:36 +0000",
-          "summary": "The post Can Claude for Financial Advisors Meet Practice-Specific Needs? appeared first on Futurum.\nKeith Kirkpatrick, Research Director at The Futurum Group shares insights on Claude for Financial Advisors, workflow integration, and the evidence needed to establish advisor productivity gains.\nThe post Can Claude for Financial Advisors Meet Practice-Specific Needs? appeared first on Futurum."
-        },
-        {
-          "title": "Can AWS and Salesforce Turn Connected Data Into Better Execution?",
-          "link": "https://futurumgroup.com/insights/can-aws-and-salesforce-turn-connected-data-into-better-execution/?utm_source=rss&utm_medium=rss&utm_campaign=can-aws-and-salesforce-turn-connected-data-into-better-execution",
-          "published": "Thu, 17 Sep 2026 13:51:32 +0000",
-          "summary": "The post Can AWS and Salesforce Turn Connected Data Into Better Execution? appeared first on Futurum.\nKeith Kirkpatrick, Research Director at The Futurum Group shares insights on AWS and Salesforce’s expanded integrations and the tests that matter for enterprise adoption.\nThe post Can AWS and Salesforce Turn Connected Data Into Better Execution? appeared first on Futurum."
-        },
-        {
-          "title": "Can Samsung and Verizon Make Network Sensing Useful for Venues?",
-          "link": "https://futurumgroup.com/insights/can-samsung-and-verizon-make-network-sensing-useful-for-venues/?utm_source=rss&utm_medium=rss&utm_campaign=can-samsung-and-verizon-make-network-sensing-useful-for-venues",
-          "published": "Thu, 17 Sep 2026 13:00:49 +0000",
-          "summary": "The post Can Samsung and Verizon Make Network Sensing Useful for Venues? appeared first on Futurum.\nTom Hollingsworth, Networking Technology Advisor and Event Lead at Futurum, shares insights on Samsung and Verizon’s network sensing trial and its implications for venue operations.\nThe post Can Samsung and Verizon Make Network Sensing Useful for Venues? appeared first on Futurum."
-        },
-        {
-          "title": "Sword Wins Splunk EMEA Partner Award as AI Services Demand Surges",
-          "link": "https://futurumgroup.com/insights/sword-wins-splunk-emea-partner-award-as-ai-services-demand-surges/?utm_source=rss&utm_medium=rss&utm_campaign=sword-wins-splunk-emea-partner-award-as-ai-services-demand-surges",
-          "published": "Thu, 17 Sep 2026 12:25:39 +0000",
-          "summary": "The post Sword Wins Splunk EMEA Partner Award as AI Services Demand Surges appeared first on Futurum.\nSword won the 2026 Splunk EMEA Services Partner of the Year award for innovation and AI-powered digital resilience, positioning it to capture significant market share amid surging demand for AI consulting services.\nThe post Sword Wins Splunk EMEA Partner Award as AI Services Demand Surges appeared first on Futurum."
-        },
-        {
-          "title": "Peraton's DHS Renewal: The Blueprint for Federal Mission Partnerships",
-          "link": "https://futurumgroup.com/insights/peratons-dhs-renewal-the-blueprint-for-federal-mission-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=peratons-dhs-renewal-the-blueprint-for-federal-mission-partnerships",
-          "published": "Thu, 17 Sep 2026 12:21:13 +0000",
-          "summary": "The post Peraton&#039;s DHS Renewal: The Blueprint for Federal Mission Partnerships appeared first on Futurum.\nPeraton's three-year DHS award reinforces its 20-year partnership in workforce screening, demonstrating how federal integrators capture recurring government work amid intensifying security demands.\nThe post Peraton&#039;s DHS Renewal: The Blueprint for Federal Mission Partnerships appeared first on Futurum."
-        },
-        {
-          "title": "Ruder Finn Wins Three AOR Mandates as Integrated Brand Demand Accelerates",
-          "link": "https://futurumgroup.com/insights/ruder-finn-wins-three-aor-mandates-as-integrated-brand-demand-accelerates/?utm_source=rss&utm_medium=rss&utm_campaign=ruder-finn-wins-three-aor-mandates-as-integrated-brand-demand-accelerates",
-          "published": "Thu, 17 Sep 2026 12:18:43 +0000",
-          "summary": "The post Ruder Finn Wins Three AOR Mandates as Integrated Brand Demand Accelerates appeared first on Futurum.\nRuder Finn's Brand Experience practice has been named Agency of Record for Carter's, Sweet Loren's, and Vytalogy Wellness, signaling accelerating demand for integrated brand strategy partners with AI-powered capabilities.\nThe post Ruder Finn Wins Three AOR Mandates as Integrated Brand Demand Accelerates appeared first on Futurum."
-        },
-        {
-          "title": "Four Straight: What phData's dbt Streak Reveals About AI Readiness",
-          "link": "https://futurumgroup.com/insights/four-straight-what-phdatas-dbt-streak-reveals-about-ai-readiness/?utm_source=rss&utm_medium=rss&utm_campaign=four-straight-what-phdatas-dbt-streak-reveals-about-ai-readiness",
-          "published": "Thu, 17 Sep 2026 12:17:19 +0000",
-          "summary": "The post Four Straight: What phData&#039;s dbt Streak Reveals About AI Readiness appeared first on Futurum.\nphData earns its fourth consecutive dbt Visionary Partner of the Year award, demonstrating practice-wide commitment to analytics engineering and data governance as the foundation for enterprise AI readiness and scalable transformation.\nThe post Four Straight: What phData&#039;s dbt Streak Reveals About AI Readiness appeared first on Futurum."
-        },
-        {
-          "title": "When AI Agents Cheat: What the OpenAI Incident Means for Channel Partners",
-          "link": "https://futurumgroup.com/insights/when-ai-agents-cheat-what-the-openai-incident-means-for-channel-partners/?utm_source=rss&utm_medium=rss&utm_campaign=when-ai-agents-cheat-what-the-openai-incident-means-for-channel-partners",
-          "published": "Thu, 17 Sep 2026 12:04:36 +0000",
-          "summary": "The post When AI Agents Cheat: What the OpenAI Incident Means for Channel Partners appeared first on Futurum.\nThe July 2026 OpenAI AI agent security incident—where 700+ agents self-organized across test environments—reveals critical governance lessons for channel partners entering the $41.8B AI consulting market.\nThe post When AI Agents Cheat: What the OpenAI Incident Means for Channel Partners appeared first on Futurum."
         }
       ]
     },
@@ -935,18 +640,6 @@
           "link": "https://www.constellationr.com/research/blog/business-value-and-limits-roi",
           "published": "Thu, 17 Sep 2026 18:13:44 +0000",
           "summary": "Business Value and the Limits of ROI\nEsteban Kolsky\nThu, 17 Sep 2026 - 11:13\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Esteban\n   Kolsky\n\n                  Chief Distiller, Board Advisor\n  Constellation Research\n\n            \n            \n                Esteban Kolsky spent the first part of his professional career working on the customer service front line and in management roles, culminating in early implementations of first-generation CRM to"
-        },
-        {
-          "title": "Salesforce lays out growth plans: What customers need to know",
-          "link": "https://www.constellationr.com/insights/news/salesforce-lays-out-growth-plans-what-customers-need-know",
-          "published": "Thu, 17 Sep 2026 12:02:13 +0000",
-          "summary": "Salesforce lays out growth plans: What customers need to know\nLarry Dignan\nThu, 17 Sep 2026 - 05:02\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital t"
-        },
-        {
-          "title": "OpenAI's new misalignment disclosure framework a solid start",
-          "link": "https://www.constellationr.com/insights/news/openais-new-misalignment-disclosure-framework-solid-start",
-          "published": "Thu, 17 Sep 2026 10:41:26 +0000",
-          "summary": "OpenAI's new misalignment disclosure framework a solid start\nLarry Dignan\nThu, 17 Sep 2026 - 03:41\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital tr"
         }
       ]
     },
