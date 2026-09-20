@@ -1,48 +1,18 @@
 {
-  "generated_at": "2026-09-20T10:06:12.579784+00:00",
+  "generated_at": "2026-09-20T17:39:46.899034+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
-  "feeds_with_errors": 10,
+  "feeds_with_errors": 4,
   "fetch_errors": [
-    {
-      "name": "UC Today",
-      "url": "https://www.uctoday.com/feed/",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:uctoday.com+when:3d&hl=en-US&gl=US&ceid=US:en"
-    },
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
     },
     {
-      "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
-      "url": "https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22unified+communications%22+or+%22UCaaS%22",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22unified+communications%22+or+%22UCaaS%22"
-    },
-    {
-      "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
-      "url": "https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22CX%22+and+%22Customer+experience%22",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22CX%22+and+%22Customer+experience%22"
-    },
-    {
-      "name": "\"CRM\" - Google News",
-      "url": "https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=CRM",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=CRM"
-    },
-    {
-      "name": "\"\"Contact Center\" or \"contact centre\" or \"CCaaS\"\" - Google News",
-      "url": "https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22Contact+Center%22+or+%22contact+centre%22+or+%22CCaaS%22",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22Contact+Center%22+or+%22contact+centre%22+or+%22CCaaS%22"
-    },
-    {
-      "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "url": "https://www.channelpronetwork.com/rss.xml",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:channelpronetwork.com+when:3d&hl=en-US&gl=US&ceid=US:en"
-    },
-    {
-      "name": "Verdict",
-      "url": "https://www.verdict.co.uk/feed/",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:verdict.co.uk+(%22contact+center%22+OR+CCaaS+OR+CPaaS+OR+%22unified+communications%22)+when:3d&hl=en-US&gl=US&ceid=US:en"
+      "name": "Industry News – CPaaSAA",
+      "url": "https://cpaasaa.com/category/industry-news/feed/",
+      "error": "429 Client Error: Too Many Requests for url: https://cpaasaa.com/category/industry-news/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -72,10 +42,10 @@
       "name": "CX Today",
       "items": [
         {
-          "title": "SAS Customer Intelligence 360 Claims 4x Faster Campaigns. What’s Really Driving the Gain?",
-          "link": "https://www.cxtoday.com/customer-analytics-intelligence/sas-customer-intelligence/",
-          "published": "Fri, 18 Sep 2026 16:25:03 +0000",
-          "summary": "“Four times faster” is the kind of outcome bound to make any marketing leader pay attention. That’s the exact claim attached to HAPPY GO’s use of SAS Customer Intelligence 360. They say the system helped make campaign planning and execution four times faster. The fuller SAS customer story also reports a 4x to 5x productivity [&#8230;]"
+          "title": "Sprinklr Service and the Shift from AI Explainability to AI Assurance",
+          "link": "https://www.cxtoday.com/contact-center/sprinklr-service-and-ai-assurance/",
+          "published": "Sun, 20 Sep 2026 16:25:05 +0000",
+          "summary": "Sprinklr’s 2026 releases show how contact centers are moving from trusting AI agents on promise to testing them before and after deployment. With tools like Sprinklr Autonomous Evaluation, the brand might finally be ready to answer some serious questions about AI agent assurance. AI agent governance is getting more practical. In 2026, the contact center [&#8230;]"
         }
       ]
     },
@@ -148,18 +118,6 @@
           "link": "https://www.nojitter.com/events/icmi-contact-center-expo",
           "published": "",
           "summary": ""
-        },
-        {
-          "title": "4 articles on how the market for AI receptionists grew",
-          "link": "https://www.nojitter.com/ai-automation/4-articles-on-how-the-market-for-ai-receptionists-grew",
-          "published": "Fri, 18 Sep 2026 14:08:30 GMT",
-          "summary": "By automating some customer interactions, clearly defined digital agents allow organizations to extend their CX resources without a drop in service."
-        },
-        {
-          "title": "Integration, price and AI expertise are top criteria for CX provider selection",
-          "link": "https://www.nojitter.com/customer-experience/integration-price-and-ai-expertise-are-top-criteria-for-cx-provider-selection",
-          "published": "Fri, 18 Sep 2026 14:02:30 GMT",
-          "summary": "These three priorities offer platform providers more of an advantage than any individual type of channel partner."
         }
       ]
     },
@@ -169,7 +127,20 @@
     },
     {
       "name": "UC Today",
-      "items": []
+      "items": [
+        {
+          "title": "Field Service Under Storm Pressure: Can IFS Resolve Keep Up? - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzd4aDFtNUY5OTdNWmRrLWdEZm5VNFNaY0JxZVlpM2MzZktBQTh0UEhONVdoalBTeUVKRHRNQ1ZzdVJPXy00ZThORmJBeWFSbmN0bzF3QU9JRElxOXZDRTZlTVB6QjFIaFBHQS1GV3JFMC1Vb2Z2QlVVdUJBQjhBM3hNM3Y?oc=5",
+          "published": "Sun, 20 Sep 2026 11:01:53 GMT",
+          "summary": "Field Service Under Storm Pressure: Can IFS Resolve Keep Up?&nbsp;&nbsp;UC Today"
+        },
+        {
+          "title": "Cyber Round Up: AI Risks Get Real, Agents Take On More - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xbk9rajRuaVh3Zk02S0tGUlJ4TzUwVTFKRXdpaDNrenRuXzhIa1FtanZZWGlTRVVKUlZBM2N5aWg4T2ZpT2NHRTVCMDhnc1NaVE5PMjhZZ05ZZnpmOEFhY29uSk5hZFljdlc5ZjZudGxrNFZwd2tyaEItSzM?oc=5",
+          "published": "Sat, 19 Sep 2026 08:05:48 GMT",
+          "summary": "Cyber Round Up: AI Risks Get Real, Agents Take On More&nbsp;&nbsp;UC Today"
+        }
+      ]
     },
     {
       "name": "Webex Blog",
@@ -181,7 +152,38 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": []
+      "items": [
+        {
+          "title": "Zoom unveils AI-powered revenue OS to unify buyer intelligence, customer conversations, and revenue execution",
+          "link": "https://telecomreseller.com/2026/09/18/zoom-unveils-ai-powered-revenue-os-to-unify-buyer-intelligence-customer-conversations-and-revenue-execution/",
+          "published": "Fri, 18 Sep 2026 19:25:47 +0000",
+          "summary": "Debuts Common Room availability through Zoom and rolls out new Zoom Revenue Accelerator capabilities, Engage and Forecast, fueling the company’s vision for an AI-powered revenue OS built on customer conversations [...]\nThe post Zoom unveils AI-powered revenue OS to unify buyer intelligence, customer conversations, and revenue execution appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "XTIUM Named a Special Award Finalist of Informa’s MSP 501 AI MSP of the Year Award for 2026",
+          "link": "https://telecomreseller.com/2026/09/18/xtium-named-a-special-award-finalist-of-informas-msp-501-ai-msp-of-the-year-award-for-2026/",
+          "published": "Fri, 18 Sep 2026 19:13:47 +0000",
+          "summary": "XTIUM earns recognition as a 2026 AI MSP of the Year finalist for its AI-native approach to helping organizations adopt, govern, deploy, and manage AI. TAMPA, FL &#8211; September 17, [...]\nThe post XTIUM Named a Special Award Finalist of Informa’s MSP 501 AI MSP of the Year Award for 2026 appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "TNS and UCP Partner to Expand US Unattended Payment Capabilities",
+          "link": "https://telecomreseller.com/2026/09/18/tns-and-ucp-partner-to-expand-us-unattended-payment-capabilities/",
+          "published": "Fri, 18 Sep 2026 19:04:37 +0000",
+          "summary": "TNS and UCP collaboration expands access to unattended payment expertise across North America September 15, 2026 &#8211; Transaction Network Services (TNS) has entered into a partnership agreement with Unattended Card Payments [...]\nThe post TNS and UCP Partner to Expand US Unattended Payment Capabilities appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Cisco Delivers Trusted AI at Scale Through New Splunk Advancements",
+          "link": "https://telecomreseller.com/2026/09/18/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements/",
+          "published": "Fri, 18 Sep 2026 18:55:37 +0000",
+          "summary": "Customers can now run, defend, and observe AI where their machine data already lives Cisco and NVIDIA extend partnership to bring agentic AI to Splunk on-premises customers News Summary: Splunk [...]\nThe post Cisco Delivers Trusted AI at Scale Through New Splunk Advancements appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "8×8 Names Fazpass 2026 CPaaS Partner of the Year as Six-Year Alliance Powers Authentication for 50+ Enterprises",
+          "link": "https://telecomreseller.com/2026/09/18/8x8-names-fazpass-2026-cpaas-partner-of-the-year-as-six-year-alliance-powers-authentication-for-50-enterprises/",
+          "published": "Fri, 18 Sep 2026 18:44:27 +0000",
+          "summary": "Partnership delivers multi-channel authentication and omnichannel engagement to IKEA, inDrive, Fore Coffee, and leading Southeast Asian enterprises Jakarta, Indonesia &#8211; September 15, 2026 &#8211; 8&#215;8, Inc. (NASDAQ: EGHT), a leading [...]\nThe post 8&#215;8 Names Fazpass 2026 CPaaS Partner of the Year as Six-Year Alliance Powers Authentication for 50+ Enterprises appeared first on Telecom Reseller / Technology Reseller News."
+        }
+      ]
     },
     {
       "name": "CMSWire.com - All News",
@@ -209,12 +211,6 @@
           "link": "https://www.cmswire.com/digital-marketing/how-does-netflix-measure-marketing-channels-a-b-testing-misses/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Fri, 18 Sep 2026 13:56:24 -0500",
           "summary": "CFOs want proof, not attribution guesswork. Netflix&apos;s approach to market-level testing shows marketers how to measure what A/B tests can&apos;t touch.\nContinue reading..."
-        },
-        {
-          "title": "What Is ChatGPT, and What Should CX Leaders Know Now?",
-          "link": "https://www.cmswire.com/digital-experience/chatgpt-what-you-need-to-know/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Fri, 18 Sep 2026 09:16:00 -0500",
-          "summary": "ChatGPT is shifting from drafting replies to taking action inside CRM and support tools — CX teams need new governance now.\nContinue reading..."
         }
       ]
     },
@@ -234,12 +230,6 @@
           "link": "https://www.ringcentral.com/us/en/blog/conversational-ai-healthcare/",
           "published": "Fri, 18 Sep 2026 20:00:27 +0000",
           "summary": "A practical guide for leaders deciding how voice AI fits patient access without adding risk or headcount. Your front desk answers the same questions all day. A patient wants to move an appointment, another needs a refill, a third is calling back about a bill. The phones don&#8217;t stop, but the staffing plan hasn&#8217;t changed ...\nThe post Conversational AI in healthcare: A 2026 guide appeared first on RingCentral Blog."
-        },
-        {
-          "title": "AI Receptionist with AT&T Office@Hand: What it means for real estate agents",
-          "link": "https://www.ringcentral.com/us/en/blog/ai-receptionist-att-officehand-real-estate-agents/",
-          "published": "Fri, 18 Sep 2026 16:00:26 +0000",
-          "summary": "Key takeaways: AI Receptionist, 24/7 AI call-answering feature, is now included in the AT&#38;T Office@Hand Ultimate package. Real estate agents on AT&#38;T Office@Hand can answer every call instantly, route urgent leads, and book tours automatically, without adding a separate tool. It works inside the phone system you already have, so there’s nothing new to set ...\nThe post AI Receptionist with AT&#038;T Office@Hand: What it means for real estate agents appeared first on RingCentral Blog."
         }
       ]
     },
@@ -257,7 +247,50 @@
     },
     {
       "name": "\"CRM\" - Google News",
-      "items": []
+      "items": [
+        {
+          "title": "Nicole Mazza Examines the Changing Role of CRM and Customer Experience in Luxury Marketing - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOFN3cnA5Q1ZrSlQydFJ6T1E2Y0VtQjd2UDJiXy02LThpX2xHSHpVMjdxNDI4TGFVYUN2bWFZZ0x5T2Y2LURmY3NFLVpWMjFKN2cydUEyQ2p3T0RPMnc5aldiM1h6dHVSR3pUQUxRZWNPbG4zUjhpYUp0akkxNll1OHpWX3VIalE1NlF1QWJZT0x6NUgzM1ZwNl82bTR5b3JDRGhjMEp1SmswZ05HbkpOclZPUzBYOEFuSDZSVlh6ZzdObEhOVkgyaE9vWWs5UVd2TXhlUkRBekNmNDcwRTRwV0x3?oc=5",
+          "published": "Sun, 20 Sep 2026 06:32:12 GMT",
+          "summary": "Nicole Mazza Examines the Changing Role of CRM and Customer Experience in Luxury Marketing&nbsp;&nbsp;StreetInsider"
+        },
+        {
+          "title": "User-friendly CRMs are giving small businesses their training time back. Here’s how to use it. - ABC17NEWS",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVk1XejNfVFJoaXM0cXJmWjJENWJKLUJMdU5TMTBRNXpDZlRxZmNHM01pcEVrM2ltdHJ1eUpRUl9ZSVJmc3hqenY4MUx6aWpqcW9kZFZQTGhET0RLWmpUbUxTblo5enVqR3A0V1ZPWWlCN1MzNG1MQ0VWSHhSanJUQXVRTk1nZWdqOUFGWm5SUVcxTFQ2Rlh2N3dpdE4xR2h4dVJ0RzlybnNkUGZZakp5cXREM3o4S1RJOGdiWEhiZkx0QWw3MjExOFBJTDZPNWlOTUl6MWtuSHdPc0FyZ0lKY2hR?oc=5",
+          "published": "Sun, 20 Sep 2026 06:29:45 GMT",
+          "summary": "User-friendly CRMs are giving small businesses their training time back. Here’s how to use it.&nbsp;&nbsp;ABC17NEWS"
+        },
+        {
+          "title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface - SiliconANGLE",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakVFMXJ1S1BaLVkyWGZmczNMQkY4UWxOc2NZcGZmejNBQXE1dS1WRUlWZ0dfMENmWWp2cVF3RnRxcnJvT0RtSEY3WDJOSDRuNkV5SlM0cjFuakZQcTRzWmNsSXBqbEJndWFmT2phZ19RaFlBeE0wZWYxdFJNbHRjTFhySzB5amJ2Z21sWjc2VjNhRDdIRTZyRnJhOWJzRE16b2JVbUk5cU9aendVME00c2VqY2psNlU?oc=5",
+          "published": "Sat, 19 Sep 2026 17:38:00 GMT",
+          "summary": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface&nbsp;&nbsp;SiliconANGLE"
+        },
+        {
+          "title": "Salesforce AIforce Launch: How CRM Goes Headless - NeoTeo",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2ZESHJDT2tQVFZobVBrelZoQXN0ZWVxcEZIVVlNeUVwUk1tREJ1UHF0d3l5bFdlM21uYml1TjUxMXlWNnBlQUZCRENxWU5Rd203MDFGX1NXdHdneGpPT0dkUWt6TzRxakgwdmtrRDc1Zkc1Q0trZHNSOFlzTVd4LUFXZ0JtWHVuSEM5N0JtV2ZQUQ?oc=5",
+          "published": "Sat, 19 Sep 2026 10:02:12 GMT",
+          "summary": "Salesforce AIforce Launch: How CRM Goes Headless&nbsp;&nbsp;NeoTeo"
+        },
+        {
+          "title": "Why Salesforce’s Homegrown AI Model Won’t Move the Stock Until 2027 - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHhZcFdiUnZ0b1Vvc0ladHB5MTVMN05KaDZNSFZDTGlQdlhkb3c0czNfeWtRbk5ZZEFvVHpmZlBLNjNGUDY4emtnUzZjb3FKaER0SExwQmROV09icm5jTUE2MmJSZk9tNHhneG4wYVhnbFJzdHBLaWphS3Q5dTdRbkVfMA?oc=5",
+          "published": "Fri, 18 Sep 2026 19:03:51 GMT",
+          "summary": "Why Salesforce’s Homegrown AI Model Won’t Move the Stock Until 2027&nbsp;&nbsp;AOL.com"
+        },
+        {
+          "title": "Why Salesforce’s Homegrown AI Model Won’t Move the Stock Until 2027 - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDcyblRCa2ExUEVWVVFKQzdqdTNqQTE2bHFneU5lOEprSmtaZ3pRU3BhdThDc0NVcG1GWFpFQ0JYdWg4cWt4WTMwZGNNZ1NRTW1XSnVGVVVwSFhQbVB4bUkycFRBMjJma2ljb1VzQ3JQS3ZfbjZpRFZUeEs3NUpXOHdDNWRFT1R1djYyanBIS1o3blVLZjVpTG00SGp3LTlVRFIzYkljVEk2X0JhN0E?oc=5",
+          "published": "Fri, 18 Sep 2026 19:03:00 GMT",
+          "summary": "Why Salesforce’s Homegrown AI Model Won’t Move the Stock Until 2027&nbsp;&nbsp;24/7 Wall St."
+        },
+        {
+          "title": "HubSpot becomes OpenAI’s first CRM partner for ChatGPT Ads - TechInformed",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWlCYWRSZUlVTFB2NXdEdnluUm5hLWU2WHJKWTVxZ2dsS1NDc3I5SnJzMWNlV1JZN21WeXhVcDRveElESnE3cEpYbnc3d1JOMlVUMVREbEZCQ1VmUlZlNGxyY2xrZ1R4Mmx3eUx2bVpMZkY3Q1VoRERtSWxMcGpMTTZYRjhBczRaZV80?oc=5",
+          "published": "Fri, 18 Sep 2026 17:42:31 GMT",
+          "summary": "HubSpot becomes OpenAI’s first CRM partner for ChatGPT Ads&nbsp;&nbsp;TechInformed"
+        }
+      ]
     },
     {
       "name": "\"\"Contact Center\" or \"contact centre\" or \"CCaaS\"\" - Google News",
@@ -273,76 +306,23 @@
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "items": []
+      "items": [
+        {
+          "title": "Key channel headlines: NinjaOne adds browser management, Arctic Wolf launches MDR tier for MSPs, and more - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkl3eWdzYjZqbmNKM1hvMjg4Y0c3VnVmUllIdXFGWFVaYzJBc25rN182WjZ0c0FxMV9SWUVqVDl6WXpDSUhiRWxybGdsNkdETGNNOFBjV1BjV1Z1UEdOdUNsNnNkRldMUl9xMXI1LTBXLXhvZnNTNThhT2xRMkQwYnllN1Z1WDFKcjJGZ25PdlMyY2FHWUFjcHlrczFPZmdGU093?oc=5",
+          "published": "Fri, 18 Sep 2026 23:16:02 GMT",
+          "summary": "Key channel headlines: NinjaOne adds browser management, Arctic Wolf launches MDR tier for MSPs, and more&nbsp;&nbsp;The ChannelPro Network"
+        }
+      ]
     },
     {
       "name": "Futurum",
       "items": [
         {
-          "title": "Cisco and NVIDIA Bring Splunk AI to Enterprises",
-          "link": "https://futurumgroup.com/insights/cisco-and-nvidia-bring-splunk-ai-to-enterprises/?utm_source=rss&utm_medium=rss&utm_campaign=cisco-and-nvidia-bring-splunk-ai-to-enterprises",
-          "published": "Fri, 18 Sep 2026 14:29:14 +0000",
-          "summary": "The post Cisco and NVIDIA Bring Splunk AI to Enterprises appeared first on Futurum.\nFernando Montenegro, VP at The Futurum Group, shares insights on Splunk AI, the Cisco–NVIDIA partnership, and enterprise requirements for hybrid deployment.\nThe post Cisco and NVIDIA Bring Splunk AI to Enterprises appeared first on Futurum."
-        },
-        {
-          "title": "Salesforce and Google Cloud Expand Access to CRM Workflows",
-          "link": "https://futurumgroup.com/insights/salesforce-and-google-cloud-expand-access-to-crm-workflows/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-and-google-cloud-expand-access-to-crm-workflows",
-          "published": "Fri, 18 Sep 2026 14:07:36 +0000",
-          "summary": "The post Salesforce and Google Cloud Expand Access to CRM Workflows appeared first on Futurum.\nKeith Kirkpatrick, Research Director at The Futurum Group, examines Salesforce’s Google Cloud expansion and the tests ahead for enterprise workflows and commerce.\nThe post Salesforce and Google Cloud Expand Access to CRM Workflows appeared first on Futurum."
-        },
-        {
-          "title": "Zscaler Launches Agentic SOC, Betting on Telemetry Over Model Horsepower",
-          "link": "https://futurumgroup.com/insights/zscaler-launches-agentic-soc-betting-on-telemetry-over-model-horsepower/?utm_source=rss&utm_medium=rss&utm_campaign=zscaler-launches-agentic-soc-betting-on-telemetry-over-model-horsepower",
-          "published": "Fri, 18 Sep 2026 13:45:14 +0000",
-          "summary": "The post Zscaler Launches Agentic SOC, Betting on Telemetry Over Model Horsepower appeared first on Futurum.\nFernando Montenegro, VP at Futurum, analyzes Zscaler's launch of Agentic SOC and why its inline telemetry, decoy mesh, and Red Canary detection matter more than the AI agents themselves.\nThe post Zscaler Launches Agentic SOC, Betting on Telemetry Over Model Horsepower appeared first on Futurum."
-        },
-        {
-          "title": "PyTorch Day Japan Brings Open-Source AI to Tokyo",
-          "link": "https://futurumgroup.com/insights/pytorch-day-japan-brings-open-source-ai-to-tokyo/?utm_source=rss&utm_medium=rss&utm_campaign=pytorch-day-japan-brings-open-source-ai-to-tokyo",
-          "published": "Fri, 18 Sep 2026 12:13:13 +0000",
-          "summary": "The post PyTorch Day Japan Brings Open-Source AI to Tokyo appeared first on Futurum.\nPyTorch Day Japan 2026 convenes ML engineers and AI researchers in Tokyo on December 10 to explore sovereign AI development, open-source inference, and enterprise adoption.\nThe post PyTorch Day Japan Brings Open-Source AI to Tokyo appeared first on Futurum."
-        },
-        {
-          "title": "Thales HexaForce: Can Sovereign AI C2 Capture NATO's Next Wave?",
-          "link": "https://futurumgroup.com/insights/thales-hexaforce-can-sovereign-ai-c2-capture-natos-next-wave/?utm_source=rss&utm_medium=rss&utm_campaign=thales-hexaforce-can-sovereign-ai-c2-capture-natos-next-wave",
-          "published": "Fri, 18 Sep 2026 12:13:07 +0000",
-          "summary": "The post Thales HexaForce: Can Sovereign AI C2 Capture NATO&#039;s Next Wave? appeared first on Futurum.\nThales launched HexaForce, an AI-enhanced command and control system validated at NATO CWIX 2026, positioning the company to capture growing allied defense spending on interoperable security solutions.\nThe post Thales HexaForce: Can Sovereign AI C2 Capture NATO&#039;s Next Wave? appeared first on Futurum."
-        },
-        {
-          "title": "AI Value Isn't a Tech Problem. It's an Operating Model Problem.",
-          "link": "https://futurumgroup.com/insights/ai-value-isnt-a-tech-problem-its-an-operating-model-problem/?utm_source=rss&utm_medium=rss&utm_campaign=ai-value-isnt-a-tech-problem-its-an-operating-model-problem",
-          "published": "Fri, 18 Sep 2026 12:12:54 +0000",
-          "summary": "The post AI Value Isn&#039;t a Tech Problem. It&#039;s an Operating Model Problem. appeared first on Futurum.\nOperating model readiness, not technology, is the critical barrier preventing enterprises from scaling AI value, creating a massive consulting opportunity.\nThe post AI Value Isn&#039;t a Tech Problem. It&#039;s an Operating Model Problem. appeared first on Futurum."
-        },
-        {
-          "title": "Ricoh's Atsugi Bet: Can Supply Scale Unlock Channel Growth?",
-          "link": "https://futurumgroup.com/insights/ricohs-atsugi-bet-can-supply-scale-unlock-channel-growth/?utm_source=rss&utm_medium=rss&utm_campaign=ricohs-atsugi-bet-can-supply-scale-unlock-channel-growth",
-          "published": "Fri, 18 Sep 2026 12:12:48 +0000",
-          "summary": "The post Ricoh&#039;s Atsugi Bet: Can Supply Scale Unlock Channel Growth? appeared first on Futurum.\nRicoh's $39,000 per square meter Atsugi facility investment doubles inkjet head production by 2028, positioning channel partners to capitalize on industrial printing's 36% CAGR growth.\nThe post Ricoh&#039;s Atsugi Bet: Can Supply Scale Unlock Channel Growth? appeared first on Futurum."
-        },
-        {
-          "title": "SCSK Bets on Vertical AI Agents to Crack Japan's Real Estate Market",
-          "link": "https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/?utm_source=rss&utm_medium=rss&utm_campaign=scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market",
-          "published": "Fri, 18 Sep 2026 12:11:56 +0000",
-          "summary": "The post SCSK Bets on Vertical AI Agents to Crack Japan&#039;s Real Estate Market appeared first on Futurum.\nSCSK unveiled its Real Estate Industry AI Agent Set on September 18, 2026, delivering pre-built, vertically packaged AI solutions for sales brokerage, rental management, and leasing workflows across 50+ enterprise clients.\nThe post SCSK Bets on Vertical AI Agents to Crack Japan&#039;s Real Estate Market appeared first on Futurum."
-        },
-        {
-          "title": "MANTL's Branch Bet Pays Off: 1M Applications and Climbing",
-          "link": "https://futurumgroup.com/insights/mantls-branch-bet-pays-off-1m-applications-and-climbing/?utm_source=rss&utm_medium=rss&utm_campaign=mantls-branch-bet-pays-off-1m-applications-and-climbing",
-          "published": "Fri, 18 Sep 2026 12:10:21 +0000",
-          "summary": "The post MANTL&#039;s Branch Bet Pays Off: 1M Applications and Climbing appeared first on Futurum.\nAlkami Technology's MANTL platform has crossed 1 million in-branch account opening applications, becoming the highest-volume growth channel in 2026 as U.S. banks open more branches than they close for the third consecutive quarter.\nThe post MANTL&#039;s Branch Bet Pays Off: 1M Applications and Climbing appeared first on Futurum."
-        },
-        {
-          "title": "Sierra's AIUC-1 Certification Sets a New Bar for Agentic AI Trust",
-          "link": "https://futurumgroup.com/insights/sierras-aiuc-1-certification-sets-a-new-bar-for-agentic-ai-trust/?utm_source=rss&utm_medium=rss&utm_campaign=sierras-aiuc-1-certification-sets-a-new-bar-for-agentic-ai-trust",
-          "published": "Fri, 18 Sep 2026 12:09:45 +0000",
-          "summary": "The post Sierra&#039;s AIUC-1 Certification Sets a New Bar for Agentic AI Trust appeared first on Futurum.\nSierra achieves AIUC-1 certification, the first standard purpose-built for AI agent behavior. Independent audit and adversarial testing validate reliability and security for regulated industries.\nThe post Sierra&#039;s AIUC-1 Certification Sets a New Bar for Agentic AI Trust appeared first on Futurum."
-        },
-        {
-          "title": "HCLTech Pulse Targets the $400B Mid-Market Gap",
-          "link": "https://futurumgroup.com/insights/hcltech-pulse-targets-the-400b-mid-market-gap/?utm_source=rss&utm_medium=rss&utm_campaign=hcltech-pulse-targets-the-400b-mid-market-gap",
-          "published": "Fri, 18 Sep 2026 12:04:44 +0000",
-          "summary": "The post HCLTech Pulse Targets the $400B Mid-Market Gap appeared first on Futurum.\nHCLTech launched Pulse on September 17, 2026, targeting mid-market enterprises ($500M–$5B revenue) with integrated AI, cybersecurity, cloud, and managed services to address a $400 billion market gap.\nThe post HCLTech Pulse Targets the $400B Mid-Market Gap appeared first on Futurum."
+          "title": "CodeRabbit Triage: Fixing the PR Inbox That Cries Wolf",
+          "link": "https://futurumgroup.com/insights/coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf/?utm_source=rss&utm_medium=rss&utm_campaign=coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf",
+          "published": "Sun, 20 Sep 2026 12:04:28 +0000",
+          "summary": "The post CodeRabbit Triage: Fixing the PR Inbox That Cries Wolf appeared first on Futurum.\nCodeRabbit launched Triage on September 18, 2026, using AI-assisted scoring to automatically prioritize pull requests—addressing a critical pain point for the 46.8% of organizations targeting software engineering as a top generative AI use case.\nThe post CodeRabbit Triage: Fixing the PR Inbox That Cries Wolf appeared first on Futurum."
         }
       ]
     },
@@ -354,10 +334,10 @@
       "name": "Constellation Research",
       "items": [
         {
-          "title": "Three researchers, three days and about $3,000 landed OpenAI’s crown code jewels",
-          "link": "https://www.constellationr.com/insights/news/three-researchers-three-days-and-about-3000-landed-openais-crown-code-jewels",
-          "published": "Fri, 18 Sep 2026 10:55:47 +0000",
-          "summary": "Three researchers, three days and about $3,000 landed OpenAI’s crown code jewels\nLarry Dignan\nFri, 18 Sep 2026 - 03:55\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise te"
+          "title": "Nvidia’s Nemotron hit enterprise AI inflection point",
+          "link": "https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point",
+          "published": "Sun, 20 Sep 2026 11:16:51 +0000",
+          "summary": "Nvidia’s Nemotron hit enterprise AI inflection point\nLarry Dignan\nSun, 20 Sep 2026 - 04:16\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transforma"
         }
       ]
     },
