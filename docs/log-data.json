@@ -3,7 +3,44 @@
     {
       "iso": "2026-09-20",
       "label": "Sun 20 Sep 2026",
-      "rows": [],
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Sprinklr ships autonomous eval framework for agents",
+          "sowhat": "First vendor to ship production-readiness testing for AI agents before deployment — buyer governance finally catches up to vendor promises.",
+          "url": "https://www.cxtoday.com/contact-center/sprinklr-service-and-ai-assurance/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom announces revenue-intelligence OS across buyer signals",
+          "sowhat": "Zoom layers Common Room acquisition into contact-data play — packaging revenue tech as \"OS\" positions it against Salesloft and Gong, not Teams.",
+          "url": "https://telecomreseller.com/2026/09/18/zoom-unveils-ai-powered-revenue-os-to-unify-buyer-intelligence-customer-conversations-and-revenue-execution/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "8x8 names Fazpass Southeast Asia partner of year",
+          "sowhat": "Six-year CPaaS partnership now serves 50+ enterprises including IKEA; signals 8x8's regional strategy relies on authentication-led upsell.",
+          "url": "https://telecomreseller.com/2026/09/18/8x8-names-fazpass-2026-cpaas-partner-of-the-year-as-six-year-alliance-powers-authentication-for-50-enterprises/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Cisco extends Splunk–NVIDIA partnership for on-prem agentic AI",
+          "sowhat": "Cisco brings NVIDIA-accelerated agents to Splunk on-premises customers — targets hybrid buyers unwilling to ship machine data to cloud.",
+          "url": "https://telecomreseller.com/2026/09/18/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements/",
+          "vendor_flag": false,
+          "run": "PM"
+        }
+      ],
       "pattern_watch": ""
     },
     {
@@ -503,5 +540,5 @@
       "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     }
   ],
-  "updated": "2026-09-20T10:57:07.594023+00:00"
+  "updated": "2026-09-20T18:00:07.770165+00:00"
 }
