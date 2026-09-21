@@ -48,6 +48,60 @@
           "url": "https://futurumgroup.com/insights/coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf/?utm_source=rss&utm_medium=rss&utm_campaign=coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf",
           "vendor_flag": false,
           "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Webex announces calling modernisation roadmap at WebexOne",
+          "sowhat": "Cisco positions Webex for hybrid on-premises/cloud calling migrations, targeting enterprises hesitant to abandon legacy PBX estates wholesale.",
+          "url": "https://blog.webex.com/collaboration/enterprise-calling-modernization-at-webexone-webex-blog/",
+          "vendor_flag": true,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Telarus partners with Trimio for AI FinOps",
+          "sowhat": "Channel advisors gain a lever on AI spend tracking, positioning Telarus to sit between enterprise buyers and ballooning LLM inference costs.",
+          "url": "https://telecomreseller.com/2026/09/21/telarus-gives-advisors-a-new-way-to-manage-ai-spending/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft retires Azure Expert MSP designation",
+          "sowhat": "Microsoft consolidates partner tiers, signalling a shift away from legacy managed-service certifications as cloud consumption patterns evolve.",
+          "url": "https://telecomreseller.com/2026/09/21/microsoft-retires-azure-expert-msp-program/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "TILT Story merges with LionShare for healthcare CRM",
+          "sowhat": "Two niche healthcare marketing players combine, targeting CRM and automation for provider organisations—modest vertical consolidation, not a platform shift.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekV6QUVKU0pKYXN5NE5BeWJMUTFPR21zYUl0OXk4RnpYOWs5eWVYOVYyQzVTSWdZbEtHQVF6bkVEaGRta0x1QkxodVJMREVtUGsxS3hLeFpVWW9HcFd5YkN4OF9McUUyaFlWNTNxTDNFdHF3VEI0WDl4RGdqVWtpaFNCUy1rNEFJRTdwd1Y0ckR6SXJDSXZYTG5OV182LWpoa2JjVnFmdGZqU28zdk5MdNIBtgFBVV95cUxPTk9TSEtORGlsZTBzSlNaQTdoMGxYSk5Hc1RNVkJGbk92VEVkdVdFNmg5U205eHFiN2F4SVdBeFZYYldaMmVfVDFtUHFhM2tnX0RnZVdPYm9sOUpaVEYtZkFsaTh4alRrMU42RmF5by1laGpVSmhnSnJsdldEUTM5N3VUbVFaanBwLUJIOGE3c3cwanpFbVdDZS1KUXF4cHl1bkxUbFlHSDlHbEdSck02YlMwdzU1QQ?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Veeva expands Amgen partnership to global CRM",
+          "sowhat": "Amgen commits to Veeva Vault CRM worldwide, validating life-sciences vertical CRM as an alternative to horizontal platforms in pharma.",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkdPSzNBQlNEa3NCZm9lUUp6T1dtellSNzRZN1FITFVLOHp3aUVHc0t4MXZZV18xajhFM0ZKQm16bU9iajNQcVk2ellmMHB5SmhIZVI5UjBNclhCcE9xT1VZcFphdTR0M1k3aDlkdy1OeFZ6REdEM2dMZVpMdGNTVDQ3a204bHZoamxzNjNIeFp4Y1JZNVhfMElNdGdIWGtu?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HubSpot launches Growth Context AI framework",
+          "sowhat": "HubSpot wraps AI agent-building and contextual workflows into one release, betting SMB buyers will adopt an integrated CRM-native AI layer rather than stitching point tools.",
+          "url": "https://futurumgroup.com/insights/hubspot-bets-the-platform-on-growth-context/?utm_source=rss&utm_medium=rss&utm_campaign=hubspot-bets-the-platform-on-growth-context",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
       "pattern_watch": "Salesforce making defensive AI platform moves — NVIDIA tie + Claude integration both land same week"
@@ -592,5 +646,5 @@
       "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     }
   ],
-  "updated": "2026-09-21T12:23:15.885387+00:00"
+  "updated": "2026-09-21T19:52:50.218098+00:00"
 }
