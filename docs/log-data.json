@@ -1,6 +1,58 @@
 {
   "days": [
     {
+      "iso": "2026-09-21",
+      "label": "Mon 21 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce partners NVIDIA, repositions against Claude AI",
+          "sowhat": "CRM incumbent seeks NVIDIA tie to counter Anthropic's enterprise traction — a defensive move signalling genuine LLM platform anxiety.",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56Mk5ObU9WeERiUF9oaVRHOVdMeWpGRFUxaHQzVUpCTXRzWm5wdjFKVEtNbUFZT1FQQUNuR1RRalZaYUJIdkVXa1VRNUNRWW90dmZJ?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce integrates Claude into Slack with CRM controls",
+          "sowhat": "Anthropic's LLM now embedded in Salesforce workflow tooling — platform consolidation play to keep AI usage inside the ecosystem.",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWmJuc1c2T3FrOXpScnRxcW9nS1F6c2pNdmpVREJDUlk2Y2duOUdNY0FCeUdOWGxMTG56d01QOXhzZU42cUowWlhnMDgzMkFnVGZEZ25JZThlMzZHMVRRRzI2aWF3bm1jd00zUllJTTl4QzY5RkhZbnFGNldWY3hXMEdvenF4SUxGSjU3Y0hFM2hUUzYtcTlDTmpqVmFUVWN0dmRXV0lUT1puQ1REOUNv?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HubSpot releases Fall 2026 workflow automation suite",
+          "sowhat": "Mid-market CRM refreshes team collaboration features — incremental update, no platform shift.",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTlSWFVlWDlCVmxJMGI1RWJyRk9uUjZCLWRoNjBpLVM1Tk9aZmphZk5KT1lwRC0wZGJXeDZFU1lDWVVDVmFIR0FfUzRkM0dzUlZjY0hyZldvQ3A1WHRmbUVqTEZoMWozTTBWSWVRdE5tNkhPczlKMERub2lsRHN2a3oxRUdtekI1YWI0ZDI1dVg?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "NVIDIA Nemotron reaches enterprise AI deployment inflection",
+          "sowhat": "Analyst commentary on chipmaker's LLM inference stack gaining production traction — watch for customer logos and pricing.",
+          "url": "https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "CodeRabbit launches Triage AI for PR prioritisation",
+          "sowhat": "Developer tooling uses generative AI to rank pull requests — niche play addressing software team workflow noise.",
+          "url": "https://futurumgroup.com/insights/coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf/?utm_source=rss&utm_medium=rss&utm_campaign=coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf",
+          "vendor_flag": false,
+          "run": "PM"
+        }
+      ],
+      "pattern_watch": "Salesforce making defensive AI platform moves — NVIDIA tie + Claude integration both land same week"
+    },
+    {
       "iso": "2026-09-20",
       "label": "Sun 20 Sep 2026",
       "rows": [
@@ -540,5 +592,5 @@
       "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     }
   ],
-  "updated": "2026-09-20T18:00:07.770165+00:00"
+  "updated": "2026-09-21T12:23:15.885387+00:00"
 }
