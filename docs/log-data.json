@@ -39,9 +39,72 @@
           "url": "https://www.cxtoday.com/security-privacy-compliance/manchester-airport-cyberattack-customer-data-governance/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce positions Slack as AI and CRM front door",
+          "sowhat": "Slack becomes the primary interface for Salesforce's AIforce, moving CRM context and agent workflows into the collaboration layer—a major architectural bet that may force CX teams to rethink where customer work actually happens.",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRkNfZUNDNHQ5LWNFd0NPdkFpREMzUTAxNWV3Z2drU1NlTnFUSEJfdTU3R3FVcWVsQ0lyTWNRM0pWSnJwRDN4ZzdXeGNrWjR2bzVRYmpqa2RFdG1mVERXWXRLU2xZbVhqSEhmS3N4Q1ZiT0IzZmNwcVlMdEZ4ZkRCaUtRdHVUWV82bVE?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "RingCentral launches Empower wholesale partner program for MSPs",
+          "sowhat": "RingCentral's new wholesale model lets established MSPs and VARs in North America fully own the customer relationship, a channel pivot that may accelerate white-label UCaaS competition and threaten direct-sold incumbents.",
+          "url": "https://www.ringcentral.com/us/en/blog/introducing-empower-partner-program/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Adobe deploys Agentic AI for Jet2's 10 million customers",
+          "sowhat": "Adobe's multi-year co-innovation deal with Jet2 establishes a Customer Experience Lab with forward-deployed engineers, offering proof that Agentic AI can personalize travel CX at scale—if the data infrastructure holds.",
+          "url": "https://futurumgroup.com/insights/adobe-lands-jet2-to-prove-agentic-cx-at-scale/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-lands-jet2-to-prove-agentic-cx-at-scale",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Nureva and AudioCodes certify Teams Rooms solution for Android",
+          "sowhat": "The certified HDL310 + AudioCodes Android combo targets medium-sized meeting spaces, giving buyers another Microsoft-approved option but no material departure from existing Teams Rooms economics or deployment patterns.",
+          "url": "https://telecomreseller.com/2026/09/22/nureva-audiocodes-certify-teams-rooms-solution/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CPaaS",
+          "headline": "Twilio launches agentic SMS tutorial using Hermes Agent",
+          "sowhat": "Twilio's developer-focused guide shows how to send SMS via Agentic AI, signaling that CPaaS vendors expect agents to become a primary workflow layer—and that developers need practical integration paths now.",
+          "url": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "ISG's 2026 Contact Centers Buyers Guide evaluates AI governance",
+          "sowhat": "ISG's new guide shows buyers are no longer evaluating AI in isolation—they now assess it alongside automation, analytics, integration, governance, and lifecycle support, raising the bar for vendor viability.",
+          "url": "https://www.cxtoday.com/contact-center/isg-telstra-cresta-and-scorebuddycx-expose-ais-contact-center-test/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Twilio's 2026 CDP report ties AI agent effectiveness to data infrastructure",
+          "sowhat": "Twilio's research confirms that unified CDPs eliminate AI silos and deliver real-time context at scale—meaning enterprises can't buy their way to Agentic AI without first fixing fragmented customer data.",
+          "url": "https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "CRM data is being pushed out of proprietary UIs into Slack, Teams, and wherever work happens — Salesforce, HubSpot, and Zendesk all moving in this direction."
+      "pattern_watch": "Three items (Salesforce Slack, Twilio Agentic SMS, Optimove Agentic Marketing) point to a shared thread: vendors are moving AI agent interfaces upstream into collaboration, messaging, and CRM layers—away from standalone tools."
     },
     {
       "iso": "2026-09-21",
@@ -689,5 +752,5 @@
       "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     }
   ],
-  "updated": "2026-09-22T11:13:49.354681+00:00"
+  "updated": "2026-09-22T18:31:47.904081+00:00"
 }
