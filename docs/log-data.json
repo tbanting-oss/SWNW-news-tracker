@@ -1,6 +1,49 @@
 {
   "days": [
     {
+      "iso": "2026-09-22",
+      "label": "Tue 22 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce pushes CRM data out to Slack",
+          "sowhat": "Salesforce positions Slack as the new UI layer for CRM workflows — a decisive response to Microsoft's Teams-Copilot integration that makes Slack the front door for enterprise data instead of Lightning.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/from-prebuilt-agents-to-vibe-coding-salesforces-new-cx-playbook/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft adds local AI inferencing for Copilot",
+          "sowhat": "Five-geography local inferencing for Copilot addresses sovereignty concerns that have delayed AI deployment in regulated sectors, particularly outside the US.",
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=571886",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CX",
+          "headline": "AEO visibility now separate from SEO ranking",
+          "sowhat": "Brands that rank well on Google are invisible inside ChatGPT and Perplexity answers — forcing CX teams to track whether they appear in AI-generated recommendations, a metric search analytics cannot show.",
+          "url": "https://www.cxtoday.com/customer-analytics-intelligence/aeo-is-not-seo-with-a-new-acronym-the-metrics-cx-leaders-need-to-track-now-sprinklr-cs-0195/",
+          "vendor_flag": true,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Manchester Airport breach exposes CRM-adjacent data risk",
+          "sowhat": "Customer data collected through parking, Wi-Fi, and Fast Track systems sits outside CRM governance and became breach surface — a reminder that CX data sprawl is now a security problem.",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/manchester-airport-cyberattack-customer-data-governance/",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "CRM data is being pushed out of proprietary UIs into Slack, Teams, and wherever work happens — Salesforce, HubSpot, and Zendesk all moving in this direction."
+    },
+    {
       "iso": "2026-09-21",
       "label": "Mon 21 Sep 2026",
       "rows": [
@@ -646,5 +689,5 @@
       "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     }
   ],
-  "updated": "2026-09-21T19:52:50.218098+00:00"
+  "updated": "2026-09-22T11:13:49.354681+00:00"
 }
