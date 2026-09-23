@@ -1,6 +1,85 @@
 {
   "days": [
     {
+      "iso": "2026-09-23",
+      "label": "Wed 23 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Cisco finalises Splunk trust architecture for agentic SOC",
+          "sowhat": "Splunk .conf26 positioned data and control layers beneath AI agents as a defensible moat, treating trust and cost as the gate before autonomous security operations at scale.",
+          "url": "https://futurumgroup.com/insights/splunk-conf26-trust-is-key-for-the-agentic-era/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce launches Koa CRM reasoning model with NVIDIA",
+          "sowhat": "Salesforce's Koa bets that proprietary CRM training data and silicon co-design can solve inference economics and defend platform gravity against generic foundation models.",
+          "url": "https://futurumgroup.com/insights/salesforce-bets-on-silicon-synergy-and-metadata-to-make-business-ai-practical/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Logitech Spot integrates with 10 workplace platforms",
+          "sowhat": "Logitech is expanding Spot's interoperability to compete in desk booking and room scheduling, where platform lock-in remains a procurement barrier for hybrid deployments.",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2ZhcW5VWFhuVTJsc1ZQeUw4Z0NQekVXbm9pd2RZbTZqZ2N0TklRNlJEUnc0a2owcmdRcDFXVDVvVW0xcEtiLS1iM0pGakJ2THp3cnZnTHI3WUJRdmNhSWZ0SHIzalNPNklJeDdWbFdyeG15ZGZIU1BsVF9yZElhSVpR?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Westcoast Cloud adds Voice by Gamma for Teams",
+          "sowhat": "UK distributor move gives partners a pre-packaged Teams voice SKU ahead of the PSTN switch-off, targeting margin-thin resellers who lack direct carrier relationships.",
+          "url": "https://telecomreseller.com/2026/09/22/westcoast-cloud-expands-microsoft-teams-voice-offering-for-channel-partners-by-adding-voice-by-gamma/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce director Kirk buys $999k CRM stock",
+          "sowhat": "Insider buying at scale often signals confidence, but one board member's purchase alone is not a reliable proxy for company-wide AI or CRM momentum.",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjY1OUtWRmd6T194WDlZdTV4Y2RnRzVLcTAwLWdEeExKNGZsQVBRQ0drV2ZBQktqTWM2eFg2ZDJKREthVVlrcXM5dzN6Y3FfSGhVMG1QWVU5R21Ic0RHaEs5clZhWUdvR2NvcHlxOEZXTnFQWWtYVlVIbGNKMmNEbjNBRjl6blBqdVpmbnlZWDBwNzlvUW9hMzdWQjdya0liRHlWTk13SlFFU0Uxd0hIM25ha29sVl9hcVE?oc=5",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "EU AI Act compliance now impacts contact centre tooling",
+          "sowhat": "The Act's August enforcement date forces CX leaders to audit AI-embedded workflows for risk classification and explainability, not just legal teams.",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/the-eu-ai-act-is-a-cx-problem-now-ttecdigital-cs-0062/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "UK enterprises cite data sovereignty as AI priority",
+          "sowhat": "IDC/Expereo research shows digital sovereignty concerns rising as AI and cloud complexity increase, signalling a procurement shift toward regional data residency.",
+          "url": "https://www.cxtoday.com/ai-automation-in-cx/uk-businesses-data-control-ai-digital-sovereignty/",
+          "vendor_flag": true,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Optimove bets agentic marketing belongs inside CRM governance",
+          "sowhat": "Optimove argues that customer-facing AI agents need CRM context and decisioning rails, not standalone tools, to avoid compliance and consistency gaps.",
+          "url": "https://www.cxtoday.com/crm/optimove-ai-agentic-marketing/",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "EU AI Act enforcement and digital sovereignty concerns are pushing AI governance and data residency up the procurement agenda across CX and UC"
+    },
+    {
       "iso": "2026-09-22",
       "label": "Tue 22 Sep 2026",
       "rows": [
@@ -752,5 +831,5 @@
       "pattern_watch": "AIforce, Koa, Breeze, and Nova all launched within 48 hours—CRM vendors racing to embed agentic AI before Q4 budget locks."
     }
   ],
-  "updated": "2026-09-22T18:31:47.904081+00:00"
+  "updated": "2026-09-23T11:06:03.940690+00:00"
 }
