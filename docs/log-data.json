@@ -57,9 +57,54 @@
           "url": "https://www.directionsonmicrosoft.com/compass-point-dataverse-headless-office-and-flex-spend/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Crexendo partners Meetric for omnichannel AI",
+          "sowhat": "White-label conversation intelligence across voice and digital channels gives 250+ UCaaS licensees a new feature to resell.",
+          "url": "https://telecomreseller.com/2026/09/25/crexendo-expands-ai-portfolio-through-meetric-partnership-adding-omnichannel-conversation-intelligence-for-more-than-250-platform-licensees/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Yeastar launches NovoOne AI-native multi-tenant platform",
+          "sowhat": "Service providers get a white-label UCaaS platform with built-in AI and multi-tenancy, competing directly with established hosted PBX backends.",
+          "url": "https://telecomreseller.com/2026/09/24/yeastar-launches-novoone/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Mobilise launches API and MVNO platforms",
+          "sowhat": "Companies can embed telecom services via API or launch branded MVNOs without building infrastructure, lowering entry barriers for niche players.",
+          "url": "https://telecomreseller.com/2026/09/24/mobilise-launches-api-mvno-platforms-for-digital-telecom-services/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Medallia H2 release adds 13-language AI",
+          "sowhat": "Multilingual sentiment analysis and segment-level auditing let global enterprises track feedback consistency across geographies without manual translation.",
+          "url": "https://www.cmswire.com/customer-experience/medallia-h2-2026-release-expands-multilingual-ai/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "Cisco, Omdia research: 95% see AIOps inadequate",
+          "sowhat": "More than half of enterprises have moved from reactive AIOps to autonomous AgenticOps, signaling a shift in how IT operations tools are evaluated.",
+          "url": "https://telecomreseller.com/2026/09/25/cisco-ai-research-agenticops-scaling-quickly-in-the-enterprise/",
+          "vendor_flag": true,
+          "run": "PM"
         }
       ],
-      "pattern_watch": "AI agent security incidents converge: Salesforce vulnerabilities and Australia/Google policy bypass reports show governance gaps outpacing guardrails."
+      "pattern_watch": "Multiple vendors (Crexendo, Enreach, Yeastar) embedding AI into white-label UCaaS platforms and mobile plans — AI is becoming table stakes in channel go-to-market."
     },
     {
       "iso": "2026-09-24",
@@ -795,5 +840,5 @@
       "pattern_watch": "Multiple items point to generative AI integration inside existing CRM/UC platforms—Salesforce + Google/AWS, HubSpot + OpenAI, RingCentral + AT&T—signalling vendor consolidation of AI agents rather than standalone tools."
     }
   ],
-  "updated": "2026-09-25T11:28:53.493329+00:00"
+  "updated": "2026-09-25T19:08:13.169160+00:00"
 }
