@@ -1,6 +1,67 @@
 {
   "days": [
     {
+      "iso": "2026-09-25",
+      "label": "Fri 25 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Zeta partners with Palantir for third-party integrations",
+          "sowhat": "ZMP native channels and APIs now route through Palantir, adding a third integration layer buyers must map before contract.",
+          "url": "https://www.cxtoday.com/crm/zeta-marketing-platform-integrations/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "AudioCodes pitches compliance-grade recording beyond Teams native",
+          "sowhat": "Regulated organisations relying on Teams recording alone may lack policy-based capture, long-term retention, and resilience controls.",
+          "url": "https://www.cxtoday.com/security-privacy-compliance/from-teams-recording-to-conversation-intelligence-how-organisations-can-get-more-from-every-call-audiocodes-cs-0208/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "Zenity discloses SalesBleed zero-click CRM data exfiltration flaws",
+          "sowhat": "Three Agentforce vulnerabilities enabled zero-click CRM theft and AI agent impersonation; Salesforce patched promptly but trust surface expanded.",
+          "url": "https://www.businesswire.com/news/home/20260924141300/en/Zenity-Labs-Uncovers-SalesBleed-3-Salesforce-Agentforce-Flaws-Enabling-Zero-Click-CRM-Data-Theft-and-AI-Agent-Impersonation",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Glia launches Banking CRM with branch intelligence module",
+          "sowhat": "Glia extends its digital engagement platform into CRM territory, targeting banks that want unified agentic orchestration and in-branch context.",
+          "url": "https://www.businesswire.com/news/home/20260923125637/en/Glia-Introduces-Banking-CRM-and-Branch-Intelligence-to-Supercharge-Agentic-Banking",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft drafts Humanist AI Code of Conduct",
+          "sowhat": "Microsoft's public consultation mirrors EU AI Act and Claude's Constitution; enterprises face yet another voluntary framework to reconcile.",
+          "url": "https://www.directionsonmicrosoft.com/thoughts-on-microsofts-humanist-ai-code-of-conduct/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Dataverse integration may bring business context to Copilot",
+          "sowhat": "Power Platform's Dataverse could finally surface ERP and CRM context inside Copilot; no discrete launch yet, just roadmap visibility.",
+          "url": "https://www.directionsonmicrosoft.com/compass-point-dataverse-headless-office-and-flex-spend/",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": "AI agent security incidents converge: Salesforce vulnerabilities and Australia/Google policy bypass reports show governance gaps outpacing guardrails."
+    },
+    {
       "iso": "2026-09-24",
       "label": "Thu 24 Sep 2026",
       "rows": [
@@ -732,122 +793,7 @@
         }
       ],
       "pattern_watch": "Multiple items point to generative AI integration inside existing CRM/UC platforms—Salesforce + Google/AWS, HubSpot + OpenAI, RingCentral + AT&T—signalling vendor consolidation of AI agents rather than standalone tools."
-    },
-    {
-      "iso": "2026-09-17",
-      "label": "Thu 17 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Plivo launches Vibe Agent for CPaaS journey orchestration",
-          "sowhat": "Plivo is moving up-stack from pipes to journey coordination, but public evidence shows infrastructure scale more than finished customer outcomes.",
-          "url": "https://www.cxtoday.com/customer-engagement-journey-orchestration/plivo-cpaas-journey-orchestration/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Treble raises $18M for voice simulation platform targeting AI",
-          "sowhat": "Iceland-based Treble is capitalizing on demand from AI wearable and robotics firms for realistic voice synthesis as agent UX matures.",
-          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Profound raises $180M at $1.8B valuation for agentic marketing",
-          "sowhat": "The Series D round signals accelerating enterprise appetite for AI that writes, tests, and deploys marketing rather than just suggesting it.",
-          "url": "https://www.cmswire.com/digital-experience/profound-nabs-180m-to-scale-ai-marketing-platform/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft 365 G7 bundles Copilot and agent governance for government",
-          "sowhat": "Microsoft is packaging AI, compliance, and agent controls into a single SKU, treating government vertical demands as a design gate not a feature add.",
-          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce targets $63bn revenue by 2030",
-          "sowhat": "Ambitious five-year projection gives CIOs a rare line of sight into the platform's long-term direction, but assumes AI monetisation at scale that's yet to prove out operationally.",
-          "url": "https://www.constellationr.com/insights/news/salesforce-lays-out-growth-plans-what-customers-need-know",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CCaaS",
-          "headline": "SIPPIO rebuilds CPaaS platform for partner access",
-          "sowhat": "Move to expose underlying technology directly to partners signals a shift from white-label resale to deeper infrastructure control—a strategic bet on channel stickiness over simplicity.",
-          "url": "https://telecomreseller.com/2026/09/17/sippio-overhauls-its-communications-platform/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Telinta integrates LNP routing into hosted VoIP",
-          "sowhat": "Automated portability checks remove one operational friction point for service providers, but this is table-stakes infrastructure work, not a strategic differentiator.",
-          "url": "https://telecomreseller.com/2026/09/17/telinta-prolenea-partner-to-bring-lnp-routing-into-hosted-voip/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HubSpot launches Breeze Assistant with CRM intelligence",
-          "sowhat": "Self-updating CRM and contextual AI assistant position HubSpot against agentic claims from larger platforms, though execution at scale remains unproven.",
-          "url": "https://www.constellationr.com/insights/news/hubspot-revamps-breeze-assistant-context-actions",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Salesforce suffers global outage during Dreamforce week",
-          "sowhat": "Timing is awkward but operationally instructive: even mature platforms face availability risk under load, a reminder to test failover plans before peak.",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUp4c1JPMWNfdEowZUVET056eUpyMk5BdlNORTk5VzB5VVowSXRTT3gzVDRjTmoxMkI4UjFPdEpBMmktWHNUZFUxRmJ0d3RQZU1kb2xXOEJnWGZBSEgtZU5paEZ2UGhSOFZxSXltMUdSdXVfS0ROUkU2NFhuU1RlNkRxcXRuNElFcGYycXNCdVZmYy1pVW1WN3UwMzc?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Softcat acquires GDT to expand US infrastructure footprint",
-          "sowhat": "UK integrator adds North American scale through data-centre-focused M&A, signalling continued consolidation in the infrastructure channel rather than a novel strategic move.",
-          "url": "https://telecomreseller.com/2026/09/17/softcat-gdt-acquisition/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "OpenAI discloses first AI misalignment incident framework",
-          "sowhat": "July 2026 agent self-organisation event forces the industry's first structured disclosure of emergent agent behaviour—expect this to inform enterprise governance templates by year-end.",
-          "url": "https://www.constellationr.com/insights/news/openais-new-misalignment-disclosure-framework-solid-start",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Teardown",
-          "cat": "CX",
-          "headline": "Why AI disclosure banners don't equal credibility",
-          "sowhat": "Contact centres rushing to tick the 'AI transparency' box without addressing trust, explainability, or recourse are creating compliance theatre, not customer confidence.",
-          "url": "https://www.nojitter.com/contact-centers/do-not-confuse-a-disclosure-banner-for-credibility",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "AI governance and agent misalignment disclosure now shifting from concept to operational requirement across CX and CCaaS."
     }
   ],
-  "updated": "2026-09-24T18:50:35.621633+00:00"
+  "updated": "2026-09-25T11:28:53.493329+00:00"
 }
