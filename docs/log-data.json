@@ -1,6 +1,58 @@
 {
   "days": [
     {
+      "iso": "2026-09-26",
+      "label": "Sat 26 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Omdia: channel now shaping enterprise meeting-room vendor picks",
+          "sowhat": "Partners gain buying influence as enterprises consolidate Teams/Zoom deployment decisions, shifting sales motion upstream.",
+          "url": "https://telecomreseller.com/2026/09/25/omdia-channel-partners-have-more-say-in-meeting-room-tech/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "Microsoft merges Copilot consumer and M365 apps into one",
+          "sowhat": "Unified Copilot app with Home/Code/Autopilot tabs marks Microsoft's first move toward a single agentic interface across work and personal contexts.",
+          "url": "https://www.directionsonmicrosoft.com/microsoft-shows-off-its-new-copilot-super-app/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Sinch completes Tier 1 RCS coverage across North America",
+          "sowhat": "Direct carrier connectivity in US and Canada lets brands run RCS campaigns on one platform, removing a multi-vendor deployment friction point.",
+          "url": "https://telecomreseller.com/2026/09/25/sinch-expands-tier-1-rcs-business-messaging-coverage-to-canada-completing-north-american-footprint/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "TPx hires channel veteran Garrett Gee to lead partner sales",
+          "sowhat": "Personnel move signals TPx intent to accelerate indirect UCaaS/CCaaS sales after years of hybrid direct–partner model.",
+          "url": "https://telecomreseller.com/2026/09/25/tpx-names-channel-veteran-garrett-gee-to-lead-next-chapter-of-partner-growth/",
+          "vendor_flag": false,
+          "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Infobip appoints Mirta Pađen Lee as VP People",
+          "sowhat": "CPaaS vendor signals intent to professionalize org structure as it pivots messaging portfolio toward AI-first positioning.",
+          "url": "https://telecomreseller.com/2026/09/25/infobip-appoints-mirta-paden-lee-as-vice-president-of-people/",
+          "vendor_flag": false,
+          "run": "AM"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-09-25",
       "label": "Fri 25 Sep 2026",
       "rows": [
@@ -714,131 +766,7 @@
         }
       ],
       "pattern_watch": "CRM platforms are becoming native LLM orchestration layers — HubSpot, Salesforce with Claude, Salesforce with Gemini all ship in one week."
-    },
-    {
-      "iso": "2026-09-18",
-      "label": "Fri 18 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Adobe names Anil Chakravarthy CEO",
-          "sowhat": "Adobe's pick of its CX Orchestration president over a Creative Cloud or AI leader signals the company is betting CX and customer data platforms anchor its AI strategy.",
-          "url": "https://www.cxtoday.com/customer-engagement-journey-orchestration/adobe-ceo-anil-chakravarthy-cx-orchestration/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Microsoft extends M365 E7 to government",
-          "sowhat": "Microsoft's G7 suite (GA October 1) finally brings the advanced security and compliance stack previously sold only to commercial customers into US government tenancy.",
-          "url": "https://www.directionsonmicrosoft.com/microsoft-to-deliver-m365-g7-for-government-users-on-oct-1/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco Webex partners SecureLogix on voice security",
-          "sowhat": "Webex Calling now embeds SecureLogix threat protection and inbound call authentication to counter robocalls and spoofing without leaving Cisco's cloud telephony stack.",
-          "url": "https://blog.webex.com/collaboration/announcing-new-era-trusted-calling-with-webex-calling-and-securelogix/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HubSpot and OpenAI deepen ChatGPT-CRM integration",
-          "sowhat": "HubSpot now lets SMBs manage ChatGPT Ads inside the CRM and bundles pricing with OpenAI — a bid to capture first-mover share in GenAI-native SMB go-to-market.",
-          "url": "https://www.cmswire.com/customer-experience/hubspot-openai-deepen-crmchatgpt-integration/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "CX",
-          "headline": "HubSpot launches Breeze Assistant, self-updating Smart CRM",
-          "sowhat": "HubSpot's Breeze Assistant and autonomous Smart CRM are betting that CRM maintenance — not just insight generation — is the killer app for agentic AI in go-to-market ops.",
-          "url": "https://www.cmswire.com/customer-experience/hubspot-debuts-breeze-assistant-selfupdating-crm/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "Salesforce reveals AIforce platform, Koa CRM model",
-          "sowhat": "Salesforce's AIforce allows enterprises to inject CRM data, workflows and governance into any AI interface — positioning the CRM vendor as an 'everywhere intelligence layer'.",
-          "url": "https://futurumgroup.com/insights/aiforce-turns-salesforce-into-an-everywhere-intelligence-layer/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Alation launches Data Intelligence and AIOS platform",
-          "sowhat": "Alation's pitch is AI agent governance for the projected 150,000-agent enterprise by 2028 — but only 13% of orgs say they've already got that governance right.",
-          "url": "https://www.cxtoday.com/crm/alation-data-intelligence/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "SAS CI 360 claims 4× productivity gain",
-          "sowhat": "HAPPY GO reports 4–5× productivity from SAS Customer Intelligence 360, but the case study lacks independent validation or explanation of how the gain was measured.",
-          "url": "https://www.cxtoday.com/customer-analytics-intelligence/sas-customer-intelligence/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "Salesforce brings CRM data into Slack natively",
-          "sowhat": "Slackforce Surfaces embeds Salesforce business data directly inside Slack, reducing context-switching and potentially accelerating enterprise comms adoption where CRM is already entrenched.",
-          "url": "https://telecomreseller.com/2026/09/18/salesforce-turns-slack-into-a-front-door-for-business-data/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce and Google Cloud integrate Gemini Enterprise",
-          "sowhat": "Google's Gemini Enterprise ties directly to Agentforce and live Salesforce CRM data, offering enterprises a second generative‑AI option beyond OpenAI inside the same workflow.",
-          "url": "https://futurumgroup.com/insights/salesforce-and-google-cloud-expand-access-to-crm-workflows/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HubSpot ships Breeze Assistant, self‑updating Smart CRM",
-          "sowhat": "HubSpot's Breeze Assistant consolidates third‑party AI agents under one interface, reducing sprawl, but evidence of enterprise CRM update accuracy and reliability remains thin.",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjRwNWtHazNPNjFkSUU2b0FUeWNtRTUwT0VtbWVaTWdrY1BtU1hDUFZ4UVM3aDVXaVBFbUxvd0IzMExnLUpZTVZONno1YjV0aG95WHUtR1BWSU4wRG9FVElYSlgwWU9WNXZsWHhITE94VzcxT0h2NTBlODFyQU9sMHVpemQ5X1I5SDJOcEdfMGNwcGYxU0RkNktQWEZ0bHBGSDFKbg?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "RingCentral adds AI Receptionist to AT&T Office@Hand",
-          "sowhat": "24/7 AI call‑answering moves into the Ultimate package at no extra cost, offering real‑estate agents instant lead routing without third‑party tools—but adoption hinges on call‑quality benchmarks in practice.",
-          "url": "https://www.ringcentral.com/us/en/blog/ai-receptionist-att-officehand-real-estate-agents/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Spain reports first personal data breach by AI",
-          "sowhat": "Spain's data authority confirms an AI agent caused the country's first personal‑data breach, underscoring the governance gap CX leaders must close before autonomous systems scale.",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/cybersecurity-roundup-who-controls-the-data-identity-and-ai-agents-is-the-new-battleground/",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "Multiple items point to generative AI integration inside existing CRM/UC platforms—Salesforce + Google/AWS, HubSpot + OpenAI, RingCentral + AT&T—signalling vendor consolidation of AI agents rather than standalone tools."
     }
   ],
-  "updated": "2026-09-25T19:08:13.169160+00:00"
+  "updated": "2026-09-26T11:03:42.518916+00:00"
 }
