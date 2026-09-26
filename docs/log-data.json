@@ -48,9 +48,72 @@
           "url": "https://telecomreseller.com/2026/09/25/infobip-appoints-mirta-paden-lee-as-vice-president-of-people/",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Microsoft Copilot becomes agentic work platform",
+          "sowhat": "Home/Code/Autopilot layers signal Microsoft's push beyond chat assistants into orchestrated workflow automation with spend controls—a direct challenge to Salesforce Agentforce and Google Workspace.",
+          "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco and Microsoft Teams Rooms converge on management",
+          "sowhat": "Webex Control Hub and Teams Rooms Pro Management now overlap in remote room provisioning, raising buyer stakes in platform lock-in decisions.",
+          "url": "https://uctoday.com/cisco-vs-microsoft-teams-rooms-meeting-room-management-battle",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "RingCX adds agentic CX features in July update",
+          "sowhat": "RingCentral's monthly release focuses on AI-driven wrap-up reduction and agent coaching consistency, table stakes in a crowded CCaaS market.",
+          "url": "https://www.ringcentral.com/us/en/blog/whats-new-in-ringcx-building-the-agentic-customer-experience-july-2026-recap/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "CX",
+          "headline": "Salesforce Agentforce exposed to zero-click data theft",
+          "sowhat": "Three vulnerabilities allowed CRM exfiltration and phishing without user interaction—early agentic platforms carry real security debt that buyers must price in.",
+          "url": "https://www.theregister.com/2026/09/24/salesforce_agentforce_vulns_allowed_0click/",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Salesforce unveils Koa AI model for CRM reasoning",
+          "sowhat": "A domain-specific LLM for structured CRM data signals Salesforce's move to vertical inference, though real-world accuracy benchmarks remain undisclosed.",
+          "url": "https://smallbiztrends.com/2026/09/salesforce-unveils-koa-a-breakthrough-ai-model-for-crm-reasoning.html",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CPaaS",
+          "headline": "Twilio addresses context loss across channels in AI",
+          "sowhat": "Forty percent of enterprises cite channel handoff failures as top AI brand harm—Twilio's remediation focus suggests the problem is now costing revenue.",
+          "url": "https://www.twilio.com/en-us/blog/insights/lost-context-between-channels",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "8x8 wins four Stevie Awards for leadership",
+          "sowhat": "Individual and team recognitions in The International Business Awards carry negligible strategic weight for enterprise buyers.",
+          "url": "https://telecomreseller.com/2026/09/25/8x8-earns-four-stevie-awards-in-the-2026-international-business-awards/",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "Agentic platforms (Microsoft Copilot, RingCX, Salesforce Agentforce) and their security/governance risks emerge as dual threads this week."
     },
     {
       "iso": "2026-09-25",
@@ -768,5 +831,5 @@
       "pattern_watch": "CRM platforms are becoming native LLM orchestration layers — HubSpot, Salesforce with Claude, Salesforce with Gemini all ship in one week."
     }
   ],
-  "updated": "2026-09-26T11:03:42.518916+00:00"
+  "updated": "2026-09-26T18:22:07.341488+00:00"
 }
