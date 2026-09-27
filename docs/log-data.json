@@ -57,6 +57,33 @@
           "url": "https://www.constellationr.com/insights/news/personal-ai-assistants-proliferate-and-so-will-governance-headaches",
           "vendor_flag": false,
           "run": "AM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce AI agents hit by three security flaws",
+          "sowhat": "Three vulnerabilities ('SalesBleed') let attackers hijack Salesforce AI agents, raising deployment-risk questions for buyers already testing agentic workflows.",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYzgwb0IyNURCaHpkYWQtbFVpN01lWEVmVFp1ZENJaDZXdkRQLTQ2cFpwYUFtLUhEV3BreE5ZTHFiVzR3Tm1vQnE5Z0w0cGUwWFA2eVMtWFp1NFZKTDV2NUdldXZlck83ckRUT2hLLXZ5TzBqanc?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Creatio launches Bank.AI for financial-services CRM",
+          "sowhat": "Creatio targets legacy CRM replacement in banking with no-code AI agents, a niche vertical play in a segment where Salesforce and Microsoft still dominate.",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanpvZ2hlQ1UyNHU3WkgtdERIZEF0ZU5HdGUwbmVsOHhyZW9tbkVpSmpFOXJaaXpHNlNRZGk2d0E0RDFpaDZUUHZmR0l0bWZSZnhva0NYWURhTURGN0thejFnSENycTlLdDFBck9EbkEzeVloQ0VSX0NGVVNfLXdweVRraTZjTHJEeWRNQ3AtT3BBNnhpM3RTWmRST09JRVlCbTNhYVM1QnpYSjZicTZ2V2EtUjVtQzF1aE1tZGVxNmhudjhwOHBMR0RVN3Z6X3VBakpJZzBiNmZMRVBFc01GS2ZVOWZWUQ?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "WidePoint loses DHS contract after competitor protest upheld",
+          "sowhat": "GAO sustained TurningPoint's protest of WidePoint's CWMS 3.0 award; incumbent now faces rebid risk on a material federal identity-management contract.",
+          "url": "https://futurumgroup.com/insights/widepoints-dhs-contract-protest-setback-or-speed-bump/?utm_source=rss&utm_medium=rss&utm_campaign=widepoints-dhs-contract-protest-setback-or-speed-bump",
+          "vendor_flag": false,
+          "run": "PM"
         }
       ],
       "pattern_watch": "Agentic AI security and governance concerns surfacing across vendors (Salesforce vulnerabilities, Microsoft architecture, Constellation governance warnings)"
@@ -786,5 +813,5 @@
       "pattern_watch": ""
     }
   ],
-  "updated": "2026-09-27T11:42:47.554307+00:00"
+  "updated": "2026-09-27T18:54:37.198462+00:00"
 }
