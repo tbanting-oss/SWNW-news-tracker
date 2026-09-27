@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T17:59:37.077155+00:00",
+  "generated_at": "2026-09-27T10:46:15.503848+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
   "feeds_with_errors": 5,
@@ -41,20 +41,7 @@
     },
     {
       "name": "Google Alert - Cisco Webex",
-      "items": [
-        {
-          "title": "<b>Cisco</b> vs Microsoft Teams Rooms management battle - UC Today",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://uctoday.com/cisco-vs-microsoft-teams-rooms-meeting-room-management-battle&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw03ff1m111taXJ0yd3VR76C",
-          "published": "2026-09-25T18:35:25Z",
-          "summary": "Buyer demand is shifting from smart rooms to fewer IT handoffs. Cisco Webex Control Hub and Microsoft Teams Rooms Pro Management now overlap in&nbsp;..."
-        },
-        {
-          "title": "Omdia: Channel Partners Have More Say in Meeting Room Tech - Telecom Reseller",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://telecomreseller.com/2026/09/25/omdia-channel-partners-have-more-say-in-meeting-room-tech/%3Famp&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw11z05z3dT5XbuIoif98w1V",
-          "published": "2026-09-25T14:11:13Z",
-          "summary": "That puts partners closer to the center of the buying process as vendors compete around Microsoft Teams, Zoom, Google Meet, Cisco Webex and other&nbsp;..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CX Today",
@@ -91,72 +78,6 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570436",
           "published": "Fri, 25 Sep 2026 22:37:50 Z",
           "summary": "Enable users to leave PowerPoint, switch devices, go offline, or end their workday while remaining confident that Copilot will notify them when work is complete or requires attention.GA date: October CY2026"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Expand your service offering through subcontractors without the onboarding overhead",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571672",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Business value\nSubcontractors commonly communicate completion through an emailed service report or a message describing the work performed. Dispatchers then have to find the correct assignment, interpret the report, update the booking and work order, and copy important closeout details into Field Service. This manual process delays operational visibility, creates inconsistent service history, and can leave completed bookings or work orders open.\nService teams can setup an agent to process subcon"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Support multiple warehouse assignments for field technicians",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570858",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Field technicians often source parts from more than one warehouse. Limiting a technician to a single warehouse can make it harder to reflect how materials are actually sourced across field operations.\nWith this capability, administrators can assign multiple warehouses to a Bookable Resource and designate a preferred/default warehouse for the applicable legal entity. When a technician records material consumption, the warehouse can be automatically populated based on the Work Order legal entity a"
-        },
-        {
-          "title": "Microsoft 365 app: Cloud Update - Extended rollback support for Monthly Enterprise Channel",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572673",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Cloud Update is expanding rollback options for devices on Monthly Enterprise Channel. Administrators will be able to roll back devices to a release from two versions prior, with the latest available security updates for that release, and keep devices in the rolled-back state across subsequent releases until they are ready to resume updates. This provides additional time to investigate and resolve compatibility issues while maintaining security coverage and centralized control through the Microso"
-        },
-        {
-          "title": "Outlook: Insert Symbol",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571683",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "You can insert a variety of symbols into an email message while composing it. To add a symbol, go to the Insert tab and select Symbols.GA date: October CY2026"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Process subcontractor photos, completion documents, and inspection results",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571674",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Business value\nSubcontractors often document completed work through photos, service reports, inspection forms, certificates, and other files. When those documents remain only in a shared mailbox, service teams must manually download, interpret, organize, and reconnect them with the work they support. Important completion evidence and inspection findings can be difficult to find when a customer, dispatcher, auditor, or future technician needs them.\nProcessing subcontractor completion documents as"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Close out bookings and work orders from subcontractor service reports",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571673",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Business value\nSubcontractors commonly communicate completion through an emailed service report or a message describing the work performed. Dispatchers then have to find the correct assignment, interpret the report, update the booking and work order, and copy important closeout details into Field Service. This manual process delays operational visibility, creates inconsistent service history, and can leave completed bookings or work orders open.\nUsing the subcontractor's service report to prepar"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Onboard mid-lifecycle assets into maintenance plans",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571671",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Business value\nOrganizations often introduce maintenance management after equipment is already operating or acquire used assets with established age, usage, and service histories. Starting those assets at the beginning of a new maintenance plan produces irrelevant past activities and inaccurate future dates, while manually reconstructing every historical event requires significant effort.\nMid-lifecycle onboarding allows existing assets to enter a standardized maintenance program at an appropriat"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Review and visualize an asset's maintenance schedules",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571670",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Business value\nAn asset can have several lines of service, each with its own maintenance schedule, recurrence pattern, and future events. When those schedules are reviewed separately, planners have difficulty understanding the asset's complete maintenance plan and how the different service requirements will play out together.\nA consolidated list and visual timeline give maintenance teams one place to understand the asset's planned service, investigate individual events, and identify schedules or"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Create and apply reusable maintenance plans to assets",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571664",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Business value\nOrganizations can define a consistent maintenance strategy once and use it across groups of similar assets instead of designing a separate plan for every asset. This reduces setup effort, limits configuration differences across locations and teams, and provides a repeatable way to bring growing asset populations under managed maintenance.\nReusable templates also make maintenance standards easier to govern. Asset and service leaders can establish the expected maintenance program fo"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Microsoft Copilot in Field Service Mobile app",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571663",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "Microsoft Copilot in the Dynamics 365 Field Service mobile app brings conversational AI chat capabilities directly to frontline workers. Once enabled, technicians can ask natural-language questions about Dynamics 365 Field Service data and receive contextual answers based on the app experience and their organization’s Dataverse data. With standard capabilities, Dataverse Q&amp;A supports questions such as “What is the work history of this asset?” or “Who worked on this job last?” Organizations c"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Enhanced visibility into work order financial performance",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570859",
-          "published": "Thu, 24 Sep 2026 22:58:55 Z",
-          "summary": "The new Work Order Cost Summary gives field teams a clearer view of how project-related work is performing by bringing estimated and actual costs, sales, and project task progress together in one place. Teams can quickly compare what was planned with what was actually delivered across products, services, and expenses.\nWhen the Work Order is associated with a Project Task, the summary also shows planned and completed task effort, allowing users to review financial performance and execution progre"
         }
       ]
     },
@@ -201,28 +122,10 @@
           "summary": "Cyber Roundup: Cut-Price AI, Intel Gaps, Expanded Monitoring&nbsp;&nbsp;UC Today"
         },
         {
-          "title": "Cisco vs Microsoft Teams Rooms: The Room Management Battle - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPak4yTUkyWjZ6NGZZOEFfX1dvWUlUazNiRXhYRUNJTktGLUVfbWtQeXZKb3JRNVUydHM5MFI1SnhLZnJvQkZBRU1maEVuenJ2RndkMnhTb0FjSmxuWlJsRmJUU3JrYWFBYW5ONjBidnMxbVlaNzBRX3RrTWQxeUFuSVpUT0VZX0lD?oc=5",
-          "published": "Fri, 25 Sep 2026 12:35:25 GMT",
-          "summary": "Cisco vs Microsoft Teams Rooms: The Room Management Battle&nbsp;&nbsp;UC Today"
-        },
-        {
           "title": "Meta Connect Puts Workplace XR Adoption to the Test - UC Today",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vMEZRZWdiYkRMVUJ6QlJmSk5uUGs0TVFNOXVFc2RhT19ZaUxLU2tfZS1CYWtkOGRncUhpYlo4Y0ZtMzl3MmpidFo2MV9pTkNVVnkzSldzd1pldFZZaF9HYXNVOUoyeUtUSmFuSFdINlp3YUJqYWJ3ZFc5Zw?oc=5",
           "published": "Fri, 25 Sep 2026 11:04:05 GMT",
           "summary": "Meta Connect Puts Workplace XR Adoption to the Test&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "What Channel Partners Need to Know Before Gammaverse ’26 - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDBDdUJHM3VvM2RnMkgtdTltS0ZrY3RpT3VwdFZOTnFZeThzZ0lhVXdwaGdiVXhWSnJ5LVk2eHdRRUU5bElfSXdYNWVQaXJMS1ZYZE0zTE9NUU5pdlJwMVFxMWZfdnljU3lBblBPazcwYVhCMGZOSFZQMlo2QVdOalpyRjM5ZVRZLWhKOXo2TmdzRjg?oc=5",
-          "published": "Fri, 25 Sep 2026 09:33:45 GMT",
-          "summary": "What Channel Partners Need to Know Before Gammaverse ’26&nbsp;&nbsp;UC Today"
-        },
-        {
-          "title": "Scale Customer Onboarding Without Scaling Internal Teams - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjFzbXFmVmJZUWl4Z0piLTExcWdZVlFsT01WQVpCTWJmM2JfYS1nMlhabnNrN1V3ajBHYllTYzNDWUxGeUdMdkk2bjM4aTBad1JsZTR0MUhvRHNKVHB5TmJCYzFnbThtYTktQnVfeTh0YzlEMjFENnpJbUFxdjhBSE8zcWRpd3gzOGthSA?oc=5",
-          "published": "Fri, 25 Sep 2026 08:04:10 GMT",
-          "summary": "Scale Customer Onboarding Without Scaling Internal Teams&nbsp;&nbsp;UC Today"
         }
       ]
     },
@@ -236,92 +139,7 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "Network Monitoring for Telcos – Modernization is a Must for Evolution to Techcos",
-          "link": "https://telecomreseller.com/2026/09/25/network-monitoring-for-telcos-modernization-is-a-must-for-evolution-to-techcos/",
-          "published": "Sat, 26 Sep 2026 02:08:59 +0000",
-          "summary": "Network monitoring may not be sexy, but all service providers have to do it, especially for telephony, given its real-time nature. Service quality, audio quality, reliability, network security, compliance &#8211; [...]\nThe post Network Monitoring for Telcos &#8211; Modernization is a Must for Evolution to Techcos appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Leaseweb: MSPs Should Follow the Workload, Not the Vendor, Podcast",
-          "link": "https://telecomreseller.com/2026/09/25/leaseweb-msps-should-follow-the-workload-not-the-vendor-podcast/",
-          "published": "Fri, 25 Sep 2026 20:24:49 +0000",
-          "summary": "By Doug Green “You’re really selling expertise, judgment and an understanding of the customer’s goals.” In this Technology Reseller News podcast, Devon Rutherford, Sales Solution Manager at Leaseweb, discusses why [...]\nThe post Leaseweb: MSPs Should Follow the Workload, Not the Vendor, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "TPx Names Channel Veteran Garrett Gee to Lead Next Chapter of Partner Growth",
-          "link": "https://telecomreseller.com/2026/09/25/tpx-names-channel-veteran-garrett-gee-to-lead-next-chapter-of-partner-growth/",
-          "published": "Fri, 25 Sep 2026 19:35:20 +0000",
-          "summary": "Channel veteran Garrett Gee joins TPx to drive partner growth, bringing a proven track record of building high-performing indirect sales organizations AUSTIN, TX &#8211; September 21, 2026 &#8211; TPx, a [...]\nThe post TPx Names Channel Veteran Garrett Gee to Lead Next Chapter of Partner Growth appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Sinch Expands Tier 1 RCS Business Messaging Coverage to Canada, Completing North American Footprint",
-          "link": "https://telecomreseller.com/2026/09/25/sinch-expands-tier-1-rcs-business-messaging-coverage-to-canada-completing-north-american-footprint/",
-          "published": "Fri, 25 Sep 2026 19:27:22 +0000",
-          "summary": "Direct Tier 1 carrier connectivity across the U.S. and Canada gives businesses a single platform to deliver rich, interactive RCS messaging and AI-powered experiences Atlanta, GA &#8211; September 24, 2026 [...]\nThe post Sinch Expands Tier 1 RCS Business Messaging Coverage to Canada, Completing North American Footprint appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Infobip appoints Mirta Pađen Lee as Vice President of People",
-          "link": "https://telecomreseller.com/2026/09/25/infobip-appoints-mirta-paden-lee-as-vice-president-of-people/",
-          "published": "Fri, 25 Sep 2026 19:22:02 +0000",
-          "summary": "Appointment supports Infobip’s continued growth and evolution into an AI-first business Vodnjan, Croatia &#8211; September 24, 2026 &#8211; Global AI-first cloud communications platform Infobip announced the appointment of Mirta Pađen Lee [...]\nThe post Infobip appoints Mirta Pađen Lee as Vice President of People appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Grandstream Releases New Smart IP Video Door Station",
-          "link": "https://telecomreseller.com/2026/09/25/grandstream-releases-new-smart-ip-video-door-station/",
-          "published": "Fri, 25 Sep 2026 19:16:35 +0000",
-          "summary": "The latest addition to the GDS3720 Series, the GDS3726Q features four customizable quick keys to streamline visitor access and communication for offices, residential facilities, and more Boston, MA &#8211; September [...]\nThe post Grandstream Releases New Smart IP Video Door Station appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Crexendo Expands AI Portfolio Through Meetric Partnership, Adding Omnichannel Conversation Intelligence for More Than 250 Platform Licensees",
-          "link": "https://telecomreseller.com/2026/09/25/crexendo-expands-ai-portfolio-through-meetric-partnership-adding-omnichannel-conversation-intelligence-for-more-than-250-platform-licensees/",
-          "published": "Fri, 25 Sep 2026 14:55:23 +0000",
-          "summary": "New white-label partnership extends AI-powered summaries, follow-ups and CRM updates beyond voice to every channel Crexendo&#8217;s licensees serve PHOENIX, AZ &#8211; September 21, 2026 &#8211; Crexendo®, Inc. (NASDAQ:CXDO), an award-winning [...]\nThe post Crexendo Expands AI Portfolio Through Meetric Partnership, Adding Omnichannel Conversation Intelligence for More Than 250 Platform Licensees appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cisco AI Research: AgenticOps Scaling Quickly in the Enterprise",
-          "link": "https://telecomreseller.com/2026/09/25/cisco-ai-research-agenticops-scaling-quickly-in-the-enterprise/",
-          "published": "Fri, 25 Sep 2026 14:46:20 +0000",
-          "summary": "New Cisco and Omdia research shows 95% of enterprises say their existing AIOps tools can&#8217;t keep up, and more than half have already moved to AgenticOps News Summary The alert [...]\nThe post Cisco AI Research: AgenticOps Scaling Quickly in the Enterprise appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "8×8 Earns Four Stevie Awards in The 2026 International Business Awards",
-          "link": "https://telecomreseller.com/2026/09/25/8x8-earns-four-stevie-awards-in-the-2026-international-business-awards/",
-          "published": "Fri, 25 Sep 2026 14:39:03 +0000",
-          "summary": "Gold Stevie Win for Technology Team of the Year Joins Three Individual Leadership Honors CAMPBELL, CA &#8211; September 24, 2026 &#8211; 8&#215;8, Inc. (NASDAQ: EGHT), a leading global business communications platform [...]\nThe post 8&#215;8 Earns Four Stevie Awards in The 2026 International Business Awards appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Keysight, UC Berkeley Explore New Approach to 6G Wireless Testing",
-          "link": "https://telecomreseller.com/2026/09/25/keysight-uc-berkeley-explore-new-approach-to-6g-wireless-testing/",
-          "published": "Fri, 25 Sep 2026 14:30:43 +0000",
-          "summary": "By: Moshe Beauford, Editor Keysight Technologies is working with the Berkeley Wireless Research Center at the University of California, Berkeley, on new approaches to over-the-air testing for emerging 6G devices [...]\nThe post Keysight, UC Berkeley Explore New Approach to 6G Wireless Testing appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Omdia: Channel Partners Have More Say in Meeting Room Tech",
-          "link": "https://telecomreseller.com/2026/09/25/omdia-channel-partners-have-more-say-in-meeting-room-tech/",
-          "published": "Fri, 25 Sep 2026 14:03:45 +0000",
-          "summary": "By: Moshe Beauford, Editor Channel partners have a bigger role in deciding what video conferencing technology enterprises put into their meeting rooms, according to new research from Omdia. Omdia&#8217;s Video [...]\nThe post Omdia: Channel Partners Have More Say in Meeting Room Tech appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "TNS Helps Carriers Navigate the Transition from PSTN to All-IP Networks, Podcast",
-          "link": "https://telecomreseller.com/2026/09/24/tns-helps-carriers-navigate-the-transition-from-pstn-to-all-ip-networks-podcast/",
-          "published": "Thu, 24 Sep 2026 19:29:24 +0000",
-          "summary": "“The networks may change dramatically behind the scenes, but calls still need to connect reliably.” In this Technology Reseller News podcast, Connie Hartman, Director of Product Management at TNS, discusses [...]\nThe post TNS Helps Carriers Navigate the Transition from PSTN to All-IP Networks, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "TechSee Survey Finds Missed Home Network Sales Opportunity for ISPs",
-          "link": "https://telecomreseller.com/2026/09/24/techsee-survey-finds-missed-home-network-sales-opportunity-for-isps/",
-          "published": "Thu, 24 Sep 2026 19:00:31 +0000",
-          "summary": "By: Moshe Beauford, Editor Telecom and broadband providers may be missing home network equipment sales during technician visits. A new TechSee survey found that just 9% of consumers who have [...]\nThe post TechSee Survey Finds Missed Home Network Sales Opportunity for ISPs appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "SmarTrak.ai Helps Cisco Partners Turn Data into the Next Best Action, Podcast",
-          "link": "https://telecomreseller.com/2026/09/24/smartrak-ai-helps-cisco-partners-turn-data-into-the-next-best-action-podcast/",
-          "published": "Thu, 24 Sep 2026 18:03:46 +0000",
-          "summary": "“Now that you have all this data, what do you actually need to do with it?” In this Technology Reseller News podcast, Philip Martin, Vice President of Product at SmarTrak.ai, [...]\nThe post SmarTrak.ai Helps Cisco Partners Turn Data into the Next Best Action, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
@@ -337,18 +155,6 @@
           "link": "https://www.cmswire.com/customer-experience/medallia-h2-2026-release-expands-multilingual-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Fri, 25 Sep 2026 08:49:00 -0500",
           "summary": "The experience management vendor added AI analysis in 13+ languages, segment-level auditing and self-service survey tools to speed enterprise response.\nContinue reading..."
-        },
-        {
-          "title": "Is Your Marketing Team the Company Junk Drawer for Unowned Work?",
-          "link": "https://www.cmswire.com/digital-marketing/is-your-marketing-team-the-company-junk-drawer-for-unowned-work/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 24 Sep 2026 14:15:26 -0500",
-          "summary": "If nobody owns it, marketing gets it. Is your team losing its strategy to a hundred small, reasonable yeses?\nContinue reading..."
-        },
-        {
-          "title": "Is Your Website Quietly Shutting Out ChatGPT and Claude Crawlers?",
-          "link": "https://www.cmswire.com/digital-experience/is-your-website-quietly-shutting-out-chatgpt-and-claude-crawlers/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 24 Sep 2026 13:48:00 -0500",
-          "summary": "Nearly one in five top websites block at least one major AI crawler, often by accident, and their brands pay for it in AI answers.\nContinue reading..."
         }
       ]
     },
@@ -380,32 +186,7 @@
     },
     {
       "name": "Twilio Blog",
-      "items": [
-        {
-          "title": "The #1 AI behavior hurting your customers’ experiences",
-          "link": "https://www.twilio.com/en-us/blog/insights/lost-context-between-channels",
-          "published": "Thu, 24 Sep 2026 20:00:00 -0400",
-          "summary": "40% of businesses say that lost context between channels is the AI behavior hurting their brand the most. Here's why it breaks (and how to fix it)."
-        },
-        {
-          "title": "What is AI agent orchestration? How it works in 2026",
-          "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-orchestration",
-          "published": "Thu, 24 Sep 2026 20:00:00 -0400",
-          "summary": "AI agent orchestration coordinates multiple AI agents across a workflow. Learn how routing, shared memory, and human handoff work in 2026."
-        },
-        {
-          "title": "How to handle real-time interruptions in your AI voice agent",
-          "link": "https://www.twilio.com/en-us/blog/insights/ai-voice-agent-interruption-handling",
-          "published": "Thu, 24 Sep 2026 20:00:00 -0400",
-          "summary": "Callers interrupt agents and call from noisy rooms. That's real life. Here's how to tune barge-in, turn detection, and context so your AI voice agent keeps up."
-        },
-        {
-          "title": "How to Build an RCS Business Messaging Campaign with Twilio in C#",
-          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-csharp",
-          "published": "Thu, 24 Sep 2026 20:00:00 -0400",
-          "summary": "How to Build an RCS Business Messaging Campaign with Twilio in C#"
-        }
-      ]
+      "items": []
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -415,10 +196,16 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
-          "title": "Public Sector Contact Centers: The Current State of Play - cxtoday.com",
+          "title": "How Do You Build a Predictive CX Strategy With AI - And Why Do Most Companies Get It Wrong? - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15YjZUNWF4czRUNGE0ZUc3S05mY1FXTGs3VGI5TlRvbVQ4VWJNN0p3end5N3NnV2N0TENTVUp6V3JfUjhCblMwemtuM3hiQzktWTcxTng0SE5Rdw?oc=5",
+          "published": "Sat, 26 Sep 2026 13:03:24 GMT",
+          "summary": "How Do You Build a Predictive CX Strategy With AI - And Why Do Most Companies Get It Wrong?&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "Public Sector Contact Centers: The Current State of Play - CX Today",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUG1HVzBZZjdsZXJfRktValg4cXNMcEdkcWY5LUV4WldkVENWZ0gwNUVoS2pKdmtQa2VZMXpad1RIRFdicDRUeEt5YjBLMmZjSkczNlBYVUxLcVJnUmZMaFBDczVmWmpXSlVDVnd3N1kyS1REbjJmLUtOcS1SaUt0M01vYVBIZkZkYlVNdFRQWVdTWEp0NnFWcw?oc=5",
           "published": "Fri, 25 Sep 2026 19:41:20 GMT",
-          "summary": "Public Sector Contact Centers: The Current State of Play&nbsp;&nbsp;cxtoday.com"
+          "summary": "Public Sector Contact Centers: The Current State of Play&nbsp;&nbsp;CX Today"
         },
         {
           "title": "Costco aims to build loyalty with younger shoppers - CX Dive",
@@ -427,28 +214,46 @@
           "summary": "Costco aims to build loyalty with younger shoppers&nbsp;&nbsp;CX Dive"
         },
         {
-          "title": "How Too Many Engagement Channels Are Quietly Making Customer Journeys Worse - cxtoday.com",
+          "title": "How Too Many Engagement Channels Are Quietly Making Customer Journeys Worse - CX Today",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWhuRHpKbnM0blVRRHBQS1RaMGhsdEs0SkR2c3JQdkQtd1M4NUpBcXlReWxwUUo3cFBmOHNqb1l0VkZXZFg2ZkZqdzNrRGVjbHRDdHZteFhHNGdUTnN2UkhkY2lZS2h5S3gtSUh1emw2QmlrU1lWN2h6dFprYXRpYXZScWtwa3NDNWc?oc=5",
           "published": "Fri, 25 Sep 2026 17:37:33 GMT",
-          "summary": "How Too Many Engagement Channels Are Quietly Making Customer Journeys Worse&nbsp;&nbsp;cxtoday.com"
+          "summary": "How Too Many Engagement Channels Are Quietly Making Customer Journeys Worse&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "Your Customer Experience Isn’t Breaking - It’s Quietly Getting Worse Every Single Day - cxtoday.com",
+          "title": "Your Customer Experience Isn’t Breaking - It’s Quietly Getting Worse Every Single Day - CX Today",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SVEt6V2t6RzFPUGhVaGFKdEdXY3ZvUXVTRldJR0xycjlnblpCNjBBbVBoZG5Dbjk4cDdLRkpqSFRZcURVWXFlenZFeUF3UmYyU1hUYVBBdlNkZ3g3Qk5UNEl2bGY5UQ?oc=5",
           "published": "Fri, 25 Sep 2026 17:35:42 GMT",
-          "summary": "Your Customer Experience Isn’t Breaking - It’s Quietly Getting Worse Every Single Day&nbsp;&nbsp;cxtoday.com"
+          "summary": "Your Customer Experience Isn’t Breaking - It’s Quietly Getting Worse Every Single Day&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "McDonald’s has big plans for its loyalty program - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVV1SmR0S2hvMzNRbkxMcTZCZXc4aUN6dUhjR25XeG5mcDFoRG9nUGxHQlhwT241Yl9uYnNGRXdKZFRZcjV1MUdHdXZzLXlrY1BDb2dKT1JyTzR0blU5ekRKZkRDVXJKQk5qdjVzdlNHWEc1VW5LMjVZci1uVlg3cmpPTi15UmhuY2gyUWRoaTc?oc=5",
-          "published": "Thu, 24 Sep 2026 19:39:06 GMT",
-          "summary": "McDonald’s has big plans for its loyalty program&nbsp;&nbsp;CX Dive"
+          "title": "CEM Africa Awards 2026 set to recognise Africa’s leading Customer Experience (CX) talent and innovation - Africa24 TV",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbHpHWi1VcnhGTkFHT0hYS3FuYlVSbm9adEdpNmwzQlVYRmlMeUxmOXdkS3ppcWJmVTV5NWM0djBBaFVaU1FCSXpJOGtjcUtOc3hPRjRnampXTFNqZHBrMUNHNXd2TnM3aDJXVFYtY1dPMXZOZ0NndFdKTUc2OTJCMUxsbTA1WXU2NnpaaFhHQnVjOWZUM293ZXRiWllpUDNYN0R3dHJfWmIxYjFtb29yamRCeFVESGdqcVYtYzRmMWczdw?oc=5",
+          "published": "Fri, 25 Sep 2026 11:00:24 GMT",
+          "summary": "CEM Africa Awards 2026 set to recognise Africa’s leading Customer Experience (CX) talent and innovation&nbsp;&nbsp;Africa24 TV"
         }
       ]
     },
     {
       "name": "\"CRM\" - Google News",
       "items": [
+        {
+          "title": "Roofr raises Series B led by TCV - Dealroom.co",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kMjA0UERTRE95dXloQmJTejZiTTVYTU55eXhwMzQxRUdEMTdfTy1XbVpvTEd6SU9CVGpUQmJQRHpCc3gxNDZCSW1GWEtTUGEwaWdsSEgxWHlhbVIzbDUwOGJmQXRPUmE4ZUpQYWtEYkV1cXQ0?oc=5",
+          "published": "Sun, 27 Sep 2026 01:49:05 GMT",
+          "summary": "Roofr raises Series B led by TCV&nbsp;&nbsp;Dealroom.co"
+        },
+        {
+          "title": "Salesforce Fixes SalesBleed: 3 Agentforce AI Flaws [2026] - tech-insider.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pc0R0V0pfTFhSbldNM0VLSm53YVJjaEFTcmpJZUdkaGNENm1ETE91MHd0NHpsa0ZpQVVVcXAta2JYdkFRbHV6MWlBazhPV3BaNktueVA2WjZVd2dwOGpRaGw0VW1kM2E3U2VvMDFpcTc2WVlTc2hxZGhpZC0?oc=5",
+          "published": "Sat, 26 Sep 2026 18:25:18 GMT",
+          "summary": "Salesforce Fixes SalesBleed: 3 Agentforce AI Flaws [2026]&nbsp;&nbsp;tech-insider.org"
+        },
+        {
+          "title": "Insider trades: Nvidia, Oracle, Salesforce among notable names (CRM:NYSE) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcVAxa2o0ODk1T2R4RG1FeW93R2x6SFdaMkVpRjM0V0E0ZnNORzJYcE8tNndoUTYtaXptcmdkZUU5UGVSaFlpTzJTZzBjYnFiNnkxT0ZOUUNlYWR3bmpuRTVKTnV3UGJFdzRMcUpBNGVkUWQ1bUJWallKR2hQdk1EUF9zenowczlETWZoZHJHUTBzUkJVUUtzcUhSN3RDQQ?oc=5",
+          "published": "Sat, 26 Sep 2026 15:03:32 GMT",
+          "summary": "Insider trades: Nvidia, Oracle, Salesforce among notable names (CRM:NYSE)&nbsp;&nbsp;Seeking Alpha"
+        },
         {
           "title": "B2B sales teams estimate 32% of their CRM data is flawed, Firmable finds - PPC Land",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmk2dmpVajFaSUxUbVliYXQtMTYtR2h0MXM2Ti1nVllqZ3JOb1pxUjh5d2cxcnlZUzhGakVNQlZ1Nld4dVRhR2w0cVpNRWw4NzB0aEVXdTZ4TGtwZ0owcndJVFBsMGNRVUpYRVU5cXZWSC1fVkQ5N20yYjNVczRrVncxblQtN1IzTEx0cTNVLWwyQQ?oc=5",
@@ -466,24 +271,6 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDRmXzMtc1BMRGVMTmRuRUpQUmMwa3V6VFZrbW9LTkVzV1NOUEozWG9CUHZVS1ZvN0xsZ1g2SmtyZ2ttbDFmOV9ZWkVxMHk3LVJ5VUFIbHIxZUZmNnZtaXg0YkVtUlY1MTUyaERiaVJ3YUMwU0RLNEgyTk1Sbnpxc3BHa1JqT0ZfQ1BuZHA2SkFuY0RCSGpB?oc=5",
           "published": "Sat, 26 Sep 2026 14:11:00 GMT",
           "summary": "Salesforce Unveils Koa: A Breakthrough AI Model for CRM Reasoning&nbsp;&nbsp;Small Business Trends"
-        },
-        {
-          "title": "Salesforce Stock Is Down Nearly 12% in 2026. Time to Sell or Load Up? - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDZoa2NyVFJZenhsNVpJN1VGSW1ZNlJqUjhHcllyZ3RGeGhEZDFWRkRTRTRDTzZVRXpXU29NNDAwT3hkdE9Ld0NmUmNCQmpIOVF3Yy12ZVY4MEhtWGtCZWIzQ1lhQm91UjRBa2JqbTlmajE5V29Ha1FqdGdGTWxTZlVxcmdJdHBHM3dib3F6Y0UwNDI5VTVj?oc=5",
-          "published": "Sat, 26 Sep 2026 13:17:32 GMT",
-          "summary": "Salesforce Stock Is Down Nearly 12% in 2026. Time to Sell or Load Up?&nbsp;&nbsp;TIKR.com"
-        },
-        {
-          "title": "From CRM to performance intelligence: The next edge in enterprise sales - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVDBpdEJGeURYNlZySnpzelQ3emVYdlN1NE9nbHZYY3FGVE50REFXS3ZSaW9IcERPYm1wZGJncDhwRUxsWXEwZkF6S0VIMUlFTm9NeVk5c3ExLThCY2MxT2w0al9yWkhDV0pPVjRCclUtcm12MlNIMjg5YjB6Zzh0WTF0VzF5TjVWSnliQTFfZVVVaUhlaS1XLVNCQWNYRDhNR3o2eEI3VHFweEl5TXphWG1mQ3hObWhIMzZoZXA0UzV2anZOMFdJSU92TmoxVlpaVkxpSzlNMUMwbU9Ddm5CTC1aRWhXd9IB6wFBVV95cUxPQk5wRUQ2Y2VkRlhaTWN4bzRldmxDZ192am1Fa1pmb3hMb1NJRldyNlFwT3I4ZkFqLTJON3h1ZTNJajF2aFF0UmoyUUNzMXFaTnJYamI3UHJoYUs5WFMtZjBBaU1ubGtWWV9iNzdJbkZhaFR2LUxoUnR4UlEzWGQ3QnJBeE9MZEhtV3A1NC1zQk5Gc1RobzJOaVBqYXM0YTVpSHhodWRLR1hnc1hCaU96Yy11V0Q1VHpYeW1pUFduRzZmeGotYkVTajVfZ0NWeFlZMjBMZkV0cTlDQWd3dDF1MjdaQTJTNlpoQkJv?oc=5",
-          "published": "Sat, 26 Sep 2026 05:15:17 GMT",
-          "summary": "From CRM to performance intelligence: The next edge in enterprise sales&nbsp;&nbsp;The Economic Times"
-        },
-        {
-          "title": "The CRM AI tools built for email personalization are the ones teams often overlook - ABC17NEWS",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3NRVnRnUk9hTUo4NGYtR05DeDZPc21EbnRyZ3d5WTFkM3NCNV9TOWxjSkUtMWtzMl9WVWI4RDlhZ2hvVlpKWGs3OC1JVmhEMVJzZ2I2bXZJWFd1VXhxbW9ydHZFc1R2aFE0SUx1NlZQN0hjYW0xZDlPOU1mX3pGQ2JPYjBVbG5kMURET3Vsdk1CYmpiTkdBU2FEMHltWEhFVVRNN1ZuR3YtWTFqcHF1X0ZwYmpaZDdXUDRUM3FTb2xsN2VCeFE?oc=5",
-          "published": "Sat, 26 Sep 2026 05:05:40 GMT",
-          "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;ABC17NEWS"
         },
         {
           "title": "Earnings Beat Might Change The Case For Investing In Salesforce Stock (CRM) - simplywall.st",
@@ -522,10 +309,10 @@
           "summary": "Salesforce (NYSE:CRM) Stock Falls 1.7% - What's Next?&nbsp;&nbsp;MarketBeat"
         },
         {
-          "title": "Top MarTech News From the Week of September 25th: Updates from Precisely, Iterable, G2, and More - Solutions Review",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW5BMUplbjdGekhRYnc2T3ZYOXpNTkFlMkVxQ1ZfWXk3TE5semNBS1VXMXZZZHdSOXZPaU8xMmFOZXhuV2hCOFY5YUZmXzhUZDlnTUY2eVlFSVpVR1Z3aVhPNHRTS0dzaFFqaE1IS2daTU1aR2VJRFIwNTVVNDNYZDZGSE1CUWJ5TTZqYVFNaDY4R3RDM0VJ?oc=5",
-          "published": "Fri, 25 Sep 2026 20:51:34 GMT",
-          "summary": "Top MarTech News From the Week of September 25th: Updates from Precisely, Iterable, G2, and More&nbsp;&nbsp;Solutions Review"
+          "title": "The CRM AI tools built for email personalization are the ones teams often overlook - Bryan College Station Eagle",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEN6WkpCSklyR0VpbVpMT2VUR0pqVmFPcE91bGZtMlh4S3ZvQnJ1SUhLNm55X3cxaTNaVW5qTDRJczJ6UDRXcHh5WE1ibFdjdXZqNExqaGZsSkNJMldVMk83MnczaFFVNWpBbm43cUVaMGpuc3RxYkxJdDNpZ2VVUW5pbUVMdlQyYkJnUWU1M0dYaUdQWTh4MjhuOTB0dw?oc=5",
+          "published": "Fri, 25 Sep 2026 20:39:37 GMT",
+          "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;Bryan College Station Eagle"
         },
         {
           "title": "Here's How Much $100 Invested In Salesforce 15 Years Ago Would Be Worth Today - Benzinga",
@@ -534,28 +321,28 @@
           "summary": "Here's How Much $100 Invested In Salesforce 15 Years Ago Would Be Worth Today&nbsp;&nbsp;Benzinga"
         },
         {
-          "title": "Your CRM Isn’t Broken. It’s Just Filled With Data No One Entered Properly - cxtoday.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrOUxHLTYtTjZWZHNxVmZ6azJRMFFfblRtdldwVHNiYldzc1hzTTh0M0M0bGswemZMMmJTa09qT3g3cWNkN0NVSmstUk8tbE1KcmFuNzhObl92Vzg?oc=5",
-          "published": "Fri, 25 Sep 2026 17:18:43 GMT",
-          "summary": "Your CRM Isn’t Broken. It’s Just Filled With Data No One Entered Properly&nbsp;&nbsp;cxtoday.com"
-        },
-        {
-          "title": "The CRM AI tools built for email personalization are the ones teams often overlook - Mooresville Tribune",
+          "title": "The CRM AI tools built for email personalization are the ones teams often overlook - mooresvilletribune.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZllRZU4zdG5sUEVaaTBicHVKQno3Ym11Y19rRDFxV1p2ZVNUT2h4QUptUnR0SE85czRFa2NuY05NczB2NXBlb1htM3dBaGVhWHlWdGZQaWduX2JFb1BVQjlyQld5OE8weUFZM0ZGeVpyd2tRNF9xcFVybElQSlJpY1JCY2EzM0ROX3JqazYwaTFrNkN2UEg3UGR0d3dhQ2stSzhoblByS2xBak0?oc=5",
           "published": "Fri, 25 Sep 2026 16:08:16 GMT",
-          "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;Mooresville Tribune"
+          "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;mooresvilletribune.com"
         },
         {
-          "title": "The CRM AI tools built for email personalization are the ones teams often overlook - Wisconsin State Journal",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGtIc2o5RV9sWVRueFFUTk9UamQyeXc3ZEk5SlRuNVhfdjNySFBlSVVIa2tCZmQ3emNSSTZfSzNzbUNkNG9GX1NZOHV0Sk9oWHpNZndUaS1RODNCb1U2eWE1NU5xbHN5UkktaFNpdWpPcTExVkpXRFZqSDk0T3RESVhERzNvODVHcUhDbWMweEJSVzBHNnJBVmVOZlU?oc=5",
+          "title": "The CRM AI tools built for email personalization are the ones teams often overlook - KPVI",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc3JKempqaFl4QThEeVlfMnJ5YjNub0JBREJHWDZwcTVHckVoTzdFbWhhXzFJTTZZck1BeDNuQ1drTGF5djBRYkR4QlR3WFlvQlpQMC1Ec2JPcTQtZlBmal81aU1YajJpbjAxREYyV3NwbThETEVyTHpucnJfSDZ0T1FNNGNkVUg2Z2t4R2ZabVBCQmF3Rk1uY01jcnJHUE5QczA2Y0FIek5lekM3QTJhNnlwSXVKRkhvUEJPQjR2eUpvX2xSM1RiQ3Y3c0NPaGJlMUpMMUs3OVQ0aWczY1otN1gyLVNTcEs0YkRRcjdKUkd0WVNGbXc?oc=5",
           "published": "Fri, 25 Sep 2026 15:30:04 GMT",
-          "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;Wisconsin State Journal"
+          "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;KPVI"
         },
         {
           "title": "The CRM AI tools built for email personalization are the ones teams often overlook - The Conway Daily Sun",
           "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZTVBYUMxOGx4bWQteXczOFJaT0Z3NkY0X3lLQkxhUGxBNUNLZDN0YjRYTmx0QXE3OG96MC1HRXFFOTBnc1pzTi11b2JwOFhWSGpUUmIxX0xVSHQ4ejEyU2xhNU1XbC1qX0FuNmVCM0pqbUxFaUlHWUM4V2U5MllpOHJXYjRpYmlaZzhTUGsxdTAwYVo1ZUhSNHp4WUlBTWsxOFpQelVHOXdPT0EycHhvNVRSY2V0cmg3VnFFNmIxcXhPRUVnZjhTY2UzUms2ZHF1MUxKVTRVU2lNMFNvS0lueUxIaHJSQzdCeUtsa3FwZVZKVmVXVXZNTW1mSFNfSTBCRlBhcTFuTnlncl84Z2daTC02aTN1Nk1GZjlBcw?oc=5",
           "published": "Fri, 25 Sep 2026 15:30:04 GMT",
           "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;The Conway Daily Sun"
+        },
+        {
+          "title": "The CRM AI tools built for email personalization are the ones teams often overlook - Longview Daily News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTR2cmEwNmZIVXU1eEhLTmtxTWtCb2U1RzNtTUI5WGlLN1NJbFJrLXpHRUVVck5ROWktNkYxX3JUdTBSWVhKX25Ma2FOSjJUcFlldzhjZmlhbnEycElWemxJUjJrZHB0N3hrd3AtTzJqTFY5UUZRbjZVVEpsNXBqOVh0aW1WT1daZ1JpcUNtVU1JR2NUZXFr?oc=5",
+          "published": "Fri, 25 Sep 2026 15:30:04 GMT",
+          "summary": "The CRM AI tools built for email personalization are the ones teams often overlook&nbsp;&nbsp;Longview Daily News"
         },
         {
           "title": "Here’s The Actual Reason I Keep Buying Salesforce On Repeat - Yahoo Finance",
@@ -574,48 +361,6 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMaFcyUWl0cWZzdW1vLUdJVHlVVWZPVEtOTy0yVnNrN0x5Yk52S2wtYmpWMlVpS2VJamdVMV9VeDkzejRpTlA1cFhvRXlLdE85ZFZuUTUwTmo3c1gxcThpUjJEaURuX0xQZ3hMd3lrc1NzTkd3aFEtYTQzdk9EZw?oc=5",
           "published": "Fri, 25 Sep 2026 13:30:00 GMT",
           "summary": "Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk&nbsp;&nbsp;Infosecurity Magazine"
-        },
-        {
-          "title": "Salesforce Agentforce allowed CRM data theft without a \"click\" - Techzine Global",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDFNZ1BvY0kyWUpyWWg4d29qdXpOMWVOOURHQ1RZdkhabDg0bkY1aWIwcUY4Z2xCdkNIUGkwczVjWlNfb2QtYWpLNEdvNlNhLVVSSk9fWktXMnNpNkJraGtWS3hYcWpTLWJGMmNTRE1iTTNVUFhCRnVvNXoxTE13dGZSbEUtWDVJUjZObzV6SXE1NWYyNXNoeGhIVmdHeFZORDR1NWh5Nk15dw?oc=5",
-          "published": "Fri, 25 Sep 2026 08:48:29 GMT",
-          "summary": "Salesforce Agentforce allowed CRM data theft without a \"click\"&nbsp;&nbsp;Techzine Global"
-        },
-        {
-          "title": "A Self-Updating CRM Can Still Teach AI the Wrong Business - HackerNoon",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNnpicDVIaHpBdHVUeEJ4UUJUUEZBRThXVjZodGpqeEVnUjdaeXZyRzhZVzNHd3dKLWhGcWFRT2FoR3JvSk02VXRxd2Q3T3NRMUNfaENURnljd2dyNnpGd3Rwdm04N0RzT3NuQml3Sy1XeEJoMFZMV3VlRUF3ZTBfejVlNm5IRHM?oc=5",
-          "published": "Fri, 25 Sep 2026 08:47:24 GMT",
-          "summary": "A Self-Updating CRM Can Still Teach AI the Wrong Business&nbsp;&nbsp;HackerNoon"
-        },
-        {
-          "title": "Salesforce Inc. $CRM Shares Purchased by Envestnet Portfolio Solutions Inc. - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckpZYXc5REZnQ0NGcGI5aEtYX1M1c0ZxZkszLUpoOExmaTc4ZElQVXM4S2Z5LUUyN1ZkSDJwVmhYd2xfTDUxN01FeVE4WWFybmtqT2VxemxFOW5zNkJrV2NGTDIxMHk0VXZnUEo5aThqbU9zaEhfUTNXVldtLVdBamdfUWdVTXVaY0MyQjhUaDhBNTBMVzFKM3BxV1VkcDU4UTRCS0tnWGdqRm1jSWZ2ZUZXNDFqMDVWXy0tblg2dDZ4cl9OS1JOVTktVDFfQQ?oc=5",
-          "published": "Fri, 25 Sep 2026 07:08:33 GMT",
-          "summary": "Salesforce Inc. $CRM Shares Purchased by Envestnet Portfolio Solutions Inc.&nbsp;&nbsp;MarketBeat"
-        },
-        {
-          "title": "Your AI Context Is Becoming a Second CRM. Govern It Like One. - HackerNoon",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlE3Tmw0U1B6azd1UTJObHVLVHNxNEFsUFllQ1owdWVFUEJnVGt0d2p4dS1ZWk9PU2RpVWlMU1BfeDdORlBaSkVBckFkZkcyZHFRaU51LXdXRElXNmRLQlZmTjFQUUNOMnBRamFKNzdldTlaYU44OV9xVU9MWklyQWxTRUYzbUtaLVE?oc=5",
-          "published": "Fri, 25 Sep 2026 06:33:24 GMT",
-          "summary": "Your AI Context Is Becoming a Second CRM. Govern It Like One.&nbsp;&nbsp;HackerNoon"
-        },
-        {
-          "title": "2 Large-Cap Stocks with Exciting Potential and 1 Facing Headwinds - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaFJTNklIS1JWVURZRW5yZTBVaGl1RzdVQ3V3VUwzWVhuUmlTRzFIWVhtc1pES0xZVlJ3Q19nT0FZcUI4Z3JEeTNuLUlSbFI5QmZIV3dtWFNxUmZiUzdVd0ZpZUVZYTdjckttQ0RGOXpMRVlJVkdtZ1UySDdzaVdwU2lXNmJ4amlnVFp0SlZHbXFCcWVuNndBNTl1MkIyTWx4bGFuMXNPVS1QZDAxQjFfV1lPS2szT3B6eE41V1B5WExHRjB2LTE3M1dJa0JoYUNQX2xDMXAzaVpNTE1iT24yZ1phaw?oc=5",
-          "published": "Fri, 25 Sep 2026 04:40:00 GMT",
-          "summary": "2 Large-Cap Stocks with Exciting Potential and 1 Facing Headwinds&nbsp;&nbsp;The Globe and Mail"
-        },
-        {
-          "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing - The Register",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0k0V0M4S0NlZEFOTjBDWmppTTlFY25pN01OMU1SSUU3WTFJQTN1YVpCVVk3TjNxci1NNDctNWd5WnJGcHVlLWp2MjE0cFZfdld6RHVlZURNQl9CR1RqVmZwcWtQSjF0VXQ0ajFFazItS2ZwbWRDQjJkN2NMOUgyMmlsaWlaWHd2eU1YaG9wcndhR1lJUG1BM3JpRExCMVhmSEdrZUFLZHA2SE5FckNJb3N0aWEtSHE4RHJaRlJldVJxNWN0ZF9BMFEyQ3BxQQ?oc=5",
-          "published": "Thu, 24 Sep 2026 19:01:15 GMT",
-          "summary": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing&nbsp;&nbsp;The Register"
-        },
-        {
-          "title": "What Is Salesforce No Longer Telling You? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnhMSmplQmJHRl9xSE1WT2JNUDA3N1MwZUNiYmhUTkJBZFBreWRnc1ZLODNCZlFsQTQybVhYR2pYMWZxaEo4NXVyZDJlX2xfVXh4eS1lWXpCcVVMRWRaZjdvbjY2TE41T2dWRE12akxkZkJZMWY2WEhVd3FyNXpFWDlfM3FoeUw4UDhSMEtRT1d0LUtrQkd0VVlMWVBaeUVvbWc?oc=5",
-          "published": "Thu, 24 Sep 2026 18:35:39 GMT",
-          "summary": "What Is Salesforce No Longer Telling You?&nbsp;&nbsp;Trefis"
         }
       ]
     },
@@ -623,10 +368,10 @@
       "name": "\"\"Contact Center\" or \"contact centre\" or \"CCaaS\"\" - Google News",
       "items": [
         {
-          "title": "Contact Center Industry Reports: What Does 2026 Have in Store for CX? - cxtoday.com",
+          "title": "Contact Center Industry Reports: What Does 2026 Have in Store for CX? - CX Today",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SMkxVdzlfdnFQRk9uUkhmd0U1SS12VTFmRVBCa3hYQVR3eUNTOTNKenRPNFVEd2RNdWg5a0lpTkw0TGo1UE16NmwtbzlQcVd5T1ZaUmF1MXFfQjVxSVVwYnhVVlVfZ3N0ZVc0eg?oc=5",
           "published": "Fri, 25 Sep 2026 17:35:56 GMT",
-          "summary": "Contact Center Industry Reports: What Does 2026 Have in Store for CX?&nbsp;&nbsp;cxtoday.com"
+          "summary": "Contact Center Industry Reports: What Does 2026 Have in Store for CX?&nbsp;&nbsp;CX Today"
         }
       ]
     },
@@ -681,24 +426,6 @@
           "link": "https://futurumgroup.com/insights/project-suncatcher-prepares-to-launch-tpus-is-google-ahead-in-the-orbital-ai-race/?utm_source=rss&utm_medium=rss&utm_campaign=project-suncatcher-prepares-to-launch-tpus-is-google-ahead-in-the-orbital-ai-race",
           "published": "Fri, 25 Sep 2026 18:33:01 +0000",
           "summary": "The post Project Suncatcher Prepares to Launch TPUs. Is Google Ahead in the Orbital AI Race? appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, examines Google's Project Suncatcher launch and whether orbital data centers can reach cost parity with terrestrial AI infrastructure by the mid-2030s.\nThe post Project Suncatcher Prepares to Launch TPUs. Is Google Ahead in the Orbital AI Race? appeared first on Futurum."
-        },
-        {
-          "title": "SAP Links AI Agents to Business Processes and Oversight",
-          "link": "https://futurumgroup.com/insights/sap-links-ai-agents-to-business-processes-and-oversight/?utm_source=rss&utm_medium=rss&utm_campaign=sap-links-ai-agents-to-business-processes-and-oversight",
-          "published": "Thu, 24 Sep 2026 19:41:33 +0000",
-          "summary": "The post SAP Links AI Agents to Business Processes and Oversight appeared first on Futurum.\nKeith Kirkpatrick, Research Director at Futurum, shares insights on SAP’s tools for governing AI agents, supporting employee adoption, and measuring business outcomes.\nThe post SAP Links AI Agents to Business Processes and Oversight appeared first on Futurum."
-        },
-        {
-          "title": "Marvell’s 2nm Optics Target AI Scale-Up Beyond the Rack",
-          "link": "https://futurumgroup.com/insights/marvells-2nm-optics-target-ai-scale-up-beyond-the-rack/?utm_source=rss&utm_medium=rss&utm_campaign=marvells-2nm-optics-target-ai-scale-up-beyond-the-rack",
-          "published": "Thu, 24 Sep 2026 19:26:12 +0000",
-          "summary": "The post Marvell’s 2nm Optics Target AI Scale-Up Beyond the Rack appeared first on Futurum.\nBrendan Burke, Research Director at The Futurum Group, positions Marvell’s 2nm optics against the scale-up needs defined at AI Infra Summit and rival moves from Coherent and Broadcom.\nThe post Marvell’s 2nm Optics Target AI Scale-Up Beyond the Rack appeared first on Futurum."
-        },
-        {
-          "title": "TSMC's OIP Forum Turns Agentic Chip Design Demos Into Production Flows",
-          "link": "https://futurumgroup.com/insights/tsmcs-oip-forum-turns-agentic-chip-design-demos-into-production-flows/?utm_source=rss&utm_medium=rss&utm_campaign=tsmcs-oip-forum-turns-agentic-chip-design-demos-into-production-flows",
-          "published": "Thu, 24 Sep 2026 19:02:53 +0000",
-          "summary": "The post TSMC&#039;s OIP Forum Turns Agentic Chip Design Demos Into Production Flows appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, examines TSMC OIP 2026, where A14 certifications and foundry-endorsed agentic flows arrived together and IC-Link by imec opened the first managed-cloud mixed-partner EDA path to advanced nodes.\nThe post TSMC&#039;s OIP Forum Turns Agentic Chip Design Demos Into Production Flows appeared first on Futurum."
         }
       ]
     },
@@ -710,6 +437,18 @@
       "name": "Constellation Research",
       "items": [
         {
+          "title": "Enterprise AI projects mature: What you need to know now",
+          "link": "https://www.constellationr.com/insights/news/enterprise-ai-projects-mature-what-you-need-know-now",
+          "published": "Sun, 27 Sep 2026 10:00:00 +0000",
+          "summary": "Enterprise AI projects mature: What you need to know now \nLarry Dignan\nSun, 27 Sep 2026 - 03:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital trans"
+        },
+        {
+          "title": "Evidence Shows Enterprises Use of Open Weight Models is Mainstream",
+          "link": "https://www.constellationr.com/research/blog/evidence-shows-enterprises-use-open-weight-models-mainstream",
+          "published": "Sat, 26 Sep 2026 22:21:09 +0000",
+          "summary": "Evidence Shows Enterprises Use of Open Weight Models is Mainstream\nEsteban Kolsky\nSat, 26 Sep 2026 - 15:21\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Esteban\n   Kolsky\n\n                  Chief Distiller, Board Advisor\n  Constellation Research\n\n            \n            \n                Esteban Kolsky spent the first part of his professional career working on the customer service front line and in management roles, culminating in early implementati"
+        },
+        {
           "title": "TCS' Bajaj: Corporate structures will need to be rewritten due to AI",
           "link": "https://www.constellationr.com/insights/news/tcs-bajaj-corporate-structures-will-need-be-rewritten-due-ai",
           "published": "Fri, 25 Sep 2026 14:43:01 +0000",
@@ -720,12 +459,6 @@
           "link": "https://www.constellationr.com/insights/news/personal-ai-assistants-proliferate-and-so-will-governance-headaches",
           "published": "Fri, 25 Sep 2026 14:14:55 +0000",
           "summary": "Personal AI assistants to proliferate and so will the governance headaches\nLarry Dignan\nFri, 25 Sep 2026 - 07:14\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technolo"
-        },
-        {
-          "title": "Akamai lands big Anthropic deal valued up to $20 billion",
-          "link": "https://www.constellationr.com/insights/news/akamai-lands-big-anthropic-deal-valued-20-billion",
-          "published": "Thu, 24 Sep 2026 21:00:41 +0000",
-          "summary": "Akamai lands big Anthropic deal valued up to $20 billion\nLarry Dignan\nThu, 24 Sep 2026 - 14:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transf"
         }
       ]
     },
