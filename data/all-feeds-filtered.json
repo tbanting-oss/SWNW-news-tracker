@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:58:59.521282+00:00",
+  "generated_at": "2026-09-28T20:45:55.425396+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
   "feeds_with_errors": 5,
@@ -41,7 +41,14 @@
     },
     {
       "name": "Google Alert - Cisco Webex",
-      "items": []
+      "items": [
+        {
+          "title": "Remote work is finally ending as the pandemic era fades - The Globe and Mail",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theglobeandmail.com/business/commentary/article-remote-work-is-finally-ending-as-the-pandemic-era-fades/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1vwfY5vuF7flgd9-R52Bx3",
+          "published": "2026-09-28T16:31:22Z",
+          "summary": "Microsoft Teams, Cisco's Webex and Zoom became the novel and essential tools of work during the pandemic. “You're on mute” was a running joke on&nbsp;..."
+        }
+      ]
     },
     {
       "name": "CX Today",
@@ -67,6 +74,18 @@
           "link": "https://www.nojitter.com/events/icmi-contact-center-expo",
           "published": "",
           "summary": ""
+        },
+        {
+          "title": "6 reasons organizations should look out for shadow AI use",
+          "link": "https://www.nojitter.com/ai-automation/6-reasons-organizations-should-look-out-for-shadow-ai-use",
+          "published": "Mon, 28 Sep 2026 14:17:37 GMT",
+          "summary": "Unsanctioned AI use can lead to data leaks, alongside security and compliance issues, requiring organizations to have the proper governance in place."
+        },
+        {
+          "title": "Frontline knowledge is the missing data layer for enterprise AI",
+          "link": "https://www.nojitter.com/data-management/frontline-knowledge-is-the-missing-data-layer-for-enterprise-ai",
+          "published": "Mon, 28 Sep 2026 14:13:22 GMT",
+          "summary": "While transcripts and operational records show what happened, the harder challenge is capturing why an employee recognized a risk data failed to reveal."
         }
       ]
     },
@@ -77,6 +96,12 @@
     {
       "name": "UC Today",
       "items": [
+        {
+          "title": "Automation This Week: Agentic AI Is Clocking In for Business - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJTXlRLWxnbE1uT1pweXYzUGJ6bnE3RGZhcVd3aFhpSUJSRkplVUc4dTdHeXl6N2V3Q09pZmNpTFVpaXAwM2JhLVZOcTY3VEpsb2FoVDg2Z3g4MlFDVUU0SWpUUXFuLTNBQ2JadGZoNkFieFF2bGtR?oc=5",
+          "published": "Mon, 28 Sep 2026 14:04:53 GMT",
+          "summary": "Automation This Week: Agentic AI Is Clocking In for Business&nbsp;&nbsp;UC Today"
+        },
         {
           "title": "Zoom's Linda Lian on Replacing the Sales Frankenstack - UC Today",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iR3BfbExfUVhBWUtBenVJWGFZMnhYUEVaR0VabWowSDNhNi10MFZrRFFYblVValB4ZllVTDNEMU5YdkdMcWxYZjVCUEFTSWVfTXQ3QkN6ZWZuT09qdVE3cXc3QTRRUkw1eFE2cTdRSzJVT0U0YUxnOW5MamY?oc=5",
@@ -101,11 +126,91 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": []
+      "items": [
+        {
+          "title": "Comcast Business Brings Last-Mile Ethernet to Equinix Fabric",
+          "link": "https://telecomreseller.com/2026/09/28/comcast-business-brings-last-mile-ethernet-to-equinix-fabric/",
+          "published": "Mon, 28 Sep 2026 19:42:23 +0000",
+          "summary": "By: Moshe Beauford, Editor Comcast Business is adding its last-mile Ethernet network to Equinix Fabric, allowing eligible customers to check availability, get pricing and place orders through APIs. The integration [...]\nThe post Comcast Business Brings Last-Mile Ethernet to Equinix Fabric appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&A Wave",
+          "link": "https://telecomreseller.com/2026/09/28/ookla-finds-500-fiber-isps-as-u-s-market-heads-into-ma-wave/",
+          "published": "Mon, 28 Sep 2026 19:30:35 +0000",
+          "summary": "By: Moshe Beauford, Editor The U.S. fiber market is getting more crowded, with Ookla identifying roughly 500 providers showing characteristics of fiber networks in the first half of 2026. The [...]\nThe post Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&#038;A Wave appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026",
+          "link": "https://telecomreseller.com/2026/09/28/other-world-computing-owc-to-showcase-unparalleled-roster-of-memory-cards-and-readers-storage-and-connectivity-innovations-at-cabsat-2026/",
+          "published": "Mon, 28 Sep 2026 19:16:39 +0000",
+          "summary": "Attendees from Across the Middle East, Africa, and South Asia to See How OWC Solutions Streamline Workflows for Filmmakers, Editors, DITs, Content Creators, and Other Media and Entertainment Professionals WOODSTOCK, [...]\nThe post Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026 appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/preshai-helps-msps-put-ai-to-work-inside-existing-business-processes-podcast/",
+          "published": "Mon, 28 Sep 2026 18:52:04 +0000",
+          "summary": "By Doug Green “AI is here. The challenge is figuring out how to actually put it into your business.” In this Technology Reseller News podcast recorded at MSP Summit, Paul [...]\nThe post PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/kongusto-helps-msps-turn-human-capital-into-a-competitive-advantage-podcast/",
+          "published": "Mon, 28 Sep 2026 18:25:42 +0000",
+          "summary": "By Doug Green “Technology is becoming a commodity. Your people don’t have to be.” In this Technology Reseller News podcast recorded at MSP Summit, Joel Ciniero of Kongusto discusses how [...]\nThe post Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "AppDirect Brings Soul Machines AI Avatars to Its Advisor Network",
+          "link": "https://telecomreseller.com/2026/09/28/appdirect-brings-soul-machines-ai-avatars-to-its-advisor-network/",
+          "published": "Mon, 28 Sep 2026 16:00:47 +0000",
+          "summary": "By: Moshe Beauford, Editor AppDirect is giving its advisors a new AI offering to sell and build services around with its acquisition of Soul Machines. Soul Machines has spent years [...]\nThe post AppDirect Brings Soul Machines AI Avatars to Its Advisor Network appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff.",
+          "link": "https://telecomreseller.com/2026/09/28/you-dont-manage-ai-voice-agents-like-software-you-manage-them-like-staff/",
+          "published": "Mon, 28 Sep 2026 14:36:58 +0000",
+          "summary": "By Bill (PhoneBill) McClain, UponAI There’s a Forbes piece making the rounds right now with a premise worth sitting with: AI agents are joining your team, and the skill that’s [...]\nThe post You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff. appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/xtium-builds-an-ai-native-msp-model-around-voice-governance-and-automation-podcast/",
+          "published": "Mon, 28 Sep 2026 13:30:47 +0000",
+          "summary": "By Doug Green “We’re not just building an AI MSP. We’re building an AI-native MSP.” In this special Technology Reseller News and Cloud Communications Alliance podcast, Byron Young, Chief Product [...]\nThe post XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/archematch-uses-ai-to-turn-institutional-knowledge-into-personalized-training-podcast/",
+          "published": "Mon, 28 Sep 2026 13:00:30 +0000",
+          "summary": "By Doug Green “The wisdom of the company can become perpetual.” In this Technology Reseller News podcast, Gary Sinderbrand of ArcheMatch discusses how the company is using AI to capture [...]\nThe post ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        }
+      ]
     },
     {
       "name": "CMSWire.com - All News",
-      "items": []
+      "items": [
+        {
+          "title": "Contentstack Adds AI Metadata & Dedup to DAM Assets",
+          "link": "https://www.cmswire.com/digital-experience/contentstack-adds-ai-metadata-dedup-to-dam-assets/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Mon, 28 Sep 2026 15:43:38 -0500",
+          "summary": "New AI tagging, duplicate detection and self-service signup expand Contentstack&apos;s asset management reach to smaller teams.\nContinue reading..."
+        },
+        {
+          "title": "What Digital Agencies Learned After the Generative Experimentation Rush Ended",
+          "link": "https://www.cmswire.com/digital-experience/what-digital-agencies-learned-after-the-generative-experimentation-rush-ended/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Mon, 28 Sep 2026 15:08:58 -0500",
+          "summary": "Agencies that rushed into generative experimentation are learning the hard way that token burn is not progress. Here is what disciplined deployment looks like.\nContinue reading..."
+        },
+        {
+          "title": "How 1 Company Earned an 11-Point NPS Jump by Bringing Frontline Teams Along",
+          "link": "https://www.cmswire.com/customer-experience/how-1-company-earned-an-11-point-nps-jump-by-bringing-frontline-teams-along/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Mon, 28 Sep 2026 11:42:04 -0500",
+          "summary": "Fewer status calls, higher NPS, an extra hour a day for adjusters: what happens when carriers bring employees along before layering in new tools.\nContinue reading..."
+        },
+        {
+          "title": "Why the Future of Marketing is Agentic (and Human)",
+          "link": "https://www.cmswire.com/customer-experience/why-the-future-of-marketing-is-agentic-and-human/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Mon, 28 Sep 2026 10:13:28 -0500",
+          "summary": "Martech fragmentation wastes AI investment. Ibexa champions orchestration — humans overseeing agents on open, integrated platforms.\nContinue reading..."
+        }
+      ]
     },
     {
       "name": "Industry News – CPaaSAA",
@@ -131,10 +236,34 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
-          "title": "iCXeed Announces Key Leadership Appointments to Accelerate Cognitive Customer Experience Innovation on AWS - Newswire.com",
+          "title": "The New CX Today Is Live — Grab Your Founding Handle Before It's Gone - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXFKc1RMOTJWYVg2dHF0TkpzMjZ0NUw3MjRINlJCU0x6eGItbFlIckxhU0x0ZVhFeExDSlVQajNfMFQwWERuNTg5N0hwUkh0Wk4zZUQ1azRoUlRaS1EyTE9IMEI2a0tiS3pwekFCeERBazVsUjNueUZRZUdmOG5TZUdlTGpjYnJ4TUEwWnk3RQ?oc=5",
+          "published": "Mon, 28 Sep 2026 17:31:31 GMT",
+          "summary": "The New CX Today Is Live — Grab Your Founding Handle Before It's Gone&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "Employee Experience Is the New WFM Battleground - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkNV9Ha0VZUDFtZFNUUW9TUm1zd0lhWXJCeW1uaThDM0Y4NXc0LU1wN25fY1JLLUJDRC1ucnJPVTV6MXZrektwcE1lbWo3Y2daanBlLXNMaFBIcURHY0dFX2ZnMGlscE9zZ1RxYWVuaWRILVJ2NHc?oc=5",
+          "published": "Mon, 28 Sep 2026 17:26:25 GMT",
+          "summary": "Employee Experience Is the New WFM Battleground&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "The CRM workflow gap holding back customer experience - customerexperiencedive.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
+          "published": "Mon, 28 Sep 2026 13:43:18 GMT",
+          "summary": "The CRM workflow gap holding back customer experience&nbsp;&nbsp;customerexperiencedive.com"
+        },
+        {
+          "title": "iCXeed Announces Key Leadership Appointments to Accelerate Cognitive Customer Experience Innovation on AWS - newswire.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1wQzBiWXJnbHlhblNzUmQ4dGpiODk2dnB2NzRLRURvTWRYZHRhc29UTDlENVdQRmdaV2V2al8xX2FnRUpYd3hVU3NXUjN2bDRuU2NDcDJDQncwcGlyS0VRaXlqYkRxRUJYU3ZFcGludFJTSDQzN1gxa1Blc0RiTnVlWHFXck1KbGNzZmpMWWc0QjhteHBnaG1DRHI5ZlNVajNabkxqX1dIbnc?oc=5",
           "published": "Sun, 27 Sep 2026 22:00:00 GMT",
-          "summary": "iCXeed Announces Key Leadership Appointments to Accelerate Cognitive Customer Experience Innovation on AWS&nbsp;&nbsp;Newswire.com"
+          "summary": "iCXeed Announces Key Leadership Appointments to Accelerate Cognitive Customer Experience Innovation on AWS&nbsp;&nbsp;newswire.com"
+        },
+        {
+          "title": "Big CX Update: How Tata Communications Is Transforming Customer Interactions with AI - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXYzUHZpWTRwYnNYTDRkQjhQZWhrOHlONkJHbjlVd21nTGI4YkotQk5PV0xReXpBWEQ4OTJWT1l5RFVPMDJFaGtnRUpNamZwNkEyeWc1OEVMZWJYaE93aHVuVE93SVJDRnFma1U2c1ZoZG0xeFB6UDhnYk82T1dieWNZbDdxRjc0dWtUX3FGMnRYUUp2eUgwZmgxLXYwNXdqMXhUQnVvVnE2RUZFRkZMcQ?oc=5",
+          "published": "Sun, 27 Sep 2026 07:07:02 GMT",
+          "summary": "Big CX Update: How Tata Communications Is Transforming Customer Interactions with AI&nbsp;&nbsp;CX Today"
         },
         {
           "title": "Why Forrester Believes Employee Experience Drives Better Customer Outcomes - CX Today",
@@ -143,16 +272,10 @@
           "summary": "Why Forrester Believes Employee Experience Drives Better Customer Outcomes&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "How to Embed Customer Experience Thinking - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MMUEwOGJUa0pXTlRvZ0hJRmtWQndwb1NIVmh6a2tDZmJ6LW9ZeEFxb3JJUGJNcjZvU0J2V2RMS0xZYTQyYVVaUWVLTFYzaFRpNVpUTV9XR1FPWEZQaW11ZzNSVEZ2ckZxaFdpeTR3WF9oNWp6?oc=5",
-          "published": "Sat, 26 Sep 2026 20:05:48 GMT",
-          "summary": "How to Embed Customer Experience Thinking&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "How Do You Build a Predictive CX Strategy With AI - And Why Do Most Companies Get It Wrong? - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15YjZUNWF4czRUNGE0ZUc3S05mY1FXTGs3VGI5TlRvbVQ4VWJNN0p3end5N3NnV2N0TENTVUp6V3JfUjhCblMwemtuM3hiQzktWTcxTng0SE5Rdw?oc=5",
-          "published": "Sat, 26 Sep 2026 13:03:24 GMT",
-          "summary": "How Do You Build a Predictive CX Strategy With AI - And Why Do Most Companies Get It Wrong?&nbsp;&nbsp;CX Today"
+          "title": "ServiceNow’s CX Shift Study Exposes a Hard Truth About AI and Customer Experience - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0pvdUU5QkRpNmtrMzFIclFYYlY0dmlkWVg1blNfR2FfLWRtSC1iUERKTXF0Y254aklYNWE1ank0eXd4NElOVU1YX1hmWDFWZUVZbkhsN1RDYXBOQzVWQ2ZKUkhBVWpmVW5Eb0RSWGpLMUM1TGpaSEsybEg0VDE1WDcxODR5ejFnR0pHcm9qU2ZxU2lYZS15U3lxNHBIbndwdmc?oc=5",
+          "published": "Sat, 26 Sep 2026 22:26:48 GMT",
+          "summary": "ServiceNow’s CX Shift Study Exposes a Hard Truth About AI and Customer Experience&nbsp;&nbsp;CX Today"
         }
       ]
     },
@@ -160,10 +283,100 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
-          "title": "Salesforce Agentforce Bugs Exposed Wider AI Agent Risk, Research Finds - digit.fyi",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDlrVUkzdTk2UllibEx2NlVrU3UtZ2F5Y0NxM1JRLUJyejRlamtuNWFHVVl0MERFRlpHaGpUUHhhNHJaSWwtM2I4eEJRSnh6UFVISDVaRTJnd1d5QVZYN3FGVGFfVVBmV0ZxMGhzUTlzc2p3bS1rY2hrMG10SWRnRU9WVzR4SGp5YmY0dTJEcEVFZU9nOFNB?oc=5",
-          "published": "Mon, 28 Sep 2026 10:49:44 GMT",
-          "summary": "Salesforce Agentforce Bugs Exposed Wider AI Agent Risk, Research Finds&nbsp;&nbsp;digit.fyi"
+          "title": "6 key Dreamforce 2026 takeaways for the GTM tech stack - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSk5MN2tQSlVTMEFIc1dCZTdMajJBM19vV0lwenYxa2xVRWlUM2p2TmVqQnJCaUNraEY4RkJfcGkxOWd5TVFXLUFWUjd0cXZNT3lIX200WHUyaXh2THVDNUZmeERZNUl3ZmZOMEpINm5qUHNMOUpwQWNSRFJhS29jYg?oc=5",
+          "published": "Mon, 28 Sep 2026 18:00:04 GMT",
+          "summary": "6 key Dreamforce 2026 takeaways for the GTM tech stack&nbsp;&nbsp;AOL.com"
+        },
+        {
+          "title": "Is Salesforce (NYSE:CRM) Turning Agentic AI Into Real Recurring Revenue? - Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGxBT3Rkb1lXLUdmd3Rsb2RHWlFwbkI5aUFtZjctV3hWRUxBTl9fYlpHMTVaMWwxVklOaGZuTzRNVXdMckNyMnJPMmdnM2kxZ1htNTdmRDZMakc0c3pjY0NRWFBsSkt1STduQmg1WmNwNzk2b2h0OThPRlVHV0hYak1HUk5FWWV2MmY2RjE1UFMxM2pxbi1mT1paV0VURUtaN1ZfS0RKUTJZM2dFUUtSNVJEbGw?oc=5",
+          "published": "Mon, 28 Sep 2026 17:43:00 GMT",
+          "summary": "Is Salesforce (NYSE:CRM) Turning Agentic AI Into Real Recurring Revenue?&nbsp;&nbsp;Kalkine Media"
+        },
+        {
+          "title": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy. - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnFKVzdIVHZEamFVTTVkSWRRcy1QdmRjZklLd0hWblY4NDN4Q0wzajBhQUN4bTVwN2tzRmJ1eU1FbjZDMnh0WVZnQ3JiQ2thQXZiRlZTcWtVd29iUS1DYU5nSkZaNWxFTDFOMGxwckllc3dwWTdpZjZtVlhpR0o2SEZlSERlX2VPWmpFNlVMNA?oc=5",
+          "published": "Mon, 28 Sep 2026 17:30:24 GMT",
+          "summary": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy.&nbsp;&nbsp;AOL.com"
+        },
+        {
+          "title": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy. - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGpLYzdGRWw0M2J4djNscWZSRmRveVhsVDFfQXRrMEt0a1ZNenNXYnpwSjVlRFRrLVNpTVlfTU1BRHlieUtDUW52LWxWeG40bXN6d3pUUW5yWkZvVHV0RDdnR29FRXM3VWZkMUE0ODJwZGcxVnJYc3BPVnNGdTZYc0ZpaHo0TW43elAzYmluS0pwWmdIcFVkekx4RGxyVUVUaWx5dmp1cTR4b3g4YjR5eTdiV3RCdw?oc=5",
+          "published": "Mon, 28 Sep 2026 17:30:00 GMT",
+          "summary": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy.&nbsp;&nbsp;24/7 Wall St."
+        },
+        {
+          "title": "Aquapio Launches CRM Platform for Manufactured Home Sales Professionals - citybiz",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMklmN0hldFNZb3hsTVNHQTNzOWlfV1NBdWdHQTFIWUFzbHYzWHRqYmo4NW1MME05U1dRNWN0ajA0a2JoNDVKd3o5YTdiV1JNbF9mTDRmMGdoLWFyQ0lQYnRZUGczNnFjZGhRMXMxZWhwa2REUl8yZjlkUnFaaXcwS1A2R0xwZXVXbEJXcmllckNXSkdDbVNNUXI4a3pOSWJKOGM1UjNzVHdSQnEyeDVj?oc=5",
+          "published": "Mon, 28 Sep 2026 17:03:45 GMT",
+          "summary": "Aquapio Launches CRM Platform for Manufactured Home Sales Professionals&nbsp;&nbsp;citybiz"
+        },
+        {
+          "title": "Bapu Rao Srigadde - Building the Human Side of Technology - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWNjWEhPZGF5QmZJOVh6QXJqclBEUHdCd2hnYnRKNUluY1ZfSWoxeWZSa2M5dlg2XzFpRVY1VmxSTlBydXNvNHRDMjBicERzMktMeVpHOHpVUHRXZTlheEJiODA0NDVobklsOFZzR0tVWjdaNDRPbER2dVBSSldDRU5DTm1JNnc3cUc2N3cwT0RRS3RSTFljUQ?oc=5",
+          "published": "Mon, 28 Sep 2026 16:45:00 GMT",
+          "summary": "Bapu Rao Srigadde - Building the Human Side of Technology&nbsp;&nbsp;Yahoo Finance"
+        },
+        {
+          "title": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNW5SOFNGS3Vnbl81TTlNV1BpZnpNWWJEaWpyQ3V3OFY3N0ZMbUpjOHVJaEJDUkIwbUdmUF9INExiMVh1SnBEWHQybERLZ0M3T1Q5S3cxYmNadV9QczFXOGZVSzRhSHFzeEp1QkZoSnFCdzVLZy1WSTRGUlBIcjJLX2U2OXBsQWRrX1lBaWo3UFFjMUtFSWZWSklCdk9Hdw?oc=5",
+          "published": "Mon, 28 Sep 2026 16:07:54 GMT",
+          "summary": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches?&nbsp;&nbsp;Yahoo Finance"
+        },
+        {
+          "title": "Salesforce Takes 5 Huge Steps Forward at Dreamforce - cloudwars.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdrT2VNODlpQURVMUJtcXJGelM3M09OajU3WENlNXZlZGtCcEdUbmFUZTNUYkI2U0lNR3Bna2xyRHNpZ0ZHaHlpOTRNb2pCZFRvUFpuZ01GV1c1akVBUWdzWTd2dHAxU2x2UnlDZDlra2o0aktKNVlnZ0R1eUZlNUlodw?oc=5",
+          "published": "Mon, 28 Sep 2026 15:00:00 GMT",
+          "summary": "Salesforce Takes 5 Huge Steps Forward at Dreamforce&nbsp;&nbsp;cloudwars.com"
+        },
+        {
+          "title": "Title – Salesforce Expert Bapu Rao Srigadde on Human-Centered CRM Solutions - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTE9fWC1rY1pMQVVidlRhd1oxenpmaW12emFiTW9iQnVta2x2RGQxQnY0Zmdoek0tb1lheHlVM0RBc0JRUVZZMHpFbnRRUDlqX2JfQ3J4X2hlZWp0VlY3TjQzNUMtTnc2dzBxeEx6cUNXU1FHbWVQVjdUS2ZBQ29Tc1RiUU1wQUhWSWdPV09haEVkSW9hcGNjdGZDN3NRVEk?oc=5",
+          "published": "Mon, 28 Sep 2026 14:34:08 GMT",
+          "summary": "Title – Salesforce Expert Bapu Rao Srigadde on Human-Centered CRM Solutions&nbsp;&nbsp;TechBullion"
+        },
+        {
+          "title": "10 Salesforce Solution Providers Reshaping CRM In The AI Era - crn.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlhGR0V3NTAtSFpQdXhfR0VmdU9ZeDQ1Wks2Z2V3d0ExcTRlZWxvc3d3ZmZTSEJXNW1ESWRyZGRIdGxoR1lYamo4TmZ5TUEyTUVuS1BHekZSb1R2aWJ5aGFiQk12UnpUQ2lvajByaUh0ZlNqVEtFdGZLSXRzRTF6Mmw0ZFpzUWxYWV80SVFhU2VhcFNsZ3A4Uw?oc=5",
+          "published": "Mon, 28 Sep 2026 14:00:00 GMT",
+          "summary": "10 Salesforce Solution Providers Reshaping CRM In The AI Era&nbsp;&nbsp;crn.com"
+        },
+        {
+          "title": "The CRM workflow gap holding back customer experience - customerexperiencedive.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
+          "published": "Mon, 28 Sep 2026 13:43:18 GMT",
+          "summary": "The CRM workflow gap holding back customer experience&nbsp;&nbsp;customerexperiencedive.com"
+        },
+        {
+          "title": "Aquapio Launches All-in-One CRM Built for Manufactured Home Dealers, Brokers and Agents - EIN News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3MxY191bnE2X1Y2TS1OR20yQ01uVUVPS3RFZWpIeGFZNURsOFE3ZUZLYnd1THpEOUNqbjE0U0VxbmVKZXFkSktfNHB0Z2VJR1FyQlYtTmhxazgzZHYzVHliMlZoMjdIU3NualVva2toSnRtU194em9weXc2ek1YSXk4QUtGeXc2Tmt3QWNhQVNQdUpocWJGX1d5bFdNczBKNkcxMUw1c21pdWVGaHE4aEV6aU02WWx6YmRBZURCSUVvMlRIN29v?oc=5",
+          "published": "Mon, 28 Sep 2026 13:00:00 GMT",
+          "summary": "Aquapio Launches All-in-One CRM Built for Manufactured Home Dealers, Brokers and Agents&nbsp;&nbsp;EIN News"
+        },
+        {
+          "title": "CRM Software 2026: Best Tools, Features, Costs & Comparison - Tycoonstory Media",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QM0djc2VlY3pjMlBiUEtmNWJuSFJyeVJTcWEzZlp2R1dhbXQ2VEVCSU15NWE5UjlQSkRkaGliY0MwcnZmNUFZdEN5NVpSOFBUTDI0?oc=5",
+          "published": "Mon, 28 Sep 2026 12:12:46 GMT",
+          "summary": "CRM Software 2026: Best Tools, Features, Costs & Comparison&nbsp;&nbsp;Tycoonstory Media"
+        },
+        {
+          "title": "Salesforce stock falls 1.76 percent as analysts lift targets - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazdiUzBNZHpWcURncVVsLWphald3UG5XRzhfYTBWbEtsbXE1d0RjbUR2LWV1Yk1ZbnZUM1RrTmtFMi1VcHVuODRnZ0RaYXp2QWN5OHFlTi1UMFFwakNmMDdrRGNiMndVY3pXeWVVVzhKOHBCVFZWRnhwMzgzUGIxWklEMUVZUU4wTEhneTgweDY5UGtOekg4NzIwQWFXTDJRZFk3bS1JUzRuYVBvZmNkWXJzWDJ1eG9mdHdMUlNVLXA?oc=5",
+          "published": "Mon, 28 Sep 2026 11:43:31 GMT",
+          "summary": "Salesforce stock falls 1.76 percent as analysts lift targets&nbsp;&nbsp;AD HOC NEWS"
+        },
+        {
+          "title": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234 - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxIRVdfZnBUVFQzazctTkc1aTVSdDVRZ3FFNW5GRF9rRF9mVS1Kb3ZGakJiTE50WlQ3dTdCT21KZHo4eXlXVjRkMWhnZVNTdmJXVkxwMkU5ZEotdmdEdTdRZlVVc25FSWFhMmQxS3NmWDh0S3Rsc1V6S1A5alZ6SG1QeWdNVXdCdzl6aFlhc0M4UQ?oc=5",
+          "published": "Mon, 28 Sep 2026 11:32:48 GMT",
+          "summary": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234&nbsp;&nbsp;GuruFocus"
+        },
+        {
+          "title": "Oracle vs. Salesforce: Which Enterprise AI Stock Has More Room to Run? - fool.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkFhYTZST19oTUJYZWtjbXBIaGdHZTV3MXl3MUl4MU9yX3poUHpqUENMa19YcVlIXzJGWWozbk1QVGdBN1E2cWZjbjJiTElzdjdSZkdoWk1BQ0xMM1FKTDNWT2pROTc5dHFUb3E4R0FsSU9YcjE1NGstUE1tcmNCQ19tQlB2YWowTHZ4YVZYdGpBQjNpSE16MQ?oc=5",
+          "published": "Mon, 28 Sep 2026 10:20:00 GMT",
+          "summary": "Oracle vs. Salesforce: Which Enterprise AI Stock Has More Room to Run?&nbsp;&nbsp;fool.com"
         },
         {
           "title": "Oracle vs. Salesforce: Which Enterprise AI Stock Has More Room to Run? - The Globe and Mail",
@@ -172,10 +385,16 @@
           "summary": "Oracle vs. Salesforce: Which Enterprise AI Stock Has More Room to Run?&nbsp;&nbsp;The Globe and Mail"
         },
         {
-          "title": "Salesforce vs. Palantir Technologies: What Revenue Trends Reveal to Investors About These Tech Giants - The Motley Fool",
+          "title": "JobNimbus, RepCard Launch Two-Way Sales Integration - Roofing Contractor",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUhqWkVvUXlZbzltTzhOcGRnRmhXemZSWEJkSUc4NDY3cjBmVlFFczZlZ0JhczctMTU4UmRMTDNsUUpvbl9oNXNiU1lXS2dTQVNtdjFRYkJGVHVjaUdOYnVvdGVrb2dodFk4aEZjU19YbFF0bDAwUGstUEY5Ym44b0JYUmJOclNRQkdqVnAxVV9XMkRVSkg5Rlh2RmdNcjRIclE?oc=5",
+          "published": "Mon, 28 Sep 2026 04:29:26 GMT",
+          "summary": "JobNimbus, RepCard Launch Two-Way Sales Integration&nbsp;&nbsp;Roofing Contractor"
+        },
+        {
+          "title": "Salesforce vs. Palantir Technologies: What Revenue Trends Reveal to Investors About These Tech Giants - fool.com",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVoybmh0c1d4VTRXXy1sMEFMSnFOQ1RaVC16dGMwQ1dfSUFxQ251MEVnM0hsazRPMDJwU2pOd2FkeGxYb3haQTFnVnJNQVdFbDFrTWc4MGVxa0lGYVVwUGZjRmFPOWtMZGdYb1B6S05hcmt5RU04T2kyZ3Joa1N1YzBHdEtUTi1wWVM4X1dWNUtYbTAzN0FPdjNhWVNhV1M4N1pfaE9ycWJOTkprT1NWZG9YTFJtSnllc0k5RW9LQjVmNlpVSU5aV3VYSDQ1a0dFeW1BMnFEek9QTm5JRWp4WUVR?oc=5",
           "published": "Mon, 28 Sep 2026 00:15:00 GMT",
-          "summary": "Salesforce vs. Palantir Technologies: What Revenue Trends Reveal to Investors About These Tech Giants&nbsp;&nbsp;The Motley Fool"
+          "summary": "Salesforce vs. Palantir Technologies: What Revenue Trends Reveal to Investors About These Tech Giants&nbsp;&nbsp;fool.com"
         },
         {
           "title": "Bapu Rao Srigadde - Driving Innovation in Enterprise CRM Ecosystems - ACCESS Newswire",
@@ -188,18 +407,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR2FPQlRzb3JDMGhnTXJLakR3TVRRNkpFTThkTk5NdjlMcHZUZWF1Y0YxV09NakZhTVU1bjNaeEUyOTVUd0lSaEdVLUkzSWRaZno3ZWQ2VDhmUURVMFp0azB3SjFvZDdkZUtDd2kzeW51UU1QMFJfVWxfa1dwNm9DbXZJX2Rrc21Xd0pVeFlCaWs3amxJaUE2dF82dmN2S0NmVnBmTERiMGNHQzc2X2lCb2Y2UVcwNWxPa1NBRkllYU1qSGNldTdzVjJGTmxtZ3VXMlVmMWQyVjVFOUViR3VOVEZIQ2RoSi1KMmpFZmx0QXhoRnB0WktnQ296RFNqdW9pT04xbU5PbWlBeU0?oc=5",
           "published": "Sun, 27 Sep 2026 13:05:00 GMT",
           "summary": "Bapu Rao Srigadde - Driving Innovation in Enterprise CRM Ecosystems&nbsp;&nbsp;lincolnjournal.com"
-        },
-        {
-          "title": "Insider trades: Nvidia, Oracle, Salesforce among notable names (CRM:NYSE) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcVAxa2o0ODk1T2R4RG1FeW93R2x6SFdaMkVpRjM0V0E0ZnNORzJYcE8tNndoUTYtaXptcmdkZUU5UGVSaFlpTzJTZzBjYnFiNnkxT0ZOUUNlYWR3bmpuRTVKTnV3UGJFdzRMcUpBNGVkUWQ1bUJWallKR2hQdk1EUF9zenowczlETWZoZHJHUTBzUkJVUUtzcUhSN3RDQQ?oc=5",
-          "published": "Sat, 26 Sep 2026 15:03:32 GMT",
-          "summary": "Insider trades: Nvidia, Oracle, Salesforce among notable names (CRM:NYSE)&nbsp;&nbsp;Seeking Alpha"
-        },
-        {
-          "title": "SalesBleed: 3 Flaws Hijack Salesforce AI Agents [2026] - shattered.io",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYzgwb0IyNURCaHpkYWQtbFVpN01lWEVmVFp1ZENJaDZXdkRQLTQ2cFpwYUFtLUhEV3BreE5ZTHFiVzR3Tm1vQnE5Z0w0cGUwWFA2eVMtWFp1NFZKTDV2NUdldXZlck83ckRUT2hLLXZ5TzBqanc?oc=5",
-          "published": "Sat, 26 Sep 2026 14:17:51 GMT",
-          "summary": "SalesBleed: 3 Flaws Hijack Salesforce AI Agents [2026]&nbsp;&nbsp;shattered.io"
         }
       ]
     },
@@ -223,10 +430,40 @@
       "name": "Futurum",
       "items": [
         {
-          "title": "WidePoint's DHS Contract Protest: Setback or Speed Bump?",
-          "link": "https://futurumgroup.com/insights/widepoints-dhs-contract-protest-setback-or-speed-bump/?utm_source=rss&utm_medium=rss&utm_campaign=widepoints-dhs-contract-protest-setback-or-speed-bump",
-          "published": "Sat, 26 Sep 2026 12:12:04 +0000",
-          "summary": "The post WidePoint&#039;s DHS Contract Protest: Setback or Speed Bump? appeared first on Futurum.\nThe GAO sustained TurningPoint Global Solutions' protest of WidePoint's DHS CWMS 3.0 contract award. Futurum Group analyzes whether this represents a major setback or routine federal contracting process, examining WidePoint's incumbent advantages.\nThe post WidePoint&#039;s DHS Contract Protest: Setback or Speed Bump? appeared first on Futurum."
+          "title": "RISC-V Soft Cores Go 64-Bit With Efinix Sapphire RV64",
+          "link": "https://futurumgroup.com/insights/risc-v-soft-cores-go-64-bit-with-efinix-sapphire-rv64/?utm_source=rss&utm_medium=rss&utm_campaign=risc-v-soft-cores-go-64-bit-with-efinix-sapphire-rv64",
+          "published": "Mon, 28 Sep 2026 16:06:04 +0000",
+          "summary": "The post RISC-V Soft Cores Go 64-Bit With Efinix Sapphire RV64 appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, shares insights on why the Efinix Sapphire RV64 makes the FPGA a 64-bit system processor for edge AI as robotics becomes the fastest-growing edge silicon destination.\nThe post RISC-V Soft Cores Go 64-Bit With Efinix Sapphire RV64 appeared first on Futurum."
+        },
+        {
+          "title": "Palo Alto Networks Bets Frontier AI Can Make Pentesting Continuous",
+          "link": "https://futurumgroup.com/insights/palo-alto-networks-bets-frontier-ai-can-make-pentesting-continuous/?utm_source=rss&utm_medium=rss&utm_campaign=palo-alto-networks-bets-frontier-ai-can-make-pentesting-continuous",
+          "published": "Mon, 28 Sep 2026 15:57:56 +0000",
+          "summary": "The post Palo Alto Networks Bets Frontier AI Can Make Pentesting Continuous appeared first on Futurum.\nFernando Montenegro, VP at Futurum, analyzes Palo Alto Networks' Unit 42 Continuous Frontier AI Defense, weighing gated model access, tier economics, and whether always-on AI testing closes exposures.\nThe post Palo Alto Networks Bets Frontier AI Can Make Pentesting Continuous appeared first on Futurum."
+        },
+        {
+          "title": "Cohesity Extends Cyber Resilience to the AI Agents Themselves",
+          "link": "https://futurumgroup.com/insights/cohesity-extends-cyber-resilience-to-the-ai-agents-themselves/?utm_source=rss&utm_medium=rss&utm_campaign=cohesity-extends-cyber-resilience-to-the-ai-agents-themselves",
+          "published": "Mon, 28 Sep 2026 15:39:39 +0000",
+          "summary": "The post Cohesity Extends Cyber Resilience to the AI Agents Themselves appeared first on Futurum.\nFernando Montenegro, VP at Futurum, analyzes Cohesity's Agent Resilience launch at Catalyst 2026, which brings backup and rollback to AI agents and ties recovery to business continuity.\nThe post Cohesity Extends Cyber Resilience to the AI Agents Themselves appeared first on Futurum."
+        },
+        {
+          "title": "Synopsys Autopilot Aims to Consolidate Chip Design Around One Stack",
+          "link": "https://futurumgroup.com/insights/synopsys-autopilot-aims-to-consolidate-chip-design-around-one-stack/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-autopilot-aims-to-consolidate-chip-design-around-one-stack",
+          "published": "Mon, 28 Sep 2026 14:45:08 +0000",
+          "summary": "The post Synopsys Autopilot Aims to Consolidate Chip Design Around One Stack appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, shares his insights on Synopsys Autopilot, why seven lifecycle-spanning AgentEngineer agents point toward one team designing every stage, and what that consolidation means for EDA consumption.\nThe post Synopsys Autopilot Aims to Consolidate Chip Design Around One Stack appeared first on Futurum."
+        },
+        {
+          "title": "SAP Closes the Feedback Loop With AI-Powered Customer Influence Relaunch",
+          "link": "https://futurumgroup.com/insights/sap-closes-the-feedback-loop-with-ai-powered-customer-influence-relaunch/?utm_source=rss&utm_medium=rss&utm_campaign=sap-closes-the-feedback-loop-with-ai-powered-customer-influence-relaunch",
+          "published": "Mon, 28 Sep 2026 14:18:41 +0000",
+          "summary": "The post SAP Closes the Feedback Loop With AI-Powered Customer Influence Relaunch appeared first on Futurum.\nKeith Kirkpatrick, Vice President, Research, at Futurum, examines how SAP's enhanced Customer Influence platform leverages AI routing and agentic assistance to close the feedback loop at enterprise scale, directly.\nThe post SAP Closes the Feedback Loop With AI-Powered Customer Influence Relaunch appeared first on Futurum."
+        },
+        {
+          "title": "eClerx Bets on Agentic AI to Capture a $392B Market",
+          "link": "https://futurumgroup.com/insights/eclerx-bets-on-agentic-ai-to-capture-a-392b-market/?utm_source=rss&utm_medium=rss&utm_campaign=eclerx-bets-on-agentic-ai-to-capture-a-392b-market",
+          "published": "Mon, 28 Sep 2026 12:21:23 +0000",
+          "summary": "The post eClerx Bets on Agentic AI to Capture a $392B Market appeared first on Futurum.\neClerx Services formalized an AI-first growth strategy at its September 2026 Investor Day, targeting a $392B data intelligence market through proprietary agentic platforms and four-pillar AI capability framework.\nThe post eClerx Bets on Agentic AI to Capture a $392B Market appeared first on Futurum."
         }
       ]
     },
@@ -237,6 +474,24 @@
     {
       "name": "Constellation Research",
       "items": [
+        {
+          "title": "Why AI Agents Need Context, Not Just Data | Semantics & Context Management ShortList",
+          "link": "https://www.constellationr.com/video/shortlist-spotlights/why-ai-agents-need-context-not-just-data-semantics-context-management",
+          "published": "Mon, 28 Sep 2026 17:47:54 +0000",
+          "summary": "Why AI Agents Need Context, Not Just Data | Semantics &amp; Context Management ShortList\nHannah Mason\nMon, 28 Sep 2026 - 10:47\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Michael\n   Ni\n\n                  Vice President and Principal Analyst\n  Constellation Research\n\n            \n            \n                Michael Ni is Vice President and Principal Analyst at Constellation Research, covering the evolving Data-to-Decisions landscape—where CDOs, CI"
+        },
+        {
+          "title": "MongoDB's Ittycheria back in CEO fold",
+          "link": "https://www.constellationr.com/insights/news/mongodbs-ittycheria-back-ceo-fold",
+          "published": "Mon, 28 Sep 2026 13:56:25 +0000",
+          "summary": "MongoDB's Ittycheria back in CEO fold\nLarry Dignan\nMon, 28 Sep 2026 - 06:56\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transformation, and emerg"
+        },
+        {
+          "title": "Meta launches Meta Enterprise Platform led by CJ Desai",
+          "link": "https://www.constellationr.com/insights/news/meta-launches-meta-enterprise-platform-led-cj-desai",
+          "published": "Mon, 28 Sep 2026 13:23:44 +0000",
+          "summary": "Meta launches Meta Enterprise Platform led by CJ Desai\nLarry Dignan\nMon, 28 Sep 2026 - 06:23\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transfor"
+        },
         {
           "title": "Nvidia launches Open Agent Safety Platform to secure AI agents",
           "link": "https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents",
@@ -250,6 +505,12 @@
           "summary": "Enterprise AI projects mature: What you need to know now \nLarry Dignan\nSun, 27 Sep 2026 - 03:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital trans"
         },
         {
+          "title": "Enterprise Intelligence and Context: The Economics of Difference",
+          "link": "https://www.constellationr.com/research/blog/enterprise-intelligence-and-context-economics-difference",
+          "published": "Sat, 26 Sep 2026 22:24:48 +0000",
+          "summary": "Enterprise Intelligence and Context: The Economics of Difference\nEsteban Kolsky\nSat, 26 Sep 2026 - 15:24\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Esteban\n   Kolsky\n\n                  Chief Distiller, Board Advisor\n  Constellation Research\n\n            \n            \n                Esteban Kolsky spent the first part of his professional career working on the customer service front line and in management roles, culminating in early implementation"
+        },
+        {
           "title": "Evidence Shows Enterprises Use of Open Weight Models is Mainstream",
           "link": "https://www.constellationr.com/research/blog/evidence-shows-enterprises-use-open-weight-models-mainstream",
           "published": "Sat, 26 Sep 2026 22:21:09 +0000",
@@ -259,7 +520,14 @@
     },
     {
       "name": "SiliconANGLE",
-      "items": []
+      "items": [
+        {
+          "title": "Voice AI startup Modulate raises $25M to bring audio-native models to more developers",
+          "link": "https://siliconangle.com/2026/09/28/voice-ai-startup-modulate-raises-25m-to-bring-audio-native-models-to-more-developers/",
+          "published": "2026-09-28T14:30:51Z",
+          "summary": "Voice artificial intelligence startup Modulate Inc. today announced it has raised $25 million in new funding to get its audio-native models in front of more developers. Modulate offers AI models that work on the raw audio of a conversation. Emotion, tone and intent all register as signals, as do signs that a voice is a [&#8230;]\nThe post Voice AI startup Modulate raises $25M to bring audio-native models to more developers appeared first on SiliconANGLE."
+        }
+      ]
     },
     {
       "name": "Technology News For IT Channel Partners and Solution Providers",
