@@ -1,6 +1,40 @@
 {
   "days": [
     {
+      "iso": "2026-09-28",
+      "label": "Mon 28 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Nvidia launches Open Agent Safety Platform",
+          "sowhat": "Nvidia's agent security framework addresses pre-deployment safety testing gaps as enterprises scale autonomous AI deployments.",
+          "url": "https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Salesforce Agentforce bugs expose agent security risks",
+          "sowhat": "Research findings on Agentforce vulnerabilities highlight that agent platforms still lack mature security controls for production use.",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDlrVUkzdTk2UllibEx2NlVrU3UtZ2F5Y0NxM1JRLUJyejRlamtuNWFHVVl0MERFRlpHaGpUUHhhNHJaSWwtM2I4eEJRSnh6UFVISDVaRTJnd1d5QVZYN3FGVGFfVVBmV0ZxMGhzUTlzc2p3bS1rY2hrMG10SWRnRU9WVzR4SGp5YmY0dTJEcEVFZU9nOFNB?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "iCXeed appoints leadership for AWS cognitive CX",
+          "sowhat": "Personnel moves at small AWS-focused CX vendor signal continued investment in AWS-native customer experience tooling.",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1wQzBiWXJnbHlhblNzUmQ4dGpiODk2dnB2NzRLRURvTWRYZHRhc29UTDlENVdQRmdaV2V2al8xX2FnRUpYd3hVU3NXUjN2bDRuU2NDcDJDQncwcGlyS0VRaXlqYkRxRUJYU3ZFcGludFJTSDQzN1gxa1Blc0RiTnVlWHFXck1KbGNzZmpMWWc0QjhteHBnaG1DRHI5ZlNVajNabkxqX1dIbnc?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        }
+      ],
+      "pattern_watch": "Two items (Nvidia safety platform, Salesforce bugs) reflect emerging agent security concerns as enterprises deploy autonomous AI."
+    },
+    {
       "iso": "2026-09-27",
       "label": "Sun 27 Sep 2026",
       "rows": [
@@ -768,50 +802,7 @@
         }
       ],
       "pattern_watch": "Salesforce making defensive AI platform moves — NVIDIA tie + Claude integration both land same week"
-    },
-    {
-      "iso": "2026-09-20",
-      "label": "Sun 20 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Sprinklr ships autonomous eval framework for agents",
-          "sowhat": "First vendor to ship production-readiness testing for AI agents before deployment — buyer governance finally catches up to vendor promises.",
-          "url": "https://www.cxtoday.com/contact-center/sprinklr-service-and-ai-assurance/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Zoom announces revenue-intelligence OS across buyer signals",
-          "sowhat": "Zoom layers Common Room acquisition into contact-data play — packaging revenue tech as \"OS\" positions it against Salesloft and Gong, not Teams.",
-          "url": "https://telecomreseller.com/2026/09/18/zoom-unveils-ai-powered-revenue-os-to-unify-buyer-intelligence-customer-conversations-and-revenue-execution/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "8x8 names Fazpass Southeast Asia partner of year",
-          "sowhat": "Six-year CPaaS partnership now serves 50+ enterprises including IKEA; signals 8x8's regional strategy relies on authentication-led upsell.",
-          "url": "https://telecomreseller.com/2026/09/18/8x8-names-fazpass-2026-cpaas-partner-of-the-year-as-six-year-alliance-powers-authentication-for-50-enterprises/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Cisco extends Splunk–NVIDIA partnership for on-prem agentic AI",
-          "sowhat": "Cisco brings NVIDIA-accelerated agents to Splunk on-premises customers — targets hybrid buyers unwilling to ship machine data to cloud.",
-          "url": "https://telecomreseller.com/2026/09/18/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements/",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": ""
     }
   ],
-  "updated": "2026-09-27T18:54:37.198462+00:00"
+  "updated": "2026-09-28T13:20:17.755007+00:00"
 }
