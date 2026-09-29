@@ -48,6 +48,66 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BckRvVWN2SFRrRlpueTRHZmlib1UzN3ZBbnFnc203ak1xdmFPSl9lMWFHS0dDajBwZUlPNHQtWUZ5OTVCcXE5OGktVnU2N0M3cS1rVjUxU2xBZzU0cDFPZnZ4U2d3R1Q1V1U2VU5n?oc=5",
           "vendor_flag": false,
           "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Ofcom probes Vonage and Voxbone over scams",
+          "sowhat": "UK regulators are investigating number-misuse risk at two Ericsson-owned CPaaS providers, raising compliance and trust questions for enterprise voice deployments.",
+          "url": "https://cxtoday.com/ofcom-probes-vonage-and-voxbone-over-phone-scam-risks",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Zendesk launches real-time voice translation for CCaaS",
+          "sowhat": "AI-powered live translation aims to remove language barriers in contact centres, but accuracy and trust remain open questions for live voice support.",
+          "url": "https://cxtoday.com/ai-is-taking-the-easy-calls-can-it-make-voice-more-human",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zayo pitches agentic networking with human approval gates",
+          "sowhat": "Agentic AI for network operations promises faster incident correlation, but Zayo keeps human sign-off on config changes—worth watching for control trade-offs.",
+          "url": "https://uctoday.com/can-ai-run-your-network-without-taking-control-away",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom consolidates Common Room and Revenue Accelerator tools",
+          "sowhat": "Zoom's new revenue OS aims to replace fragmented sales stacks, positioning against Salesforce and HubSpot in the collaboration-CRM convergence play.",
+          "url": "https://uctoday.com/zooms-linda-lian-on-replacing-the-sales-frankenstack",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Magic Leap shifts from AR headsets to waveguides",
+          "sowhat": "Magic Leap's pivot exposes the cost and scale limits of enterprise XR hardware, signalling caution for buyers banking on immersive workplace tech.",
+          "url": "https://uctoday.com/is-the-era-of-the-xr-headset-already-over",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "MongoDB launches Atlas Agent Engine and 9.0 GA",
+          "sowhat": "MongoDB's new agent framework and storage tier target AI workload scalability, positioning against vector-native rivals in the agent-data stack fight.",
+          "url": "https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
         }
       ],
       "pattern_watch": ""
@@ -813,5 +873,5 @@
       "pattern_watch": "Three items (Salesforce Slack, Twilio Agentic SMS, Optimove Agentic Marketing) point to a shared thread: vendors are moving AI agent interfaces upstream into collaboration, messaging, and CRM layers—away from standalone tools."
     }
   ],
-  "updated": "2026-09-29T12:26:42.591694+00:00"
+  "updated": "2026-09-29T14:38:52.640237+00:00"
 }

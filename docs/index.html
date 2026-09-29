@@ -40,6 +40,9 @@
   .headline { color:var(--ink); text-decoration:none; font-weight:650; font-size:15px; }
   .headline:hover { text-decoration:underline; }
   .sowhat { color:var(--mut); font-size:13.5px; margin-top:3px; }
+.srcline { font-size:12px; color:var(--mut); margin-top:4px; }
+.srcline a { color:var(--mut); font-weight:600; text-decoration:none; }
+.srcline a:hover { text-decoration:underline; }
   .meta { text-align:right; display:flex; flex-direction:column; gap:4px; align-items:flex-end; }
   .cat { font-size:11px; font-weight:700; color:var(--mut); border:1px solid var(--line);
     border-radius:6px; padding:2px 7px; }
@@ -57,7 +60,7 @@
   <div class="wrap">
     <header class="mast">
       <h1>SWNW Signal Log</h1>
-      <div class="sub">UC · CCaaS · CPaaS · CX · AI — rolling 7 days · Updated Tue 29 Sep 2026, 12:26 UTC · Covers Tue 22 Sep 2026 — Tue 29 Sep 2026</div>
+      <div class="sub">UC · CCaaS · CPaaS · CX · AI — rolling 7 days · Updated Tue 29 Sep 2026, 14:38 UTC · Covers Tue 22 Sep 2026 — Tue 29 Sep 2026</div>
     </header>
     <div class="legend">
       <span class="lg">Legend:</span>
@@ -99,7 +102,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.constellationr.com/insights/news/amd-acquires-worldnet-82-billion-adds-ai-model-research-heft" target="_blank" rel="noopener">AMD acquires WorldNet for $8.2B AI-model heft</a>
-            <div class="sowhat">A major silicon vendor buys AI-research capability outright, underscoring the race to own model IP alongside accelerator hardware.</div>
+            <div class="sowhat">A major silicon vendor buys AI-research capability outright, underscoring the race to own model IP alongside accelerator hardware.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/amd-acquires-worldnet-82-billion-adds-ai-model-research-heft" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -108,6 +111,54 @@
           <div class="body">
             <a class="headline" href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1BckRvVWN2SFRrRlpueTRHZmlib1UzN3ZBbnFnc203ak1xdmFPSl9lMWFHS0dDajBwZUlPNHQtWUZ5OTVCcXE5OGktVnU2N0M3cS1rVjUxU2xBZzU0cDFPZnZ4U2d3R1Q1V1U2VU5n?oc=5" target="_blank" rel="noopener">Magic Leap restructures, exposing enterprise-XR adoption limits</a>
             <div class="sowhat">Another XR hardware reset confirms that immersive collaboration remains a niche use case, not a mainstream enterprise platform.</div>
+          </div>
+          <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://cxtoday.com/ofcom-probes-vonage-and-voxbone-over-phone-scam-risks" target="_blank" rel="noopener">Ofcom probes Vonage and Voxbone over scams</a>
+            <div class="sowhat">UK regulators are investigating number-misuse risk at two Ericsson-owned CPaaS providers, raising compliance and trust questions for enterprise voice deployments.</div><div class="srcline">Source: <a href="https://cxtoday.com/ofcom-probes-vonage-and-voxbone-over-phone-scam-risks" target="_blank" rel="noopener">CX Today</a></div>
+          </div>
+          <div class="meta"><span class="cat">CPaaS</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://cxtoday.com/ai-is-taking-the-easy-calls-can-it-make-voice-more-human" target="_blank" rel="noopener">Zendesk launches real-time voice translation for CCaaS</a>
+            <div class="sowhat">AI-powered live translation aims to remove language barriers in contact centres, but accuracy and trust remain open questions for live voice support.</div><div class="srcline">Source: <a href="https://cxtoday.com/ai-is-taking-the-easy-calls-can-it-make-voice-more-human" target="_blank" rel="noopener">CX Today</a></div>
+          </div>
+          <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://uctoday.com/can-ai-run-your-network-without-taking-control-away" target="_blank" rel="noopener">Zayo pitches agentic networking with human approval gates</a>
+            <div class="sowhat">Agentic AI for network operations promises faster incident correlation, but Zayo keeps human sign-off on config changes—worth watching for control trade-offs.</div><div class="srcline">Source: <a href="https://uctoday.com/can-ai-run-your-network-without-taking-control-away" target="_blank" rel="noopener">UC Today</a></div>
+          </div>
+          <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://uctoday.com/zooms-linda-lian-on-replacing-the-sales-frankenstack" target="_blank" rel="noopener">Zoom consolidates Common Room and Revenue Accelerator tools</a>
+            <div class="sowhat">Zoom&#x27;s new revenue OS aims to replace fragmented sales stacks, positioning against Salesforce and HubSpot in the collaboration-CRM convergence play.</div><div class="srcline">Source: <a href="https://uctoday.com/zooms-linda-lian-on-replacing-the-sales-frankenstack" target="_blank" rel="noopener">UC Today</a></div>
+          </div>
+          <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://uctoday.com/is-the-era-of-the-xr-headset-already-over" target="_blank" rel="noopener">Magic Leap shifts from AR headsets to waveguides</a>
+            <div class="sowhat">Magic Leap&#x27;s pivot exposes the cost and scale limits of enterprise XR hardware, signalling caution for buyers banking on immersive workplace tech.</div><div class="srcline">Source: <a href="https://uctoday.com/is-the-era-of-the-xr-headset-already-over" target="_blank" rel="noopener">UC Today</a></div>
+          </div>
+          <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
+        </div>
+        <div class="row">
+          <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
+          <div class="body">
+            <a class="headline" href="https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga" target="_blank" rel="noopener">MongoDB launches Atlas Agent Engine and 9.0 GA</a>
+            <div class="sowhat">MongoDB&#x27;s new agent framework and storage tier target AI workload scalability, positioning against vector-native rivals in the agent-data stack fight.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -120,7 +171,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents" target="_blank" rel="noopener">Nvidia launches Open Agent Safety Platform</a>
-            <div class="sowhat">Nvidia&#x27;s agent security framework addresses pre-deployment safety testing gaps as enterprises scale autonomous AI deployments.</div>
+            <div class="sowhat">Nvidia&#x27;s agent security framework addresses pre-deployment safety testing gaps as enterprises scale autonomous AI deployments.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -144,7 +195,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/28/appdirect-brings-soul-machines-ai-avatars-to-its-advisor-network/" target="_blank" rel="noopener">AppDirect acquires Soul Machines AI avatars</a>
-            <div class="sowhat">AppDirect&#x27;s advisor network can now resell lifelike AI avatars, adding a new services layer atop digital-human technology that has struggled to find repeatable enterprise use cases.</div>
+            <div class="sowhat">AppDirect&#x27;s advisor network can now resell lifelike AI avatars, adding a new services layer atop digital-human technology that has struggled to find repeatable enterprise use cases.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/28/appdirect-brings-soul-machines-ai-avatars-to-its-advisor-network/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -152,7 +203,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://siliconangle.com/2026/09/28/voice-ai-startup-modulate-raises-25m-to-bring-audio-native-models-to-more-developers/" target="_blank" rel="noopener">Modulate raises $25M for audio-native voice AI</a>
-            <div class="sowhat">Modulate&#x27;s models process raw audio — emotion, tone, intent — rather than transcripts, a signal that voice-layer intelligence may finally move beyond speech-to-text.</div>
+            <div class="sowhat">Modulate&#x27;s models process raw audio — emotion, tone, intent — rather than transcripts, a signal that voice-layer intelligence may finally move beyond speech-to-text.</div><div class="srcline">Source: <a href="https://siliconangle.com/2026/09/28/voice-ai-startup-modulate-raises-25m-to-bring-audio-native-models-to-more-developers/" target="_blank" rel="noopener">SiliconANGLE</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -160,7 +211,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://futurumgroup.com/insights/sap-closes-the-feedback-loop-with-ai-powered-customer-influence-relaunch/" target="_blank" rel="noopener">SAP relaunches Customer Influence with AI routing</a>
-            <div class="sowhat">SAP is embedding agentic assistance to route and action product feedback at scale, aiming to close the loop between customer input and roadmap execution.</div>
+            <div class="sowhat">SAP is embedding agentic assistance to route and action product feedback at scale, aiming to close the loop between customer input and roadmap execution.</div><div class="srcline">Source: <a href="https://futurumgroup.com/insights/sap-closes-the-feedback-loop-with-ai-powered-customer-influence-relaunch/" target="_blank" rel="noopener">Futurum</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -168,7 +219,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cmswire.com/digital-experience/contentstack-adds-ai-metadata-dedup-to-dam-assets/?utm_source=cmswire.com&amp;utm_medium=web&amp;utm_campaign=cm&amp;utm_content=all-articles-rss" target="_blank" rel="noopener">Contentstack adds AI metadata and deduplication to DAM</a>
-            <div class="sowhat">Contentstack&#x27;s DAM update automates asset tagging and duplicate detection, targeting smaller teams that lack dedicated taxonomy resources.</div>
+            <div class="sowhat">Contentstack&#x27;s DAM update automates asset tagging and duplicate detection, targeting smaller teams that lack dedicated taxonomy resources.</div><div class="srcline">Source: <a href="https://www.cmswire.com/digital-experience/contentstack-adds-ai-metadata-dedup-to-dam-assets/?utm_source=cmswire.com&amp;utm_medium=web&amp;utm_campaign=cm&amp;utm_content=all-articles-rss" target="_blank" rel="noopener">CMSWire</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -176,7 +227,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/28/comcast-business-brings-last-mile-ethernet-to-equinix-fabric/" target="_blank" rel="noopener">Comcast Business integrates Ethernet into Equinix Fabric</a>
-            <div class="sowhat">Eligible customers can now order Comcast last-mile Ethernet via API, simplifying hybrid-cloud connectivity for enterprises already using Equinix fabric.</div>
+            <div class="sowhat">Eligible customers can now order Comcast last-mile Ethernet via API, simplifying hybrid-cloud connectivity for enterprises already using Equinix fabric.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/28/comcast-business-brings-last-mile-ethernet-to-equinix-fabric/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -184,7 +235,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.constellationr.com/insights/news/mongodbs-ittycheria-back-ceo-fold" target="_blank" rel="noopener">MongoDB&#x27;s Ittycheria returns to CEO role</a>
-            <div class="sowhat">Dev Ittycheria is back as MongoDB CEO; the move hints at a strategic reset as the database vendor navigates the shift to AI-native workloads.</div>
+            <div class="sowhat">Dev Ittycheria is back as MongoDB CEO; the move hints at a strategic reset as the database vendor navigates the shift to AI-native workloads.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/mongodbs-ittycheria-back-ceo-fold" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -192,7 +243,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.constellationr.com/insights/news/meta-launches-meta-enterprise-platform-led-cj-desai" target="_blank" rel="noopener">Meta launches Meta Enterprise Platform under CJ Desai</a>
-            <div class="sowhat">Meta is formalizing an enterprise push led by CJ Desai, signalling it intends to commercialize its AI tooling and infrastructure beyond ads and consumer products.</div>
+            <div class="sowhat">Meta is formalizing an enterprise push led by CJ Desai, signalling it intends to commercialize its AI tooling and infrastructure beyond ads and consumer products.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/meta-launches-meta-enterprise-platform-led-cj-desai" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -229,7 +280,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://futurumgroup.com/insights/microsoft-copilot-becomes-an-agentic-work-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-copilot-becomes-an-agentic-work-platform" target="_blank" rel="noopener">Microsoft redesigns Copilot as agentic work platform</a>
-            <div class="sowhat">The three-layer architecture (Home, Code, Autopilot) with dual pricing targets enterprise spend controls and signals Microsoft&#x27;s shift from assistant to autonomous agent orchestration.</div>
+            <div class="sowhat">The three-layer architecture (Home, Code, Autopilot) with dual pricing targets enterprise spend controls and signals Microsoft&#x27;s shift from assistant to autonomous agent orchestration.</div><div class="srcline">Source: <a href="https://futurumgroup.com/insights/microsoft-copilot-becomes-an-agentic-work-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-copilot-becomes-an-agentic-work-platform" target="_blank" rel="noopener">Futurum</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -245,7 +296,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.constellationr.com/insights/news/personal-ai-assistants-proliferate-and-so-will-governance-headaches" target="_blank" rel="noopener">Constellation: personal AI assistants will create governance headaches</a>
-            <div class="sowhat">Analyst warns that proliferation of individual AI agents in the enterprise will outpace governance frameworks, raising compliance and data leakage risk.</div>
+            <div class="sowhat">Analyst warns that proliferation of individual AI agents in the enterprise will outpace governance frameworks, raising compliance and data leakage risk.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/personal-ai-assistants-proliferate-and-so-will-governance-headaches" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">AM</span></div>
         </div>
@@ -269,7 +320,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://futurumgroup.com/insights/widepoints-dhs-contract-protest-setback-or-speed-bump/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=widepoints-dhs-contract-protest-setback-or-speed-bump" target="_blank" rel="noopener">WidePoint loses DHS contract after competitor protest upheld</a>
-            <div class="sowhat">GAO sustained TurningPoint&#x27;s protest of WidePoint&#x27;s CWMS 3.0 award; incumbent now faces rebid risk on a material federal identity-management contract.</div>
+            <div class="sowhat">GAO sustained TurningPoint&#x27;s protest of WidePoint&#x27;s CWMS 3.0 award; incumbent now faces rebid risk on a material federal identity-management contract.</div><div class="srcline">Source: <a href="https://futurumgroup.com/insights/widepoints-dhs-contract-protest-setback-or-speed-bump/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=widepoints-dhs-contract-protest-setback-or-speed-bump" target="_blank" rel="noopener">Futurum</a></div>
           </div>
           <div class="meta"><span class="cat">CPaaS</span><span class="run">PM</span></div>
         </div>
@@ -282,7 +333,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/25/omdia-channel-partners-have-more-say-in-meeting-room-tech/" target="_blank" rel="noopener">Omdia: channel now shaping enterprise meeting-room vendor picks</a>
-            <div class="sowhat">Partners gain buying influence as enterprises consolidate Teams/Zoom deployment decisions, shifting sales motion upstream.</div>
+            <div class="sowhat">Partners gain buying influence as enterprises consolidate Teams/Zoom deployment decisions, shifting sales motion upstream.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/25/omdia-channel-partners-have-more-say-in-meeting-room-tech/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -290,7 +341,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://www.directionsonmicrosoft.com/microsoft-shows-off-its-new-copilot-super-app/" target="_blank" rel="noopener">Microsoft merges Copilot consumer and M365 apps into one</a>
-            <div class="sowhat">Unified Copilot app with Home/Code/Autopilot tabs marks Microsoft&#x27;s first move toward a single agentic interface across work and personal contexts.</div>
+            <div class="sowhat">Unified Copilot app with Home/Code/Autopilot tabs marks Microsoft&#x27;s first move toward a single agentic interface across work and personal contexts.</div><div class="srcline">Source: <a href="https://www.directionsonmicrosoft.com/microsoft-shows-off-its-new-copilot-super-app/" target="_blank" rel="noopener">Directions on Microsoft</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">AM</span></div>
         </div>
@@ -298,7 +349,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/25/sinch-expands-tier-1-rcs-business-messaging-coverage-to-canada-completing-north-american-footprint/" target="_blank" rel="noopener">Sinch completes Tier 1 RCS coverage across North America</a>
-            <div class="sowhat">Direct carrier connectivity in US and Canada lets brands run RCS campaigns on one platform, removing a multi-vendor deployment friction point.</div>
+            <div class="sowhat">Direct carrier connectivity in US and Canada lets brands run RCS campaigns on one platform, removing a multi-vendor deployment friction point.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/25/sinch-expands-tier-1-rcs-business-messaging-coverage-to-canada-completing-north-american-footprint/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">CPaaS</span><span class="run">AM</span></div>
         </div>
@@ -306,7 +357,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/25/tpx-names-channel-veteran-garrett-gee-to-lead-next-chapter-of-partner-growth/" target="_blank" rel="noopener">TPx hires channel veteran Garrett Gee to lead partner sales</a>
-            <div class="sowhat">Personnel move signals TPx intent to accelerate indirect UCaaS/CCaaS sales after years of hybrid direct–partner model.</div>
+            <div class="sowhat">Personnel move signals TPx intent to accelerate indirect UCaaS/CCaaS sales after years of hybrid direct–partner model.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/25/tpx-names-channel-veteran-garrett-gee-to-lead-next-chapter-of-partner-growth/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">CCaaS</span><span class="run">AM</span></div>
         </div>
@@ -314,7 +365,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/25/infobip-appoints-mirta-paden-lee-as-vice-president-of-people/" target="_blank" rel="noopener">Infobip appoints Mirta Pađen Lee as VP People</a>
-            <div class="sowhat">CPaaS vendor signals intent to professionalize org structure as it pivots messaging portfolio toward AI-first positioning.</div>
+            <div class="sowhat">CPaaS vendor signals intent to professionalize org structure as it pivots messaging portfolio toward AI-first positioning.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/25/infobip-appoints-mirta-paden-lee-as-vice-president-of-people/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">CPaaS</span><span class="run">AM</span></div>
         </div>
@@ -322,7 +373,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/" target="_blank" rel="noopener">Microsoft Copilot becomes agentic work platform</a>
-            <div class="sowhat">Home/Code/Autopilot layers signal Microsoft&#x27;s push beyond chat assistants into orchestrated workflow automation with spend controls—a direct challenge to Salesforce Agentforce and Google Workspace.</div>
+            <div class="sowhat">Home/Code/Autopilot layers signal Microsoft&#x27;s push beyond chat assistants into orchestrated workflow automation with spend controls—a direct challenge to Salesforce Agentforce and Google Workspace.</div><div class="srcline">Source: <a href="https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/" target="_blank" rel="noopener">Microsoft (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -330,7 +381,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://uctoday.com/cisco-vs-microsoft-teams-rooms-meeting-room-management-battle" target="_blank" rel="noopener">Cisco and Microsoft Teams Rooms converge on management</a>
-            <div class="sowhat">Webex Control Hub and Teams Rooms Pro Management now overlap in remote room provisioning, raising buyer stakes in platform lock-in decisions.</div>
+            <div class="sowhat">Webex Control Hub and Teams Rooms Pro Management now overlap in remote room provisioning, raising buyer stakes in platform lock-in decisions.</div><div class="srcline">Source: <a href="https://uctoday.com/cisco-vs-microsoft-teams-rooms-meeting-room-management-battle" target="_blank" rel="noopener">UC Today</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -338,7 +389,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.ringcentral.com/us/en/blog/whats-new-in-ringcx-building-the-agentic-customer-experience-july-2026-recap/" target="_blank" rel="noopener">RingCX adds agentic CX features in July update</a>
-            <div class="sowhat">RingCentral&#x27;s monthly release focuses on AI-driven wrap-up reduction and agent coaching consistency, table stakes in a crowded CCaaS market.</div>
+            <div class="sowhat">RingCentral&#x27;s monthly release focuses on AI-driven wrap-up reduction and agent coaching consistency, table stakes in a crowded CCaaS market.</div><div class="srcline">Source: <a href="https://www.ringcentral.com/us/en/blog/whats-new-in-ringcx-building-the-agentic-customer-experience-july-2026-recap/" target="_blank" rel="noopener">RingCentral (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">CCaaS</span><span class="run">PM</span></div>
         </div>
@@ -362,7 +413,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://www.twilio.com/en-us/blog/insights/lost-context-between-channels" target="_blank" rel="noopener">Twilio addresses context loss across channels in AI</a>
-            <div class="sowhat">Forty percent of enterprises cite channel handoff failures as top AI brand harm—Twilio&#x27;s remediation focus suggests the problem is now costing revenue.</div>
+            <div class="sowhat">Forty percent of enterprises cite channel handoff failures as top AI brand harm—Twilio&#x27;s remediation focus suggests the problem is now costing revenue.</div><div class="srcline">Source: <a href="https://www.twilio.com/en-us/blog/insights/lost-context-between-channels" target="_blank" rel="noopener">Twilio (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">CPaaS</span><span class="run">PM</span></div>
         </div>
@@ -370,7 +421,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/25/8x8-earns-four-stevie-awards-in-the-2026-international-business-awards/" target="_blank" rel="noopener">8x8 wins four Stevie Awards for leadership</a>
-            <div class="sowhat">Individual and team recognitions in The International Business Awards carry negligible strategic weight for enterprise buyers.</div>
+            <div class="sowhat">Individual and team recognitions in The International Business Awards carry negligible strategic weight for enterprise buyers.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/25/8x8-earns-four-stevie-awards-in-the-2026-international-business-awards/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -383,7 +434,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/crm/zeta-marketing-platform-integrations/" target="_blank" rel="noopener">Zeta partners with Palantir for third-party integrations</a>
-            <div class="sowhat">ZMP native channels and APIs now route through Palantir, adding a third integration layer buyers must map before contract.</div>
+            <div class="sowhat">ZMP native channels and APIs now route through Palantir, adding a third integration layer buyers must map before contract.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/crm/zeta-marketing-platform-integrations/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">AM</span></div>
         </div>
@@ -391,7 +442,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/security-privacy-compliance/from-teams-recording-to-conversation-intelligence-how-organisations-can-get-more-from-every-call-audiocodes-cs-0208/" target="_blank" rel="noopener">AudioCodes pitches compliance-grade recording beyond Teams native</a>
-            <div class="sowhat">Regulated organisations relying on Teams recording alone may lack policy-based capture, long-term retention, and resilience controls.</div>
+            <div class="sowhat">Regulated organisations relying on Teams recording alone may lack policy-based capture, long-term retention, and resilience controls.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/security-privacy-compliance/from-teams-recording-to-conversation-intelligence-how-organisations-can-get-more-from-every-call-audiocodes-cs-0208/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -399,7 +450,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://www.businesswire.com/news/home/20260924141300/en/Zenity-Labs-Uncovers-SalesBleed-3-Salesforce-Agentforce-Flaws-Enabling-Zero-Click-CRM-Data-Theft-and-AI-Agent-Impersonation" target="_blank" rel="noopener">Zenity discloses SalesBleed zero-click CRM data exfiltration flaws</a>
-            <div class="sowhat">Three Agentforce vulnerabilities enabled zero-click CRM theft and AI agent impersonation; Salesforce patched promptly but trust surface expanded.</div>
+            <div class="sowhat">Three Agentforce vulnerabilities enabled zero-click CRM theft and AI agent impersonation; Salesforce patched promptly but trust surface expanded.</div><div class="srcline">Source: <a href="https://www.businesswire.com/news/home/20260924141300/en/Zenity-Labs-Uncovers-SalesBleed-3-Salesforce-Agentforce-Flaws-Enabling-Zero-Click-CRM-Data-Theft-and-AI-Agent-Impersonation" target="_blank" rel="noopener">Business Wire</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">AM</span></div>
         </div>
@@ -407,7 +458,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.businesswire.com/news/home/20260923125637/en/Glia-Introduces-Banking-CRM-and-Branch-Intelligence-to-Supercharge-Agentic-Banking" target="_blank" rel="noopener">Glia launches Banking CRM with branch intelligence module</a>
-            <div class="sowhat">Glia extends its digital engagement platform into CRM territory, targeting banks that want unified agentic orchestration and in-branch context.</div>
+            <div class="sowhat">Glia extends its digital engagement platform into CRM territory, targeting banks that want unified agentic orchestration and in-branch context.</div><div class="srcline">Source: <a href="https://www.businesswire.com/news/home/20260923125637/en/Glia-Introduces-Banking-CRM-and-Branch-Intelligence-to-Supercharge-Agentic-Banking" target="_blank" rel="noopener">Business Wire</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">AM</span></div>
         </div>
@@ -415,7 +466,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.directionsonmicrosoft.com/thoughts-on-microsofts-humanist-ai-code-of-conduct/" target="_blank" rel="noopener">Microsoft drafts Humanist AI Code of Conduct</a>
-            <div class="sowhat">Microsoft&#x27;s public consultation mirrors EU AI Act and Claude&#x27;s Constitution; enterprises face yet another voluntary framework to reconcile.</div>
+            <div class="sowhat">Microsoft&#x27;s public consultation mirrors EU AI Act and Claude&#x27;s Constitution; enterprises face yet another voluntary framework to reconcile.</div><div class="srcline">Source: <a href="https://www.directionsonmicrosoft.com/thoughts-on-microsofts-humanist-ai-code-of-conduct/" target="_blank" rel="noopener">Directions on Microsoft</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">AM</span></div>
         </div>
@@ -423,7 +474,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.directionsonmicrosoft.com/compass-point-dataverse-headless-office-and-flex-spend/" target="_blank" rel="noopener">Dataverse integration may bring business context to Copilot</a>
-            <div class="sowhat">Power Platform&#x27;s Dataverse could finally surface ERP and CRM context inside Copilot; no discrete launch yet, just roadmap visibility.</div>
+            <div class="sowhat">Power Platform&#x27;s Dataverse could finally surface ERP and CRM context inside Copilot; no discrete launch yet, just roadmap visibility.</div><div class="srcline">Source: <a href="https://www.directionsonmicrosoft.com/compass-point-dataverse-headless-office-and-flex-spend/" target="_blank" rel="noopener">Directions on Microsoft</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">AM</span></div>
         </div>
@@ -431,7 +482,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/25/crexendo-expands-ai-portfolio-through-meetric-partnership-adding-omnichannel-conversation-intelligence-for-more-than-250-platform-licensees/" target="_blank" rel="noopener">Crexendo partners Meetric for omnichannel AI</a>
-            <div class="sowhat">White-label conversation intelligence across voice and digital channels gives 250+ UCaaS licensees a new feature to resell.</div>
+            <div class="sowhat">White-label conversation intelligence across voice and digital channels gives 250+ UCaaS licensees a new feature to resell.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/25/crexendo-expands-ai-portfolio-through-meetric-partnership-adding-omnichannel-conversation-intelligence-for-more-than-250-platform-licensees/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -439,7 +490,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/24/yeastar-launches-novoone/" target="_blank" rel="noopener">Yeastar launches NovoOne AI-native multi-tenant platform</a>
-            <div class="sowhat">Service providers get a white-label UCaaS platform with built-in AI and multi-tenancy, competing directly with established hosted PBX backends.</div>
+            <div class="sowhat">Service providers get a white-label UCaaS platform with built-in AI and multi-tenancy, competing directly with established hosted PBX backends.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/24/yeastar-launches-novoone/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -447,7 +498,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/24/mobilise-launches-api-mvno-platforms-for-digital-telecom-services/" target="_blank" rel="noopener">Mobilise launches API and MVNO platforms</a>
-            <div class="sowhat">Companies can embed telecom services via API or launch branded MVNOs without building infrastructure, lowering entry barriers for niche players.</div>
+            <div class="sowhat">Companies can embed telecom services via API or launch branded MVNOs without building infrastructure, lowering entry barriers for niche players.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/24/mobilise-launches-api-mvno-platforms-for-digital-telecom-services/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">CPaaS</span><span class="run">PM</span></div>
         </div>
@@ -455,7 +506,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cmswire.com/customer-experience/medallia-h2-2026-release-expands-multilingual-ai/" target="_blank" rel="noopener">Medallia H2 release adds 13-language AI</a>
-            <div class="sowhat">Multilingual sentiment analysis and segment-level auditing let global enterprises track feedback consistency across geographies without manual translation.</div>
+            <div class="sowhat">Multilingual sentiment analysis and segment-level auditing let global enterprises track feedback consistency across geographies without manual translation.</div><div class="srcline">Source: <a href="https://www.cmswire.com/customer-experience/medallia-h2-2026-release-expands-multilingual-ai/" target="_blank" rel="noopener">CMSWire</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -463,7 +514,7 @@
           <div class="pillcol"><span class="pill pill-pattern">Pattern</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/25/cisco-ai-research-agenticops-scaling-quickly-in-the-enterprise/" target="_blank" rel="noopener">Cisco, Omdia research: 95% see AIOps inadequate</a> <span class="vendorflag">vendor research</span>
-            <div class="sowhat">More than half of enterprises have moved from reactive AIOps to autonomous AgenticOps, signaling a shift in how IT operations tools are evaluated.</div>
+            <div class="sowhat">More than half of enterprises have moved from reactive AIOps to autonomous AgenticOps, signaling a shift in how IT operations tools are evaluated.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/25/cisco-ai-research-agenticops-scaling-quickly-in-the-enterprise/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -475,7 +526,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/23/pure-ip-launches-voice-observability-for-end-to-end-call-visibility/" target="_blank" rel="noopener">Pure IP launches voice observability for UCaaS</a>
-            <div class="sowhat">End-to-end call-path visibility may reduce enterprise finger-pointing but requires UCaaS-carrier data-sharing that many don&#x27;t control.</div>
+            <div class="sowhat">End-to-end call-path visibility may reduce enterprise finger-pointing but requires UCaaS-carrier data-sharing that many don&#x27;t control.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/23/pure-ip-launches-voice-observability-for-end-to-end-call-visibility/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -483,7 +534,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.nojitter.com/contact-centers/when-should-contact-center-ai-make-the-call" target="_blank" rel="noopener">No Jitter: AI copilots now route and trigger resolutions</a>
-            <div class="sowhat">Autonomous decisioning in contact centres forces CX leaders to define AI&#x27;s authority before a bad call becomes brand damage.</div>
+            <div class="sowhat">Autonomous decisioning in contact centres forces CX leaders to define AI&#x27;s authority before a bad call becomes brand damage.</div><div class="srcline">Source: <a href="https://www.nojitter.com/contact-centers/when-should-contact-center-ai-make-the-call" target="_blank" rel="noopener">No Jitter</a></div>
           </div>
           <div class="meta"><span class="cat">CCaaS</span><span class="run">AM</span></div>
         </div>
@@ -491,7 +542,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.ringcentral.com/us/en/blog/whats-new-in-ringex-ai-that-helps-teams-automate-assist-and-analyze-july-2026-recap/" target="_blank" rel="noopener">RingCentral adds AI meeting follow-up, mobile admin tools</a>
-            <div class="sowhat">Incremental admin and AI workflow enhancements continue but signal no step-change in RingEX&#x27;s competitive positioning for H2.</div>
+            <div class="sowhat">Incremental admin and AI workflow enhancements continue but signal no step-change in RingEX&#x27;s competitive positioning for H2.</div><div class="srcline">Source: <a href="https://www.ringcentral.com/us/en/blog/whats-new-in-ringex-ai-that-helps-teams-automate-assist-and-analyze-july-2026-recap/" target="_blank" rel="noopener">RingCentral (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -499,7 +550,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/23/glia-introduces-banking-crm-and-branch-intelligence-to-supercharge-agentic-banking/" target="_blank" rel="noopener">Glia launches banking CRM and branch intelligence suite</a>
-            <div class="sowhat">Combining digital engagement with branch analytics targets banks seeking unified customer context, but adoption hinges on core-system integration complexity.</div>
+            <div class="sowhat">Combining digital engagement with branch analytics targets banks seeking unified customer context, but adoption hinges on core-system integration complexity.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/23/glia-introduces-banking-crm-and-branch-intelligence-to-supercharge-agentic-banking/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">CCaaS</span><span class="run">AM</span></div>
         </div>
@@ -515,7 +566,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cmswire.com/marketing-automation/marketo-co-founder-jon-miller-launches-phave-to-replace-the-marketing-automation-platform-he-built/?utm_source=cmswire.com&amp;utm_medium=web&amp;utm_campaign=cm&amp;utm_content=all-articles-rss" target="_blank" rel="noopener">Marketo Co-Founder Jon Miller Launches Phave</a>
-            <div class="sowhat">Miller&#x27;s new marketing automation platform promises campaign reasoning over rules-based workflows, directly challenging his own legacy platform.</div>
+            <div class="sowhat">Miller&#x27;s new marketing automation platform promises campaign reasoning over rules-based workflows, directly challenging his own legacy platform.</div><div class="srcline">Source: <a href="https://www.cmswire.com/marketing-automation/marketo-co-founder-jon-miller-launches-phave-to-replace-the-marketing-automation-platform-he-built/?utm_source=cmswire.com&amp;utm_medium=web&amp;utm_campaign=cm&amp;utm_content=all-articles-rss" target="_blank" rel="noopener">CMSWire</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -531,7 +582,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/ai-automation-in-cx/how-dr-martens-kicked-its-cx-strategy-into-gear/" target="_blank" rel="noopener">Dr. Martens Rebuilds CX on Salesforce AI</a>
-            <div class="sowhat">The footwear brand is formalizing a multi-year shift from wholesale manufacturer to direct consumer with Salesforce-based customer care and AI tooling.</div>
+            <div class="sowhat">The footwear brand is formalizing a multi-year shift from wholesale manufacturer to direct consumer with Salesforce-based customer care and AI tooling.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/ai-automation-in-cx/how-dr-martens-kicked-its-cx-strategy-into-gear/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -539,7 +590,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.constellationr.com/insights/news/microsoft-opens-its-maryland-quantum-research-center" target="_blank" rel="noopener">Microsoft Opens Maryland Quantum Research Center</a>
-            <div class="sowhat">A physical lab signals continued R&amp;D investment in topological qubits, though commercial quantum applications remain years away for enterprise buyers.</div>
+            <div class="sowhat">A physical lab signals continued R&amp;D investment in topological qubits, though commercial quantum applications remain years away for enterprise buyers.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/microsoft-opens-its-maryland-quantum-research-center" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -547,7 +598,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.constellationr.com/insights/news/openai-adds-gpt-6-luna-and-sol-touts-lower-prices" target="_blank" rel="noopener">OpenAI Announces GPT-6 Luna and Sol</a>
-            <div class="sowhat">Two new models promise lower pricing and improved performance, though the announcement lacks client validation or deployment detail for enterprise use cases.</div>
+            <div class="sowhat">Two new models promise lower pricing and improved performance, though the announcement lacks client validation or deployment detail for enterprise use cases.</div><div class="srcline">Source: <a href="https://www.constellationr.com/insights/news/openai-adds-gpt-6-luna-and-sol-touts-lower-prices" target="_blank" rel="noopener">Constellation Research</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
@@ -560,7 +611,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://futurumgroup.com/insights/splunk-conf26-trust-is-key-for-the-agentic-era/" target="_blank" rel="noopener">Cisco finalises Splunk trust architecture for agentic SOC</a>
-            <div class="sowhat">Splunk .conf26 positioned data and control layers beneath AI agents as a defensible moat, treating trust and cost as the gate before autonomous security operations at scale.</div>
+            <div class="sowhat">Splunk .conf26 positioned data and control layers beneath AI agents as a defensible moat, treating trust and cost as the gate before autonomous security operations at scale.</div><div class="srcline">Source: <a href="https://futurumgroup.com/insights/splunk-conf26-trust-is-key-for-the-agentic-era/" target="_blank" rel="noopener">Futurum</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -568,7 +619,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://futurumgroup.com/insights/salesforce-bets-on-silicon-synergy-and-metadata-to-make-business-ai-practical/" target="_blank" rel="noopener">Salesforce launches Koa CRM reasoning model with NVIDIA</a>
-            <div class="sowhat">Salesforce&#x27;s Koa bets that proprietary CRM training data and silicon co-design can solve inference economics and defend platform gravity against generic foundation models.</div>
+            <div class="sowhat">Salesforce&#x27;s Koa bets that proprietary CRM training data and silicon co-design can solve inference economics and defend platform gravity against generic foundation models.</div><div class="srcline">Source: <a href="https://futurumgroup.com/insights/salesforce-bets-on-silicon-synergy-and-metadata-to-make-business-ai-practical/" target="_blank" rel="noopener">Futurum</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">AM</span></div>
         </div>
@@ -584,7 +635,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/22/westcoast-cloud-expands-microsoft-teams-voice-offering-for-channel-partners-by-adding-voice-by-gamma/" target="_blank" rel="noopener">Westcoast Cloud adds Voice by Gamma for Teams</a>
-            <div class="sowhat">UK distributor move gives partners a pre-packaged Teams voice SKU ahead of the PSTN switch-off, targeting margin-thin resellers who lack direct carrier relationships.</div>
+            <div class="sowhat">UK distributor move gives partners a pre-packaged Teams voice SKU ahead of the PSTN switch-off, targeting margin-thin resellers who lack direct carrier relationships.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/22/westcoast-cloud-expands-microsoft-teams-voice-offering-for-channel-partners-by-adding-voice-by-gamma/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -600,7 +651,7 @@
           <div class="pillcol"><span class="pill pill-pattern">Pattern</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/security-privacy-compliance/the-eu-ai-act-is-a-cx-problem-now-ttecdigital-cs-0062/" target="_blank" rel="noopener">EU AI Act compliance now impacts contact centre tooling</a>
-            <div class="sowhat">The Act&#x27;s August enforcement date forces CX leaders to audit AI-embedded workflows for risk classification and explainability, not just legal teams.</div>
+            <div class="sowhat">The Act&#x27;s August enforcement date forces CX leaders to audit AI-embedded workflows for risk classification and explainability, not just legal teams.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/security-privacy-compliance/the-eu-ai-act-is-a-cx-problem-now-ttecdigital-cs-0062/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">AM</span></div>
         </div>
@@ -608,7 +659,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/ai-automation-in-cx/uk-businesses-data-control-ai-digital-sovereignty/" target="_blank" rel="noopener">UK enterprises cite data sovereignty as AI priority</a> <span class="vendorflag">vendor research</span>
-            <div class="sowhat">IDC/Expereo research shows digital sovereignty concerns rising as AI and cloud complexity increase, signalling a procurement shift toward regional data residency.</div>
+            <div class="sowhat">IDC/Expereo research shows digital sovereignty concerns rising as AI and cloud complexity increase, signalling a procurement shift toward regional data residency.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/ai-automation-in-cx/uk-businesses-data-control-ai-digital-sovereignty/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">AM</span></div>
         </div>
@@ -616,7 +667,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/crm/optimove-ai-agentic-marketing/" target="_blank" rel="noopener">Optimove bets agentic marketing belongs inside CRM governance</a>
-            <div class="sowhat">Optimove argues that customer-facing AI agents need CRM context and decisioning rails, not standalone tools, to avoid compliance and consistency gaps.</div>
+            <div class="sowhat">Optimove argues that customer-facing AI agents need CRM context and decisioning rails, not standalone tools, to avoid compliance and consistency gaps.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/crm/optimove-ai-agentic-marketing/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">AM</span></div>
         </div>
@@ -624,7 +675,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-roundup-salesforce-has-an-easy-button-for-ai-but-cx-leaders-still-face-the-hard-decisions/" target="_blank" rel="noopener">Salesforce launches AIforce interface strategy at Dreamforce</a>
-            <div class="sowhat">Salesforce introduced AIforce to embed CRM context into Claude, Slack, and custom experiences, plus expanded Agentforce — a clear push to make AI operational across contact centres, though buyer adoption remains the real test.</div>
+            <div class="sowhat">Salesforce introduced AIforce to embed CRM context into Claude, Slack, and custom experiences, plus expanded Agentforce — a clear push to make AI operational across contact centres, though buyer adoption remains the real test.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-roundup-salesforce-has-an-easy-button-for-ai-but-cx-leaders-still-face-the-hard-decisions/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -632,7 +683,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/23/vonage-targets-missed-healthcare-calls-with-branded-calling/" target="_blank" rel="noopener">Vonage adds branded calling to Epic Hello World</a>
-            <div class="sowhat">Healthcare organisations using Epic can now display caller information via Vonage branded calling, targeting the persistent problem of missed patient appointments due to unrecognised numbers.</div>
+            <div class="sowhat">Healthcare organisations using Epic can now display caller information via Vonage branded calling, targeting the persistent problem of missed patient appointments due to unrecognised numbers.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/23/vonage-targets-missed-healthcare-calls-with-branded-calling/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">CPaaS</span><span class="run">PM</span></div>
         </div>
@@ -640,7 +691,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/23/tollring-folds-clobba-into-its-call-analytics-roadmap/" target="_blank" rel="noopener">Tollring integrates Clobba capabilities into Analytics 365</a>
-            <div class="sowhat">Tollring is folding Clobba IP into its call analytics platform following July acquisition, a consolidation play that may streamline analytics for resellers but adds little immediate differentiation.</div>
+            <div class="sowhat">Tollring is folding Clobba IP into its call analytics platform following July acquisition, a consolidation play that may streamline analytics for resellers but adds little immediate differentiation.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/23/tollring-folds-clobba-into-its-call-analytics-roadmap/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -680,7 +731,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context" target="_blank" rel="noopener">Twilio details five steps for AI-to-human handoff context</a>
-            <div class="sowhat">Twilio addresses the persistent problem that 76% of customers say agents lack context after AI handoff — operationalising handoff design as a discrete capability rather than hoping prompts fix it.</div>
+            <div class="sowhat">Twilio addresses the persistent problem that 76% of customers say agents lack context after AI handoff — operationalising handoff design as a discrete capability rather than hoping prompts fix it.</div><div class="srcline">Source: <a href="https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context" target="_blank" rel="noopener">Twilio (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -693,7 +744,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/ai-automation-in-cx/from-prebuilt-agents-to-vibe-coding-salesforces-new-cx-playbook/" target="_blank" rel="noopener">Salesforce pushes CRM data out to Slack</a>
-            <div class="sowhat">Salesforce positions Slack as the new UI layer for CRM workflows — a decisive response to Microsoft&#x27;s Teams-Copilot integration that makes Slack the front door for enterprise data instead of Lightning.</div>
+            <div class="sowhat">Salesforce positions Slack as the new UI layer for CRM workflows — a decisive response to Microsoft&#x27;s Teams-Copilot integration that makes Slack the front door for enterprise data instead of Lightning.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/ai-automation-in-cx/from-prebuilt-agents-to-vibe-coding-salesforces-new-cx-playbook/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">AM</span></div>
         </div>
@@ -701,7 +752,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.microsoft.com/microsoft-365/roadmap?id=571886" target="_blank" rel="noopener">Microsoft adds local AI inferencing for Copilot</a>
-            <div class="sowhat">Five-geography local inferencing for Copilot addresses sovereignty concerns that have delayed AI deployment in regulated sectors, particularly outside the US.</div>
+            <div class="sowhat">Five-geography local inferencing for Copilot addresses sovereignty concerns that have delayed AI deployment in regulated sectors, particularly outside the US.</div><div class="srcline">Source: <a href="https://www.microsoft.com/microsoft-365/roadmap?id=571886" target="_blank" rel="noopener">Microsoft (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">AM</span></div>
         </div>
@@ -709,7 +760,7 @@
           <div class="pillcol"><span class="pill pill-pattern">Pattern</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/customer-analytics-intelligence/aeo-is-not-seo-with-a-new-acronym-the-metrics-cx-leaders-need-to-track-now-sprinklr-cs-0195/" target="_blank" rel="noopener">AEO visibility now separate from SEO ranking</a> <span class="vendorflag">vendor research</span>
-            <div class="sowhat">Brands that rank well on Google are invisible inside ChatGPT and Perplexity answers — forcing CX teams to track whether they appear in AI-generated recommendations, a metric search analytics cannot show.</div>
+            <div class="sowhat">Brands that rank well on Google are invisible inside ChatGPT and Perplexity answers — forcing CX teams to track whether they appear in AI-generated recommendations, a metric search analytics cannot show.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/customer-analytics-intelligence/aeo-is-not-seo-with-a-new-acronym-the-metrics-cx-leaders-need-to-track-now-sprinklr-cs-0195/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">AM</span></div>
         </div>
@@ -717,7 +768,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/security-privacy-compliance/manchester-airport-cyberattack-customer-data-governance/" target="_blank" rel="noopener">Manchester Airport breach exposes CRM-adjacent data risk</a>
-            <div class="sowhat">Customer data collected through parking, Wi-Fi, and Fast Track systems sits outside CRM governance and became breach surface — a reminder that CX data sprawl is now a security problem.</div>
+            <div class="sowhat">Customer data collected through parking, Wi-Fi, and Fast Track systems sits outside CRM governance and became breach surface — a reminder that CX data sprawl is now a security problem.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/security-privacy-compliance/manchester-airport-cyberattack-customer-data-governance/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">AM</span></div>
         </div>
@@ -733,7 +784,7 @@
           <div class="pillcol"><span class="pill pill-signalplus">Signal+</span></div>
           <div class="body">
             <a class="headline" href="https://www.ringcentral.com/us/en/blog/introducing-empower-partner-program/" target="_blank" rel="noopener">RingCentral launches Empower wholesale partner program for MSPs</a>
-            <div class="sowhat">RingCentral&#x27;s new wholesale model lets established MSPs and VARs in North America fully own the customer relationship, a channel pivot that may accelerate white-label UCaaS competition and threaten direct-sold incumbents.</div>
+            <div class="sowhat">RingCentral&#x27;s new wholesale model lets established MSPs and VARs in North America fully own the customer relationship, a channel pivot that may accelerate white-label UCaaS competition and threaten direct-sold incumbents.</div><div class="srcline">Source: <a href="https://www.ringcentral.com/us/en/blog/introducing-empower-partner-program/" target="_blank" rel="noopener">RingCentral (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -741,7 +792,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://futurumgroup.com/insights/adobe-lands-jet2-to-prove-agentic-cx-at-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=adobe-lands-jet2-to-prove-agentic-cx-at-scale" target="_blank" rel="noopener">Adobe deploys Agentic AI for Jet2&#x27;s 10 million customers</a>
-            <div class="sowhat">Adobe&#x27;s multi-year co-innovation deal with Jet2 establishes a Customer Experience Lab with forward-deployed engineers, offering proof that Agentic AI can personalize travel CX at scale—if the data infrastructure holds.</div>
+            <div class="sowhat">Adobe&#x27;s multi-year co-innovation deal with Jet2 establishes a Customer Experience Lab with forward-deployed engineers, offering proof that Agentic AI can personalize travel CX at scale—if the data infrastructure holds.</div><div class="srcline">Source: <a href="https://futurumgroup.com/insights/adobe-lands-jet2-to-prove-agentic-cx-at-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=adobe-lands-jet2-to-prove-agentic-cx-at-scale" target="_blank" rel="noopener">Futurum</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -749,7 +800,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://telecomreseller.com/2026/09/22/nureva-audiocodes-certify-teams-rooms-solution/" target="_blank" rel="noopener">Nureva and AudioCodes certify Teams Rooms solution for Android</a>
-            <div class="sowhat">The certified HDL310 + AudioCodes Android combo targets medium-sized meeting spaces, giving buyers another Microsoft-approved option but no material departure from existing Teams Rooms economics or deployment patterns.</div>
+            <div class="sowhat">The certified HDL310 + AudioCodes Android combo targets medium-sized meeting spaces, giving buyers another Microsoft-approved option but no material departure from existing Teams Rooms economics or deployment patterns.</div><div class="srcline">Source: <a href="https://telecomreseller.com/2026/09/22/nureva-audiocodes-certify-teams-rooms-solution/" target="_blank" rel="noopener">Telecom Reseller</a></div>
           </div>
           <div class="meta"><span class="cat">UC</span><span class="run">PM</span></div>
         </div>
@@ -757,7 +808,7 @@
           <div class="pillcol"><span class="pill pill-pattern">Pattern</span></div>
           <div class="body">
             <a class="headline" href="https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent" target="_blank" rel="noopener">Twilio launches agentic SMS tutorial using Hermes Agent</a>
-            <div class="sowhat">Twilio&#x27;s developer-focused guide shows how to send SMS via Agentic AI, signaling that CPaaS vendors expect agents to become a primary workflow layer—and that developers need practical integration paths now.</div>
+            <div class="sowhat">Twilio&#x27;s developer-focused guide shows how to send SMS via Agentic AI, signaling that CPaaS vendors expect agents to become a primary workflow layer—and that developers need practical integration paths now.</div><div class="srcline">Source: <a href="https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent" target="_blank" rel="noopener">Twilio (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">CPaaS</span><span class="run">PM</span></div>
         </div>
@@ -765,7 +816,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.cxtoday.com/contact-center/isg-telstra-cresta-and-scorebuddycx-expose-ais-contact-center-test/" target="_blank" rel="noopener">ISG&#x27;s 2026 Contact Centers Buyers Guide evaluates AI governance</a>
-            <div class="sowhat">ISG&#x27;s new guide shows buyers are no longer evaluating AI in isolation—they now assess it alongside automation, analytics, integration, governance, and lifecycle support, raising the bar for vendor viability.</div>
+            <div class="sowhat">ISG&#x27;s new guide shows buyers are no longer evaluating AI in isolation—they now assess it alongside automation, analytics, integration, governance, and lifecycle support, raising the bar for vendor viability.</div><div class="srcline">Source: <a href="https://www.cxtoday.com/contact-center/isg-telstra-cresta-and-scorebuddycx-expose-ais-contact-center-test/" target="_blank" rel="noopener">CX Today</a></div>
           </div>
           <div class="meta"><span class="cat">CX</span><span class="run">PM</span></div>
         </div>
@@ -773,7 +824,7 @@
           <div class="pillcol"><span class="pill pill-signal">Signal</span></div>
           <div class="body">
             <a class="headline" href="https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure" target="_blank" rel="noopener">Twilio&#x27;s 2026 CDP report ties AI agent effectiveness to data infrastructure</a>
-            <div class="sowhat">Twilio&#x27;s research confirms that unified CDPs eliminate AI silos and deliver real-time context at scale—meaning enterprises can&#x27;t buy their way to Agentic AI without first fixing fragmented customer data.</div>
+            <div class="sowhat">Twilio&#x27;s research confirms that unified CDPs eliminate AI silos and deliver real-time context at scale—meaning enterprises can&#x27;t buy their way to Agentic AI without first fixing fragmented customer data.</div><div class="srcline">Source: <a href="https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure" target="_blank" rel="noopener">Twilio (vendor blog)</a></div>
           </div>
           <div class="meta"><span class="cat">AI</span><span class="run">PM</span></div>
         </div>
