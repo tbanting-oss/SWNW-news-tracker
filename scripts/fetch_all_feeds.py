@@ -99,6 +99,8 @@ BROAD_FEEDS_NEEDING_FILTER = {
     "SiliconANGLE",
     "Verdict",
     "Technology News For IT Channel Partners and Solution Providers",
+    "TechTarget Enterprise Software",
+    "Light Reading",
 }
 
 KEYWORDS = [
@@ -118,10 +120,23 @@ KEYWORDS = [
     "conversational ai", "voice ai", "agentic ai customer",
 ]
 
+# Extra keywords for individual broad feeds only, so the shared list above (and the wire feeds that use it)
+# behaves exactly as before. TechTarget carries CX and contact centre pieces among ERP and finance ones;
+# Light Reading is telecom-wide and is the place network APIs (CAMARA, Open Gateway) show up.
+FEED_EXTRA_KEYWORDS = {
+    "TechTarget Enterprise Software": (
+        "customer service", "customer support", "customer sentiment", "customer engagement", "omnichannel",
+        "contact centers", "cx ",
+    ),
+    "Light Reading": (
+        "network api", "camara", "open gateway", "number verification", "sim swap", "a2p", "rcs ", "sms ", "messaging",
+    ),
+}
 
-def is_relevant(title: str, summary: str) -> bool:
+
+def is_relevant(title: str, summary: str, extra: tuple = ()) -> bool:
     haystack = f"{title} {summary}".lower()
-    return any(kw in haystack for kw in KEYWORDS)
+    return any(kw in haystack for kw in KEYWORDS) or any(kw in haystack for kw in extra)
 
 
 def load_feed_list(opml_path: str) -> list[dict]:
@@ -210,7 +225,7 @@ def fetch_feed(name: str, url: str, rss_url_overrides: dict) -> dict:
         title = entry.get("title", "")
         summary = re.sub(r"<[^>]+>", "", entry.get("summary", "")).strip()[:500]
 
-        if needs_filter and not is_relevant(title, summary):
+        if needs_filter and not is_relevant(title, summary, FEED_EXTRA_KEYWORDS.get(name, ())):
             continue
 
         items.append(
