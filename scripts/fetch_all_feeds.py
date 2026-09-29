@@ -125,13 +125,18 @@ KEYWORDS = [
 # Extra keywords for individual broad feeds only, so the shared list above (and the wire feeds that use it)
 # behaves exactly as before. TechTarget carries CX and contact centre pieces among ERP and finance ones;
 # Light Reading is telecom-wide and is the place network APIs (CAMARA, Open Gateway) show up.
+# Measured on the full feeds, 29 Sep 2026: TechTarget passed 6 of 20 items, all on topic, and the ERP,
+# inventory and fleet items were all rejected. Light Reading passed 4 to 5 of 50, mostly cable, spectrum and
+# 5G, so almost all of it is dropped. Check again after a few weeks of real output before adding more.
 FEED_EXTRA_KEYWORDS = {
     "TechTarget Enterprise Software": (
         "customer service", "customer support", "customer sentiment", "customer engagement", "omnichannel",
-        "contact centers", "cx ",
+        "contact centers", "cx ", "chatbot", "virtual agent", "knowledge base", "voice of the customer",
+        "customer journey", "self-service", "personalization",
     ),
     "Light Reading": (
         "network api", "camara", "open gateway", "number verification", "sim swap", "a2p", "rcs ", "sms ", "messaging",
+        "ai agent", "phone number", "spoof", "robocall", "caller id",
     ),
 }
 
