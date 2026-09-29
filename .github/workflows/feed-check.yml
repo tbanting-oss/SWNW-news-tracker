@@ -1,0 +1,64 @@
+name: Feed check (new feeds, raw contents and keyword pass rate)
+
+# Manual only. Fetches the four newly added feeds exactly as the daily job does, then reports for each:
+# HTTP status, content type, entry count, newest date, and how many raw entries pass the tracker's
+# keyword filter. Nothing is written to the repo. It exists to show whether a feed is empty because
+# it is blocked (a 200 page with no entries) or simply quiet, and how noisy it is before filtering.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install feedparser requests
+      - name: Check the new feeds
+        run: |
+          python - <<'PY'
+          import os, sys
+          sys.path.insert(0, "scripts")
+          import requests, feedparser
+          import fetch_all_feeds as F
+          want = ["TechTarget Enterprise Software", "Light Reading", "CX Dive", "Call Centre Helper"]
+          feeds = {f["name"]: f["url"] for f in F.load_feed_list("config/feeds.opml")}
+          L = ["# Feed check", ""]
+          for name in want:
+              url = feeds.get(name)
+              L.append(f"## {name}")
+              if not url:
+                  L += ["not in feeds.opml", ""]
+                  continue
+              try:
+                  r = requests.get(url, headers=F.HEADERS, timeout=F.REQUEST_TIMEOUT, allow_redirects=True)
+              except Exception as e:
+                  L += [f"request failed: {str(e)[:200]}", ""]
+                  continue
+              p = feedparser.parse(r.content)
+              dated = [d for d in (F.entry_datetime(e) for e in p.entries) if d]
+              keep = [F.is_relevant(e.get("title", ""), e.get("summary", "")) for e in p.entries]
+              L += [f"- address fetched: {url.split('?')[0]}",
+                    f"- final address: {r.url.split('?')[0]}",
+                    f"- status {r.status_code}, type {r.headers.get('content-type', '')[:40]}, {len(r.content)} bytes",
+                    f"- entries {len(p.entries)}, dated {len(dated)}, newest {max(dated).isoformat() if dated else 'none'}",
+                    f"- parser complaint: {bool(p.bozo)}",
+                    f"- pass the current keyword filter: {sum(keep)} of {len(p.entries)}"]
+              if not p.entries:
+                  L.append("- start of body: " + repr(r.text[:160]))
+              L += ["", "Newest entries (KEEP passes the keyword filter):"]
+              for e, k in list(zip(p.entries, keep))[:14]:
+                  d = F.entry_datetime(e)
+                  L.append(f"  - {d.date().isoformat() if d else 'undated'} | {'KEEP' if k else 'drop'} | {e.get('title', '')[:90]}")
+              L.append("")
+          text = "\n".join(L)
+          print(text)
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as f:
+              f.write(text + "\n")
+          PY
