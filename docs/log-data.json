@@ -1,6 +1,58 @@
 {
   "days": [
     {
+      "iso": "2026-09-29",
+      "label": "Tue 29 Sep 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "HMRC awards Salesforce £2.4B taxpayer CRM contract",
+          "sowhat": "The UK's largest public-sector CRM deal to date signals government willingness to bet billions on cloud CRM infrastructure at scale.",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamZjb3IxeGJDcmNIS1NDTE1XeUtYWDhSWldzWkJPNkR3UTlWQnFLZlB5UFhmT1g0VG00RnpxSmNpZ0ZQdjdWYlVlRGVPbEhNN0RtU0ZGOEpBOTRrbkxxN3ZSLUVTaUExVmpKTVdnLUdNaElrTEl1VERYVUxVUDJrbE5reHp4ZGdTT0pjNDk3SzhfRnRvUDlXeW9xVC1ERXU1ZzBTMG1qWXJoMU5wOTFMTkthQ0RvbkxkN29nVg?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Tata Communications launches CPaaS continuity offering",
+          "sowhat": "Another CPaaS vendor pitches resilience—signal that business-continuity messaging is becoming table stakes, not differentiation.",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IOV9wS04wejA2MXlnNDRzaGFZbVI3ekxvYVVSZXgtWTk0Uy1KMmZhNjQtWkdhX1BUREFvSEtRVG8tcldLbGlfeHJwR1hHTE5Pd0VCLXFfSzZLNnZVMVlReVJlYVFiQlgwQjBrS0ltOTE?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "LiveRamp integrates CRM audiences into ChatGPT Ads",
+          "sowhat": "First-party data targeting now reaches conversational-ad inventory, extending CPaaS-adjacent identity resolution into generative surfaces.",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQNzVzWDZWdU5lOEg5eUJxZXNzR2UtMV96NEFyU1ZQYWpQT3pjUmFuUW42WjRJekp3U0lhZUwwT2drV1ZSUTRwNzR6S25LTjk3RDgwRnN0Q3ctaVNKRzAzVkREeExnX1VjWXRZ?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "AMD acquires WorldNet for $8.2B AI-model heft",
+          "sowhat": "A major silicon vendor buys AI-research capability outright, underscoring the race to own model IP alongside accelerator hardware.",
+          "url": "https://www.constellationr.com/insights/news/amd-acquires-worldnet-82-billion-adds-ai-model-research-heft",
+          "vendor_flag": false,
+          "run": "PM"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Magic Leap restructures, exposing enterprise-XR adoption limits",
+          "sowhat": "Another XR hardware reset confirms that immersive collaboration remains a niche use case, not a mainstream enterprise platform.",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BckRvVWN2SFRrRlpueTRHZmlib1UzN3ZBbnFnc203ak1xdmFPSl9lMWFHS0dDajBwZUlPNHQtWUZ5OTVCcXE5OGktVnU2N0M3cS1rVjUxU2xBZzU0cDFPZnZ4U2d3R1Q1V1U2VU5n?oc=5",
+          "vendor_flag": false,
+          "run": "PM"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-09-28",
       "label": "Mon 28 Sep 2026",
       "rows": [
@@ -759,113 +811,7 @@
         }
       ],
       "pattern_watch": "Three items (Salesforce Slack, Twilio Agentic SMS, Optimove Agentic Marketing) point to a shared thread: vendors are moving AI agent interfaces upstream into collaboration, messaging, and CRM layers—away from standalone tools."
-    },
-    {
-      "iso": "2026-09-21",
-      "label": "Mon 21 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce partners NVIDIA, repositions against Claude AI",
-          "sowhat": "CRM incumbent seeks NVIDIA tie to counter Anthropic's enterprise traction — a defensive move signalling genuine LLM platform anxiety.",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56Mk5ObU9WeERiUF9oaVRHOVdMeWpGRFUxaHQzVUpCTXRzWm5wdjFKVEtNbUFZT1FQQUNuR1RRalZaYUJIdkVXa1VRNUNRWW90dmZJ?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce integrates Claude into Slack with CRM controls",
-          "sowhat": "Anthropic's LLM now embedded in Salesforce workflow tooling — platform consolidation play to keep AI usage inside the ecosystem.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWmJuc1c2T3FrOXpScnRxcW9nS1F6c2pNdmpVREJDUlk2Y2duOUdNY0FCeUdOWGxMTG56d01QOXhzZU42cUowWlhnMDgzMkFnVGZEZ25JZThlMzZHMVRRRzI2aWF3bm1jd00zUllJTTl4QzY5RkhZbnFGNldWY3hXMEdvenF4SUxGSjU3Y0hFM2hUUzYtcTlDTmpqVmFUVWN0dmRXV0lUT1puQ1REOUNv?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HubSpot releases Fall 2026 workflow automation suite",
-          "sowhat": "Mid-market CRM refreshes team collaboration features — incremental update, no platform shift.",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTlSWFVlWDlCVmxJMGI1RWJyRk9uUjZCLWRoNjBpLVM1Tk9aZmphZk5KT1lwRC0wZGJXeDZFU1lDWVVDVmFIR0FfUzRkM0dzUlZjY0hyZldvQ3A1WHRmbUVqTEZoMWozTTBWSWVRdE5tNkhPczlKMERub2lsRHN2a3oxRUdtekI1YWI0ZDI1dVg?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "NVIDIA Nemotron reaches enterprise AI deployment inflection",
-          "sowhat": "Analyst commentary on chipmaker's LLM inference stack gaining production traction — watch for customer logos and pricing.",
-          "url": "https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "CodeRabbit launches Triage AI for PR prioritisation",
-          "sowhat": "Developer tooling uses generative AI to rank pull requests — niche play addressing software team workflow noise.",
-          "url": "https://futurumgroup.com/insights/coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf/?utm_source=rss&utm_medium=rss&utm_campaign=coderabbit-triage-fixing-the-pr-inbox-that-cries-wolf",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Webex announces calling modernisation roadmap at WebexOne",
-          "sowhat": "Cisco positions Webex for hybrid on-premises/cloud calling migrations, targeting enterprises hesitant to abandon legacy PBX estates wholesale.",
-          "url": "https://blog.webex.com/collaboration/enterprise-calling-modernization-at-webexone-webex-blog/",
-          "vendor_flag": true,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Telarus partners with Trimio for AI FinOps",
-          "sowhat": "Channel advisors gain a lever on AI spend tracking, positioning Telarus to sit between enterprise buyers and ballooning LLM inference costs.",
-          "url": "https://telecomreseller.com/2026/09/21/telarus-gives-advisors-a-new-way-to-manage-ai-spending/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft retires Azure Expert MSP designation",
-          "sowhat": "Microsoft consolidates partner tiers, signalling a shift away from legacy managed-service certifications as cloud consumption patterns evolve.",
-          "url": "https://telecomreseller.com/2026/09/21/microsoft-retires-azure-expert-msp-program/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "TILT Story merges with LionShare for healthcare CRM",
-          "sowhat": "Two niche healthcare marketing players combine, targeting CRM and automation for provider organisations—modest vertical consolidation, not a platform shift.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekV6QUVKU0pKYXN5NE5BeWJMUTFPR21zYUl0OXk4RnpYOWs5eWVYOVYyQzVTSWdZbEtHQVF6bkVEaGRta0x1QkxodVJMREVtUGsxS3hLeFpVWW9HcFd5YkN4OF9McUUyaFlWNTNxTDNFdHF3VEI0WDl4RGdqVWtpaFNCUy1rNEFJRTdwd1Y0ckR6SXJDSXZYTG5OV182LWpoa2JjVnFmdGZqU28zdk5MdNIBtgFBVV95cUxPTk9TSEtORGlsZTBzSlNaQTdoMGxYSk5Hc1RNVkJGbk92VEVkdVdFNmg5U205eHFiN2F4SVdBeFZYYldaMmVfVDFtUHFhM2tnX0RnZVdPYm9sOUpaVEYtZkFsaTh4alRrMU42RmF5by1laGpVSmhnSnJsdldEUTM5N3VUbVFaanBwLUJIOGE3c3cwanpFbVdDZS1KUXF4cHl1bkxUbFlHSDlHbEdSck02YlMwdzU1QQ?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Veeva expands Amgen partnership to global CRM",
-          "sowhat": "Amgen commits to Veeva Vault CRM worldwide, validating life-sciences vertical CRM as an alternative to horizontal platforms in pharma.",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkdPSzNBQlNEa3NCZm9lUUp6T1dtellSNzRZN1FITFVLOHp3aUVHc0t4MXZZV18xajhFM0ZKQm16bU9iajNQcVk2ellmMHB5SmhIZVI5UjBNclhCcE9xT1VZcFphdTR0M1k3aDlkdy1OeFZ6REdEM2dMZVpMdGNTVDQ3a204bHZoamxzNjNIeFp4Y1JZNVhfMElNdGdIWGtu?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HubSpot launches Growth Context AI framework",
-          "sowhat": "HubSpot wraps AI agent-building and contextual workflows into one release, betting SMB buyers will adopt an integrated CRM-native AI layer rather than stitching point tools.",
-          "url": "https://futurumgroup.com/insights/hubspot-bets-the-platform-on-growth-context/?utm_source=rss&utm_medium=rss&utm_campaign=hubspot-bets-the-platform-on-growth-context",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "Salesforce making defensive AI platform moves — NVIDIA tie + Claude integration both land same week"
     }
   ],
-  "updated": "2026-09-28T21:05:12.239822+00:00"
+  "updated": "2026-09-29T12:26:42.591694+00:00"
 }
