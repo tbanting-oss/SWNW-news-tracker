@@ -90,6 +90,49 @@ def norm_url(u):
     return u
 
 
+OUTLET_BY_HOST = {
+    "uctoday.com": "UC Today", "cxtoday.com": "CX Today", "cmswire.com": "CMSWire",
+    "futurumgroup.com": "Futurum", "constellationr.com": "Constellation Research", "nojitter.com": "No Jitter",
+    "techtarget.com": "TechTarget", "customerexperiencedive.com": "CX Dive", "callcentrehelper.com": "Call Centre Helper",
+    "lightreading.com": "Light Reading", "telecomreseller.com": "Telecom Reseller", "channeldive.com": "Channel Dive",
+    "siliconangle.com": "SiliconANGLE", "techcrunch.com": "TechCrunch", "businesswire.com": "Business Wire",
+    "globenewswire.com": "GlobeNewswire", "prnewswire.com": "PR Newswire", "verdict.co.uk": "Verdict",
+    "directionsonmicrosoft.com": "Directions on Microsoft", "cpaasaa.com": "CPaaSAA", "netline.com": "NetLine",
+    "twilio.com": "Twilio (vendor blog)", "ringcentral.com": "RingCentral (vendor blog)",
+    "webex.com": "Webex (vendor blog)", "microsoft.com": "Microsoft (vendor blog)",
+}
+GOOGLE_HOSTS = ("news.google.com", "google.com", "google.co.uk")
+
+
+def host_of(u):
+    m = re.match(r"^[a-z]+://([^/]+)", str(u or "").strip().lower())
+    return m.group(1).removeprefix("www.") if m else ""
+
+
+def host_outlet(u):
+    h = host_of(u)
+    for suffix, name in OUTLET_BY_HOST.items():
+        if h == suffix or h.endswith("." + suffix):
+            return name
+    return ""
+
+
+def outlet_for(item):
+    """The publication behind an item: from its own address when it has one, from the ' - Outlet' the
+    Google News feeds append to titles when it does not, else the feed name."""
+    url, title, source = item.get("url", ""), item.get("title", ""), item.get("source", "")
+    h = host_of(url)
+    if h and h not in GOOGLE_HOSTS:
+        return host_outlet(url) or h
+    m = re.match(r"^.*\s-\s([^-]{2,60})$", str(title or ""))
+    if m:
+        return m.group(1).strip()
+    s = str(source or "").strip()
+    if "\u2013" in s:                      # "Industry News \u2013 CPaaSAA": the outlet is the last part
+        return s.split("\u2013")[-1].strip()[:40]
+    return re.split(r"\s+[-/]\s+", s)[0][:40]
+
+
 def load_json(path, default):
     if not os.path.exists(path):
         return default
@@ -271,12 +314,14 @@ def render_html(log_data):
             pill_cls = PILL_CLASS.get(row["pill"], "pill-signal")
             flag = ' <span class="vendorflag">vendor research</span>' if row.get("vendor_flag") else ""
             run = html.escape(row.get("run", ""))
+            outlet = row.get("outlet") or host_outlet(row.get("url", ""))
+            src = (f'<div class="srcline">Source: <a href="{html.escape(row["url"])}" target="_blank" rel="noopener">{html.escape(outlet)}</a></div>' if outlet else "")
             rows_html.append(f"""
         <div class="row">
           <div class="pillcol"><span class="pill {pill_cls}">{html.escape(row['pill'])}</span></div>
           <div class="body">
             <a class="headline" href="{html.escape(row['url'])}" target="_blank" rel="noopener">{html.escape(row['headline'])}</a>{flag}
-            <div class="sowhat">{html.escape(row['sowhat'])}</div>
+            <div class="sowhat">{html.escape(row['sowhat'])}</div>{src}
           </div>
           <div class="meta"><span class="cat">{html.escape(row['cat'])}</span><span class="run">{run}</span></div>
         </div>""")
@@ -339,6 +384,9 @@ TEMPLATE = """<!doctype html>
   .headline {{ color:var(--ink); text-decoration:none; font-weight:650; font-size:15px; }}
   .headline:hover {{ text-decoration:underline; }}
   .sowhat {{ color:var(--mut); font-size:13.5px; margin-top:3px; }}
+.srcline {{ font-size:12px; color:var(--mut); margin-top:4px; }}
+.srcline a {{ color:var(--mut); font-weight:600; text-decoration:none; }}
+.srcline a:hover {{ text-decoration:underline; }}
   .meta {{ text-align:right; display:flex; flex-direction:column; gap:4px; align-items:flex-end; }}
   .cat {{ font-size:11px; font-weight:700; color:var(--mut); border:1px solid var(--line);
     border-radius:6px; padding:2px 7px; }}
@@ -397,6 +445,10 @@ def main():
         new_rows = validate_rows(raw_rows, already, label)
     else:
         new_rows, pattern_watch = [], ""
+
+    lookup = {norm_url(i["url"]): outlet_for(i) for i in fresh}
+    for r in new_rows:
+        r["outlet"] = lookup.get(norm_url(r.get("url", "")), "")
 
     print(f"{len(new_rows)} new rows kept ({label} run)")
 
