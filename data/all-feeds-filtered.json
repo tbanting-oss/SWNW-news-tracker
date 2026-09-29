@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-29T11:35:14.434523+00:00",
+  "generated_at": "2026-09-29T13:33:25.060691+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 32,
-  "feeds_with_errors": 5,
+  "feeds_with_errors": 4,
   "fetch_errors": [
-    {
-      "name": "CX Today",
-      "url": "https://www.cxtoday.com/feed/",
-      "error": "404 Client Error: Not Found for url: https://cxtoday.com/feed"
-    },
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
@@ -52,7 +47,44 @@
     },
     {
       "name": "CX Today",
-      "items": []
+      "items": [
+        {
+          "title": "Five Steps to Audit the Hidden AI Already Inside Your Contact Center",
+          "link": "https://cxtoday.com/five-steps-to-audit-the-hidden-ai-already-inside-your-contact-center-ttecdigital-cs-0062",
+          "published": "Tue, 29 Sep 2026 09:37:21 GMT",
+          "summary": "Hidden AI is already shaping CCaaS operations, so CX leaders need an audit trail. CX Today looks at TTEC Digital, risk, ownership and governance."
+        },
+        {
+          "title": "AI Is Taking the Easy Calls. Can It Make Voice More Human?",
+          "link": "https://cxtoday.com/ai-is-taking-the-easy-calls-can-it-make-voice-more-human",
+          "published": "Tue, 29 Sep 2026 08:45:12 GMT",
+          "summary": "Zendesk Real-Time Voice Translation aims to remove language barriers in contact centers. But can AI translation deliver accurate, trusted voice support?"
+        },
+        {
+          "title": "The New CX Today Is Live — Grab Your Founding Handle Before It's Gone",
+          "link": "https://cxtoday.com/the-new-cx-today-is-live-grab-your-founding-handle-before-its-gone",
+          "published": "Mon, 28 Sep 2026 17:30:46 GMT",
+          "summary": "A new CX Today site changes how readers follow the CX market, with smarter search, AI support and Techtelligence-led reporting. Join free."
+        },
+        {
+          "title": "Your Enterprise May Have a Decision-Making Problem",
+          "link": "https://cxtoday.com/your-enterprise-may-have-a-decision-making-problem",
+          "published": "Mon, 28 Sep 2026 17:30:42 GMT",
+          "summary": "Discover why fragmented data can undermine AI-driven decisions and how CX teams can prevent customer experience problems."
+        },
+        {
+          "title": "This Week in AI: 3 CX Gaps That Still Need to Be Solved",
+          "link": "https://cxtoday.com/this-week-3-cx-gaps-that-ai-still-needs-to-solve",
+          "published": "Mon, 28 Sep 2026 16:36:24 GMT",
+          "summary": "Qualtrics, Insider One, and HubSpot unveiled new AI-led CX tools this week, but real gaps in trust and visibility remain unresolved"
+        },
+        {
+          "title": "Employee Experience Is the New WFM Battleground",
+          "link": "https://cxtoday.com/employee-experience-is-the-new-wfm-battleground",
+          "published": "Mon, 28 Sep 2026 14:00:41 GMT",
+          "summary": "From conversational hiring to AI readiness, this week’s WFM news highlights the changing employee experience technology landscape."
+        }
+      ]
     },
     {
       "name": "Directions on Microsoft",
@@ -139,6 +171,12 @@
     {
       "name": "UC Today",
       "items": [
+        {
+          "title": "Cloud Voice Can Go Wrong Long Before the First Call - UC Today",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSER5RU5XaEpCaEM1Ym1FZUEta05pMGxQTTlUMGJGTndfMzdqVTJvN3R6am1UY3hacGU1ZVdBeGFFdFdvMEd1cXlLNGZRV2RrSUJtMmlWOHZ6N0t1ZThUMnB0NVdOUjJsLVpWQzNtWHZHdGRlcUFYNUljU0MzZ0FyYVhOeWhXNEpEZnVWTGxtVEt5LVFqa2tlYS15Z2RGZ2s?oc=5",
+          "published": "Tue, 29 Sep 2026 12:40:29 GMT",
+          "summary": "Cloud Voice Can Go Wrong Long Before the First Call&nbsp;&nbsp;UC Today"
+        },
         {
           "title": "What Does Meta Muse Mean for the Immersive Workplace? - UC Today",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDhPU2EtSjJrOEo5Zmd5ejZoWHJVT0RCdGhnaUJsSnNBRDlNbWd3QWVQUFNIVTVsc1hQOGlqd2czUWpSYWhNcWhJdm5WTHFoNzJrNHhXWkdSWk1JZDdnZkhJLU0yUDNzQlV2bnZ2c1hHYW5BQUw5bVRqSGhPNDJYdjB1UEI?oc=5",
@@ -232,14 +270,7 @@
     },
     {
       "name": "Twilio Blog",
-      "items": [
-        {
-          "title": "How to Build an RCS Business Messaging Campaign with Twilio in PHP",
-          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
-          "published": "Sun, 27 Sep 2026 20:00:00 -0400",
-          "summary": "In this tutorial, you’ll learn how to build an RCS Business Messaging campaign in PHP"
-        }
-      ]
+      "items": []
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -249,10 +280,22 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
-          "title": "Tata Communications' CPaaS Drives Customer Continuity - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IOV9wS04wejA2MXlnNDRzaGFZbVI3ekxvYVVSZXgtWTk0Uy1KMmZhNjQtWkdhX1BUREFvSEtRVG8tcldLbGlfeHJwR1hHTE5Pd0VCLXFfSzZLNnZVMVlReVJlYVFiQlgwQjBrS0ltOTE?oc=5",
-          "published": "Tue, 29 Sep 2026 01:46:11 GMT",
-          "summary": "Tata Communications' CPaaS Drives Customer Continuity&nbsp;&nbsp;CX Today"
+          "title": "Where do associates fit in an AI world? - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWN2S00yNndqaE92RkF0cjhEYXdGamo0bDJ5YkNpN21QVTBrT05vaVJZOE1nRUJnZkMxYkJ2YmMxZVd2U1EzRTUtVGJiUTVQRko2VmtVUF8yWXJKYXF4MVBtVTJvWFJPbFJMZEFWRi1rc2VXUEV2cnkzSERpMjV2X09IenFZQzl6SVp6b1FvWkFZeEt4?oc=5",
+          "published": "Tue, 29 Sep 2026 13:11:10 GMT",
+          "summary": "Where do associates fit in an AI world?&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026 - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WdzVJX29yOVBWempNMnE3Rng1YzVnQkd2SlVTMlI2VTBoUkZTRW5vZVUyV2NleDIycGxuNXJMZVF5Mm5tTE5BX0hwY2ZpWW92SjE5WXU0cE0zZl8yVUUzdy1aaw?oc=5",
+          "published": "Tue, 29 Sep 2026 00:45:52 GMT",
+          "summary": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "How one BPO is positioning for an AI future - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTNtaWszdGNhbDZqUkJoS25PLXFIRTB5V083UlFHV0lSUWhmMFpvRnFDblkydGNWbzRtck8wUE9PUWRrUWFOTWNKQ2haVFVPVUt6bm5qM29wWS1jajRNRUlUYjNjenN6aDdCYzcxQkFHRVF0LXU2TzNNYlZoby1aVTlwOHUxWFdqeWRvOVpn?oc=5",
+          "published": "Mon, 28 Sep 2026 21:54:15 GMT",
+          "summary": "How one BPO is positioning for an AI future&nbsp;&nbsp;CX Dive"
         },
         {
           "title": "The New CX Today Is Live — Grab Your Founding Handle Before It's Gone - CX Today",
@@ -267,12 +310,6 @@
           "summary": "Employee Experience Is the New WFM Battleground&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "The ISG Customer Experience Management Advanced Buyers Guide 2026: 6 Top Takeaways - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wS3ZRU2c4VVA4YUtzZEJRM3hCM2lsSFlfcFdaLUxSd2k0bThJaWc4T2pqejFrQ3YxQ1JkaUljNGQtVVd0NGlRb1FydWd1X3pzRGh6dWFyU19EY2t2LUlBWXNhREM3UFpCZVRwZUFqSy1MVGtNN0NheDdBTWY?oc=5",
-          "published": "Mon, 28 Sep 2026 17:19:09 GMT",
-          "summary": "The ISG Customer Experience Management Advanced Buyers Guide 2026: 6 Top Takeaways&nbsp;&nbsp;CX Today"
-        },
-        {
           "title": "The CRM workflow gap holding back customer experience - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
           "published": "Mon, 28 Sep 2026 13:43:18 GMT",
@@ -283,12 +320,6 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5COFlnVndPVmg1UlRwMlFBQmt5RDZGNlotdjhPemI2TGdNcFA0eWplS1phWFJwaXVUemZkYldjMm1GSmJQQlV1T2I0WTYzWGdDRm9CM3g5eFVxR2EtUzVnMVFnX051RTl2dm80RXFMQ2pHTDIxSUdQM2xoM3g4UTA?oc=5",
           "published": "Mon, 28 Sep 2026 08:44:43 GMT",
           "summary": "Why Does Customer Experience Have an Operating Model Problem?&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "iCXeed Announces Key Leadership Appointments to Accelerate Cognitive Customer Experience Innovation on AWS - Newswire.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1wQzBiWXJnbHlhblNzUmQ4dGpiODk2dnB2NzRLRURvTWRYZHRhc29UTDlENVdQRmdaV2V2al8xX2FnRUpYd3hVU3NXUjN2bDRuU2NDcDJDQncwcGlyS0VRaXlqYkRxRUJYU3ZFcGludFJTSDQzN1gxa1Blc0RiTnVlWHFXck1KbGNzZmpMWWc0QjhteHBnaG1DRHI5ZlNVajNabkxqX1dIbnc?oc=5",
-          "published": "Sun, 27 Sep 2026 22:00:00 GMT",
-          "summary": "iCXeed Announces Key Leadership Appointments to Accelerate Cognitive Customer Experience Innovation on AWS&nbsp;&nbsp;Newswire.com"
         }
       ]
     },
@@ -296,16 +327,52 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
+          "title": "Slant and FinTurk debut new forms tools - InvestmentNews",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTUtdmljYkw1R1RmT3lXNWQ1RnJmLUJPMi1WMEVjSWNrblk1dFd4ZXlUMGRPTWJFdVdZc3c1SXFNZUZfcHZLTUFDMVBkb3BfdHdQazBhNDVjRHluTnU5NDFPdjBtd3FJdjVyVFFBX3BMbzBEOUR3TEkydDRpaGwxd0IwbGF4c2ZJSjF6UVhxc3JVaUhJ?oc=5",
+          "published": "Tue, 29 Sep 2026 13:11:19 GMT",
+          "summary": "Slant and FinTurk debut new forms tools&nbsp;&nbsp;InvestmentNews"
+        },
+        {
+          "title": "Salesforce Price Prediction: The Cheapest Way to Own AI Software - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHRzN0U0cHRTbDI1aTJMVkpibnUtTGh5dTBtNkdZbzBJRlVUZ0VLNE5ybnlWTlY5Zk1Hc2EtRm1SM0dMODJvVlhCd0xvanVXWUZXWmxxdFhVZzg2Mi1wc1NFcmVnVWVQZWJhSzZ1VndzNXZlWmRNX1pKbng5T2JLMjl0WnRBNnlJNU9INQ?oc=5",
+          "published": "Tue, 29 Sep 2026 13:00:31 GMT",
+          "summary": "Salesforce Price Prediction: The Cheapest Way to Own AI Software&nbsp;&nbsp;AOL.com"
+        },
+        {
+          "title": "EAB Expands Enrollment CRM with Agents to Help Colleges Recruit More Students - GlobeNewswire",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ1NqT01PeUdXOFRLbkFKSEZTVXB1aGlLMW9jXzg0WEEzTVkxQWoyZjRCSTkwaXc0X1kzVUxLa2pSMWVQajQzbEp4c3EtLTN2T3Y0U0J0OElUR2c5M2Yya1dGT2NiMlV3YzFBeG9TdHNDbkg3Z3o0bWozQ25NY1hELUVpbEdUZkNSTEpQZjVKV3hnWmUwZk9FSXN2XzFmdFR4akUtM19ld3JTN09nclJBSlJtcnFmNktLRVlVTU9ad2xyOE1PbjE3WDY5ellsU3haTW0zMFJSNUFsMWgxTGc3WGIxTQ?oc=5",
+          "published": "Tue, 29 Sep 2026 13:00:00 GMT",
+          "summary": "EAB Expands Enrollment CRM with Agents to Help Colleges Recruit More Students&nbsp;&nbsp;GlobeNewswire"
+        },
+        {
+          "title": "Salesforce Price Prediction: The Cheapest Way to Own AI Software - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHdhMVZoSWdRcTRiRUViTzlxblJ2VHM0M2RoelpxOHdydE50Q1pRc05UV0Q4VVNiMTIxUG5FdkpaeHJ5ajA1LVR0ejdyUHF1YmlKTmRJZXFSbG4ybW8wSVlOTFVTeERILXNSTnIzN1ZUcnhPY2FSaW9IWE1RWUVGUjBFOXVGZ0poMVp4aGVJN3YyZk9IQ2VRdGZJQnkzTE01V3pDLW4yajdVZTQ?oc=5",
+          "published": "Tue, 29 Sep 2026 13:00:00 GMT",
+          "summary": "Salesforce Price Prediction: The Cheapest Way to Own AI Software&nbsp;&nbsp;24/7 Wall St."
+        },
+        {
+          "title": "Oppenheimer Maintains Salesforce(CRM.US) With Buy Rating, Maintains Target Price $275 - 富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWdDZ2VaNkJYZG9mR1RuNGNpYk1fUXY3WnduWmlVMjJ4cEVpemZSX0I4MTMtbEctcXNpb0xabHBVUkIzOUhiVXlkUk1VVWRlR2Y4OTA4M0kzbk5KOUVEcmZXV2RhRGhLOXpiUmg2b1JNWUF3eXJJTXc0VHFocndKMDdpRzc2bEhQQ1gtNy00Q3BzOW9rdGI2Z1pCRl9jNUU1UV9KbXQ1eWpCa0pjaVV0NzBrNXh5eFRhRjU0WQ?oc=5",
+          "published": "Tue, 29 Sep 2026 12:47:43 GMT",
+          "summary": "Oppenheimer Maintains Salesforce(CRM.US) With Buy Rating, Maintains Target Price $275&nbsp;&nbsp;富途牛牛"
+        },
+        {
+          "title": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaHh1WkVLMzExbkxNSmpkdEFpWDNWZk5tLUNQVzZpSk1HeS16X3Rlakp5RGJ6U1M3R0hyTzNPN2xJVmtzM0o5aDhxek1yUTJMTlZGS0Q3TVVwYk1VcUlsMzdwV3JxVFJxUktsNXNwNXllb3hrYTBhS3V2U1UzWHgtX19fOWNvOWNTQXByMExvUWRCYnUwbkFXUmdFSi1GaVl6U3FLaWJudUJwalRZNVNQYTVUN1NGNVR4NHNNUTRzZkY?oc=5",
+          "published": "Tue, 29 Sep 2026 12:18:56 GMT",
+          "summary": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement&nbsp;&nbsp;TipRanks"
+        },
+        {
           "title": "What UK Business Owners Should Demand From Their CRM Vendor - Bdaily",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRV9OWENyN0ItaDQxNFBsTktHNnc5b051dklpZXpmZzNqbTNiMTBxOTFRcG5QOXNLMllJeS03MG5oWUFEbWtoZDJYMzFZTzFTZXQtd192SlNpSHZUazdQTTd5VGJISXRlQ3JweVRteDhCSHM1OThnZk43c2Q3QThqSGM4WFR6cG5UWUxPSzdwSWlCa0F4NzMwTDNoVXVRVEVHMVE?oc=5",
           "published": "Tue, 29 Sep 2026 09:17:35 GMT",
           "summary": "What UK Business Owners Should Demand From Their CRM Vendor&nbsp;&nbsp;Bdaily"
         },
         {
-          "title": "LiveRamp brings CRM audiences to ChatGPT Ads - ContentGrip",
+          "title": "LiveRamp brings CRM audiences to ChatGPT Ads - contentgrip.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQNzVzWDZWdU5lOEg5eUJxZXNzR2UtMV96NEFyU1ZQYWpQT3pjUmFuUW42WjRJekp3U0lhZUwwT2drV1ZSUTRwNzR6S25LTjk3RDgwRnN0Q3ctaVNKRzAzVkREeExnX1VjWXRZ?oc=5",
           "published": "Tue, 29 Sep 2026 08:32:35 GMT",
-          "summary": "LiveRamp brings CRM audiences to ChatGPT Ads&nbsp;&nbsp;ContentGrip"
+          "summary": "LiveRamp brings CRM audiences to ChatGPT Ads&nbsp;&nbsp;contentgrip.com"
         },
         {
           "title": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul - The Register",
@@ -320,10 +387,10 @@
           "summary": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses&nbsp;&nbsp;EIN Presswire"
         },
         {
-          "title": "Fast Track launches native AI-powered CRM app for iPhone - yogonet.com",
+          "title": "Fast Track launches native AI-powered CRM app for iPhone - Yogonet",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHFnSkNtWUdNWlZyekd3SmpMb0lNUUE4SmU4cXgtWlptZUxtRnUzS2JkSENyaWZoN29XNDFselhlLVRlUnFRUnBZb3FpdHc4UzJWSlhubS1oWlpweVJ3QUtVZV9xd0ZXck15Zl85eUhNWmx0Y3hCUC1QbThjWEJOekVhVG1hNWh5cUo3TnJNeGJ3N1dLUWlMdDBNNTN2Z2U4b04zbF9CaDkwNkVqdGFiTVRyeVpLaGM?oc=5",
           "published": "Tue, 29 Sep 2026 06:33:06 GMT",
-          "summary": "Fast Track launches native AI-powered CRM app for iPhone&nbsp;&nbsp;yogonet.com"
+          "summary": "Fast Track launches native AI-powered CRM app for iPhone&nbsp;&nbsp;Yogonet"
         },
         {
           "title": "(CRM) Movement as an Input in Quant Signal Sets - news.stocktradersdaily.com",
@@ -350,46 +417,28 @@
           "summary": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy.&nbsp;&nbsp;AOL.com"
         },
         {
-          "title": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy. - 247wallst.com",
+          "title": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy. - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGpLYzdGRWw0M2J4djNscWZSRmRveVhsVDFfQXRrMEt0a1ZNenNXYnpwSjVlRFRrLVNpTVlfTU1BRHlieUtDUW52LWxWeG40bXN6d3pUUW5yWkZvVHV0RDdnR29FRXM3VWZkMUE0ODJwZGcxVnJYc3BPVnNGdTZYc0ZpaHo0TW43elAzYmluS0pwWmdIcFVkekx4RGxyVUVUaWx5dmp1cTR4b3g4YjR5eTdiV3RCdw?oc=5",
           "published": "Mon, 28 Sep 2026 17:30:00 GMT",
-          "summary": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy.&nbsp;&nbsp;247wallst.com"
+          "summary": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy.&nbsp;&nbsp;24/7 Wall St."
         },
         {
-          "title": "Aquapio Launches CRM Platform for Manufactured Home Sales Professionals - citybiz.co",
+          "title": "Aquapio Launches CRM Platform for Manufactured Home Sales Professionals - citybiz",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMklmN0hldFNZb3hsTVNHQTNzOWlfV1NBdWdHQTFIWUFzbHYzWHRqYmo4NW1MME05U1dRNWN0ajA0a2JoNDVKd3o5YTdiV1JNbF9mTDRmMGdoLWFyQ0lQYnRZUGczNnFjZGhRMXMxZWhwa2REUl8yZjlkUnFaaXcwS1A2R0xwZXVXbEJXcmllckNXSkdDbVNNUXI4a3pOSWJKOGM1UjNzVHdSQnEyeDVj?oc=5",
           "published": "Mon, 28 Sep 2026 17:13:23 GMT",
-          "summary": "Aquapio Launches CRM Platform for Manufactured Home Sales Professionals&nbsp;&nbsp;citybiz.co"
+          "summary": "Aquapio Launches CRM Platform for Manufactured Home Sales Professionals&nbsp;&nbsp;citybiz"
         },
         {
-          "title": "Bapu Rao Srigadde - Building the Human Side of Technology - finance.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWNjWEhPZGF5QmZJOVh6QXJqclBEUHdCd2hnYnRKNUluY1ZfSWoxeWZSa2M5dlg2XzFpRVY1VmxSTlBydXNvNHRDMjBicERzMktMeVpHOHpVUHRXZTlheEJiODA0NDVobklsOFZzR0tVWjdaNDRPbER2dVBSSldDRU5DTm1JNnc3cUc2N3cwT0RRS3RSTFljUQ?oc=5",
-          "published": "Mon, 28 Sep 2026 16:45:00 GMT",
-          "summary": "Bapu Rao Srigadde - Building the Human Side of Technology&nbsp;&nbsp;finance.yahoo.com"
-        },
-        {
-          "title": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches? - finance.yahoo.com",
+          "title": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNW5SOFNGS3Vnbl81TTlNV1BpZnpNWWJEaWpyQ3V3OFY3N0ZMbUpjOHVJaEJDUkIwbUdmUF9INExiMVh1SnBEWHQybERLZ0M3T1Q5S3cxYmNadV9QczFXOGZVSzRhSHFzeEp1QkZoSnFCdzVLZy1WSTRGUlBIcjJLX2U2OXBsQWRrX1lBaWo3UFFjMUtFSWZWSklCdk9Hdw?oc=5",
           "published": "Mon, 28 Sep 2026 16:07:54 GMT",
-          "summary": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches?&nbsp;&nbsp;finance.yahoo.com"
+          "summary": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches?&nbsp;&nbsp;Yahoo Finance"
         },
         {
-          "title": "Why Salesforce, ServiceNow and Snowflake All Dropped 4% Within Minutes of a Meta Announcement Monday - 247wallst.com",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRi1fOVROazVMdWVZblk4dmxHdU1OaXhnQlRzOEJlUGNIWWdia2x2Nk42dFpKa1FKMFd6anYyRk96S2JXTTBGVG1mOGVWTkVLWTd2TkdnUl9MQjlFV3FRWXU5YXljVkM2eE5NYjhKQUtxeTVYanZMTERfci1fVkxIa3dqUVFERWliRnRGaGVXNndPeVNDY3hsdEgyd1ZYQ0FraURxdUpnNnczbWUyeUczSkVXLWxSRGlzZkM5eE5RUHc5T1B2cFlkcWpLS3RCMEQ2MkcxX1VkVmFiQQ?oc=5",
-          "published": "Mon, 28 Sep 2026 15:14:00 GMT",
-          "summary": "Why Salesforce, ServiceNow and Snowflake All Dropped 4% Within Minutes of a Meta Announcement Monday&nbsp;&nbsp;247wallst.com"
-        },
-        {
-          "title": "Salesforce Takes 5 Huge Steps Forward at Dreamforce - Cloud Wars",
+          "title": "Salesforce Takes 5 Huge Steps Forward at Dreamforce - cloudwars.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdrT2VNODlpQURVMUJtcXJGelM3M09OajU3WENlNXZlZGtCcEdUbmFUZTNUYkI2U0lNR3Bna2xyRHNpZ0ZHaHlpOTRNb2pCZFRvUFpuZ01GV1c1akVBUWdzWTd2dHAxU2x2UnlDZDlra2o0aktKNVlnZ0R1eUZlNUlodw?oc=5",
           "published": "Mon, 28 Sep 2026 15:00:00 GMT",
-          "summary": "Salesforce Takes 5 Huge Steps Forward at Dreamforce&nbsp;&nbsp;Cloud Wars"
-        },
-        {
-          "title": "Title – Salesforce Expert Bapu Rao Srigadde on Human-Centered CRM Solutions - TechBullion",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTE9fWC1rY1pMQVVidlRhd1oxenpmaW12emFiTW9iQnVta2x2RGQxQnY0Zmdoek0tb1lheHlVM0RBc0JRUVZZMHpFbnRRUDlqX2JfQ3J4X2hlZWp0VlY3TjQzNUMtTnc2dzBxeEx6cUNXU1FHbWVQVjdUS2ZBQ29Tc1RiUU1wQUhWSWdPV09haEVkSW9hcGNjdGZDN3NRVEk?oc=5",
-          "published": "Mon, 28 Sep 2026 14:34:08 GMT",
-          "summary": "Title – Salesforce Expert Bapu Rao Srigadde on Human-Centered CRM Solutions&nbsp;&nbsp;TechBullion"
+          "summary": "Salesforce Takes 5 Huge Steps Forward at Dreamforce&nbsp;&nbsp;cloudwars.com"
         },
         {
           "title": "10 Salesforce Solution Providers Reshaping CRM In The AI Era - crn.com",
@@ -440,16 +489,10 @@
           "summary": "Salesforce vs. Palantir Technologies: What Revenue Trends Reveal to Investors About These Tech Giants&nbsp;&nbsp;The Motley Fool"
         },
         {
-          "title": "Bapu Rao Srigadde - Driving Innovation in Enterprise CRM Ecosystems - ACCESS Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdTYxVFVUbUxYdFRsOFFDdHRTd2hZZVVxSzZQX0JTRERiZENJbkJzUTdHOFFaZXJONlJwbjdCRE40RmlxTGpTTmpDRlUxRThXc19yRGRySlQ5WE13b1VVMGhDT0JXVXlZdHp5ejhwWndYZjJUMkNLX3hzamVDd296TW5BR2dJUnlmWUJKbHZzWTVvSXpjQmMzSnQ4c3g4dXJyMVNQUXVkUW5DR3dHeFVUcklSbmxLUUl6M2N1WXZiZ1pLTEtVemhVeDRSY3VId2FjVHowWTlTRjllNzlNQWhNWDc1VFo?oc=5",
-          "published": "Sun, 27 Sep 2026 13:09:53 GMT",
-          "summary": "Bapu Rao Srigadde - Driving Innovation in Enterprise CRM Ecosystems&nbsp;&nbsp;ACCESS Newswire"
-        },
-        {
-          "title": "Bapu Rao Srigadde - Driving Innovation in Enterprise CRM Ecosystems - lincolnjournal.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR2FPQlRzb3JDMGhnTXJLakR3TVRRNkpFTThkTk5NdjlMcHZUZWF1Y0YxV09NakZhTVU1bjNaeEUyOTVUd0lSaEdVLUkzSWRaZno3ZWQ2VDhmUURVMFp0azB3SjFvZDdkZUtDd2kzeW51UU1QMFJfVWxfa1dwNm9DbXZJX2Rrc21Xd0pVeFlCaWs3amxJaUE2dF82dmN2S0NmVnBmTERiMGNHQzc2X2lCb2Y2UVcwNWxPa1NBRkllYU1qSGNldTdzVjJGTmxtZ3VXMlVmMWQyVjVFOUViR3VOVEZIQ2RoSi1KMmpFZmx0QXhoRnB0WktnQ296RFNqdW9pT04xbU5PbWlBeU0?oc=5",
-          "published": "Sun, 27 Sep 2026 13:05:00 GMT",
-          "summary": "Bapu Rao Srigadde - Driving Innovation in Enterprise CRM Ecosystems&nbsp;&nbsp;lincolnjournal.com"
+          "title": "What AI Needs to Actually Be Useful in a Contact Center - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajVUNlczdzJSZUVReU9UU2VZb3IxNWE0S3BxU3daRE5FWTd3SG5FQzVnb0JRR0w2UElDSTlNckV5LWJjbjJVZ0R0QmRWQjBPa19WRjBuRmdvUU5ER2d6VmtMcmpBdTBiems3cXAwU0ptaG1NZXRsWXZ2XzU1VHg4a0t2TTlENTUzT3lRT0diNFRXQlBN?oc=5",
+          "published": "Sun, 27 Sep 2026 22:19:46 GMT",
+          "summary": "What AI Needs to Actually Be Useful in a Contact Center&nbsp;&nbsp;CX Today"
         }
       ]
     },
@@ -472,6 +515,36 @@
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "Entelgy Names Global MD to Unify AI-Led International Push",
+          "link": "https://futurumgroup.com/insights/entelgy-names-global-md-to-unify-ai-led-international-push/?utm_source=rss&utm_medium=rss&utm_campaign=entelgy-names-global-md-to-unify-ai-led-international-push",
+          "published": "Tue, 29 Sep 2026 12:20:43 +0000",
+          "summary": "The post Entelgy Names Global MD to Unify AI-Led International Push appeared first on Futurum.\nEntelgy appointed Jokin Ariceta as Global Managing Director to unify its AI-led international expansion across Spain, Latin America, and the U.S., capitalizing on surging demand for AI consulting services.\nThe post Entelgy Names Global MD to Unify AI-Led International Push appeared first on Futurum."
+        },
+        {
+          "title": "Exprivia's ISO 42001 Cert: A Trust Signal in a Crowded AI Market",
+          "link": "https://futurumgroup.com/insights/exprivias-iso-42001-cert-a-trust-signal-in-a-crowded-ai-market/?utm_source=rss&utm_medium=rss&utm_campaign=exprivias-iso-42001-cert-a-trust-signal-in-a-crowded-ai-market",
+          "published": "Tue, 29 Sep 2026 12:20:35 +0000",
+          "summary": "The post Exprivia&#039;s ISO 42001 Cert: A Trust Signal in a Crowded AI Market appeared first on Futurum.\nExprivia's ISO 42001 certification for responsible AI governance arrives as AI consulting becomes the top growth driver for channel partners, with 86.7% citing it as their leading service expectation.\nThe post Exprivia&#039;s ISO 42001 Cert: A Trust Signal in a Crowded AI Market appeared first on Futurum."
+        },
+        {
+          "title": "Wiz Bets on MSP Channel to Scale AI-Driven Cloud Security",
+          "link": "https://futurumgroup.com/insights/wiz-bets-on-msp-channel-to-scale-ai-driven-cloud-security/?utm_source=rss&utm_medium=rss&utm_campaign=wiz-bets-on-msp-channel-to-scale-ai-driven-cloud-security",
+          "published": "Tue, 29 Sep 2026 12:20:33 +0000",
+          "summary": "The post Wiz Bets on MSP Channel to Scale AI-Driven Cloud Security appeared first on Futurum.\nWiz launched its Partner Alliance MSP Program, using the Wiz Tenant Manager to help managed services partners deliver AI-driven cloud security at scale, addressing operational gaps as AI expands attack surfaces.\nThe post Wiz Bets on MSP Channel to Scale AI-Driven Cloud Security appeared first on Futurum."
+        },
+        {
+          "title": "By Light's NATO Sprint 3 Bid Tests Defense AI Integration at Scale",
+          "link": "https://futurumgroup.com/insights/by-lights-nato-sprint-3-bid-tests-defense-ai-integration-at-scale/?utm_source=rss&utm_medium=rss&utm_campaign=by-lights-nato-sprint-3-bid-tests-defense-ai-integration-at-scale",
+          "published": "Tue, 29 Sep 2026 12:20:12 +0000",
+          "summary": "The post By Light&#039;s NATO Sprint 3 Bid Tests Defense AI Integration at Scale appeared first on Futurum.\nTeam CATALYST, led by By Light Professional IT Services, advances to Sprint 3 of NATO's Next Generation Modelling and Simulation Programme. The bid capitalizes on Software Lifecycle Engineering market growth projected to reach $344 billion by 2028.\nThe post By Light&#039;s NATO Sprint 3 Bid Tests Defense AI Integration at Scale appeared first on Futurum."
+        },
+        {
+          "title": "Onnec Bets on PMO Infrastructure to Scale UK and EMEA Delivery",
+          "link": "https://futurumgroup.com/insights/onnec-bets-on-pmo-infrastructure-to-scale-uk-and-emea-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=onnec-bets-on-pmo-infrastructure-to-scale-uk-and-emea-delivery",
+          "published": "Tue, 29 Sep 2026 12:19:49 +0000",
+          "summary": "The post Onnec Bets on PMO Infrastructure to Scale UK and EMEA Delivery appeared first on Futurum.\nOnnec appoints Colin Kitchen as PMO Director to strengthen project governance and operational consistency across UK and EMEA markets, responding to enterprise buyer demands for reliable implementation and deployment services.\nThe post Onnec Bets on PMO Infrastructure to Scale UK and EMEA Delivery appeared first on Futurum."
+        },
         {
           "title": "RISC-V Soft Cores Go 64-Bit With Efinix Sapphire RV64",
           "link": "https://futurumgroup.com/insights/risc-v-soft-cores-go-64-bit-with-efinix-sapphire-rv64/?utm_source=rss&utm_medium=rss&utm_campaign=risc-v-soft-cores-go-64-bit-with-efinix-sapphire-rv64",
@@ -518,6 +591,12 @@
       "name": "Constellation Research",
       "items": [
         {
+          "title": "MongoDB launches Atlas Agent Engine, Atlas Infinite as MongoDB 9.0 goes GA",
+          "link": "https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga",
+          "published": "Tue, 29 Sep 2026 12:30:00 +0000",
+          "summary": "MongoDB launches Atlas Agent Engine, Atlas Infinite as MongoDB 9.0 goes GA\nLarry Dignan\nTue, 29 Sep 2026 - 05:30\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technolo"
+        },
+        {
           "title": "AMD acquires WorldNet for $8.2 billion, adds AI model research heft",
           "link": "https://www.constellationr.com/insights/news/amd-acquires-worldnet-82-billion-adds-ai-model-research-heft",
           "published": "Mon, 28 Sep 2026 20:50:10 +0000",
@@ -551,14 +630,7 @@
     },
     {
       "name": "SiliconANGLE",
-      "items": [
-        {
-          "title": "Voice AI startup Modulate raises $25M to bring audio-native models to more developers",
-          "link": "https://siliconangle.com/2026/09/28/voice-ai-startup-modulate-raises-25m-to-bring-audio-native-models-to-more-developers/",
-          "published": "2026-09-28T14:30:51Z",
-          "summary": "Voice artificial intelligence startup Modulate Inc. today announced it has raised $25 million in new funding to get its audio-native models in front of more developers. Modulate offers AI models that work on the raw audio of a conversation. Emotion, tone and intent all register as signals, as do signs that a voice is a [&#8230;]\nThe post Voice AI startup Modulate raises $25M to bring audio-native models to more developers appeared first on SiliconANGLE."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Technology News For IT Channel Partners and Solution Providers",
