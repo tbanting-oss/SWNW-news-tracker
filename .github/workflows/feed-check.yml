@@ -43,13 +43,13 @@ jobs:
                   continue
               p = feedparser.parse(r.content)
               dated = [d for d in (F.entry_datetime(e) for e in p.entries) if d]
-              keep = [F.is_relevant(e.get("title", ""), e.get("summary", "")) for e in p.entries]
+              keep = [F.is_relevant(e.get("title", ""), e.get("summary", ""), extra=F.FEED_EXTRA_KEYWORDS.get(name, ())) for e in p.entries]
               L += [f"- address fetched: {url.split('?')[0]}",
                     f"- final address: {r.url.split('?')[0]}",
                     f"- status {r.status_code}, type {r.headers.get('content-type', '')[:40]}, {len(r.content)} bytes",
                     f"- entries {len(p.entries)}, dated {len(dated)}, newest {max(dated).isoformat() if dated else 'none'}",
                     f"- parser complaint: {bool(p.bozo)}",
-                    f"- pass the current keyword filter: {sum(keep)} of {len(p.entries)}"]
+                    f"- pass the live keyword filter (base list plus this feed's extras): {sum(keep)} of {len(p.entries)}"]
               if not p.entries:
                   L.append("- start of body: " + repr(r.text[:160]))
               L += ["", "Newest entries (KEEP passes the keyword filter):"]
