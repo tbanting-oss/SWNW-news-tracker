@@ -40,6 +40,7 @@ FALLBACK_ITEM_COUNT = 10   # if a feed has no usable dates, take the N newest en
 REQUEST_TIMEOUT = (10, 25)  # (connect, read) seconds; caps a hung GlobeNewswire read at 25s
 RETRY_ATTEMPTS = 3          # was 2; the throttled wire feeds need more patience, but time-bounded
 FALLBACK_ATTEMPTS = 1       # the Google News fallback is best-effort — one try, keep the run snappy
+SINGLE_ATTEMPT_HOSTS = ("globenewswire.com",)   # times out from the runner on every run; retrying only adds minutes
 RETRY_BACKOFF_SECONDS = 3   # base; actual wait = base*attempt + random jitter (see fetch_feed)
 
 # Pipeline-health thresholds. These measure whether the FETCH succeeded, not how
@@ -78,6 +79,8 @@ HEADERS = {
 # (they resolve to the real article in a browser), not the publisher's direct URL.
 # Keyed by the exact OPML feed name.
 GOOGLE_NEWS_FALLBACKS = {
+    "CXM Customer Experience Magazine":
+        "https://news.google.com/rss/search?q=site:cxm.world+when:3d&hl=en-US&gl=US&ceid=US:en",
     "The ChannelPro Network - IT and Business Insights for SMB Solution Providers":
         "https://news.google.com/rss/search?q=site:channelpronetwork.com+when:3d&hl=en-US&gl=US&ceid=US:en",
     "UC Today":
@@ -185,7 +188,7 @@ def fetch_feed(name: str, url: str, rss_url_overrides: dict) -> dict:
     parsed = None
     resolved_url = actual_url
     for idx, candidate in enumerate(url_chain):
-        attempts = RETRY_ATTEMPTS if idx == 0 else FALLBACK_ATTEMPTS  # fallback gets one try
+        attempts = 1 if any(h in candidate for h in SINGLE_ATTEMPT_HOSTS) else (RETRY_ATTEMPTS if idx == 0 else FALLBACK_ATTEMPTS)  # fallback gets one try
         last_error = None
         for attempt in range(1, attempts + 1):
             try:
