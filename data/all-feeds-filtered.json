@@ -1,18 +1,13 @@
 {
-  "generated_at": "2026-09-29T14:16:08.032836+00:00",
+  "generated_at": "2026-09-29T15:04:55.554709+00:00",
   "recency_window_hours": 48,
-  "feeds_fetched": 36,
+  "feeds_fetched": 38,
   "feeds_with_errors": 4,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "name": "Telecom Reseller / Technology Reseller News",
-      "url": "https://telecomreseller.com/feed/",
-      "error": "HTTPSConnectionPool(host='telecomreseller.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -23,6 +18,11 @@
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "name": "CXM Customer Experience Magazine",
+      "url": "https://cxm.world/feed/",
+      "error": "403 Client Error: Forbidden for url: https://cxm.world/feed/"
     }
   ],
   "feeds": [
@@ -48,6 +48,12 @@
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "AI Moves Customer Engagement Closer to the Customer Moment",
+          "link": "https://cxtoday.com/ai-moves-customer-engagement-closer-to-the-customer-moment",
+          "published": "Tue, 29 Sep 2026 14:10:06 GMT",
+          "summary": "AI customer engagement is moving closer to the customer moment, as Microsoft Copilot and Adobe’s NHL partnership put context into action."
+        },
         {
           "title": "Ofcom Probes Vonage and Voxbone Over Phone Scam Risks",
           "link": "https://cxtoday.com/ofcom-probes-vonage-and-voxbone-over-phone-scam-risks",
@@ -284,10 +290,22 @@
       "name": "Twilio Blog",
       "items": [
         {
+          "title": "86% of brands think their AI works. Only 51% of customers agree.",
+          "link": "https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction",
+          "published": "Mon, 28 Sep 2026 20:00:00 -0400",
+          "summary": "Brands think they’ve designed AI that solves all their customers problems, but almost half of customers disagree. Here’s what’s happening."
+        },
+        {
           "title": "How to Build an RCS Business Messaging Campaign with Twilio in PHP",
           "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
           "published": "Sun, 27 Sep 2026 20:00:00 -0400",
           "summary": "In this tutorial, you’ll learn how to build an RCS Business Messaging campaign in PHP"
+        },
+        {
+          "title": "Building Localised, Enterprise-Grade AI Voice Agents",
+          "link": "https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents",
+          "published": "Sun, 27 Sep 2026 20:00:00 -0400",
+          "summary": "Learn how to scale AI voice agents from pilot to production. Explore tips on low-latency streaming, localisation, and enterprise stacks."
         }
       ]
     },
@@ -298,6 +316,12 @@
     {
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
+        {
+          "title": "AI Moves Customer Engagement Closer to the Customer Moment - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEtGclhXdHB5UnM2eHBrVlBuaE11ZGJCRnRYbjVxWjhQdGVxai1PWjA4ZnFpTDdwTnBWdi1FdEVTWlJ0RjNydHlJeGVPdW5CYVpvQUFiYzc4UzFablZ6c3V2cFpNMndfYjBOUW5TYWp3UTNPU2xwOGtfX3hWaEU1Z2JVQ3k?oc=5",
+          "published": "Tue, 29 Sep 2026 14:16:06 GMT",
+          "summary": "AI Moves Customer Engagement Closer to the Customer Moment&nbsp;&nbsp;CX Today"
+        },
         {
           "title": "Where do associates fit in an AI world? - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWN2S00yNndqaE92RkF0cjhEYXdGamo0bDJ5YkNpN21QVTBrT05vaVJZOE1nRUJnZkMxYkJ2YmMxZVd2U1EzRTUtVGJiUTVQRko2VmtVUF8yWXJKYXF4MVBtVTJvWFJPbFJMZEFWRi1rc2VXUEV2cnkzSERpMjV2X09IenFZQzl6SVp6b1FvWkFZeEt4?oc=5",
@@ -351,6 +375,18 @@
     {
       "name": "\"CRM\" - Google News",
       "items": [
+        {
+          "title": "Best AI CRM for Small Businesses in 2026: What Should You Choose? - TechBullion",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNU81QXI4Mks0WDBnWlZZRktxdjZzSzE5ZXNlMm03VW8tRlhLZElvZ2E2NXVsRmdKaVVsOFdPcE5xVC1BekZPWlFpV3R2enBRelRuYU1kSkFUYWw3SXN4US0tSlZtcElwX2hLODlfRUVaQlVRMEtoamhfakMtUjlBazJzRGc4UlFYRXh0Q0d4aUZaUQ?oc=5",
+          "published": "Tue, 29 Sep 2026 14:35:01 GMT",
+          "summary": "Best AI CRM for Small Businesses in 2026: What Should You Choose?&nbsp;&nbsp;TechBullion"
+        },
+        {
+          "title": "AI Moves Customer Engagement Closer to the Customer Moment - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEtGclhXdHB5UnM2eHBrVlBuaE11ZGJCRnRYbjVxWjhQdGVxai1PWjA4ZnFpTDdwTnBWdi1FdEVTWlJ0RjNydHlJeGVPdW5CYVpvQUFiYzc4UzFablZ6c3V2cFpNMndfYjBOUW5TYWp3UTNPU2xwOGtfX3hWaEU1Z2JVQ3k?oc=5",
+          "published": "Tue, 29 Sep 2026 14:16:06 GMT",
+          "summary": "AI Moves Customer Engagement Closer to the Customer Moment&nbsp;&nbsp;CX Today"
+        },
         {
           "title": "Everforth GlideFast: The right partner to fast-track AI-enabled CRM - cio.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmFZdlhrVW93VkF1cTJQOXQwQUF4OERXNy1FU1RTTG1XTlZ1NVI3Z0h0aFZlTy1ZekRTOUxJZ0M0VmtBRFlsTlgta0lrbUtHaEpvbFFla0djN3A1YUJ3bC16dGk2UDkyUkdTUnU1SlRlUDNQekEtallTSF9HeWl0NVo5ajVzcjVjWEFTV2RpaXVFa2dWLXhsVGc2LXZ4OWpPcng1M1FmS3ZqWVU?oc=5",
@@ -406,10 +442,10 @@
           "summary": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement&nbsp;&nbsp;TipRanks"
         },
         {
-          "title": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools - tycoonstory.com",
+          "title": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools - Tycoonstory Media",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZGhCYjM3cTNzVHUwdUFjVzdManBjbTctcFM1MmQtbzYza1ZRdGIwX3AwTkJnY2p5bkZSTGVIdEVsWWFZYjNKUk0wOFJhT2Z4Znc?oc=5",
           "published": "Tue, 29 Sep 2026 11:29:57 GMT",
-          "summary": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools&nbsp;&nbsp;tycoonstory.com"
+          "summary": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools&nbsp;&nbsp;Tycoonstory Media"
         },
         {
           "title": "What UK Business Owners Should Demand From Their CRM Vendor - Bdaily",
@@ -418,10 +454,10 @@
           "summary": "What UK Business Owners Should Demand From Their CRM Vendor&nbsp;&nbsp;Bdaily"
         },
         {
-          "title": "LiveRamp brings CRM audiences to ChatGPT Ads - ContentGrip",
+          "title": "LiveRamp brings CRM audiences to ChatGPT Ads - contentgrip.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQNzVzWDZWdU5lOEg5eUJxZXNzR2UtMV96NEFyU1ZQYWpQT3pjUmFuUW42WjRJekp3U0lhZUwwT2drV1ZSUTRwNzR6S25LTjk3RDgwRnN0Q3ctaVNKRzAzVkREeExnX1VjWXRZ?oc=5",
           "published": "Tue, 29 Sep 2026 08:32:35 GMT",
-          "summary": "LiveRamp brings CRM audiences to ChatGPT Ads&nbsp;&nbsp;ContentGrip"
+          "summary": "LiveRamp brings CRM audiences to ChatGPT Ads&nbsp;&nbsp;contentgrip.com"
         },
         {
           "title": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul - The Register",
@@ -460,12 +496,6 @@
           "summary": "Is Salesforce (NYSE:CRM) Turning Agentic AI Into Real Recurring Revenue?&nbsp;&nbsp;Kalkine Media"
         },
         {
-          "title": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy. - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnFKVzdIVHZEamFVTTVkSWRRcy1QdmRjZklLd0hWblY4NDN4Q0wzajBhQUN4bTVwN2tzRmJ1eU1FbjZDMnh0WVZnQ3JiQ2thQXZiRlZTcWtVd29iUS1DYU5nSkZaNWxFTDFOMGxwckllc3dwWTdpZjZtVlhpR0o2SEZlSERlX2VPWmpFNlVMNA?oc=5",
-          "published": "Mon, 28 Sep 2026 17:30:24 GMT",
-          "summary": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy.&nbsp;&nbsp;AOL.com"
-        },
-        {
           "title": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here’s the Stock I’d Buy. - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGpLYzdGRWw0M2J4djNscWZSRmRveVhsVDFfQXRrMEt0a1ZNenNXYnpwSjVlRFRrLVNpTVlfTU1BRHlieUtDUW52LWxWeG40bXN6d3pUUW5yWkZvVHV0RDdnR29FRXM3VWZkMUE0ODJwZGcxVnJYc3BPVnNGdTZYc0ZpaHo0TW43elAzYmluS0pwWmdIcFVkekx4RGxyVUVUaWx5dmp1cTR4b3g4YjR5eTdiV3RCdw?oc=5",
           "published": "Mon, 28 Sep 2026 17:30:00 GMT",
@@ -482,12 +512,6 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNW5SOFNGS3Vnbl81TTlNV1BpZnpNWWJEaWpyQ3V3OFY3N0ZMbUpjOHVJaEJDUkIwbUdmUF9INExiMVh1SnBEWHQybERLZ0M3T1Q5S3cxYmNadV9QczFXOGZVSzRhSHFzeEp1QkZoSnFCdzVLZy1WSTRGUlBIcjJLX2U2OXBsQWRrX1lBaWo3UFFjMUtFSWZWSklCdk9Hdw?oc=5",
           "published": "Mon, 28 Sep 2026 16:07:54 GMT",
           "summary": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches?&nbsp;&nbsp;Yahoo Finance"
-        },
-        {
-          "title": "Salesforce Takes 5 Huge Steps Forward at Dreamforce - Cloud Wars",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdrT2VNODlpQURVMUJtcXJGelM3M09OajU3WENlNXZlZGtCcEdUbmFUZTNUYkI2U0lNR3Bna2xyRHNpZ0ZHaHlpOTRNb2pCZFRvUFpuZ01GV1c1akVBUWdzWTd2dHAxU2x2UnlDZDlra2o0aktKNVlnZ0R1eUZlNUlodw?oc=5",
-          "published": "Mon, 28 Sep 2026 15:00:00 GMT",
-          "summary": "Salesforce Takes 5 Huge Steps Forward at Dreamforce&nbsp;&nbsp;Cloud Wars"
         },
         {
           "title": "10 Salesforce Solution Providers Reshaping CRM In The AI Era - crn.com",
@@ -520,10 +544,10 @@
           "summary": "8 top CRM platform strategies for rapid lead follow up&nbsp;&nbsp;Columbia Basin Herald"
         },
         {
-          "title": "5 top CRM system solutions for small business sales teams - Hagadone News Network",
+          "title": "5 top CRM system solutions for small business sales teams - hagadonenewsnetwork.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZm9aODZXZDdUdGIwYVUtbjhHc2FxRE40RG1TV1g3OTBIUG4zaE5Cbk92ZWZjZXU0V2Y2TUZHRllvVkZ5VWJ4c1VNMEVMczlobmI1THplT3JHaWhneGh0dkwwYnNQUVlqZmNtSXYzTDBGSFlYMFdQckRieEZ2alNlN0FzWjBZLWNFUlg0QWVxWV9OcWM0SDRLRnhoVHJpc29iRkhKbFppQktMdUE?oc=5",
           "published": "Mon, 28 Sep 2026 11:00:00 GMT",
-          "summary": "5 top CRM system solutions for small business sales teams&nbsp;&nbsp;Hagadone News Network"
+          "summary": "5 top CRM system solutions for small business sales teams&nbsp;&nbsp;hagadonenewsnetwork.com"
         },
         {
           "title": "JobNimbus, RepCard Launch Two-Way Sales Integration - Roofing Contractor",
@@ -564,6 +588,12 @@
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "NVIDIA Wants Agent Safety Enforced in Silicon",
+          "link": "https://futurumgroup.com/insights/nvidia-wants-agent-safety-enforced-in-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-wants-agent-safety-enforced-in-silicon",
+          "published": "Tue, 29 Sep 2026 14:14:19 +0000",
+          "summary": "The post NVIDIA Wants Agent Safety Enforced in Silicon appeared first on Futurum.\nFernando Montenegro, Mitch Ashley, and Brendan Burke from Futurum analyze NVIDIA's Open Agent Safety Platform, which pairs OpenShell runtime controls with Sentry DPU monitoring to contain AI agents outside their reach.\nThe post NVIDIA Wants Agent Safety Enforced in Silicon appeared first on Futurum."
+        },
         {
           "title": "Entelgy Names Global MD to Unify AI-Led International Push",
           "link": "https://futurumgroup.com/insights/entelgy-names-global-md-to-unify-ai-led-international-push/?utm_source=rss&utm_medium=rss&utm_campaign=entelgy-names-global-md-to-unify-ai-led-international-push",
@@ -776,6 +806,27 @@
     {
       "name": "Light Reading",
       "items": []
+    },
+    {
+      "name": "CXM Customer Experience Magazine",
+      "items": []
+    },
+    {
+      "name": "CX Foundation - Google News",
+      "items": [
+        {
+          "title": "Parloa CEO Malte Kosub on AI Agents and CX - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SU19tVmtzbFZXWW5INVdXVWRWbDZ4a2NXVFczWl9QekJzUzFpNmE0TE5PUk1yS2oxV0VwNVR1OGlZa1pTOElDODEzR1NZUXVUR1BwZEIzRmJJN0o2cVlxZTd6VmgxWnRHdUhZ?oc=5",
+          "published": "Tue, 29 Sep 2026 13:02:00 GMT",
+          "summary": "Parloa CEO Malte Kosub on AI Agents and CX&nbsp;&nbsp;CX Foundation"
+        },
+        {
+          "title": "Sierra Wants to Turn AI Customer Service Into a Revenue Engine - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TbW1qTDMxN2p5cHphNkw3LXR5eThkNUZ2OWcycndEOXVOcm83VjhzZlhiYlpjd2tUNVkxZ2pNUGZ0MlNoSDFWNk8tbmJJZHcwQ0FxUUVEcDNLR1Z6VjlTQk9ma1pDYk5JODc1dmVtTlotMUk2SEhURlpjYw?oc=5",
+          "published": "Mon, 28 Sep 2026 20:42:02 GMT",
+          "summary": "Sierra Wants to Turn AI Customer Service Into a Revenue Engine&nbsp;&nbsp;CX Foundation"
+        }
+      ]
     }
   ]
 }
