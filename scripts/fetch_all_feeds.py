@@ -84,6 +84,8 @@ GOOGLE_NEWS_FALLBACKS = {
         "https://news.google.com/rss/search?q=site:uctoday.com+when:3d&hl=en-US&gl=US&ceid=US:en",
     "Verdict":
         "https://news.google.com/rss/search?q=site:verdict.co.uk+(%22contact+center%22+OR+CCaaS+OR+CPaaS+OR+%22unified+communications%22)+when:3d&hl=en-US&gl=US&ceid=US:en",
+    "CPaaSAA":
+        "https://news.google.com/rss/search?q=site:cpaasaa.com+when:7d&hl=en-US&gl=US&ceid=US:en",
 }
 
 # Feeds that are broad, multi-industry wires where most items are NOT
