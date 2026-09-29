@@ -108,6 +108,86 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio ships RCS Business Messaging in PHP",
+          "sowhat": "Opens RCS campaign building to PHP developers, expanding carrier-backed rich messaging beyond SMS for customer engagement workflows.",
+          "url": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Twilio (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "NETSCOUT adds conversational AI to network observability",
+          "sowhat": "Lets IT teams troubleshoot network service problems using natural-language queries instead of manual dashboards and query syntax.",
+          "url": "https://telecomreseller.com/2026/09/29/netscout-turns-network-data-into-a-conversational-troubleshooting-tool/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "GTT launches AI platform for network threat detection",
+          "sowhat": "Uses AI to track network activity for faster threat identification, targeting security teams needing clearer visibility across distributed infrastructure.",
+          "url": "https://telecomreseller.com/2026/09/29/gtt-targets-swifter-threat-detection-with-fresh-ai-network-platform/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco expands Webex Calling PSTN options globally",
+          "sowhat": "Gives global organisations more PSTN flexibility for cloud calling, addressing deployment complexity across multiple jurisdictions and carrier environments.",
+          "url": "https://blog.webex.com/collaboration/webex-calling-pstn-options/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft previews pooled SharePoint and OneDrive storage",
+          "sowhat": "Lets admins respond to unpredictable storage demand without overprovisioning capacity or adding licensing complexity for Microsoft 365 tenants.",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/now-in-public-preview-microsoft-365-sharepoint-storage-and/ba-p/4559758",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Microsoft (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "UserTesting rebrands as Auros, targets AI experience testing",
+          "sowhat": "Positions human feedback as critical for AI development and experience validation, responding to enterprise need for human-in-loop quality assurance.",
+          "url": "https://www.constellationr.com/insights/news/usertesting-rebrands-auros-aims-bring-humans-ai-experience",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Cisco partners with Epic to unify CCaaS and CRM",
+          "sowhat": "Integrates contact centre and CRM systems to reduce workflow friction for healthcare and enterprise teams using Epic's platform.",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb1pIRmJ1cURBUEhrdDItYmlmLXJSYllZU0tRY09jeVp1cHpLWlBYTWg3STVrWnpydzYtNTZxZWl5ZXpyUFF4TjVReDhqT05uTGxZcWR0cGZUM1FOakZ1dVJQSXg0MnRNN1ZLelZPZk9ZUGttTnEwVzkyYVkzMmpKRC1R?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Ookla identifies 500 US fibre ISPs heading into M&A",
+          "sowhat": "Points to market fragmentation and consolidation pressure as roughly 500 providers compete in first half of 2026, signalling acquisition wave ahead.",
+          "url": "https://telecomreseller.com/2026/09/28/ookla-finds-500-fiber-isps-as-u-s-market-heads-into-ma-wave/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
         }
       ],
       "pattern_watch": ""
@@ -873,5 +953,5 @@
       "pattern_watch": "Three items (Salesforce Slack, Twilio Agentic SMS, Optimove Agentic Marketing) point to a shared thread: vendors are moving AI agent interfaces upstream into collaboration, messaging, and CRM layers—away from standalone tools."
     }
   ],
-  "updated": "2026-09-29T14:38:52.640237+00:00"
+  "updated": "2026-09-29T19:47:55.607983+00:00"
 }
