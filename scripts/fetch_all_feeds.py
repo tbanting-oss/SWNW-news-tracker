@@ -228,11 +228,13 @@ def fetch_feed(name: str, url: str, rss_url_overrides: dict) -> dict:
         recent = undated_entries[:FALLBACK_ITEM_COUNT]
 
     items = []
+    rejected = []          # broad-feed items the keyword filter dropped, kept so the filter can be audited
     for entry in recent:
         title = entry.get("title", "")
         summary = re.sub(r"<[^>]+>", "", entry.get("summary", "")).strip()[:500]
 
         if needs_filter and not is_relevant(title, summary, FEED_EXTRA_KEYWORDS.get(name, ())):
+            rejected.append({"title": title[:200], "summary": summary[:200], "published": entry.get("published", "")})
             continue
 
         items.append(
@@ -244,7 +246,7 @@ def fetch_feed(name: str, url: str, rss_url_overrides: dict) -> dict:
             }
         )
 
-    return {"name": name, "url": actual_url, "error": None, "items": items}
+    return {"name": name, "url": actual_url, "error": None, "items": items, "rejected": rejected}
 
 
 def main() -> int:
@@ -279,6 +281,12 @@ def main() -> int:
     os.makedirs("data", exist_ok=True)
     with open("data/all-feeds-filtered.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
+
+    # Audit sample: what the keyword filter threw away in this run's recency window (titles and a short summary).
+    rejected_rows = [dict(feed=r["name"], **x) for r in results for x in r.get("rejected", [])]
+    with open("data/filtered-out-sample.json", "w", encoding="utf-8") as f:
+        json.dump({"generated_at": output["generated_at"], "recency_window_hours": RECENCY_WINDOW_HOURS,
+                   "count": len(rejected_rows), "rejected": rejected_rows[:600]}, f, indent=2, ensure_ascii=False)
 
     total_items = sum(len(r["items"]) for r in results)
     print(f"\nDone: {total_items} items across {len(feeds)} feeds ({len(errors)} feeds errored).")
