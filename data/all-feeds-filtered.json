@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-09-29T14:02:31.053034+00:00",
+  "generated_at": "2026-09-29T14:16:08.032836+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 36,
-  "feeds_with_errors": 3,
+  "feeds_with_errors": 4,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "name": "Telecom Reseller / Technology Reseller News",
+      "url": "https://telecomreseller.com/feed/",
+      "error": "HTTPSConnectionPool(host='telecomreseller.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -173,6 +178,12 @@
       "name": "UC Today",
       "items": [
         {
+          "title": "Can AI Run Your Network Without Taking Control Away?",
+          "link": "https://uctoday.com/can-ai-run-your-network-without-taking-control-away",
+          "published": "Tue, 29 Sep 2026 14:01:00 GMT",
+          "summary": "Why it matters: Zayo says agentic networking can speed incident analysis and event correlation, but human approval stays central for network changes."
+        },
+        {
           "title": "Cloud Voice Can Go Wrong Long Before the First Call",
           "link": "https://uctoday.com/cloud-voice-can-go-wrong-long-before-the-first-call-tatacommunications-cs-0242",
           "published": "Tue, 29 Sep 2026 12:31:00 GMT",
@@ -220,68 +231,7 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "GTT Targets Swifter Threat Detection With Fresh AI Network Platform",
-          "link": "https://telecomreseller.com/2026/09/29/gtt-targets-swifter-threat-detection-with-fresh-ai-network-platform/",
-          "published": "Tue, 29 Sep 2026 12:00:16 +0000",
-          "summary": "By: Moshe Beauford, Editor GTT Communications wants to give security teams a clearer view of what is happening across the network, launching a new platform that uses AI to track [...]\nThe post GTT Targets Swifter Threat Detection With Fresh AI Network Platform appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Comcast Business Brings Last-Mile Ethernet to Equinix Fabric",
-          "link": "https://telecomreseller.com/2026/09/28/comcast-business-brings-last-mile-ethernet-to-equinix-fabric/",
-          "published": "Mon, 28 Sep 2026 19:42:23 +0000",
-          "summary": "By: Moshe Beauford, Editor Comcast Business is adding its last-mile Ethernet network to Equinix Fabric, allowing eligible customers to check availability, get pricing and place orders through APIs. The integration [...]\nThe post Comcast Business Brings Last-Mile Ethernet to Equinix Fabric appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&A Wave",
-          "link": "https://telecomreseller.com/2026/09/28/ookla-finds-500-fiber-isps-as-u-s-market-heads-into-ma-wave/",
-          "published": "Mon, 28 Sep 2026 19:30:35 +0000",
-          "summary": "By: Moshe Beauford, Editor The U.S. fiber market is getting more crowded, with Ookla identifying roughly 500 providers showing characteristics of fiber networks in the first half of 2026. The [...]\nThe post Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&#038;A Wave appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026",
-          "link": "https://telecomreseller.com/2026/09/28/other-world-computing-owc-to-showcase-unparalleled-roster-of-memory-cards-and-readers-storage-and-connectivity-innovations-at-cabsat-2026/",
-          "published": "Mon, 28 Sep 2026 19:16:39 +0000",
-          "summary": "Attendees from Across the Middle East, Africa, and South Asia to See How OWC Solutions Streamline Workflows for Filmmakers, Editors, DITs, Content Creators, and Other Media and Entertainment Professionals WOODSTOCK, [...]\nThe post Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026 appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/preshai-helps-msps-put-ai-to-work-inside-existing-business-processes-podcast/",
-          "published": "Mon, 28 Sep 2026 18:52:04 +0000",
-          "summary": "By Doug Green “AI is here. The challenge is figuring out how to actually put it into your business.” In this Technology Reseller News podcast recorded at MSP Summit, Paul [...]\nThe post PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/kongusto-helps-msps-turn-human-capital-into-a-competitive-advantage-podcast/",
-          "published": "Mon, 28 Sep 2026 18:25:42 +0000",
-          "summary": "By Doug Green “Technology is becoming a commodity. Your people don’t have to be.” In this Technology Reseller News podcast recorded at MSP Summit, Joel Ciniero of Kongusto discusses how [...]\nThe post Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "AppDirect Brings Soul Machines AI Avatars to Its Advisor Network",
-          "link": "https://telecomreseller.com/2026/09/28/appdirect-brings-soul-machines-ai-avatars-to-its-advisor-network/",
-          "published": "Mon, 28 Sep 2026 16:00:47 +0000",
-          "summary": "By: Moshe Beauford, Editor AppDirect is giving its advisors a new AI offering to sell and build services around with its acquisition of Soul Machines. Soul Machines has spent years [...]\nThe post AppDirect Brings Soul Machines AI Avatars to Its Advisor Network appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff.",
-          "link": "https://telecomreseller.com/2026/09/28/you-dont-manage-ai-voice-agents-like-software-you-manage-them-like-staff/",
-          "published": "Mon, 28 Sep 2026 14:36:58 +0000",
-          "summary": "By Bill (PhoneBill) McClain, UponAI There’s a Forbes piece making the rounds right now with a premise worth sitting with: AI agents are joining your team, and the skill that’s [...]\nThe post You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff. appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/xtium-builds-an-ai-native-msp-model-around-voice-governance-and-automation-podcast/",
-          "published": "Mon, 28 Sep 2026 13:30:47 +0000",
-          "summary": "By Doug Green “We’re not just building an AI MSP. We’re building an AI-native MSP.” In this special Technology Reseller News and Cloud Communications Alliance podcast, Byron Young, Chief Product [...]\nThe post XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/archematch-uses-ai-to-turn-institutional-knowledge-into-personalized-training-podcast/",
-          "published": "Mon, 28 Sep 2026 13:00:30 +0000",
-          "summary": "By Doug Green “The wisdom of the company can become perpetual.” In this Technology Reseller News podcast, Gary Sinderbrand of ArcheMatch discusses how the company is using AI to capture [...]\nThe post ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
@@ -319,7 +269,7 @@
       ]
     },
     {
-      "name": "Industry News – CPaaSAA",
+      "name": "CPaaSAA",
       "items": []
     },
     {
@@ -338,12 +288,6 @@
           "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
           "published": "Sun, 27 Sep 2026 20:00:00 -0400",
           "summary": "In this tutorial, you’ll learn how to build an RCS Business Messaging campaign in PHP"
-        },
-        {
-          "title": "Building Localised, Enterprise-Grade AI Voice Agents",
-          "link": "https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents",
-          "published": "Sun, 27 Sep 2026 20:00:00 -0400",
-          "summary": "Learn how to scale AI voice agents from pilot to production. Explore tips on low-latency streaming, localisation, and enterprise stacks."
         }
       ]
     },
@@ -367,10 +311,10 @@
           "summary": "When adopting agentic CX, don’t forget about your customer&nbsp;&nbsp;CX Dive"
         },
         {
-          "title": "Tata Communications' CPaaS Drives Customer Continuity - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IOV9wS04wejA2MXlnNDRzaGFZbVI3ekxvYVVSZXgtWTk0Uy1KMmZhNjQtWkdhX1BUREFvSEtRVG8tcldLbGlfeHJwR1hHTE5Pd0VCLXFfSzZLNnZVMVlReVJlYVFiQlgwQjBrS0ltOTE?oc=5",
-          "published": "Tue, 29 Sep 2026 01:46:11 GMT",
-          "summary": "Tata Communications' CPaaS Drives Customer Continuity&nbsp;&nbsp;CX Today"
+          "title": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026 - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WdzVJX29yOVBWempNMnE3Rng1YzVnQkd2SlVTMlI2VTBoUkZTRW5vZVUyV2NleDIycGxuNXJMZVF5Mm5tTE5BX0hwY2ZpWW92SjE5WXU0cE0zZl8yVUUzdy1aaw?oc=5",
+          "published": "Tue, 29 Sep 2026 00:45:52 GMT",
+          "summary": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026&nbsp;&nbsp;CX Today"
         },
         {
           "title": "How one BPO is positioning for an AI future - CX Dive",
@@ -391,12 +335,6 @@
           "summary": "Employee Experience Is the New WFM Battleground&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "The ISG Customer Experience Management Advanced Buyers Guide 2026: 6 Top Takeaways - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wS3ZRU2c4VVA4YUtzZEJRM3hCM2lsSFlfcFdaLUxSd2k0bThJaWc4T2pqejFrQ3YxQ1JkaUljNGQtVVd0NGlRb1FydWd1X3pzRGh6dWFyU19EY2t2LUlBWXNhREM3UFpCZVRwZUFqSy1MVGtNN0NheDdBTWY?oc=5",
-          "published": "Mon, 28 Sep 2026 17:19:09 GMT",
-          "summary": "The ISG Customer Experience Management Advanced Buyers Guide 2026: 6 Top Takeaways&nbsp;&nbsp;CX Today"
-        },
-        {
           "title": "The CRM workflow gap holding back customer experience - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
           "published": "Mon, 28 Sep 2026 13:43:18 GMT",
@@ -413,6 +351,18 @@
     {
       "name": "\"CRM\" - Google News",
       "items": [
+        {
+          "title": "Everforth GlideFast: The right partner to fast-track AI-enabled CRM - cio.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmFZdlhrVW93VkF1cTJQOXQwQUF4OERXNy1FU1RTTG1XTlZ1NVI3Z0h0aFZlTy1ZekRTOUxJZ0M0VmtBRFlsTlgta0lrbUtHaEpvbFFla0djN3A1YUJ3bC16dGk2UDkyUkdTUnU1SlRlUDNQekEtallTSF9HeWl0NVo5ajVzcjVjWEFTV2RpaXVFa2dWLXhsVGc2LXZ4OWpPcng1M1FmS3ZqWVU?oc=5",
+          "published": "Tue, 29 Sep 2026 14:03:38 GMT",
+          "summary": "Everforth GlideFast: The right partner to fast-track AI-enabled CRM&nbsp;&nbsp;cio.com"
+        },
+        {
+          "title": "ClientTether Named a Top Franchise Technology Supplier in Entrepreneur’s 2026 Rankings - EIN News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR0cwMlZuZHh3WGVldEs4Qjhod1U1d2ZBVmdHdzdMU2dUNWlJcks3dEVwb0NWdEY2RzNWcEprWmZFSDJEc1BxVFBVdldzZ1gtRWt0R2FmcFI4dmUwUTlUQXYtaXpaSFEzUFotWGg1V0ZUWk0tZlJJYzZsVmthODQ5MUs0aV9EZ2xhLXVOMXA0aldqdlQ2RzRablhEZ2RIcVdwYXk3UGFUWVJ4SEFfU0QxaTVkLWRWdXhRYklzaE9ub2JBbEdKblJR?oc=5",
+          "published": "Tue, 29 Sep 2026 14:00:00 GMT",
+          "summary": "ClientTether Named a Top Franchise Technology Supplier in Entrepreneur’s 2026 Rankings&nbsp;&nbsp;EIN News"
+        },
         {
           "title": "Good AI Systems Let Advisors Focus On The Human - Wealth Solutions Report",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlp6NmtiS2lMbXpTZkRjT3pzNDVjNHJRRDdEOVlUTk5sX3ZtTXpNQ3lwQzE4eGxFY1YyWVBweld5S2k2X3VIY0JNc0xIVkxWVkZaWVhkNGFQQUpvY3F3RFQybTl0OWkxdTYxUmd5UGpDUFNDdktMM3dSTWkyTm56ZU5jYi1YQzhUT2oxcDl0dw?oc=5",
@@ -450,16 +400,16 @@
           "summary": "Oppenheimer Maintains Salesforce(CRM.US) With Buy Rating, Maintains Target Price $275&nbsp;&nbsp;富途牛牛"
         },
         {
-          "title": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement - tipranks.com",
+          "title": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaHh1WkVLMzExbkxNSmpkdEFpWDNWZk5tLUNQVzZpSk1HeS16X3Rlakp5RGJ6U1M3R0hyTzNPN2xJVmtzM0o5aDhxek1yUTJMTlZGS0Q3TVVwYk1VcUlsMzdwV3JxVFJxUktsNXNwNXllb3hrYTBhS3V2U1UzWHgtX19fOWNvOWNTQXByMExvUWRCYnUwbkFXUmdFSi1GaVl6U3FLaWJudUJwalRZNVNQYTVUN1NGNVR4NHNNUTRzZkY?oc=5",
           "published": "Tue, 29 Sep 2026 12:18:56 GMT",
-          "summary": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement&nbsp;&nbsp;tipranks.com"
+          "summary": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement&nbsp;&nbsp;TipRanks"
         },
         {
-          "title": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools - Tycoonstory Media",
+          "title": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools - tycoonstory.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZGhCYjM3cTNzVHUwdUFjVzdManBjbTctcFM1MmQtbzYza1ZRdGIwX3AwTkJnY2p5bkZSTGVIdEVsWWFZYjNKUk0wOFJhT2Z4Znc?oc=5",
           "published": "Tue, 29 Sep 2026 11:29:57 GMT",
-          "summary": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools&nbsp;&nbsp;Tycoonstory Media"
+          "summary": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools&nbsp;&nbsp;tycoonstory.com"
         },
         {
           "title": "What UK Business Owners Should Demand From Their CRM Vendor - Bdaily",
@@ -480,16 +430,16 @@
           "summary": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul&nbsp;&nbsp;The Register"
         },
         {
-          "title": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses - einpresswire.com",
+          "title": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses - EIN Presswire",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTEEtRUtxUXMtc3pqLXJRSkJkMDBuVEdwd0NOaWR2VzJtWGF3Q004X3dkTWV0VXNDbnY0LTRVOXZkYUdxeVZrQ1lIMWJ4cEhpZlB3RWZjeUdZM09jbC1GbHQwZy1LOXBnTFZ1Tk5XZXNIZ2tzd29VUzZFdE5pNWFQV0d6NFA5R25SMy02Z3ViN3k2TWlVZEdFYWl5cUpQR25IX2I2QVltam1USTBvY0IzWTRzMkwxUFhxNWdWb0w1bnNnMEZlRWZycmdTWGlZTG9Wb25tYUgtY1dPdXpUSTNhR1p3?oc=5",
           "published": "Tue, 29 Sep 2026 07:11:00 GMT",
-          "summary": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses&nbsp;&nbsp;einpresswire.com"
+          "summary": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses&nbsp;&nbsp;EIN Presswire"
         },
         {
-          "title": "Fast Track launches native AI-powered CRM app for iPhone - yogonet.com",
+          "title": "Fast Track launches native AI-powered CRM app for iPhone - Yogonet",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHFnSkNtWUdNWlZyekd3SmpMb0lNUUE4SmU4cXgtWlptZUxtRnUzS2JkSENyaWZoN29XNDFselhlLVRlUnFRUnBZb3FpdHc4UzJWSlhubS1oWlpweVJ3QUtVZV9xd0ZXck15Zl85eUhNWmx0Y3hCUC1QbThjWEJOekVhVG1hNWh5cUo3TnJNeGJ3N1dLUWlMdDBNNTN2Z2U4b04zbF9CaDkwNkVqdGFiTVRyeVpLaGM?oc=5",
           "published": "Tue, 29 Sep 2026 06:33:06 GMT",
-          "summary": "Fast Track launches native AI-powered CRM app for iPhone&nbsp;&nbsp;yogonet.com"
+          "summary": "Fast Track launches native AI-powered CRM app for iPhone&nbsp;&nbsp;Yogonet"
         },
         {
           "title": "(CRM) Movement as an Input in Quant Signal Sets - Stock Traders Daily",
@@ -558,10 +508,10 @@
           "summary": "Aquapio Launches All-in-One CRM Built for Manufactured Home Dealers, Brokers and Agents&nbsp;&nbsp;EIN News"
         },
         {
-          "title": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234 - gurufocus.com",
+          "title": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234 - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxIRVdfZnBUVFQzazctTkc1aTVSdDVRZ3FFNW5GRF9rRF9mVS1Kb3ZGakJiTE50WlQ3dTdCT21KZHo4eXlXVjRkMWhnZVNTdmJXVkxwMkU5ZEotdmdEdTdRZlVVc25FSWFhMmQxS3NmWDh0S3Rsc1V6S1A5alZ6SG1QeWdNVXdCdzl6aFlhc0M4UQ?oc=5",
           "published": "Mon, 28 Sep 2026 11:32:48 GMT",
-          "summary": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234&nbsp;&nbsp;gurufocus.com"
+          "summary": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234&nbsp;&nbsp;GuruFocus"
         },
         {
           "title": "8 top CRM platform strategies for rapid lead follow up - Columbia Basin Herald",
@@ -576,10 +526,10 @@
           "summary": "5 top CRM system solutions for small business sales teams&nbsp;&nbsp;Hagadone News Network"
         },
         {
-          "title": "JobNimbus, RepCard Launch Two-Way Sales Integration - roofingcontractor.com",
+          "title": "JobNimbus, RepCard Launch Two-Way Sales Integration - Roofing Contractor",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUhqWkVvUXlZbzltTzhOcGRnRmhXemZSWEJkSUc4NDY3cjBmVlFFczZlZ0JhczctMTU4UmRMTDNsUUpvbl9oNXNiU1lXS2dTQVNtdjFRYkJGVHVjaUdOYnVvdGVrb2dodFk4aEZjU19YbFF0bDAwUGstUEY5Ym44b0JYUmJOclNRQkdqVnAxVV9XMkRVSkg5Rlh2RmdNcjRIclE?oc=5",
           "published": "Mon, 28 Sep 2026 04:29:26 GMT",
-          "summary": "JobNimbus, RepCard Launch Two-Way Sales Integration&nbsp;&nbsp;roofingcontractor.com"
+          "summary": "JobNimbus, RepCard Launch Two-Way Sales Integration&nbsp;&nbsp;Roofing Contractor"
         },
         {
           "title": "Salesforce vs. Palantir Technologies: What Revenue Trends Reveal to Investors About These Tech Giants - The Motley Fool",
