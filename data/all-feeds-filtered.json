@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T15:23:31.555946+00:00",
+  "generated_at": "2026-09-29T15:33:28.029681+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
-  "feeds_with_errors": 4,
+  "feeds_with_errors": 3,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
@@ -18,11 +18,6 @@
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "name": "CXM Customer Experience Magazine",
-      "url": "https://cxm.world/feed/",
-      "error": "403 Client Error: Forbidden for url: https://cxm.world/feed/"
     }
   ],
   "feeds": [
@@ -237,80 +232,7 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "Why the WFH Dream is Breeding a Culture of Isolation",
-          "link": "https://telecomreseller.com/2026/09/29/why-the-wfh-dream-is-breeding-a-culture-of-isolation/",
-          "published": "Tue, 29 Sep 2026 14:56:19 +0000",
-          "summary": "By Joel Ciniero, President of Kongusto As the President of Kongusto, I spend a lot of time looking at data regarding the global workforce, operational trends, and corporate infrastructure. But [...]\nThe post Why the WFH Dream is Breeding a Culture of Isolation appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Reliability Is the New Innovation",
-          "link": "https://telecomreseller.com/2026/09/29/reliability-is-the-new-innovation/",
-          "published": "Tue, 29 Sep 2026 14:51:18 +0000",
-          "summary": "Why Reliability Is Becoming an MSP’s Biggest Competitive Advantage By Leaseweb For years, the technology industry has been obsessed with what&#8217;s new. Faster processors. Bigger clouds. More powerful GPUs. New [...]\nThe post Reliability Is the New Innovation appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "GTT Targets Swifter Threat Detection With Fresh AI Network Platform",
-          "link": "https://telecomreseller.com/2026/09/29/gtt-targets-swifter-threat-detection-with-fresh-ai-network-platform/",
-          "published": "Tue, 29 Sep 2026 12:00:16 +0000",
-          "summary": "By: Moshe Beauford, Editor GTT Communications wants to give security teams a clearer view of what is happening across the network, launching a new platform that uses AI to track [...]\nThe post GTT Targets Swifter Threat Detection With Fresh AI Network Platform appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Comcast Business Brings Last-Mile Ethernet to Equinix Fabric",
-          "link": "https://telecomreseller.com/2026/09/28/comcast-business-brings-last-mile-ethernet-to-equinix-fabric/",
-          "published": "Mon, 28 Sep 2026 19:42:23 +0000",
-          "summary": "By: Moshe Beauford, Editor Comcast Business is adding its last-mile Ethernet network to Equinix Fabric, allowing eligible customers to check availability, get pricing and place orders through APIs. The integration [...]\nThe post Comcast Business Brings Last-Mile Ethernet to Equinix Fabric appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&A Wave",
-          "link": "https://telecomreseller.com/2026/09/28/ookla-finds-500-fiber-isps-as-u-s-market-heads-into-ma-wave/",
-          "published": "Mon, 28 Sep 2026 19:30:35 +0000",
-          "summary": "By: Moshe Beauford, Editor The U.S. fiber market is getting more crowded, with Ookla identifying roughly 500 providers showing characteristics of fiber networks in the first half of 2026. The [...]\nThe post Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&#038;A Wave appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026",
-          "link": "https://telecomreseller.com/2026/09/28/other-world-computing-owc-to-showcase-unparalleled-roster-of-memory-cards-and-readers-storage-and-connectivity-innovations-at-cabsat-2026/",
-          "published": "Mon, 28 Sep 2026 19:16:39 +0000",
-          "summary": "Attendees from Across the Middle East, Africa, and South Asia to See How OWC Solutions Streamline Workflows for Filmmakers, Editors, DITs, Content Creators, and Other Media and Entertainment Professionals WOODSTOCK, [...]\nThe post Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026 appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/preshai-helps-msps-put-ai-to-work-inside-existing-business-processes-podcast/",
-          "published": "Mon, 28 Sep 2026 18:52:04 +0000",
-          "summary": "By Doug Green “AI is here. The challenge is figuring out how to actually put it into your business.” In this Technology Reseller News podcast recorded at MSP Summit, Paul [...]\nThe post PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/kongusto-helps-msps-turn-human-capital-into-a-competitive-advantage-podcast/",
-          "published": "Mon, 28 Sep 2026 18:25:42 +0000",
-          "summary": "By Doug Green “Technology is becoming a commodity. Your people don’t have to be.” In this Technology Reseller News podcast recorded at MSP Summit, Joel Ciniero of Kongusto discusses how [...]\nThe post Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "AppDirect Brings Soul Machines AI Avatars to Its Advisor Network",
-          "link": "https://telecomreseller.com/2026/09/28/appdirect-brings-soul-machines-ai-avatars-to-its-advisor-network/",
-          "published": "Mon, 28 Sep 2026 16:00:47 +0000",
-          "summary": "By: Moshe Beauford, Editor AppDirect is giving its advisors a new AI offering to sell and build services around with its acquisition of Soul Machines. Soul Machines has spent years [...]\nThe post AppDirect Brings Soul Machines AI Avatars to Its Advisor Network appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff.",
-          "link": "https://telecomreseller.com/2026/09/28/you-dont-manage-ai-voice-agents-like-software-you-manage-them-like-staff/",
-          "published": "Mon, 28 Sep 2026 14:36:58 +0000",
-          "summary": "By Bill (PhoneBill) McClain, UponAI There’s a Forbes piece making the rounds right now with a premise worth sitting with: AI agents are joining your team, and the skill that’s [...]\nThe post You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff. appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/xtium-builds-an-ai-native-msp-model-around-voice-governance-and-automation-podcast/",
-          "published": "Mon, 28 Sep 2026 13:30:47 +0000",
-          "summary": "By Doug Green “We’re not just building an AI MSP. We’re building an AI-native MSP.” In this special Technology Reseller News and Cloud Communications Alliance podcast, Byron Young, Chief Product [...]\nThe post XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast",
-          "link": "https://telecomreseller.com/2026/09/28/archematch-uses-ai-to-turn-institutional-knowledge-into-personalized-training-podcast/",
-          "published": "Mon, 28 Sep 2026 13:00:30 +0000",
-          "summary": "By Doug Green “The wisdom of the company can become perpetual.” In this Technology Reseller News podcast, Gary Sinderbrand of ArcheMatch discusses how the company is using AI to capture [...]\nThe post ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
@@ -384,16 +306,16 @@
           "summary": "AI Moves Customer Engagement Closer to the Customer Moment&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "Where do associates fit in an AI world? - CX Dive",
+          "title": "Where do associates fit in an AI world? - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWN2S00yNndqaE92RkF0cjhEYXdGamo0bDJ5YkNpN21QVTBrT05vaVJZOE1nRUJnZkMxYkJ2YmMxZVd2U1EzRTUtVGJiUTVQRko2VmtVUF8yWXJKYXF4MVBtVTJvWFJPbFJMZEFWRi1rc2VXUEV2cnkzSERpMjV2X09IenFZQzl6SVp6b1FvWkFZeEt4?oc=5",
           "published": "Tue, 29 Sep 2026 13:11:10 GMT",
-          "summary": "Where do associates fit in an AI world?&nbsp;&nbsp;CX Dive"
+          "summary": "Where do associates fit in an AI world?&nbsp;&nbsp;customerexperiencedive.com"
         },
         {
-          "title": "When adopting agentic CX, don’t forget about your customer - CX Dive",
+          "title": "When adopting agentic CX, don’t forget about your customer - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRi02UUhJLURGLWdDYlQxOV9FMVpGMENRdmlLdUF1T0hFRW45R2QwVDVURUlfRWJ3bTIxSUkyd0pkT193YTFyNHkwQ050dkNzdV90MHVzR244T25TVHFwSjZOVGxvMUt5ZENBZmR3SWJPZUF6OXJrSW16eHRXQWRFYVhMMm5xOTJZUXBRb3BRTC1uQjVDbjBBbmYxYUFVZUtNTnpFMzVONEluNjRQY1E?oc=5",
           "published": "Tue, 29 Sep 2026 02:43:42 GMT",
-          "summary": "When adopting agentic CX, don’t forget about your customer&nbsp;&nbsp;CX Dive"
+          "summary": "When adopting agentic CX, don’t forget about your customer&nbsp;&nbsp;customerexperiencedive.com"
         },
         {
           "title": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026 - CX Today",
@@ -402,10 +324,10 @@
           "summary": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "How one BPO is positioning for an AI future - CX Dive",
+          "title": "How one BPO is positioning for an AI future - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTNtaWszdGNhbDZqUkJoS25PLXFIRTB5V083UlFHV0lSUWhmMFpvRnFDblkydGNWbzRtck8wUE9PUWRrUWFOTWNKQ2haVFVPVUt6bm5qM29wWS1jajRNRUlUYjNjenN6aDdCYzcxQkFHRVF0LXU2TzNNYlZoby1aVTlwOHUxWFdqeWRvOVpn?oc=5",
           "published": "Mon, 28 Sep 2026 21:54:15 GMT",
-          "summary": "How one BPO is positioning for an AI future&nbsp;&nbsp;CX Dive"
+          "summary": "How one BPO is positioning for an AI future&nbsp;&nbsp;customerexperiencedive.com"
         },
         {
           "title": "The New CX Today Is Live — Grab Your Founding Handle Before It's Gone - CX Today",
@@ -420,10 +342,10 @@
           "summary": "Employee Experience Is the New WFM Battleground&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "The CRM workflow gap holding back customer experience - CX Dive",
+          "title": "The CRM workflow gap holding back customer experience - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
           "published": "Mon, 28 Sep 2026 13:43:18 GMT",
-          "summary": "The CRM workflow gap holding back customer experience&nbsp;&nbsp;CX Dive"
+          "summary": "The CRM workflow gap holding back customer experience&nbsp;&nbsp;customerexperiencedive.com"
         },
         {
           "title": "Why Does Customer Experience Have an Operating Model Problem? - CX Today",
@@ -509,10 +431,10 @@
           "summary": "LiveRamp brings CRM audiences to ChatGPT Ads&nbsp;&nbsp;ContentGrip"
         },
         {
-          "title": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul - theregister.com",
+          "title": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul - The Register",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamZjb3IxeGJDcmNIS1NDTE1XeUtYWDhSWldzWkJPNkR3UTlWQnFLZlB5UFhmT1g0VG00RnpxSmNpZ0ZQdjdWYlVlRGVPbEhNN0RtU0ZGOEpBOTRrbkxxN3ZSLUVTaUExVmpKTVdnLUdNaElrTEl1VERYVUxVUDJrbE5reHp4ZGdTT0pjNDk3SzhfRnRvUDlXeW9xVC1ERXU1ZzBTMG1qWXJoMU5wOTFMTkthQ0RvbkxkN29nVg?oc=5",
           "published": "Tue, 29 Sep 2026 08:30:00 GMT",
-          "summary": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul&nbsp;&nbsp;theregister.com"
+          "summary": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul&nbsp;&nbsp;The Register"
         },
         {
           "title": "Domaine hiring CRM Lead Specialist in United States - LinkedIn",
@@ -585,6 +507,12 @@
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcjJMci1DRHNYODZ6ZjhKYzRzTl8zanJfcUNkRzBhNGZTVlFsNVAwSGJnOUlLa3FRaV9SSVpKbm5FcDdpMHpIX1E0Zmw5ZzRkRWhSZE5Ga1BUb0luT2F1Vm16T1JxNGhOLUdQSU1janQ3SE4yZ0t3SVNzYkwzVUhTSFFBcmtnZlVvZUo3UHJnV0o2bFZtTlFjRkluQ0VfNEpJdkMzTThGNW5LNlVsVG82VzF1b05Ba3RTRUdMNnBkdHJ5V2xFSzVEZ0xHeHN1REx3V1ZN?oc=5",
           "published": "Tue, 29 Sep 2026 03:59:55 GMT",
           "summary": "OpenAI cancels new AI launch, citing safety issues&nbsp;&nbsp;LinkedIn"
+        },
+        {
+          "title": "Salesforce CRM Analytics at Weekday (YC W21) - India Remote - Remote Rocketship",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHpKZkxxSlNscURYVkg5ZWhNMnktX2EwR01SaEFVRmlEN1BubmxYNTNXVlhmajdCUGJ3emxtTkQ0QUVmMTJGOWlUUFVCRU5oZ3ZKbDNJY2pBVV9fVEgtRUNUcU1seFNvLW5YZS0wRHUwNEtKa2h3a1FUcDRHa3VJMWpOOHZNdG5DUkRnaGtubHVnQWU5bGZHaC0ybndabEE?oc=5",
+          "published": "Tue, 29 Sep 2026 03:59:21 GMT",
+          "summary": "Salesforce CRM Analytics at Weekday (YC W21) - India Remote&nbsp;&nbsp;Remote Rocketship"
         },
         {
           "title": "SVP, Customer Relationship Management at ItsaCheckmate - United States Remote - Remote Rocketship",
@@ -755,10 +683,10 @@
           "summary": "Swoep raises €3 million for AI platform that connects ERP and CRM&nbsp;&nbsp;dutchstartup.ai"
         },
         {
-          "title": "Google Ads gets a CRM backstop for broken conversion tags - searchenginewatch.com",
+          "title": "Google Ads gets a CRM backstop for broken conversion tags - Search Engine Watch",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGdWZHJya2VUa192QmJPNDVPNXJaZWhvT0J2TjJnRFlZYXZZYl9OWlBIc3Jwc09wTW9uUlZQc2ZseWtMQUY5Tm93dzZQbmJ0Rnc2RkZGYUF6WE56Q21QSUhfRXEzQWh5UDVMaGJETlZCd2VGMTBady11Sk56VVNTemJBempsT19INXlWZXA1U29Qdw?oc=5",
           "published": "Mon, 28 Sep 2026 17:08:22 GMT",
-          "summary": "Google Ads gets a CRM backstop for broken conversion tags&nbsp;&nbsp;searchenginewatch.com"
+          "summary": "Google Ads gets a CRM backstop for broken conversion tags&nbsp;&nbsp;Search Engine Watch"
         },
         {
           "title": "Player Value Insights - Sportradar",
@@ -785,10 +713,10 @@
           "summary": "Marketing CRM & Analytics Manager (12 Month FTC) (Preston, Lancashire)&nbsp;&nbsp;DiverseJobsMatter"
         },
         {
-          "title": "From the Microsoft Dynamics 365 CE/CRM blogs; Agent governance; Consolidating D365 CE, Omnichannel, and Copilot; Usage data; Shadow architectures - msdynamicsworld.com",
+          "title": "From the Microsoft Dynamics 365 CE/CRM blogs; Agent governance; Consolidating D365 CE, Omnichannel, and Copilot; Usage data; Shadow architectures - MSDynamicsWorld.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2piTkdaYVJVb1FCMXlQNUJMNmNKSzRfNDVxNzlIY0dkMjdodzl1Mk91dWFSZmxJQjM2VFBzX1VISnVkRk1VdDZQN09odWl2eHcyZXQ5Y2EtUmN4TVowSEFRdWFSakFJbU82SlBWUzF3QzJxa3NMUEl6VUN3ZkNLekNSNGtINF9QeWJuT0wzdmJLQkFKSjFubFhWcGEyelA4bUdBWF8yakZ6ZUZCNmFCZjRkTTh6U2dDSllVU0lUcF8?oc=5",
           "published": "Mon, 28 Sep 2026 14:24:58 GMT",
-          "summary": "From the Microsoft Dynamics 365 CE/CRM blogs; Agent governance; Consolidating D365 CE, Omnichannel, and Copilot; Usage data; Shadow architectures&nbsp;&nbsp;msdynamicsworld.com"
+          "summary": "From the Microsoft Dynamics 365 CE/CRM blogs; Agent governance; Consolidating D365 CE, Omnichannel, and Copilot; Usage data; Shadow architectures&nbsp;&nbsp;MSDynamicsWorld.com"
         },
         {
           "title": "The update I'll be telling every client about this week isn't even in the betas. It's sitting quietly in the scheduled releases for Wednesday: Cross-object Filtering on CRM Index Pages. Filtering your contacts view by something that lives on the company record has - LinkedIn",
@@ -803,22 +731,22 @@
           "summary": "10 Salesforce Solution Providers Reshaping CRM In The AI Era&nbsp;&nbsp;crn.com"
         },
         {
-          "title": "The CRM workflow gap holding back customer experience - CX Dive",
+          "title": "The CRM workflow gap holding back customer experience - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
           "published": "Mon, 28 Sep 2026 13:43:18 GMT",
-          "summary": "The CRM workflow gap holding back customer experience&nbsp;&nbsp;CX Dive"
+          "summary": "The CRM workflow gap holding back customer experience&nbsp;&nbsp;customerexperiencedive.com"
         },
         {
-          "title": "ไม่ต้องจดระหว่างคุยกับลูกค้า! ด้วย CRM Intergration จาก Yeastar P-Series - youtube.com",
+          "title": "ไม่ต้องจดระหว่างคุยกับลูกค้า! ด้วย CRM Intergration จาก Yeastar P-Series - YouTube",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hQkJfbFBKZVNuYjk4ZUFQNThFU2N1VkZhQUxFQXhMdVgxQ19NWXI2QnpOaDJCaC0yNEMyQmJJMG1IUDdEcFZUN19EUFU4NFdXRDlPQQ?oc=5",
           "published": "Mon, 28 Sep 2026 11:30:35 GMT",
-          "summary": "ไม่ต้องจดระหว่างคุยกับลูกค้า! ด้วย CRM Intergration จาก Yeastar P-Series&nbsp;&nbsp;youtube.com"
+          "summary": "ไม่ต้องจดระหว่างคุยกับลูกค้า! ด้วย CRM Intergration จาก Yeastar P-Series&nbsp;&nbsp;YouTube"
         },
         {
-          "title": "Sync Form Responses to Your CRM in 5 Minutes or Less - youtube.com",
+          "title": "Sync Form Responses to Your CRM in 5 Minutes or Less - YouTube",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1S0F5UVE0bEFST1BYekpFei1xTDhHQTJ6SHU3a1B3TlV3WWg3ai1WTkpXb3B0aTRxT2JSWEY4VHU4d01JMVdDb09nMmZ5UldGNUZZZ0FR?oc=5",
           "published": "Mon, 28 Sep 2026 11:30:21 GMT",
-          "summary": "Sync Form Responses to Your CRM in 5 Minutes or Less&nbsp;&nbsp;youtube.com"
+          "summary": "Sync Form Responses to Your CRM in 5 Minutes or Less&nbsp;&nbsp;YouTube"
         },
         {
           "title": "I build an open-source CRM that AI agents can write to. This month I made every change show whether a person, the API, the chat or an MCP agent made it - reddit.com",
@@ -827,10 +755,10 @@
           "summary": "I build an open-source CRM that AI agents can write to. This month I made every change show whether a person, the API, the chat or an MCP agent made it&nbsp;&nbsp;reddit.com"
         },
         {
-          "title": "5 top CRM system solutions for small business sales teams - Daily Inter Lake",
+          "title": "5 top CRM system solutions for small business sales teams - dailyinterlake.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEtmenVfS0RZV2RDWUJ1amptVEMxMFBFUWw1T0wtenIxeUhBX25pcnJtOGJzc3Y0WTM3T0NabXpiWFA5RHR4NHVHT0thZjJhdmdHbzRkT2lsM1pWZzljNkJNMS0wdDZkMXZyQ3NkVW1jSGFBRVY5S1RXTXVxUXJOM2pRODUxa2Vndk9CNzV0TmxmdUxzdW42VFlkSWZqTlBNVDNyYg?oc=5",
           "published": "Mon, 28 Sep 2026 11:00:00 GMT",
-          "summary": "5 top CRM system solutions for small business sales teams&nbsp;&nbsp;Daily Inter Lake"
+          "summary": "5 top CRM system solutions for small business sales teams&nbsp;&nbsp;dailyinterlake.com"
         },
         {
           "title": "8 top CRM platform strategies for rapid lead follow up - Columbia Basin Herald",
@@ -1122,7 +1050,44 @@
     },
     {
       "name": "CXM Customer Experience Magazine",
-      "items": []
+      "items": [
+        {
+          "title": "Agentic Commerce: AWS Gives Its Shopping Assistant a Memory - Customer Experience Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjhqc1diZlQzbE5lZEJ1WU9TRFlfZjdPS296ek1EYkpSRDlPN3psWVlvc25ENWlMU1dHSkplX1A2TGNEb1Vlb2w5eDVhMDAxeEp6Zlpmdkh1M2JiLVpRM3hqSjR6M0pMN2M0Q3FkYzR1cFptS3JiWnpySVgwOTQyc3AtWWE?oc=5",
+          "published": "Tue, 29 Sep 2026 09:32:14 GMT",
+          "summary": "Agentic Commerce: AWS Gives Its Shopping Assistant a Memory&nbsp;&nbsp;Customer Experience Magazine"
+        },
+        {
+          "title": "AI Agent Security: What the Agentforce SalesBleed Flaws Reveal - Customer Experience Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlRscjhMVVBVdTV4ejdXY1hTdUtvbWNuaHNjT0dodGo4QzU3V3NxRzJENU91SWM1NzZxTEpPNHlKc0s0RURNaFpKLWNaekp4dDhoY00xNGZUV1E4RFZGZmMxZ0Y4ZjNvVFZfTHNJMzNlaFNKSGpyTUt4bUcxLU42QWpPdV8?oc=5",
+          "published": "Mon, 28 Sep 2026 17:31:18 GMT",
+          "summary": "AI Agent Security: What the Agentforce SalesBleed Flaws Reveal&nbsp;&nbsp;Customer Experience Magazine"
+        },
+        {
+          "title": "Agentic ERP: Microsoft Gives Dynamics 365 Agents Write Access - Customer Experience Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmJXTXRvdnE3UElIaHlXUm5iUkNJNk9jcmZfMkhQOHpXUHNKekVpaFY0TVRWVkFPLU1xN1lfbmhyZ2g1R2JZREpSenRFNTN4dmlIdkhpT1FqMjZsYk15a0g1bjhMOVFBUzFwYXBsb0gwUHJEQXBQQmdtTUhpTGpqcVFpTlE3Y28?oc=5",
+          "published": "Mon, 28 Sep 2026 16:28:31 GMT",
+          "summary": "Agentic ERP: Microsoft Gives Dynamics 365 Agents Write Access&nbsp;&nbsp;Customer Experience Magazine"
+        },
+        {
+          "title": "The CX Leader’s Real Job Is Handing Ownership to Everyone Else - Customer Experience Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFFxV1NLaDBFWk1SMk0xdDJ2M0xremdFSVhiTEJQNVpQLS1nR1dSQ1NjMW1XRXZEcWVMNFI0QXZSRmF2YUNEY0NCYW5YSzJ1cFFQcGstWHVxNlhpV0lOSmY1dHg0Mnpfblc4cDhTMnBhb3ZJR3RqcGUxeEtOdldxdENNVTFWVnpJWTdRTFlMR2toXzJjRlg2RUJUd09GbTZSRkE?oc=5",
+          "published": "Mon, 28 Sep 2026 16:28:31 GMT",
+          "summary": "The CX Leader’s Real Job Is Handing Ownership to Everyone Else&nbsp;&nbsp;Customer Experience Magazine"
+        },
+        {
+          "title": "Embedding B2B Customer Experience Strategy Across a Global Organisation - Customer Experience Magazine",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUpickoybl9UVS1aVHFvNHc5Ri1wRjRDYlBKRmtvcElCRzFrQUVUOWZITHQ5SFA3Y2x6VFBHYl9YWEJISVNqeHNIaDR0LVdfelNTT3dxS1NjYWFURW1QTXFWc2VXdFhVcGtGRjhiWjhtcXhUbU9CREVLR2FTM2ZyRDBEVmhpNndnWDYzeHEyMXc1YVBoaWZF?oc=5",
+          "published": "Mon, 28 Sep 2026 16:28:30 GMT",
+          "summary": "Embedding B2B Customer Experience Strategy Across a Global Organisation&nbsp;&nbsp;Customer Experience Magazine"
+        },
+        {
+          "title": "Employee Experience News: Glasgow Fire and Rehire, AI Jobs - Customer Experience Magazine",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaV9heVRoNjFCTUwwRjBLZzdmOE52V3pKNTRXVVlOTXBvZWdTdi1MV1Y4MUJvRmVjRXJoYUxuZHZ1UTlYMGN2ZW13VTVTOFN3MVNzRlljcHFBWk1lYUg0U2hfbXp4Uk5qUXZqaXdjaGlsTnM2Y3hvdURuTWoxZzJHUThVUm9KdldJdi1SX0VJc3E5R1A2YXRwVW5B?oc=5",
+          "published": "Mon, 28 Sep 2026 14:30:45 GMT",
+          "summary": "Employee Experience News: Glasgow Fire and Rehire, AI Jobs&nbsp;&nbsp;Customer Experience Magazine"
+        }
+      ]
     },
     {
       "name": "CX Foundation - Google News",
