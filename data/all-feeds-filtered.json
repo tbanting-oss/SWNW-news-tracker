@@ -1,18 +1,13 @@
 {
-  "generated_at": "2026-09-29T13:33:25.060691+00:00",
+  "generated_at": "2026-09-29T14:02:31.053034+00:00",
   "recency_window_hours": 48,
-  "feeds_fetched": 32,
-  "feeds_with_errors": 4,
+  "feeds_fetched": 36,
+  "feeds_with_errors": 3,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "name": "Industry News – CPaaSAA",
-      "url": "https://cpaasaa.com/category/industry-news/feed/",
-      "error": "429 Client Error: Too Many Requests for url: https://cpaasaa.com/category/industry-news/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -48,6 +43,12 @@
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Ofcom Probes Vonage and Voxbone Over Phone Scam Risks",
+          "link": "https://cxtoday.com/ofcom-probes-vonage-and-voxbone-over-phone-scam-risks",
+          "published": "Tue, 29 Sep 2026 12:46:29 GMT",
+          "summary": "Ofcom is investigating Vonage and Voxbone over potential phone-number misuse. What the probes mean for CPaaS, enterprise voice, and customer trust."
+        },
         {
           "title": "Five Steps to Audit the Hidden AI Already Inside Your Contact Center",
           "link": "https://cxtoday.com/five-steps-to-audit-the-hidden-ai-already-inside-your-contact-center-ttecdigital-cs-0062",
@@ -172,40 +173,40 @@
       "name": "UC Today",
       "items": [
         {
-          "title": "Cloud Voice Can Go Wrong Long Before the First Call - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSER5RU5XaEpCaEM1Ym1FZUEta05pMGxQTTlUMGJGTndfMzdqVTJvN3R6am1UY3hacGU1ZVdBeGFFdFdvMEd1cXlLNGZRV2RrSUJtMmlWOHZ6N0t1ZThUMnB0NVdOUjJsLVpWQzNtWHZHdGRlcUFYNUljU0MzZ0FyYVhOeWhXNEpEZnVWTGxtVEt5LVFqa2tlYS15Z2RGZ2s?oc=5",
-          "published": "Tue, 29 Sep 2026 12:40:29 GMT",
-          "summary": "Cloud Voice Can Go Wrong Long Before the First Call&nbsp;&nbsp;UC Today"
+          "title": "Cloud Voice Can Go Wrong Long Before the First Call",
+          "link": "https://uctoday.com/cloud-voice-can-go-wrong-long-before-the-first-call-tatacommunications-cs-0242",
+          "published": "Tue, 29 Sep 2026 12:31:00 GMT",
+          "summary": "Governance must come before rollout as cloud voice brings compliance, number porting and fraud risks. UC Today explains why IT buyers should care."
         },
         {
-          "title": "What Does Meta Muse Mean for the Immersive Workplace? - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDhPU2EtSjJrOEo5Zmd5ejZoWHJVT0RCdGhnaUJsSnNBRDlNbWd3QWVQUFNIVTVsc1hQOGlqd2czUWpSYWhNcWhJdm5WTHFoNzJrNHhXWkdSWk1JZDdnZkhJLU0yUDNzQlV2bnZ2c1hHYW5BQUw5bVRqSGhPNDJYdjB1UEI?oc=5",
-          "published": "Tue, 29 Sep 2026 11:05:11 GMT",
-          "summary": "What Does Meta Muse Mean for the Immersive Workplace?&nbsp;&nbsp;UC Today"
+          "title": "What Does Meta Muse Mean for the Immersive Workplace?",
+          "link": "https://uctoday.com/can-metas-muse-charm-make-ai-more-useful-in-immersive-work",
+          "published": "Tue, 29 Sep 2026 11:01:00 GMT",
+          "summary": "Explore how Meta's Muse Charm and smart glasses could transform the immersive workplace, bringing ambient AI agents to frontline and spatial workflows."
         },
         {
-          "title": "How Can Companies Tame the Chaos Hybrid Work Created? - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hT2xPOGUwMzdwOXdhcjllRXpPenpCMXRUS05ybVlKNDA3aXI5RTcxS3VBR3ZRVVhuN1NsbFM2WmxZQTM0emZFZm51eU5Wdk8yRWlzUEZ3dlRpVV9sR2h1WGZzVk10blBwN09RTUc1a0EzaE5hU3pQUXN3?oc=5",
+          "title": "How Can Companies Tame the Chaos Hybrid Work Created?",
+          "link": "https://uctoday.com/why-the-workplace-finally-needs-a-system-of-record",
           "published": "Tue, 29 Sep 2026 08:21:00 GMT",
-          "summary": "How Can Companies Tame the Chaos Hybrid Work Created?&nbsp;&nbsp;UC Today"
+          "summary": "Hybrid work is making office demand harder to predict as businesses balance real-estate costs with the need to make in-person work more effective"
         },
         {
-          "title": "Automation This Week: Agentic AI Is Clocking In for Business - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJTXlRLWxnbE1uT1pweXYzUGJ6bnE3RGZhcVd3aFhpSUJSRkplVUc4dTdHeXl6N2V3Q09pZmNpTFVpaXAwM2JhLVZOcTY3VEpsb2FoVDg2Z3g4MlFDVUU0SWpUUXFuLTNBQ2JadGZoNkFieFF2bGtR?oc=5",
-          "published": "Mon, 28 Sep 2026 14:04:53 GMT",
-          "summary": "Automation This Week: Agentic AI Is Clocking In for Business&nbsp;&nbsp;UC Today"
+          "title": "Automation This Week: Agentic AI Is Clocking In for Business",
+          "link": "https://uctoday.com/this-week-agentic-ai-is-clocking-in-for-business",
+          "published": "Mon, 28 Sep 2026 14:01:02 GMT",
+          "summary": "Meta Muse and Microsoft Copilot Autopilot show how workplace AI agents can automate workflows while keeping human oversight and accountability central."
         },
         {
-          "title": "Zoom's Linda Lian on Replacing the Sales Frankenstack - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iR3BfbExfUVhBWUtBenVJWGFZMnhYUEVaR0VabWowSDNhNi10MFZrRFFYblVValB4ZllVTDNEMU5YdkdMcWxYZjVCUEFTSWVfTXQ3QkN6ZWZuT09qdVE3cXc3QTRRUkw1eFE2cTdRSzJVT0U0YUxnOW5MamY?oc=5",
+          "title": "Zoom's Linda Lian on Replacing the Sales Frankenstack",
+          "link": "https://uctoday.com/zooms-linda-lian-on-replacing-the-sales-frankenstack",
           "published": "Mon, 28 Sep 2026 11:01:01 GMT",
-          "summary": "Zoom's Linda Lian on Replacing the Sales Frankenstack&nbsp;&nbsp;UC Today"
+          "summary": "Zoom's Linda Lian explains how the new revenue OS unites Common Room and Revenue Accelerator to replace fragmented sales tools"
         },
         {
-          "title": "Magic Leap's Reset Exposes Enterprise XR Market Limits - UC Today",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BckRvVWN2SFRrRlpueTRHZmlib1UzN3ZBbnFnc203ak1xdmFPSl9lMWFHS0dDajBwZUlPNHQtWUZ5OTVCcXE5OGktVnU2N0M3cS1rVjUxU2xBZzU0cDFPZnZ4U2d3R1Q1V1U2VU5n?oc=5",
+          "title": "Magic Leap's Reset Exposes Enterprise XR Market Limits",
+          "link": "https://uctoday.com/is-the-era-of-the-xr-headset-already-over",
           "published": "Mon, 28 Sep 2026 08:01:06 GMT",
-          "summary": "Magic Leap's Reset Exposes Enterprise XR Market Limits&nbsp;&nbsp;UC Today"
+          "summary": "Magic Leap is shifting from AR headsets to waveguides for AI glasses, highlighting the cost and scale barriers buyers should weigh, says UC Today."
         }
       ]
     },
@@ -219,7 +220,68 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": []
+      "items": [
+        {
+          "title": "GTT Targets Swifter Threat Detection With Fresh AI Network Platform",
+          "link": "https://telecomreseller.com/2026/09/29/gtt-targets-swifter-threat-detection-with-fresh-ai-network-platform/",
+          "published": "Tue, 29 Sep 2026 12:00:16 +0000",
+          "summary": "By: Moshe Beauford, Editor GTT Communications wants to give security teams a clearer view of what is happening across the network, launching a new platform that uses AI to track [...]\nThe post GTT Targets Swifter Threat Detection With Fresh AI Network Platform appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Comcast Business Brings Last-Mile Ethernet to Equinix Fabric",
+          "link": "https://telecomreseller.com/2026/09/28/comcast-business-brings-last-mile-ethernet-to-equinix-fabric/",
+          "published": "Mon, 28 Sep 2026 19:42:23 +0000",
+          "summary": "By: Moshe Beauford, Editor Comcast Business is adding its last-mile Ethernet network to Equinix Fabric, allowing eligible customers to check availability, get pricing and place orders through APIs. The integration [...]\nThe post Comcast Business Brings Last-Mile Ethernet to Equinix Fabric appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&A Wave",
+          "link": "https://telecomreseller.com/2026/09/28/ookla-finds-500-fiber-isps-as-u-s-market-heads-into-ma-wave/",
+          "published": "Mon, 28 Sep 2026 19:30:35 +0000",
+          "summary": "By: Moshe Beauford, Editor The U.S. fiber market is getting more crowded, with Ookla identifying roughly 500 providers showing characteristics of fiber networks in the first half of 2026. The [...]\nThe post Ookla Finds 500 Fiber ISPs as U.S. Market Heads Into M&#038;A Wave appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026",
+          "link": "https://telecomreseller.com/2026/09/28/other-world-computing-owc-to-showcase-unparalleled-roster-of-memory-cards-and-readers-storage-and-connectivity-innovations-at-cabsat-2026/",
+          "published": "Mon, 28 Sep 2026 19:16:39 +0000",
+          "summary": "Attendees from Across the Middle East, Africa, and South Asia to See How OWC Solutions Streamline Workflows for Filmmakers, Editors, DITs, Content Creators, and Other Media and Entertainment Professionals WOODSTOCK, [...]\nThe post Other World Computing (OWC) to Showcase Unparalleled Roster of Memory Cards and Readers, Storage, and Connectivity Innovations at CABSAT 2026 appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/preshai-helps-msps-put-ai-to-work-inside-existing-business-processes-podcast/",
+          "published": "Mon, 28 Sep 2026 18:52:04 +0000",
+          "summary": "By Doug Green “AI is here. The challenge is figuring out how to actually put it into your business.” In this Technology Reseller News podcast recorded at MSP Summit, Paul [...]\nThe post PRESHai Helps MSPs Put AI to Work Inside Existing Business Processes, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/kongusto-helps-msps-turn-human-capital-into-a-competitive-advantage-podcast/",
+          "published": "Mon, 28 Sep 2026 18:25:42 +0000",
+          "summary": "By Doug Green “Technology is becoming a commodity. Your people don’t have to be.” In this Technology Reseller News podcast recorded at MSP Summit, Joel Ciniero of Kongusto discusses how [...]\nThe post Kongusto Helps MSPs Turn Human Capital into a Competitive Advantage, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "AppDirect Brings Soul Machines AI Avatars to Its Advisor Network",
+          "link": "https://telecomreseller.com/2026/09/28/appdirect-brings-soul-machines-ai-avatars-to-its-advisor-network/",
+          "published": "Mon, 28 Sep 2026 16:00:47 +0000",
+          "summary": "By: Moshe Beauford, Editor AppDirect is giving its advisors a new AI offering to sell and build services around with its acquisition of Soul Machines. Soul Machines has spent years [...]\nThe post AppDirect Brings Soul Machines AI Avatars to Its Advisor Network appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff.",
+          "link": "https://telecomreseller.com/2026/09/28/you-dont-manage-ai-voice-agents-like-software-you-manage-them-like-staff/",
+          "published": "Mon, 28 Sep 2026 14:36:58 +0000",
+          "summary": "By Bill (PhoneBill) McClain, UponAI There’s a Forbes piece making the rounds right now with a premise worth sitting with: AI agents are joining your team, and the skill that’s [...]\nThe post You Don’t Manage AI Voice Agents Like Software. You Manage Them Like Staff. appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/xtium-builds-an-ai-native-msp-model-around-voice-governance-and-automation-podcast/",
+          "published": "Mon, 28 Sep 2026 13:30:47 +0000",
+          "summary": "By Doug Green “We’re not just building an AI MSP. We’re building an AI-native MSP.” In this special Technology Reseller News and Cloud Communications Alliance podcast, Byron Young, Chief Product [...]\nThe post XTIUM Builds an AI-Native MSP Model Around Voice, Governance and Automation, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast",
+          "link": "https://telecomreseller.com/2026/09/28/archematch-uses-ai-to-turn-institutional-knowledge-into-personalized-training-podcast/",
+          "published": "Mon, 28 Sep 2026 13:00:30 +0000",
+          "summary": "By Doug Green “The wisdom of the company can become perpetual.” In this Technology Reseller News podcast, Gary Sinderbrand of ArcheMatch discusses how the company is using AI to capture [...]\nThe post ArcheMatch Uses AI to Turn Institutional Knowledge into Personalized Training, Podcast appeared first on Telecom Reseller / Technology Reseller News."
+        }
+      ]
     },
     {
       "name": "CMSWire.com - All News",
@@ -270,7 +332,20 @@
     },
     {
       "name": "Twilio Blog",
-      "items": []
+      "items": [
+        {
+          "title": "How to Build an RCS Business Messaging Campaign with Twilio in PHP",
+          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-rcs-business-messaging-campaign-twilio-php",
+          "published": "Sun, 27 Sep 2026 20:00:00 -0400",
+          "summary": "In this tutorial, you’ll learn how to build an RCS Business Messaging campaign in PHP"
+        },
+        {
+          "title": "Building Localised, Enterprise-Grade AI Voice Agents",
+          "link": "https://www.twilio.com/en-us/blog/insights/building-localised-enterprise-grade-AI-voice-agents",
+          "published": "Sun, 27 Sep 2026 20:00:00 -0400",
+          "summary": "Learn how to scale AI voice agents from pilot to production. Explore tips on low-latency streaming, localisation, and enterprise stacks."
+        }
+      ]
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -286,10 +361,16 @@
           "summary": "Where do associates fit in an AI world?&nbsp;&nbsp;CX Dive"
         },
         {
-          "title": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026 - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WdzVJX29yOVBWempNMnE3Rng1YzVnQkd2SlVTMlI2VTBoUkZTRW5vZVUyV2NleDIycGxuNXJMZVF5Mm5tTE5BX0hwY2ZpWW92SjE5WXU0cE0zZl8yVUUzdy1aaw?oc=5",
-          "published": "Tue, 29 Sep 2026 00:45:52 GMT",
-          "summary": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026&nbsp;&nbsp;CX Today"
+          "title": "When adopting agentic CX, don’t forget about your customer - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRi02UUhJLURGLWdDYlQxOV9FMVpGMENRdmlLdUF1T0hFRW45R2QwVDVURUlfRWJ3bTIxSUkyd0pkT193YTFyNHkwQ050dkNzdV90MHVzR244T25TVHFwSjZOVGxvMUt5ZENBZmR3SWJPZUF6OXJrSW16eHRXQWRFYVhMMm5xOTJZUXBRb3BRTC1uQjVDbjBBbmYxYUFVZUtNTnpFMzVONEluNjRQY1E?oc=5",
+          "published": "Tue, 29 Sep 2026 02:43:42 GMT",
+          "summary": "When adopting agentic CX, don’t forget about your customer&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "Tata Communications' CPaaS Drives Customer Continuity - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IOV9wS04wejA2MXlnNDRzaGFZbVI3ekxvYVVSZXgtWTk0Uy1KMmZhNjQtWkdhX1BUREFvSEtRVG8tcldLbGlfeHJwR1hHTE5Pd0VCLXFfSzZLNnZVMVlReVJlYVFiQlgwQjBrS0ltOTE?oc=5",
+          "published": "Tue, 29 Sep 2026 01:46:11 GMT",
+          "summary": "Tata Communications' CPaaS Drives Customer Continuity&nbsp;&nbsp;CX Today"
         },
         {
           "title": "How one BPO is positioning for an AI future - CX Dive",
@@ -310,6 +391,12 @@
           "summary": "Employee Experience Is the New WFM Battleground&nbsp;&nbsp;CX Today"
         },
         {
+          "title": "The ISG Customer Experience Management Advanced Buyers Guide 2026: 6 Top Takeaways - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wS3ZRU2c4VVA4YUtzZEJRM3hCM2lsSFlfcFdaLUxSd2k0bThJaWc4T2pqejFrQ3YxQ1JkaUljNGQtVVd0NGlRb1FydWd1X3pzRGh6dWFyU19EY2t2LUlBWXNhREM3UFpCZVRwZUFqSy1MVGtNN0NheDdBTWY?oc=5",
+          "published": "Mon, 28 Sep 2026 17:19:09 GMT",
+          "summary": "The ISG Customer Experience Management Advanced Buyers Guide 2026: 6 Top Takeaways&nbsp;&nbsp;CX Today"
+        },
+        {
           "title": "The CRM workflow gap holding back customer experience - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWNuVTdaM0tWdHVRbnpreUJ2WGRUakFaRndPV1BZTkpHcUNBNHdNWlItNGdsSjNDVVdtMjZWMDNfTUxhZDVPcEwyYjBKRV92aWRDMGlrbDNNMFZRMFU1T1h5RTMyMEEzOXZtVnFwZmpBQWpwdGUxdDhhOWxiWVBsdDFGd2JvNm5xdVZXbzBBMnZYR0dxSXZvNkE3M25EZ1d1aFRnRWpmTUs0QQ?oc=5",
           "published": "Mon, 28 Sep 2026 13:43:18 GMT",
@@ -326,6 +413,12 @@
     {
       "name": "\"CRM\" - Google News",
       "items": [
+        {
+          "title": "Good AI Systems Let Advisors Focus On The Human - Wealth Solutions Report",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlp6NmtiS2lMbXpTZkRjT3pzNDVjNHJRRDdEOVlUTk5sX3ZtTXpNQ3lwQzE4eGxFY1YyWVBweld5S2k2X3VIY0JNc0xIVkxWVkZaWVhkNGFQQUpvY3F3RFQybTl0OWkxdTYxUmd5UGpDUFNDdktMM3dSTWkyTm56ZU5jYi1YQzhUT2oxcDl0dw?oc=5",
+          "published": "Tue, 29 Sep 2026 13:43:56 GMT",
+          "summary": "Good AI Systems Let Advisors Focus On The Human&nbsp;&nbsp;Wealth Solutions Report"
+        },
         {
           "title": "Slant and FinTurk debut new forms tools - InvestmentNews",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTUtdmljYkw1R1RmT3lXNWQ1RnJmLUJPMi1WMEVjSWNrblk1dFd4ZXlUMGRPTWJFdVdZc3c1SXFNZUZfcHZLTUFDMVBkb3BfdHdQazBhNDVjRHluTnU5NDFPdjBtd3FJdjVyVFFBX3BMbzBEOUR3TEkydDRpaGwxd0IwbGF4c2ZJSjF6UVhxc3JVaUhJ?oc=5",
@@ -357,10 +450,16 @@
           "summary": "Oppenheimer Maintains Salesforce(CRM.US) With Buy Rating, Maintains Target Price $275&nbsp;&nbsp;富途牛牛"
         },
         {
-          "title": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement - TipRanks",
+          "title": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement - tipranks.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaHh1WkVLMzExbkxNSmpkdEFpWDNWZk5tLUNQVzZpSk1HeS16X3Rlakp5RGJ6U1M3R0hyTzNPN2xJVmtzM0o5aDhxek1yUTJMTlZGS0Q3TVVwYk1VcUlsMzdwV3JxVFJxUktsNXNwNXllb3hrYTBhS3V2U1UzWHgtX19fOWNvOWNTQXByMExvUWRCYnUwbkFXUmdFSi1GaVl6U3FLaWJudUJwalRZNVNQYTVUN1NGNVR4NHNNUTRzZkY?oc=5",
           "published": "Tue, 29 Sep 2026 12:18:56 GMT",
-          "summary": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement&nbsp;&nbsp;TipRanks"
+          "summary": "WebEngage Supports Laverne Group in Data-Driven CRM and Customer Engagement&nbsp;&nbsp;tipranks.com"
+        },
+        {
+          "title": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools - Tycoonstory Media",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZGhCYjM3cTNzVHUwdUFjVzdManBjbTctcFM1MmQtbzYza1ZRdGIwX3AwTkJnY2p5bkZSTGVIdEVsWWFZYjNKUk0wOFJhT2Z4Znc?oc=5",
+          "published": "Tue, 29 Sep 2026 11:29:57 GMT",
+          "summary": "HubSpot CRM: Features, Pricing, Free Plan & AI Tools&nbsp;&nbsp;Tycoonstory Media"
         },
         {
           "title": "What UK Business Owners Should Demand From Their CRM Vendor - Bdaily",
@@ -369,10 +468,10 @@
           "summary": "What UK Business Owners Should Demand From Their CRM Vendor&nbsp;&nbsp;Bdaily"
         },
         {
-          "title": "LiveRamp brings CRM audiences to ChatGPT Ads - contentgrip.com",
+          "title": "LiveRamp brings CRM audiences to ChatGPT Ads - ContentGrip",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQNzVzWDZWdU5lOEg5eUJxZXNzR2UtMV96NEFyU1ZQYWpQT3pjUmFuUW42WjRJekp3U0lhZUwwT2drV1ZSUTRwNzR6S25LTjk3RDgwRnN0Q3ctaVNKRzAzVkREeExnX1VjWXRZ?oc=5",
           "published": "Tue, 29 Sep 2026 08:32:35 GMT",
-          "summary": "LiveRamp brings CRM audiences to ChatGPT Ads&nbsp;&nbsp;contentgrip.com"
+          "summary": "LiveRamp brings CRM audiences to ChatGPT Ads&nbsp;&nbsp;ContentGrip"
         },
         {
           "title": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul - The Register",
@@ -381,22 +480,22 @@
           "summary": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul&nbsp;&nbsp;The Register"
         },
         {
-          "title": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses - EIN Presswire",
+          "title": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses - einpresswire.com",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTEEtRUtxUXMtc3pqLXJRSkJkMDBuVEdwd0NOaWR2VzJtWGF3Q004X3dkTWV0VXNDbnY0LTRVOXZkYUdxeVZrQ1lIMWJ4cEhpZlB3RWZjeUdZM09jbC1GbHQwZy1LOXBnTFZ1Tk5XZXNIZ2tzd29VUzZFdE5pNWFQV0d6NFA5R25SMy02Z3ViN3k2TWlVZEdFYWl5cUpQR25IX2I2QVltam1USTBvY0IzWTRzMkwxUFhxNWdWb0w1bnNnMEZlRWZycmdTWGlZTG9Wb25tYUgtY1dPdXpUSTNhR1p3?oc=5",
           "published": "Tue, 29 Sep 2026 07:11:00 GMT",
-          "summary": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses&nbsp;&nbsp;EIN Presswire"
+          "summary": "IIH Global Expands CRM Development and Integration Services for UK, US, Australia and Canada Businesses&nbsp;&nbsp;einpresswire.com"
         },
         {
-          "title": "Fast Track launches native AI-powered CRM app for iPhone - Yogonet",
+          "title": "Fast Track launches native AI-powered CRM app for iPhone - yogonet.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHFnSkNtWUdNWlZyekd3SmpMb0lNUUE4SmU4cXgtWlptZUxtRnUzS2JkSENyaWZoN29XNDFselhlLVRlUnFRUnBZb3FpdHc4UzJWSlhubS1oWlpweVJ3QUtVZV9xd0ZXck15Zl85eUhNWmx0Y3hCUC1QbThjWEJOekVhVG1hNWh5cUo3TnJNeGJ3N1dLUWlMdDBNNTN2Z2U4b04zbF9CaDkwNkVqdGFiTVRyeVpLaGM?oc=5",
           "published": "Tue, 29 Sep 2026 06:33:06 GMT",
-          "summary": "Fast Track launches native AI-powered CRM app for iPhone&nbsp;&nbsp;Yogonet"
+          "summary": "Fast Track launches native AI-powered CRM app for iPhone&nbsp;&nbsp;yogonet.com"
         },
         {
-          "title": "(CRM) Movement as an Input in Quant Signal Sets - news.stocktradersdaily.com",
+          "title": "(CRM) Movement as an Input in Quant Signal Sets - Stock Traders Daily",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXZZNDZIZFhLSjRfN2NsTTRCUExZQVVvdDY1YzZPWHRPeE9ocUQyWmJjOFM2T1l2RHgyTmlqMGhxOHU1VHAzQi1SWFp3ZE5iOU1KM3MzRjktbEpWZkJNcUdIVkw3ckJSUGVpNHpoTjZ1MzhqR09mWHliX0syWENTbE5ERV8zcEwxN3JKSWVSalg2aWN3b3ltN1V3LUx0MjdRaXZqUVZWYnUxRFJHeHprUF9aVkxuMENueWRIVWdNcC1UOVk?oc=5",
           "published": "Tue, 29 Sep 2026 00:52:02 GMT",
-          "summary": "(CRM) Movement as an Input in Quant Signal Sets&nbsp;&nbsp;news.stocktradersdaily.com"
+          "summary": "(CRM) Movement as an Input in Quant Signal Sets&nbsp;&nbsp;Stock Traders Daily"
         },
         {
           "title": "Salesforce (NYSE:CRM) Stock Falls 2.9% - Here's Why - MarketBeat",
@@ -435,10 +534,10 @@
           "summary": "Is Salesforce (CRM) Cheap After AIforce And Koa Launches?&nbsp;&nbsp;Yahoo Finance"
         },
         {
-          "title": "Salesforce Takes 5 Huge Steps Forward at Dreamforce - cloudwars.com",
+          "title": "Salesforce Takes 5 Huge Steps Forward at Dreamforce - Cloud Wars",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdrT2VNODlpQURVMUJtcXJGelM3M09OajU3WENlNXZlZGtCcEdUbmFUZTNUYkI2U0lNR3Bna2xyRHNpZ0ZHaHlpOTRNb2pCZFRvUFpuZ01GV1c1akVBUWdzWTd2dHAxU2x2UnlDZDlra2o0aktKNVlnZ0R1eUZlNUlodw?oc=5",
           "published": "Mon, 28 Sep 2026 15:00:00 GMT",
-          "summary": "Salesforce Takes 5 Huge Steps Forward at Dreamforce&nbsp;&nbsp;cloudwars.com"
+          "summary": "Salesforce Takes 5 Huge Steps Forward at Dreamforce&nbsp;&nbsp;Cloud Wars"
         },
         {
           "title": "10 Salesforce Solution Providers Reshaping CRM In The AI Era - crn.com",
@@ -459,10 +558,10 @@
           "summary": "Aquapio Launches All-in-One CRM Built for Manufactured Home Dealers, Brokers and Agents&nbsp;&nbsp;EIN News"
         },
         {
-          "title": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234 - GuruFocus",
+          "title": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234 - gurufocus.com",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkxIRVdfZnBUVFQzazctTkc1aTVSdDVRZ3FFNW5GRF9rRF9mVS1Kb3ZGakJiTE50WlQ3dTdCT21KZHo4eXlXVjRkMWhnZVNTdmJXVkxwMkU5ZEotdmdEdTdRZlVVc25FSWFhMmQxS3NmWDh0S3Rsc1V6S1A5alZ6SG1QeWdNVXdCdzl6aFlhc0M4UQ?oc=5",
           "published": "Mon, 28 Sep 2026 11:32:48 GMT",
-          "summary": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234&nbsp;&nbsp;GuruFocus"
+          "summary": "CRM DCF Analysis: Intrinsic Value $238 vs Price $234&nbsp;&nbsp;gurufocus.com"
         },
         {
           "title": "8 top CRM platform strategies for rapid lead follow up - Columbia Basin Herald",
@@ -477,10 +576,10 @@
           "summary": "5 top CRM system solutions for small business sales teams&nbsp;&nbsp;Hagadone News Network"
         },
         {
-          "title": "JobNimbus, RepCard Launch Two-Way Sales Integration - Roofing Contractor",
+          "title": "JobNimbus, RepCard Launch Two-Way Sales Integration - roofingcontractor.com",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUhqWkVvUXlZbzltTzhOcGRnRmhXemZSWEJkSUc4NDY3cjBmVlFFczZlZ0JhczctMTU4UmRMTDNsUUpvbl9oNXNiU1lXS2dTQVNtdjFRYkJGVHVjaUdOYnVvdGVrb2dodFk4aEZjU19YbFF0bDAwUGstUEY5Ym44b0JYUmJOclNRQkdqVnAxVV9XMkRVSkg5Rlh2RmdNcjRIclE?oc=5",
           "published": "Mon, 28 Sep 2026 04:29:26 GMT",
-          "summary": "JobNimbus, RepCard Launch Two-Way Sales Integration&nbsp;&nbsp;Roofing Contractor"
+          "summary": "JobNimbus, RepCard Launch Two-Way Sales Integration&nbsp;&nbsp;roofingcontractor.com"
         },
         {
           "title": "Salesforce vs. Palantir Technologies: What Revenue Trends Reveal to Investors About These Tech Giants - The Motley Fool",
@@ -642,6 +741,90 @@
     },
     {
       "name": "GlobeNewswire - Telecommunications Industry News",
+      "items": []
+    },
+    {
+      "name": "TechTarget Enterprise Software",
+      "items": []
+    },
+    {
+      "name": "CX Dive",
+      "items": [
+        {
+          "title": "Where do associates fit in an AI world?",
+          "link": "https://www.customerexperiencedive.com/news/where-do-associates-fit-in-an-ai-world/831545/",
+          "published": "Tue, 29 Sep 2026 07:00:00 -0400",
+          "summary": "Customers are arriving at stores more educated than ever, but associates still need to support or build on what those shoppers learned from AI, experts say."
+        },
+        {
+          "title": "How one BPO is positioning for an AI future",
+          "link": "https://www.customerexperiencedive.com/news/how-one-bpo-positioning-ai-future/831562/",
+          "published": "Mon, 28 Sep 2026 17:00:00 -0400",
+          "summary": "As AI automates more customer service interactions, BPOs like TaskUs are figuring out where people will remain in the loop."
+        },
+        {
+          "title": "Walmart CEO addresses personalized pricing concerns",
+          "link": "https://www.customerexperiencedive.com/news/walmart-ceo-personalized-pricing-concerns/831512/",
+          "published": "Mon, 28 Sep 2026 15:21:00 -0400",
+          "summary": "John Furner issued a letter attempting to dispel pricing concerns about digital shelf labels and Sparky, but some say a Walmart patent leaves the door open."
+        },
+        {
+          "title": "Consumer AI use a boon for the holidays as AI traffic doubles",
+          "link": "https://www.customerexperiencedive.com/news/consumer-ai-use-boon-holidays-ai-traffic-doubles/831432/",
+          "published": "Mon, 28 Sep 2026 08:00:00 -0400",
+          "summary": "Consumers using AI engage with brands&rsquo; offers at a higher rate than non-AI traffic and generate more revenue per visit, a survey from Adobe found."
+        },
+        {
+          "title": "The CRM workflow gap holding back customer experience",
+          "link": "https://www.customerexperiencedive.com/spons/the-crm-workflow-gap-holding-back-customer-experience/831108/",
+          "published": "Mon, 28 Sep 2026 05:00:00 -0400",
+          "summary": "Disconnected CRM creates workflow gaps; true CX requires end-to-end orchestration across systems."
+        },
+        {
+          "title": "When adopting agentic CX, don’t forget about your customer",
+          "link": "https://www.customerexperiencedive.com/spons/when-adopting-agentic-cx-dont-forget-about-your-customer/831166/",
+          "published": "Mon, 28 Sep 2026 05:00:00 -0400",
+          "summary": "The AI that wins isn't the flashiest pilot &mdash; it's the one built to last for customers."
+        }
+      ]
+    },
+    {
+      "name": "Call Centre Helper",
+      "items": [
+        {
+          "title": "Customer Satisfaction Survey Best Practices: A Complete Guide",
+          "link": "https://www.callcentrehelper.com/csat-survey-best-practices-guide-277584.htm",
+          "published": "Tue, 29 Sep 2026 08:30:00 +0000",
+          "summary": "CallMiner discusses what customer satisfaction surveys are and the metrics that fall under this category, as well as reviewing 12 best practices to help you build better customer satisfaction surveys, common mistakes you should avoid, and how to use survey...\nThe post Customer Satisfaction Survey Best Practices: A Complete Guide appeared first on Call Centre Helper."
+        },
+        {
+          "title": "How to Manage Agent Workarounds and Shortcuts",
+          "link": "https://www.callcentrehelper.com/manage-agent-workarounds-shortcuts-273874.htm",
+          "published": "Tue, 29 Sep 2026 07:00:00 +0000",
+          "summary": "Learn how to strike the right balance when managing agent workarounds by understanding their causes and improving processes, training, and system design.\nThe post How to Manage Agent Workarounds and Shortcuts appeared first on Call Centre Helper."
+        },
+        {
+          "title": "6 AutoQA Mistakes That Derail Your Program Before It’s Even Started",
+          "link": "https://www.callcentrehelper.com/autoqa-mistakes-that-derail-your-program-277411.htm",
+          "published": "Mon, 28 Sep 2026 10:00:00 +0000",
+          "summary": "Most AutoQA programs don’t fail because the technology doesn’t work. They fail because of decisions made in the weeks before anyone touches a single configuration setting. Here, evaluagent’s Product Enablement Manager Chris Mounce walks through the six most common AutoQA...\nThe post 6 AutoQA Mistakes That Derail Your Program Before It’s Even Started appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Low-Code Use Cases With Real-World Examples",
+          "link": "https://www.callcentrehelper.com/low-code-use-cases-277274.htm",
+          "published": "Mon, 28 Sep 2026 08:30:00 +0000",
+          "summary": "Richard Higginbotham at Netcall explores six practical examples of how organisations can use low-code to solve those challenges. Low-code is often associated with building applications faster. But the real value goes beyond application development. Organisations are using low-code to digitise...\nThe post Low-Code Use Cases With Real-World Examples appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Have IVRs Had Their Day?",
+          "link": "https://www.callcentrehelper.com/have-ivrs-had-their-day-277258.htm",
+          "published": "Mon, 28 Sep 2026 07:00:00 +0000",
+          "summary": "Learn whether IVRs are becoming obsolete or evolving with AI, as experts explore virtual agents, intelligent routing, and the future of contact centre entry.\nThe post Have IVRs Had Their Day? appeared first on Call Centre Helper."
+        }
+      ]
+    },
+    {
+      "name": "Light Reading",
       "items": []
     }
   ]
