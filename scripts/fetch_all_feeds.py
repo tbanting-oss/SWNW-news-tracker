@@ -171,6 +171,19 @@ def entry_datetime(entry) -> datetime | None:
         return None
 
 
+# Job-board outlets that Google News surfaces for broad queries such as "CRM". A Google News title ends
+# with " - <outlet>", so the rule reads that suffix. Tested on this repo's own history (token_audit.py in
+# buyer-intent-automation): it would have dropped 31 distinct items and none that the signal scan ever kept.
+JOB_BOARD_OUTLETS = ("bebee", "totaljobs", "linkedin", "indeed", "glassdoor", "ziprecruiter", "remote rocketship",
+                     "micro1", "reed.co.uk", "cv-library", "monster")
+
+
+def is_job_board(title: str) -> bool:
+    m = re.match(r"^.*\s-\s([^-]{2,60})$", title or "")
+    outlet = m.group(1).strip().lower() if m else ""
+    return bool(outlet) and any(outlet.startswith(j) for j in JOB_BOARD_OUTLETS)
+
+
 def fetch_feed(name: str, url: str, rss_url_overrides: dict) -> dict:
     # BusinessWire's personalised URL is injected from a secret rather than
     # whatever's literally in the OPML, since NewsBlur's copy may be stale
@@ -231,13 +244,18 @@ def fetch_feed(name: str, url: str, rss_url_overrides: dict) -> dict:
         recent = undated_entries[:FALLBACK_ITEM_COUNT]
 
     items = []
-    rejected = []          # broad-feed items the keyword filter dropped, kept so the filter can be audited
+    rejected = []          # items the keyword filter or the job-board rule dropped, kept so they can be audited
+    is_google_news = "news.google.com" in actual_url
     for entry in recent:
         title = entry.get("title", "")
         summary = re.sub(r"<[^>]+>", "", entry.get("summary", "")).strip()[:500]
 
         if needs_filter and not is_relevant(title, summary, FEED_EXTRA_KEYWORDS.get(name, ())):
             rejected.append({"title": title[:200], "summary": summary[:200], "published": entry.get("published", "")})
+            continue
+
+        if is_google_news and is_job_board(title):
+            rejected.append({"title": title[:200], "summary": "[job-board outlet rule]", "published": entry.get("published", "")})
             continue
 
         items.append(
