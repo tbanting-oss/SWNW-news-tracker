@@ -73,9 +73,89 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "HMRC awards Salesforce and NiCE £3bn CX contract",
+          "sowhat": "A major UK public-sector CCaaS deployment at scale, signalling both Salesforce Service Cloud momentum and the viability of newer CCaaS entrants in regulated deals.",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vUHpON1pKQXQzMGJrWFRSVnJpZHZyUXlJY05xZFZ2VzNZNlVBQkVlb0hLS1hudWJLckNNZm1mNUl3VjlrbXl6ZUJTZzVmYTZIcnB2ZWtRWnRudUZPekE?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Foundation"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce acquires Listen Labs for unknown consideration",
+          "sowhat": "A tuck-in targeting real-time conversational intelligence, suggesting Salesforce wants deeper agent-assist and sentiment hooks inside Service Cloud.",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWZhTGUzS3ZUMzJGeG1NRVlqWV9ySkVJeEI5NGF2QjZ2VnZQQmRKN0xBbjl1VjJpZkszdVN1X0M4aEQ4OXg5dVhRZGRzalpKS1oyTmYxS3hxcUUtWUp4U1A5SUFSWWhCY1N1MWVNRzd3Y1FGamUwOFBHS2l5SEVjM0c5SGF3MktULTBFSWJ0Y2FNbXJ6UGxNdFl3dVhZMXkybnFZ?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Salesforce"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "AVANT adds Vida AI agent platform to reseller portfolio",
+          "sowhat": "Channel distribution signal for a horizontal AI-agent vendor; watch whether resellers can actually deploy and support agentic workflows at SMB scale.",
+          "url": "https://telecomreseller.com/2026/09/30/avant-adds-vida-ai-agent-platform-to-trusted-advisor-portfolio/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft splits Copilot pricing into everyday and advanced tiers",
+          "sowhat": "A structural change that decouples per-seat baseline AI from consumption-based agent and frontier-model workloads—expect budget and governance headaches for buyers managing both.",
+          "url": "https://futurumgroup.com/insights/microsoft-splits-the-copilot-pricing-model-into-everyday-and-advanced-ai/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Oracle launches Fusion Claw runtime for governed autonomous agents",
+          "sowhat": "Oracle's first purpose-built agentic execution layer merges reasoning and deterministic compute across finance, HR and supply chain—potentially shortening time-to-value for ERP-heavy enterprises.",
+          "url": "https://futurumgroup.com/insights/oracle-fusion-claw-from-ai-assistance-to-governed-autonomous-execution/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Braze unveils self-serve AI decisioning at Forge 2026",
+          "sowhat": "Marketing-automation platform adds agent-like decisioning and QA tools; relevant for CX leaders evaluating engagement-layer AI beyond the contact centre.",
+          "url": "https://cxtoday.com/braze-forge-2026-ai-turns-marketers-into-decision-makers",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Seismic-Highspot merger completed, CEO outlines SalesTech roadmap",
+          "sowhat": "A material consolidation in revenue enablement; enterprises running both platforms face integration work, but combined data sets may improve sales-AI grounding.",
+          "url": "https://cxtoday.com/seismic-ceo-mergers-milestones-and-the-future-of-salestech",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Sierra joins OpenAI B2B Marketplace as launch partner",
+          "sowhat": "Distribution play lets enterprises apply existing OpenAI credits toward Sierra's customer-support agents with outcomes-based pricing—lowers initial friction for pilot buyers.",
+          "url": "https://futurumgroup.com/insights/sierra-joins-openai-marketplace-a-distribution-play-for-enterprise-ai-agents/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "Agent governance and safety: NVIDIA silicon controls, Palo Alto continuous pentesting, Cohesity rollback, and Twilio trust gap all point to containment becoming the next compliance category."
+      "pattern_watch": "Three items (HMRC/Salesforce, Microsoft Copilot pricing, Oracle Fusion Claw) share a thread: platform vendors moving from horizontal AI hooks to governed, domain-specific agentic workflows with new commercial models."
     },
     {
       "iso": "2026-09-29",
@@ -924,5 +1004,5 @@
       "pattern_watch": "EU AI Act enforcement and digital sovereignty concerns are pushing AI governance and data residency up the procurement agenda across CX and UC"
     }
   ],
-  "updated": "2026-09-30T12:11:16.043418+00:00"
+  "updated": "2026-09-30T19:51:46.896873+00:00"
 }
