@@ -23,9 +23,69 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Destination CRM"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "HMRC picks Salesforce for £2.4bn CRM overhaul",
+          "sowhat": "UK's largest service department commits multi-billion CRM spend, signaling government-scale platform consolidation and validating Salesforce in regulated, high-volume public-sector use.",
+          "url": "https://cxtoday.com/hmrc-selects-salesforce-for-2bn-crm-program-as-overhaul-takes-shape",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "CallTower acquires Momentum Telecom's voice and collaboration unit",
+          "sowhat": "Private-equity-backed UCaaS consolidation continues; CallTower adds 3,500 customers and deepens channel capacity, though recurring revenue impact and integration risk remain unclear.",
+          "url": "https://telecomreseller.com/2026/10/01/calltowers-momentum-deal-adds-more-room-for-the-channel/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Luware launches NimbusOne agent UI beyond Teams client",
+          "sowhat": "Microsoft Teams contact-centre partners now extending beyond native UI, suggesting Teams CCaaS buyers want dedicated agent tooling not tethered to collaboration UX.",
+          "url": "https://telecomreseller.com/2026/10/01/luware-looks-to-push-contact-center-beyond-the-teams-client/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "8x8 reports 50% cost cut for Australian retailer",
+          "sowhat": "Single-digit-percentage cost saves matter most to SMB buyers; 8x8's Doors Plus case reinforces price and simplicity over feature breadth for retail consolidation.",
+          "url": "https://telecomreseller.com/2026/10/01/doors-plus-consolidates-contact-centre-and-store-operations-on-8x8-platform-slashes-communications-costs-by-50/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "RingCentral publishes voice AI agent deployment and ROI survey",
+          "sowhat": "Fifty-seven percent of surveyed leaders claim live voice-AI deployments and 82% report positive ROI, but sample selection and ROI definition remain unaudited vendor claims.",
+          "url": "https://www.ringcentral.com/us/en/blog/agentic-voice-ai-statistics/",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "RingCentral (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco WebexOne opens in Austin with AI collaboration focus",
+          "sowhat": "Annual flagship event signals Cisco's continued AI-collaboration messaging; real news will come from product launches, customer deployments, and competitive positioning details.",
+          "url": "https://cxtoday.com/webexone-2026-cisco-brings-ai-collaboration-to-austin-webexbycisco-cs-0244",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
         }
       ],
-      "pattern_watch": "Microsoft agent identity and context expansion: persistent M365 agents, Work IQ extensibility, and Copilot Studio self-learning all extend agent reach into governed enterprise workflows."
+      "pattern_watch": "Three items share UC/CCaaS M&A and integration thread: CallTower-Momentum, Luware Teams extension, 8x8 retail consolidation."
     },
     {
       "iso": "2026-09-30",
@@ -880,5 +940,5 @@
       "pattern_watch": ""
     }
   ],
-  "updated": "2026-10-01T12:45:31.397153+00:00"
+  "updated": "2026-10-01T20:08:54.583083+00:00"
 }
