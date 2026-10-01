@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:36:20.340078+00:00",
+  "generated_at": "2026-10-01T11:47:42.443924+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 3,
@@ -50,6 +50,24 @@
       "name": "CX Today",
       "items": [
         {
+          "title": "Why Contact Center Buyers Must Rethink CX for 2026",
+          "link": "https://cxtoday.com/why-contact-center-buyers-must-rethink-cx-for-2026",
+          "published": "Thu, 01 Oct 2026 11:06:00 GMT",
+          "summary": "ISG’s Keith Dawson explains why 2026 contact center buyers must assess AI governance, context, IT alignment, and operating model fit."
+        },
+        {
+          "title": "Why CX Leaders Are Connecting Signals Before Scaling AI",
+          "link": "https://cxtoday.com/why-connected-context-is-now-a-cx-imperative",
+          "published": "Thu, 01 Oct 2026 08:01:00 GMT",
+          "summary": "Explore the customer analytics trends pushing CX teams toward connected data, conversational AI, explainable recommendations, and stronger governance."
+        },
+        {
+          "title": "What To Expect at CCW Nashville 2026: AI, CX, and More",
+          "link": "https://cxtoday.com/what-to-expect-at-ccw-nashville-2026-ai-cx-and-more",
+          "published": "Wed, 30 Sep 2026 18:01:00 GMT",
+          "summary": "CCW Nashville 2026 will explore contact center AI, CX strategy, keynotes, automation, self-service, and agent experience."
+        },
+        {
           "title": "Braze Forge 2026: AI Turns Marketers Into Decision Makers",
           "link": "https://cxtoday.com/braze-forge-2026-ai-turns-marketers-into-decision-makers",
           "published": "Wed, 30 Sep 2026 15:16:00 GMT",
@@ -84,18 +102,6 @@
           "link": "https://cxtoday.com/ofcom-probes-vonage-and-voxbone-over-phone-scam-risks",
           "published": "Tue, 29 Sep 2026 12:46:29 GMT",
           "summary": "Ofcom is investigating Vonage and Voxbone over potential phone-number misuse. What the probes mean for CPaaS, enterprise voice, and customer trust."
-        },
-        {
-          "title": "Five Steps to Audit the Hidden AI Already Inside Your Contact Center",
-          "link": "https://cxtoday.com/five-steps-to-audit-the-hidden-ai-already-inside-your-contact-center-ttecdigital-cs-0062",
-          "published": "Tue, 29 Sep 2026 09:37:21 GMT",
-          "summary": "Hidden AI is already shaping CCaaS operations, so CX leaders need an audit trail. CX Today looks at TTEC Digital, risk, ownership and governance."
-        },
-        {
-          "title": "AI Is Taking the Easy Calls. Can It Make Voice More Human?",
-          "link": "https://cxtoday.com/ai-is-taking-the-easy-calls-can-it-make-voice-more-human",
-          "published": "Tue, 29 Sep 2026 08:45:12 GMT",
-          "summary": "Zendesk Real-Time Voice Translation aims to remove language barriers in contact centers. But can AI translation deliver accurate, trusted voice support?"
         }
       ]
     },
@@ -106,6 +112,570 @@
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
       "items": [
+        {
+          "title": "Dynamics 365 Business Central: Development - Page Scripting enters General Availability",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573384",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "The page scripting tool that can be used to record and replay user actions directly in the Business Central web client is moving out of preview to general availability. Thus the tool is fully localized and includes accessibility, usability, and visual improvements. We have also added new capabilitites to select multiple rows in grids and validate text displayed in message and error dialogs.\nBusiness value: Customers, consultants, and testers can create repeatable user acceptance tests for real b"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Quality evaluation - Specify who to evaluate in conversations",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573383",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Participant evaluated\"  lets users choose who to evaluate within a conversation transcript for quality evaluation.Users can select Participant evaluated to choose the scope of the evaluation: Entire record, Current owner, or IVR/Bot.\nBy default, \"Entire record\" evaluates the full conversation transcript, including all participants. Current owner evaluates the current conversation owner, defined as the last conversation owner. IVR/Bot evaluates only the automated IVR or bot portion of the convers"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Scout",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573382",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "The updated Service application brings Dynamics 365 Customer Service context, actions, and guided workflows into Scout. Customer service teams can work with service information and take supported actions in the flow of work, reducing the need to switch to Dynamics 365.\nFirst-party tools delivered through the Service package on Dynamics 365 MCP respect Dynamics 365 business logic and the user's existing permissions on each call. The package provides a governed foundation for the supported tools a"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Code",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573381",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "The updated Service application brings Dynamics 365 Customer Service context, actions, and guided workflows into Code. Customer service teams can work with service information and take supported actions in the flow of work, reducing the need to switch to Dynamics 365.\nFirst-party tools delivered through the Service package on Dynamics 365 MCP respect Dynamics 365 business logic and the user's existing permissions on each call. The package provides a governed foundation for the supported tools an"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Improve purchase order matching in Payables Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573380",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature improves PO matching quality in Payables Agent and aligns draft finalization behavior with existing posting controls.\nThe agent uses an enriched PO Lines list page during matching that includes these fields:\n\nLine Amount — enables matching on value, not just description and quantity. This field is especially valuable for service lines where quantity (often just 1) isn't a meaningful discriminator.\nExpected Receipt Date — helps the agent factor in timing when multiple PO lines could "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Sustainability Management - Use specific method for carbon footprint calculation when enabling item tracking",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573379",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature introduces a new calculation method for carbon footprint tracking in sustainability value entries. In addition to the current Average method, you can enable a Specific method for items that you track with serial or lot numbers. On the Item Card page, on the Sustainability FastTab, you can choose one of the following options in the Carbon Tracking Method field:\n\nAverage (default) – Use the current behavior for all postings.\nSpecific – Use the exact emission value for the unit receive"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Sustainability Management - Track your carbon footprint with item journals and item reclassification journals",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573378",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature introduces carbon footprint tracking to Item Journals and Item Reclassification Journals. It adds fields for CO₂e per unit and total CO₂e, and calculates emissions to ensure that emissions follow the same lifecycle logic as item costs.\nEmissions are calculated based on Sustainability Value Entries by using the Average or the new Specific method. Posting results are recorded in Sustainability Value Entries only. There are no changes to item cost entries.\nFor Item Reclassification Jou"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Sustainability Management - Track your carbon footprint for fixed assets",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573377",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature extends sustainability tracking to fixed assets by introducing fields and logic that capture emissions during acquisition, reclassification, and disposal. Emission data flows into the sustainability ledger and integrates with existing sustainability reporting. Validation ensures you can enter emissions only for acquisition transactions. Posting rules maintain data integrity across your fixed asset and sustainability ledgers.\nSustainability fields are available only if you enable sus"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Sustainability Management - Reverse Sustainability Ledger entries transaction",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573376",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Keep your sustainability data accurate by reversing sustainability ledger entries that contain mistakes.\nIf you post sustainability transactions that contain a mistake, you can’t delete the entries. However, if you posted the entries from a sustainability journal or a general journal, what you can do is use the Reverse Transaction action on the Sustainability Ledger Entries page to reverse them. The reversal creates a new sustainability ledger entry that has the document number and posting date "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Sustainabilty Management - Estimate your carbon footprint in Service Management",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573375",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature extends sustainability tracking to cover Service Management features by displaying carbon footprint values on service documents. Emission data comes from sustainability value entries for items and from resource cards for resource-related emissions.\nWhen you consume or ship items or resources as part of a service order, the system retrieves their associated CO₂e values from sustainability data.\nThe system shows emission details on service invoices and posted documents for reporting a"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Sustainability Management - Use formulas to calculate emissions in purchase documents",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573374",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature introduces formula-based emission calculations on purchase documents and uses the same calculation logic as sustainability journals. It applies emission factors to inputs such as fuel, electricity, distance, or custom amounts.\nSet up this feature on the Sustainability Setup page:\n\nFirst, turn on the Use Emissions in Purchase Documents toggle.\nThen, turn on the Use Formulas in Purchase Documents toggle.\nWhen both options are active, additional fields become available on purchase line"
+        },
+        {
+          "title": "Dynamics 365 Sales: Sales tools, skills and plugin are now available in Copilot Cowork",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573373",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "The updated Sales plugin brings expanded Dynamics 365 Sales context, actions, and guided workflows to Copilot Cowork, building on the native Sales skills already available in Cowork. Sellers can work with sales data and take supported actions directly in the flow of work, reducing the need to switch to Dynamics 365 Sales.\nThe native Sales skills invoke tools published through the Dynamics 365 MCP server to retrieve sales context and perform supported actions in Dynamics 365 Sales. These native S"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Updates to Agent UI experience",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573372",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Manage agents more easily by grouping avatars and using a dedicated action to start new tasks.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: User experiences - Show recently searched in Tell Me",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573371",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Find pages and reports faster by accessing recent searches in Tell Me (Alt+Q).GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Manage agent permissions easier",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573370",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Assign additional permissions to agents when they request them.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: User experiences - Agent actions review notifications on lists",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573369",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Show and manage documents where agents require human interaction by using a new review bar on documents and lists.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: User experiences - Show recently used in lookups",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573368",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Central now highlights recently used records directly in lookup dialogs. When users open a lookup, the system surfaces records they have recently accessed or worked with, making it easier to select the correct value without performing a search.\nThe suggestions are personalized to each user and are based on usage signals already collected by the platform. The feature reuses the same server-side intelligence that supports Autofill and recent-record scenarios, ensuring consistent recommend"
+        },
+        {
+          "title": "Dynamics 365 Business Central: User experience - Preview images directly in web client",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573367",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "You can open image attachments in the Business Central web client without downloading the images first. Files display in preview mode with an easy to use viewer experience that's similar to the print preview or PDF preview features. If you want to save a copy, you can download the image file from the viewer.\nThis feature works across all areas of Business Central, including agents, email, and code from extensions. However, extension developers must add support for this feature using File.ViewFro"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Review content generated by agents directly on pages",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573366",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This improvement introduces the ability for Business Central users to review and approve content generated by agents directly on the pages where they work. You no longer need to navigate to separate task pane to understand that a given document was created by an agent. Instead, agent‑generated suggestions—such as descriptions, text proposals, or field‑specific updates—appear inline where they can be evaluated and modified before being applied.\nBy keeping the review process within the page contex"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Adapt faster with Power Platform - Map new Dataverse fields in Business Central",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573365",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature simplifies how administrators keep Business Central and Dataverse aligned as Dataverse schemas evolve. Previously, exposing new or existing custom Dataverse fields required creating or updating a table extension (PTE) in the integration layer. Based on partner and customer feedback, this update removes that dependency.\nWhen a new field is added in Dataverse—such as a custom field in Dynamics 365 Sales—you can now map the field directly from the Integration Table Mappings page. You c"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Show avatars for record creators and modifiers in list",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573364",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature introduces visual avatars in Business Central list pages to indicate which user or agent created or last modified a record. The capability enhances traceability and supports collaborative work by making identity information immediately visible without opening the record.\nThe avatars reflect either a named Business Central user, a system user or an AI agent, following the existing identity model. Users can hover over the avatar to see a tooltip with the full display name and record u"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Manage tasks from all agents in dedicated task pane",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573363",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature introduces a dedicated task pane in Business Central that displays all tasks generated by the agents.\nThe task pane appears as an additional panel in the user interface and can be opened from anywhere in Business Central. Tasks include suggestions, validations, follow‑ups access to draft documents, and other agent‑initiated actions. Users can review task details, navigate directly to the affected record, complete tasks, or dismiss them.\nThis improvement primarily benefits roles that"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Enable Microsoft Copilot chat experience",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573362",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "The updated Microsoft Copilot chat experience introduces a modern, consistent, and intuitive interface that aligns Business Central with the broader Microsoft Copilot ecosystem. The enhancement modernizes the chat panel, streamlines navigation, and improves user workflows by adopting familiar interaction patterns from Microsoft Copilot.\nThis update benefits users who regularly interact with Copilot to accelerate daily tasks - especially operations managers, accountants, sales representatives, an"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Debug recorded Business Central failures with an AI agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573361",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Describe a failing scenario to an AI agent, record the next matching Business Central session or a known session, and collect its snapshot for offline AL debugging.\nBusiness value: Developers can investigate intermittent or production-only AL failures by describing the problem to an AI agent and reproducing the scenario, without manually configuring and operating the snapshot debugger. The agent arms the recording, monitors its status, and collects the completed snapshot for offline debugging. "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Check records for uncommitted changes",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573360",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Use the Record API IsDirty property to determine whether a record instance contains unsaved changes before deciding to validate, save, or otherwise process it.\nBusiness value: AL developers can determine whether a record instance has been changed before deciding to save it, validate it, or prompt the user. This can simplify conditional persistence and reduce unnecessary database operations.\"GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Translate objects with the same name in different namespaces",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573359",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Generate namespace-aware translation identifiers so identically named AL objects can be translated independently while existing non-namespaced translations remain valid.\nBusiness value: Extension developers can translate objects independently when those objects have the same name but belong to different namespaces. This avoids translation identifier collisions and supports broader adoption of namespaces in existing apps.\"GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Supply Chain Management - Work more efficiently with manufacturing documents and capacity calendars",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573358",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nPlanners and production managers often move between planning worksheets, production orders, work and machine centers, production BOMs, and routings to complete routine work. Small gaps in page actions, fields, filtering, and error navigation add unnecessary steps and can delay production scheduling.\nDetails\nThese improvements place manufacturing information and actions closer to the records where you work. You can create released production orders directly from planning suggestion"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Restrict global symbol resolution to a minor version",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573357",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Configure global symbol downloads to remain within the major and minor version in app.json while still selecting the newest available patch for all dependencies.\nBusiness value: Development teams can make symbol restoration more predictable by preventing dependencies from moving to a newer minor release unexpectedly. This helps reproduce builds and test extensions against the intended Business Central minor version while still receiving compatible patch updates.\"GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Simplify AL extension setup and authentication in Visual Studio Code",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573356",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Automatically acquire the required .NET runtime and use Visual Studio Code authentication by default, reducing manual setup across local and browser-hosted environments.\nBusiness value: AL developers spend less time installing runtimes and managing separate authentication prompts when setting up Visual Studio Code. The AL extension is also smaller because it no longer includes separate runtime copies for each supported operating system. The streamlined configuration provides a more consistent s"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Supply Chain Management - Use inventory put-aways and picks for subcontracting",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573355",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nCompanies that use basic warehouse configurations can include subcontracting in the same inventory activities they use for other inbound and outbound work. Warehouse employees can process subcontracted output without switching to warehouse receipts, and production teams can move work-in-process items (WIP items) between locations without treating them as physical inventory.\nDetails\nThe activities respect the different accounting and inventory effects of final and intermediate rout"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Access application links through ModuleInfo",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573354",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Read help, EULA, privacy statement, and locale-aware context-sensitive help links from an app manifest at runtime through additional ModuleInfo properties.\nBusiness value: Extensions can surface application-specific help, legal, and privacy resources dynamically instead of duplicating links in code. Context-sensitive help can also respect the current user's locale, improving support experiences for multilingual deployments.\"GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Supply Chain Management - Set up and explore subcontracting more easily",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573353",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nSubcontracting requires coordinated setup across work centers, vendors, locations, prices, and production BOMs. A guided starting point and actionable warnings help administrators find the required setup and correct missing information before it interrupts production work.\nDetails\nClearer demonstration data also makes it easier to evaluate intermediate and final subcontracting operations and compare more than one subcontractor.\nThe Subcontracting Setup assisted setup guide, availa"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Evolve AL interfaces with default implementations",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573352",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Add default method bodies to AL interfaces so existing implementors continue working, then use RequiredPending and analyzer rules to introduce required methods safely.\nBusiness value: Extension publishers can add behavior to an interface without immediately requiring every implementing extension to change. Default methods provide a compatible implementation, while the new transition attribute and AppSourceCop rules support a managed path toward making a method mandatory in a future version. Thi"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Track AL compiler diagnostics in automated builds",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573351",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Have ALTool workspace builds write structured, project-specific compiler error logs that automated systems can retain, analyze, and use for code-quality tracking.\nBusiness value: Development teams can retain structured compiler and analyzer results from workspace builds, making it easier to track code-quality regressions and integrate AL diagnostics with automated alerting and reporting systems.\"GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Supply Chain Management - Reduce manual work in quality tests and inspections",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573350",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nThe Quality Management extension helps you include quality checks in receiving, production, assembly, and inventory processes. We improved several parts of the experience so that inspectors and quality managers can complete routine tasks with fewer interruptions. These improvements reduce manual work when you record inspection outcomes, make inventory disposition easier to complete, and provide clearer guidance when a quality inspection blocks a transaction.\nDetails\nChoose whether"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Diagnose AL MCP server activity with file logging",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573349",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Write AL MCP server diagnostics to a configurable file, select the appropriate detail level for troubleshooting, or turn file logging off when it isn't required.\nBusiness value: Developers and administrators can retain AL MCP server diagnostics for troubleshooting intermittent failures and reviewing agent activity. Configurable verbosity helps capture detailed information during investigation without permanently producing excessive logs.\"GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Configure AL MCP workspaces dynamically",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573348",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Start the AL MCP server without a predefined project, add AL projects at runtime, and use configured connection details in headless scenarios without authentication prompts.\nBusiness value: AI-agent hosts can start a reusable AL MCP server before the target project is known, then load projects as work begins. This supports flexible agent sessions, shared tooling configurations, and headless automation without requiring a separate server process for every preconfigured workspace.\"GA date: Octobe"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Supply Chain Management - Post direct transfer orders from warehouse-enabled locations",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573347",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nDirect transfers move inventory between locations without using an in-transit location. You can use this simpler transfer method when the source location requires outbound warehouse handling, while preserving the picking and shipment controls configured for that location.\nDetails\nPreviously, one setting on the Inventory Setup page controlled how Business Central posted all direct transfers. You can now choose a posting method for each transfer route, so different routes can post s"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Let agents allocate free AL object IDs",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573346",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Let coding agents find available IDs for AL objects and extension objects within project ranges, reducing manual range checks and collisions with existing project objects. Note that only IDs in connected environment are considered.\nBusiness value: Coding agents can scaffold AL objects without manually reading ID ranges or risking collisions with objects already declared in the project. This makes generated code more reliable and reduces the corrections needed before it compiles.\"GA date: Octobe"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Supply Chain Management - Carry subcontracting instructions into purchase orders",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573345",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nSubcontractors need clear instructions about the work they must perform. Reentering that information on purchase orders takes time and can introduce differences between the routing, production order, and purchasing documents.\nDetails\nSubcontracting comments and attachments now follow the operation into the purchase order. The purchasing document keeps the production context needed by the vendor while allowing you to review and adjust the information before sending the order.\nThe S"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Ecommerce - Synchronize tariff numbers and origin values with Shopify",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573344",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nAccurate tariff numbers and country/region of origin values support international shipping and customs reporting. Synchronizing these values with Shopify reduces duplicate data entry and helps keep product trade data consistent across both systems\nDetails\nTurn on Sync HS Code and Country/Region of Origin on the Shopify Shop Card to synchronize tariff numbers and country or region of origin values between Business Central and Shopify. On import, the connector updates values only wh"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Ecommerce - Process Shopify order changes, exchanges, and refunds",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573343",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nKeep edited and exchanged Shopify orders aligned when you create sales documents and process refunds.\nDetails\nWhen a Shopify return includes a replacement item, the connector imports the returned item and the exchange item together and adds them to a sales credit memo or sales return order. You can keep both items on the same document or move the exchange item to a new sales document.\nExample: Process an exchange\nA customer orders, pays for, and receives an item. You import and pr"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Ecommerce - Manage Shopify B2B companies, catalogs, and pricing",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573342",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nShopify expanded core B2B capabilities to all plans, and the Shopify connector supports company synchronization, B2B order processing, and market catalogs across those plans. The latest improvements make tax identifiers, company records, and catalog pricing easier to configure and help prevent conflicting price synchronization.\nDetails\nThe following capabilities are available on all Shopify plans:\n\nCompany synchronization: Import Shopify B2B companies and company locations and map"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Ecommerce - Keep Shopify connections current",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573341",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nShopify regularly retires API versions. Staying current helps prevent avoidable connection interruptions and keeps synchronization compatible with Shopify platform changes. Better operational cues and clearer timestamps help administrators find failures faster and understand whether a value came from Shopify or Business Central.\nDetails\nShopify releases a new API version every three months at the beginning of the quarter, and supports each version for 12 months. The updated versio"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Ecommerce - Control sales document creation for Shopify orders and returns",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573340",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business Value\nSet Use Shopify Order No. and Process Returns as on the Shopify Shop Card, then review contacts before you choose Create Sales Document.\nDetails\nThe Shopify connector gives you more control before it creates sales documents.\nAlthough the connector already stores the Shopify order number in dedicated fields on sales documents, using the same document number in Shopify and Business Central can improve traceability across both systems even more.\n\nTurn on Use Shopify Order No. on the "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Discover objects in connected Business Central environments",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573339",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Search objects installed in a connected Business Central environment, including owning-app metadata needed to add dependencies and download the correct symbols.\nBusiness value: Developers and coding agents can discover AL objects that are installed in the target Business Central environment even when the corresponding symbols haven't yet been downloaded into the workspace. This reduces failed searches and helps agents add the correct app dependency before generating code that uses an object.\"GA"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Use AL language intelligence from AI agents and other editors",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573338",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Run the standalone AL language server to provide completion, navigation, references, rename, formatting, and other project-aware LSP features outside Visual Studio Code.\nBusiness value: Teams can use full AL language intelligence in AI coding agents and development environments that support the Language Server Protocol (LSP), without requiring Visual Studio Code as the client. This opens AL development to additional editors and agentic workflows while retaining accurate project-aware navigation"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Get clearer guidance for AL object structure",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573337",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Use compiler diagnostic AL0926 to identify AL object sections declared in the wrong order instead of interpreting multiple secondary and less specific parser errors.\nBusiness value: Developers and coding agents receive a direct explanation when sections of an AL object are declared in the wrong order. The clearer diagnostic reduces time spent interpreting secondary parser errors and makes automated code generation easier to correct.\"GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Audit AL app accessibility and debugging boundaries",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573336",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Build and query static AL call graphs to trace public-to-internal calls, debugging boundaries, elevated code, and cross-app relationships, with visual exports.\nBusiness value: Extension developers can understand how public APIs expose internal implementation details and where execution crosses debugging boundaries. This visibility helps teams review extension architecture, reduce unintended API exposure, and identify cases where sensitive values could become inspectable in the debugger. The ana"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Profile slow Business Central sessions with AI agents",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573335",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Let an AI agent schedule profiling for a Business Central session, collect CPU and memory data, identify costly AL paths, and summarize SQL and HTTP activity.\nBusiness value: Developers and administrators can investigate slow Business Central sessions with help from an AI agent instead of manually collecting and interpreting performance profiles. The agent can capture the affected session, identify expensive AL call paths, and summarize whether CPU or managed-memory usage contributes to the pro"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Run AL tests from command-line and CI/CD workflows",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573334",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Use ALTool to compile, deploy, and run AL test projects from scripts or pipelines, with structured JSON results for test methods and pass, fail, and skip counts.\nBusiness value: Development teams can run AL tests directly from automated build and release pipelines without depending on the MCP server or a manually operated test client. Machine-readable output makes it easier to publish test results, enforce quality gates, and diagnose failures in continuous integration environments. The same com"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Build extensible and data-driven AL test suites",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573333",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "\"Create parameterized AL tests from reusable data sources, and attach lifecycle handlers for shared setup, cleanup, logging, measurement, and test reporting.\nBusiness value: Developers can build more maintainable AL test suites by separating reusable test data and lifecycle behavior from individual test procedures. Data-driven tests reduce duplicated test code, while test handlers provide a consistent way to implement logging, cleanup, performance measurement, and custom reporting across many te"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Service and platform - Faster data loading with improved data model for table extensions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573332",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "With the new data model for table extensions, all fields on an AL table are stored in the same table in the database.\nThis gives faster performance on all database operations that involve table extensions.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Design header/footer layouts for document reports with the updated Word add-in",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573331",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Design document report header/footer layouts using the new header and/or footer document samples controls in the Word add-in.\nWe have addes samples that can be used for internal or external reports.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Design document report themes with the updated Word add-in",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573330",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Design document report themes using the new document samples controls in the Word add-in.\nWe have added samples that look like common document types, such as\n\ninvoice\npick list\noutstanding orders.\nGA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Use conditional visibility in the updated Word add-in",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573329",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Design document reports layouts with conditional visibility using the new HideIf logic control in the Word add-in.\nThe control can use boolean fields in the dataset to handle visibility of the content inside.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Design document reports with the updated Word add-in",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573328",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Use new design components in the Word add-in to layout your document report layouts.\nWe have added design controls for common document report parts, such as\n\nAddresses\nField groups\nAmounts\nSignature lines\nNotes\nGA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Brand document reports with report themes",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573327",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "With the new composable layouts feature, you can apply a report theme on layouts to get consistent look and feel on the PDF output.\nIt is possible to set defaults on a global level, per company, per report, or per layout, giving the administrator full flexibility of theming.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Reuse header/footer layouts across document reports",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573326",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "With the new composable layouts feature, you can apply a header/footer on layouts to get consistent look and feel on the PDF output.\nIt is possible to set defaults on a global level, per company, per report, or per layout, giving the administrator full flexibility of theming.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Financial report changes are now always logged",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573325",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Changes to financial row, column, and report definitions are automatically recorded in the change log for easier auditing.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Trace G/L account usage in finance reports",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573324",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Financial report authors can now identify uncategorized accounts, trace account usage and calculations, and preview definitions before publishing.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Run multiple financial reports and get a single PDF output",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573323",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Define report packs that contain multiple financial reports, and then run them immediately or schedule delivery to report inboxes or by email.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Use system audit fields in analysis mode and in profiles",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573322",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Use system audit fields in analysis tabs and add them directly to pages in profiles.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Reduce complexity of report datasets",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573321",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Word layouts now include a company information dataitem that is shared across all report datasets.\nThis reduces the work needed for a report developer and standardizes how company information is used across report layouts.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Control the lifecycle of all report layouts",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573320",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Set status on all types of layouts (including layouts shipped with Business Central, per-tenant extensions, and AppSource apps) to control which layouts are available to end users.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Bookmark list views and analysis tabs",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573319",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Bookmark analysis tabs and list views to your role center and/or incorporate them into profiles.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Automate report outputs",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573318",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Use new APIs on the report inbox to extend automation with Power Automate or MCP to reports.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Governance and administration - Monitor usage of Open in Excel with telemetry",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573317",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Logging Open in Excel actions to telemetry makes data export events auditable, which can be critical for compliance, security investigations, and understanding how customers use Business Central.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Governance and administration - Administrators can turn SIFT indexes on/off",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573316",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Administrators can now turn SIFT indexes on/off directly in the Business Central application.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Developers can define indexes that span fields from a base table and its table extensions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573315",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "The new data model for storing fields from table extensions allows developers to define keys across fields from the base table and table extensions.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - AL developers can turn indexes on/off in AL code.",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573314",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "AL developers can now turn indexes off/on from AL code.\nThis allows app publishers to ship index management to match their features.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Development - Actions on reports and pages can now inherit tooltips",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573313",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Tooltips on page or report objects are now inherited into actions that run those pages.\nThis means you only need to write descriptive tooltips in one place and have it propagated out to all usage of the object.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Run data queries with MCP Server",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573312",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Use new MCP tools to define, validate, and run custom data queries. Your MCP application can then query data for which no existing APIs exist.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Apply line discounts and fees on contract lines",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573311",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature lets you define discount and fee percentages on a quotation or contract line. When a transaction is generated and approved, the system applies the discount or fee, updates actuals, and applies the amounts during invoicing. A discount reduces the line total, while a fee increases it. Quotation values carry over to contract lines.GA date: September CY2026Preview date: September CY2025"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Finance - Use withholding taxes (WHT) with employee transactions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573308",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature extends withholding tax capabilities to include employee transactions. The feature supports scenarios where employee-related payments or reimbursements are subject to withholding tax requirements and ensures that you accurately process the transactions in the financial system. Key capabilities include:\n\nApply withholding tax rules to employee transactions.\nAutomatically calculate withholding tax amounts based on configured tax setups.\nMaintain consistent tax treatment across vendor "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Finance - Vendor specific number series for Self-billing Invoices",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573307",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Organizations that use self-billing often need to follow supplier-specific invoicing requirements, including unique numbering conventions. With this enhancement, users can define and assign dedicated number series for self-billed purchase invoices on a per-vendor basis.\nKey capabilities include:\n\nSet up a unique number series for individual vendors that participate in self-billing arrangements.\nAutomatically apply the vendor-specific number series when creating self-billed purchase invoices.\nMai"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Finance - Calculate multiple excise duties per item",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573306",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature enhances excise tax management by allowing multiple excise duty definitions to be associated with a single item and calculated during transactions.\nKey capabilities include:\n\nAssign multiple excise duty configurations to the same inventory item (i.e, item is liable for both plastic and sugar tax).\nAutomatically calculate all applicable excise duties during purchasing and vendor-related transactions.\nSupport complex tax scenarios where products are subject to more than one excise lev"
+        },
+        {
+          "title": "Dynamics 365 Business Central: E-Documents - Exchange EDI documents",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573305",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "This feature extends the E-Documents framework to support Electronic Data Interchange (EDI), which enables organizations to exchange business documents electronically with vendors and partners using widely adopted industry standards. Key capabilities include:\n\nLeverage the existing E-Documents framework as a unified platform for managing electronic document exchange.\nEnable organizations to send and receive structured business documents without relying on paper-based or manual processes.\nExchang"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Expense Agent - Calculate withholding tax automatically in expense reports",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573304",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Organizations can automatically calculate employee withholding taxes (WHT) as part of the expense report process. When employees submit expenses that are subject to withholding tax requirements, the system applies the appropriate tax calculations directly within the expense report workflow. Key capabilities include:\n\nAutomatic withholding tax calculation for employee expense transactions that require tax deductions.\nCalculate single or multiple withholding taxes for each category, based on you s"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Expense Agent - Calculate and report VAT based on expense reports",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573262",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Expense Agent supports automated VAT handling for expense reports, which can help simplify tax management and improve reporting accuracy. Key capabilities include:\n\nAutomatic VAT Calculation: Expense Agent identifies VAT-relevant expense transactions and calculates applicable VAT amounts based on the information in submitted expense reports.\nVAT-Aware Expense Processing: VAT values are incorporated into the expense review and processing workflow, reducing the need for manual tax calculations.\nEn"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Expense Agent - Use assigned projects only in the web app",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573259",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Expense Agent web app now uses dedicated resource assignments for projects to determine which projects are available to each user when they create or manage expense entries. Key capabilities include:\n\nYou can assign dedicated resources (employees) to the whole project or to the specific task.\nDisplay only projects or/and tasks where the user is assigned as a resource.\nAutomatically filter project lists based on project-resource relationships.\nReduce the risk of users selecting projects that aren"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Expense Agent - Improve duplicates prevention",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573258",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Expense Agent can identify and handle duplicated expense submissions. Key capabilities include:\n\nEnhanced duplicate detection that identifies expenses with matching or highly similar details, such as amount, date, merchant, receipt, or transaction information.\nProactive guidance that alerts employees when it detects a potential duplicate expense in the current expense report, or one that is already posted.\nReduced manual review effort by helping prevent duplicate claims from entering approval an"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Expense Agent - AI-Driven Approvals",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573255",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Expense Agent can validate submitted expense reports against approval policies written in natural language and provide approvers with guidance during the review process. After an employee submits an expense report, the system evaluates both the overall report and the individual expense lines to detect potential policy violations, suspicious patterns, or situations that might require closer attention. This process supports policies that aren't limited to exact thresholds or fixed numeric conditio"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Expense Agent - Add date ranges and vehicle types in your mileage calculation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573254",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Expense Agent now supports advanced mileage rate configuration based on both effective date ranges and vehicle types, enabling more flexible and accurate mileage reimbursement calculations. This enhancement combines mileage rate scheduling with support for differentiated vehicle categories. Key capabilities include additions on the Mileage Rate Setup page:\n\nDefine mileage rates that are valid only within specific date ranges, allowing organizations to accommodate rate changes over time.\nConfigur"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Expense Agent - More countries and languages",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573253",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Expense Agent supports more languages and regions, enabling an experience for users in all countries/regions where Business Central is available, and adding the following languages: Czech, Dutch, Finnish, Icelandic, Italian, Norwegian, and Swedish.GA date: October CY2026Preview date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Out of the box real time translation on digital channels",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573245",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "With this feature, users get an out-of-the-box solution for translation services, so they don't need to bring their own web resources. Service representatives get updated feature usage with more configurations. They can tailor their conversations more accurately based on their existing skills and preferences. The feature is transparent yet modernized with new settings, making conversations easier to consume in a language of the representative's choice.\n[Internal Note - ADO: https://dev.azure.com"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573239",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business value\nTechnicians do not always record booking completion at the moment work ends. They may update the booking later because of connectivity, customer-facing responsibilities, or end-of-day administration. When the later administrative action replaces the booking End Time, the recorded duration can extend beyond the work that was actually performed and affect downstream journals, time entries, labor costs, actuals, and work-order completion reporting.\nField Service administrators can ch"
+        },
+        {
+          "title": "OneDrive: Updated placement of the Create or upload button for Web",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572683",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "OneDrive for the web is updating the placement of the Create or upload button to provide a more consistent file experience across OneDrive and SharePoint. The button will move from the left navigation pane to the right side of the page, bringing familiar navigation from SharePoint document libraries to OneDrive.\nThe available options for creating files and folders or uploading content will remain unchanged.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Cowork, Code and Scout",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571678",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "The updated Service application brings Dynamics 365 Customer Service context, actions, and guided workflows into supported Copilot experiences, including Chat, Cowork, Code, and Scout. Customer service teams can work with service information and take supported actions in the flow of work, reducing the need to switch to Dynamics 365.\nFirst-party tools delivered through the Service package on Dynamics 365 MCP respect Dynamics 365 business logic and the user's existing permissions on each call. The"
+        },
+        {
+          "title": "Dynamics 365 Finance and Operations cross-app: Role-based access controls for ERP agents",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571677",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Dynamics 365 ERP security administrators can apply additional, agent-specific security restrictions that take effect when a user accesses the ERP through an agent. Administrators define these restrictions using the existing security model — assigning roles, duties, and privileges that apply only to agent-initiated requests, scoped by legal entity — so that a user's agent session can operate with narrower permissions than the same user holds when working directly in the ERP.GA date: December CY20"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Generate maintenance work orders within a configurable lead window",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571666",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Business value\nOrganizations can turn upcoming maintenance requirements into executable Field Service work without requiring planners to monitor every asset and create each work order manually. Generating work at a controlled point before it is due gives dispatchers time to secure technicians, skills, parts, and customer access while avoiding an unnecessarily large backlog of work created too far in advance.\nThis connects long-range maintenance planning with day-to-day service execution and help"
+        },
+        {
+          "title": "Microsoft Copilot Studio: Self-learning for Copilot Studio Agents",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570432",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Soon agents can help makers improve agents using lessons from completed runs. It will identify repeated tool sequences that can be handled by workflows to standardize agent behavior, minimize errors, and most importantly control costs. Makers will be presented with recommendations and supporting evidence, expected impact, and the related instruction and tool changes. Makers accept recommendations, configure, test, and publish a refined copy of the agent. This helps improve agent output quality a"
+        },
+        {
+          "title": "Microsoft Copilot Studio: Persistent identity for Copilot Studio Agents",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570430",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Makers can now give their Copilot Studio agents their own accounts, making it a governed Microsoft 365 identity for shared, collaborative business processes that spans across teams. With its own mailbox, Teams presence &amp; Office access, the agent can collaborate where work happens while admins can control and govern its access, policies and use as its own first-class entity.GA date: November CY2026Preview date: September CY2026"
+        },
+        {
+          "title": "Microsoft Teams: Intelligent call delegation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=565216",
+          "published": "Wed, 30 Sep 2026 23:31:03 Z",
+          "summary": "Incoming Teams calls don't wait for a break in your day. Intelligent call delegation provides AI-powered calling assistance so you can focus on the conversations that matter most. It answers calls and gathers context, helping you decide whether to pick up and engage the caller. It can also schedule follow-up appointments through an integration with Microsoft Bookings so you can reconnect with callers at a more convenient time.GA date: November CY2026Preview date: October CY2026"
+        },
         {
           "title": "Microsoft Copilot Studio: Discover & Add Skills from the skill catalog",
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571880",
@@ -123,48 +693,6 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570853",
           "published": "Tue, 29 Sep 2026 23:05:21 Z",
           "summary": "Enable Work IQ to invoke custom agents and agents that call supported third-party tools.GA date: November CY2026Preview date: October CY2026"
-        },
-        {
-          "title": "Word: Legal plugins in Copilot",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571884",
-          "published": "Mon, 28 Sep 2026 22:58:08 Z",
-          "summary": "Legal plugins in Copilot provide purpose-built skills to help legal professionals summarize, draft, review, and redline legal documents. Available in Word and Cowork, these plugins can use work context from Microsoft 365 and connect to supported third-party legal sources.GA date: October CY2026Preview date: April CY2026"
-        },
-        {
-          "title": "Microsoft Edge: Updated performance information in tab hover cards",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571692",
-          "published": "Mon, 28 Sep 2026 22:58:08 Z",
-          "summary": "Microsoft Edge is updating tab hover cards to provide clearer information about tab memory usage and memory savings when inactive tabs are discarded. Users will also have separate settings for tab-preview images and memory-usage information.GA date: October CY2026"
-        },
-        {
-          "title": "Microsoft Purview: Information Protection-Auto-labeling scale increase for SharePoint and OneDrive",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571309",
-          "published": "Mon, 28 Sep 2026 22:58:08 Z",
-          "summary": "We are increasing the maximum auto-labeling capacity for SharePoint and OneDrive from 100,000 up to 500,000 files per tenant per day. This helps organizations label and protect more of their data at rest, faster, closing labeling gaps across existing content. With sensitivity labels and protection settings applied to more files sooner, organizations can better prepare their data estate for Microsoft 365 Copilot with greater confidence.GA date: November CY2026"
-        },
-        {
-          "title": "OneDrive: Prompt gallery for Copilot",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571308",
-          "published": "Mon, 28 Sep 2026 22:58:08 Z",
-          "summary": "Discover easier ways to use Copilot in OneDrive\nThe new Prompt Gallery offers ready-to-use prompts for common file tasks, helping you get started quickly, discover what Copilot can do, and customize prompts to fit your needs.\nAccess the Prompt Gallery from:\nThe Copilot button in the bottom-right corner of OneDrive\nThe + button in the Copilot chat pane\nSelect Open Prompt Gallery to explore prompts across categories such as Create, Analyze, Find, and Collaborate.GA date: October CY2026Preview date"
-        },
-        {
-          "title": "Microsoft Clipchamp: Copilot video creation updates",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570963",
-          "published": "Mon, 28 Sep 2026 22:58:08 Z",
-          "summary": "Copilot brings agentic video creation to Clipchamp Video Hub. Users can generate, edit, and refine videos from prompts—grounded in explicit documents or implicit WorkIQ knowledge. Preview and playback video directly in chat, then continue iterating towards a finished video.GA date: January CY2027Preview date: December CY2026"
-        },
-        {
-          "title": "Dynamics 365 Field Service: Track costs for non-billable field work",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570857",
-          "published": "Mon, 28 Sep 2026 22:58:08 Z",
-          "summary": "Organizations often use the same field teams for both customer work and internal operational work, such as maintenance, inspections, or asset-related activities that are not billed to an external customer. These scenarios still require scheduling, technician execution, and accurate tracking of the labor, materials, and other costs associated with the work.\nWith this capability, Field Service Work Orders can be connected to a project that serves as the financial container for the work. Technician"
-        },
-        {
-          "title": "Outlook: Send availability in Outlook mobile apps",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570665",
-          "published": "Mon, 28 Sep 2026 22:58:08 Z",
-          "summary": "We are bringing back send availability on both iOS and Android. iOS users will now also be able to access more of this feature via keyboard and voiceover.GA date: October CY2026"
         }
       ]
     },
@@ -210,6 +738,24 @@
       "name": "UC Today",
       "items": [
         {
+          "title": "How Is BBC Sport Turning a Small Studio Into an XR Hub?",
+          "link": "https://uctoday.com/how-is-bbc-sport-turning-a-smaller-studio-into-an-xr-workplace",
+          "published": "Thu, 01 Oct 2026 11:01:00 GMT",
+          "summary": "BBC Sport’s new LED XR studio shows how immersive workplace technology can help production teams create flexible, high-impact environments from smaller spaces."
+        },
+        {
+          "title": "Connectivity Is More Than a Commodity for Partners",
+          "link": "https://uctoday.com/connectivity-is-more-than-a-commodity-for-partners-gamma-cs-0219",
+          "published": "Thu, 01 Oct 2026 09:31:00 GMT",
+          "summary": "Why connectivity now underpins cloud, comms and security: Gamma’s Tom Chedham says partners should sell resilience, outcomes and long-term value."
+        },
+        {
+          "title": "Meta Muse: What Personal AI Agents Means for Productivity",
+          "link": "https://uctoday.com/meta-muse-what-personal-ai-agents-means-for-productivity",
+          "published": "Thu, 01 Oct 2026 08:01:00 GMT",
+          "summary": "Meta Muse brings AI productivity automation to daily tasks. Explore its agent capabilities, security model, early testing, and key limitations."
+        },
+        {
           "title": "Quantum is Coming: Here's What Networking Needs to Keep Up",
           "link": "https://uctoday.com/quantum-is-coming-heres-what-networking-needs-to-keep-up",
           "published": "Wed, 30 Sep 2026 14:01:00 GMT",
@@ -238,18 +784,6 @@
           "link": "https://uctoday.com/cloud-voice-can-go-wrong-long-before-the-first-call-tatacommunications-cs-0242",
           "published": "Tue, 29 Sep 2026 12:31:00 GMT",
           "summary": "Governance must come before rollout as cloud voice brings compliance, number porting and fraud risks. UC Today explains why IT buyers should care."
-        },
-        {
-          "title": "What Does Meta Muse Mean for the Immersive Workplace?",
-          "link": "https://uctoday.com/can-metas-muse-charm-make-ai-more-useful-in-immersive-work",
-          "published": "Tue, 29 Sep 2026 11:01:00 GMT",
-          "summary": "Explore how Meta's Muse Charm and smart glasses could transform the immersive workplace, bringing ambient AI agents to frontline and spatial workflows."
-        },
-        {
-          "title": "How Can Companies Tame the Chaos Hybrid Work Created?",
-          "link": "https://uctoday.com/why-the-workplace-finally-needs-a-system-of-record",
-          "published": "Tue, 29 Sep 2026 08:21:00 GMT",
-          "summary": "Hybrid work is making office demand harder to predict as businesses balance real-estate costs with the need to make in-person work more effective"
         }
       ]
     },
@@ -272,10 +806,22 @@
       "name": "Telecom Reseller / Technology Reseller News",
       "items": [
         {
+          "title": "AddSecure Names Daniel Nordholm CEO",
+          "link": "https://telecomreseller.com/2026/09/30/addsecure-names-daniel-nordholm-ceo/",
+          "published": "Wed, 30 Sep 2026 20:32:20 +0000",
+          "summary": "By: Moshe Beauford, Editor AddSecure has appointed Daniel Nordholm as CEO, with the executive set to take over the European secure IoT and connectivity provider in November 2026, according to [...]\nThe post AddSecure Names Daniel Nordholm CEO appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
           "title": "Hitron, Airties Target SMB Connectivity Gap for ISPs",
           "link": "https://telecomreseller.com/2026/09/30/hitron-airties-target-smb-connectivity-gap-for-isps/",
           "published": "Wed, 30 Sep 2026 18:37:43 +0000",
           "summary": "By: Moshe Beauford, Editor Hitron Technologies and Airties are teaming up on a connectivity platform aimed at helping internet service providers sell more services to small and medium-sized businesses. The [...]\nThe post Hitron, Airties Target SMB Connectivity Gap for ISPs appeared first on Telecom Reseller / Technology Reseller News."
+        },
+        {
+          "title": "Why Operational Simplicity Will Define the Next Generation of UCaaS Providers",
+          "link": "https://telecomreseller.com/2026/09/30/why-operational-simplicity-will-define-the-next-generation-of-ucaas-providers/",
+          "published": "Wed, 30 Sep 2026 18:28:54 +0000",
+          "summary": "For years, the communications industry focused on expanding what providers could deliver. Voice became unified communications, followed by mobile apps, instant messaging, video conferencing, SMS messaging, collaboration tools, contact center [...]\nThe post Why Operational Simplicity Will Define the Next Generation of UCaaS Providers appeared first on Telecom Reseller / Technology Reseller News."
         },
         {
           "title": "MSP Business Growth Marketplace Organizes the Resources MSPs Need to Scale, Podcast",
@@ -432,18 +978,36 @@
           "link": "https://telecomreseller.com/2026/09/29/what-happens-to-a-telco-when-networks-get-autonomous/",
           "published": "Tue, 29 Sep 2026 12:00:09 +0000",
           "summary": "@Evan Kirstel, Special to Technology Reseller News Interested in being a guest? Email us at admin@evankirstel.com Read more from Evan AI is forcing a hard reset in telecom, and it’s not just [...]\nThe post What Happens To A Telco When Networks Get Autonomous appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Comcast Business Brings Last-Mile Ethernet to Equinix Fabric",
-          "link": "https://telecomreseller.com/2026/09/28/comcast-business-brings-last-mile-ethernet-to-equinix-fabric/",
-          "published": "Mon, 28 Sep 2026 19:42:23 +0000",
-          "summary": "By: Moshe Beauford, Editor Comcast Business is adding its last-mile Ethernet network to Equinix Fabric, allowing eligible customers to check availability, get pricing and place orders through APIs. The integration [...]\nThe post Comcast Business Brings Last-Mile Ethernet to Equinix Fabric appeared first on Telecom Reseller / Technology Reseller News."
         }
       ]
     },
     {
       "name": "CMSWire.com - All News",
       "items": [
+        {
+          "title": "What Does a Superpowered Digital Agency Look Like on a Reshaped Web?",
+          "link": "https://www.cmswire.com/digital-experience/what-does-a-superpowered-digital-agency-look-like-on-a-reshaped-web/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Wed, 30 Sep 2026 21:22:39 -0500",
+          "summary": "Delivery capacity exploded just as zero-click answers drained web traffic. One agency leader on what changed in roles, client demand and the website.\nContinue reading..."
+        },
+        {
+          "title": "Why American Airlines' Rising NPS Doesn't Mean Customers Are Loyal",
+          "link": "https://www.cmswire.com/customer-experience/why-american-airlines-rising-nps-doesnt-mean-customers-are-loyal/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Wed, 30 Sep 2026 20:54:48 -0500",
+          "summary": "Staying isn&apos;t the same as loyal. A week of delays and a broken seat change exposes what rising CX scores can hide.\nContinue reading..."
+        },
+        {
+          "title": "Is Your Customer Journey Putting Customers Through Their Own Odyssey?",
+          "link": "https://www.cmswire.com/customer-experience/is-your-customer-journey-putting-customers-through-their-own-odyssey/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Wed, 30 Sep 2026 16:30:26 -0500",
+          "summary": "Repeated questions, blind transfers and badly timed emails add up to one bad journey. The fix starts with the customer&apos;s goal, not your internal structure.\nContinue reading..."
+        },
+        {
+          "title": "Are Agents Killing SaaS or Making Salesforce and ServiceNow Indispensable?",
+          "link": "https://www.cmswire.com/digital-experience/are-agents-killing-saas-or-making-salesforce-and-servicenow-indispensable/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Wed, 30 Sep 2026 15:53:32 -0500",
+          "summary": "The SaaSpocalypse bet on agents killing SaaS. Production says otherwise.\nContinue reading..."
+        },
         {
           "title": "Don’t Scrap Your Call Center. Here’s What to Do Instead.",
           "link": "https://www.cmswire.com/customer-experience/dont-scrap-your-call-center-heres-what-to-do-instead/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
@@ -479,24 +1043,6 @@
           "link": "https://www.cmswire.com/customer-experience/ordered-to-deploy-ai-excluded-from-the-room-the-real-cx-leadership-challenge/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Tue, 29 Sep 2026 16:30:18 -0500",
           "summary": "The mandate to automate came with a deadline and a budget, but not authority. CX leaders need written decision rights before the next release.\nContinue reading..."
-        },
-        {
-          "title": "What Happens When Your Customer's Agent Talks to Your Agent?",
-          "link": "https://www.cmswire.com/customer-experience/what-happens-when-your-customers-agent-talks-to-your-agent/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Mon, 28 Sep 2026 17:15:46 -0500",
-          "summary": "Customer agents will soon query, compare and book on their own. CX leaders need systems those agents can trust and transact with.\nContinue reading..."
-        },
-        {
-          "title": "Contentstack Adds AI Metadata & Dedup to DAM Assets",
-          "link": "https://www.cmswire.com/digital-experience/contentstack-adds-ai-metadata-dedup-to-dam-assets/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Mon, 28 Sep 2026 15:43:38 -0500",
-          "summary": "New AI tagging, duplicate detection and self-service signup expand Contentstack&apos;s asset management reach to smaller teams.\nContinue reading..."
-        },
-        {
-          "title": "What Digital Agencies Learned After the Generative Experimentation Rush Ended",
-          "link": "https://www.cmswire.com/digital-experience/what-digital-agencies-learned-after-the-generative-experimentation-rush-ended/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Mon, 28 Sep 2026 15:08:58 -0500",
-          "summary": "Agencies that rushed into generative experimentation are learning the hard way that token burn is not progress. Here is what disciplined deployment looks like.\nContinue reading..."
         }
       ]
     },
@@ -514,26 +1060,7 @@
     },
     {
       "name": "Twilio Blog",
-      "items": [
-        {
-          "title": "86% of brands think their AI works. Only 51% of customers agree.",
-          "link": "https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction",
-          "published": "Mon, 28 Sep 2026 20:00:00 -0400",
-          "summary": "Brands think they’ve designed AI that solves all their customers problems, but almost half of customers disagree. Here’s what’s happening."
-        },
-        {
-          "title": "How to Augment Voice Calls with Twilio Intelligence in C#",
-          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-csharp",
-          "published": "Mon, 28 Sep 2026 20:00:00 -0400",
-          "summary": "How to Augment Voice Calls with Twilio Intelligence in C#"
-        },
-        {
-          "title": "How to Augment Voice Calls with Twilio Intelligence",
-          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/augment-voice-calls-twilio-intelligence-php",
-          "published": "Mon, 28 Sep 2026 20:00:00 -0400",
-          "summary": "In this tutorial you'll  learn how to use Conversation Intelligence, and Conversation Orchestrator, and Conversation Memory to retrieve customer call summaries and an analysis of the caller's sentiment."
-        }
-      ]
+      "items": []
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -543,16 +1070,28 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
-          "title": "Coforge Launches CXNova, an Agentic CX Orchestration Platform That Delivers Intelligent, Real-Time Customer Experiences - 01net",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2xtRmJpRzhidjJJamxLTWtubXlfdkU3MUpQTk53MUQtTTlEbnE1TmNodlFrRWpyMFhVYzJuZmQtT2FHcWZ3TXJJNUQwRURHY1JLdHhnNkkwZ3lFZTAxVVNIbm1EUHB4dFotZ0M0OFJHN0Mydkk0MzByZXU4RV90VGpKUndIem1TZ3RSUWo5aFU0dDV0REp6VkRYaUlOMWhtVi1qTzc5SDIwdUhCYm5tZ2xlWmdMZEdjUW5MMk1zbXBUQzJLLUE1ZVBoV20ycF82LWhWWHR3?oc=5",
-          "published": "Wed, 30 Sep 2026 13:30:00 GMT",
-          "summary": "Coforge Launches CXNova, an Agentic CX Orchestration Platform That Delivers Intelligent, Real-Time Customer Experiences&nbsp;&nbsp;01net"
+          "title": "What To Expect at CCW Nashville 2026: AI, CX, and More - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBROWpLbnRGZW5MVmtFTGZVaWtMYWx3UndZMlRLWDBYeTFOY3FtWDNLTGVaSzBwX1ZYQjVlLURVRXRIZ2xnUUJvRjBjaVNXMGtFX3RKbXVRSmN5RnJfR0wyWlJjSmVkd3FvcUI5OHhoQ1FpR0RuWEViX3RnTQ?oc=5",
+          "published": "Thu, 01 Oct 2026 11:06:31 GMT",
+          "summary": "What To Expect at CCW Nashville 2026: AI, CX, and More&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "When payment friction becomes a CX nuisance, it often leads to payment delays - CX Dive",
+          "title": "Evolving loss prevention into a CX function - retailcustomerexperience.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVRVTVU1Q1pkQlBUVUIyOWlZbVhfWFI1S3FrUzFob0x6cllxSVoxNHpkdnNCUU1WNHRLblNUbkJwbE5hX3puTWZ4dGNEQjRYOXlQTFBDWVNiX2pwX0UwNTRmV2Eydng4T0pWeDdNUFhBVE9XSTgtNjI1UzAwdWFXQlppczBxcmRKRGg4alR3MWE5amtoSHc?oc=5",
+          "published": "Thu, 01 Oct 2026 10:00:00 GMT",
+          "summary": "Evolving loss prevention into a CX function&nbsp;&nbsp;retailcustomerexperience.com"
+        },
+        {
+          "title": "ChatGPT Could Change Customer Experience: Here’s How - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JUVhIZV92R29IbDFHTzNnZHN0M1lyVjdORmE1SGhvWmlZc1o3QmFVTHZ4dWtyd1lQOEFQVUIwT0FVVDVrVy1BellCbUhValAzSzFFVVdjM0Q0VVJlNHc1Q3FWTjVXSmJEZkVyQzRqajV5bDAzRGxhWm1R?oc=5",
+          "published": "Wed, 30 Sep 2026 18:09:28 GMT",
+          "summary": "ChatGPT Could Change Customer Experience: Here’s How&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "When payment friction becomes a CX nuisance, it often leads to payment delays - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUJPYUQtZmxwMVhVT0JjNWVCeTBFaDE5RHptbHZkXzgyWFNaM3ZfZEdLdzZ2NEx2dGdsdUR2eVpVWC1QQ0RLcUZXemtwV3Z3ejNfTElpYnQ2dE53bmVUYW9LeTVtNzk0ZDNITjU3U0FFYkcxeDJFMUhEbW9PTGVGRTQ4NXFQeDJsU1p3Z3U0R3M1TUgtaXV6d0tiS1QyQVRmS0pNZkNTMFF4Smot?oc=5",
           "published": "Wed, 30 Sep 2026 13:13:31 GMT",
-          "summary": "When payment friction becomes a CX nuisance, it often leads to payment delays&nbsp;&nbsp;CX Dive"
+          "summary": "When payment friction becomes a CX nuisance, it often leads to payment delays&nbsp;&nbsp;customerexperiencedive.com"
         },
         {
           "title": "The Watermelon Effect: Why Happy Dashboards Hide Unhappy Customers - CMSWire",
@@ -561,22 +1100,22 @@
           "summary": "The Watermelon Effect: Why Happy Dashboards Hide Unhappy Customers&nbsp;&nbsp;CMSWire"
         },
         {
-          "title": "Alaska Air will let loyalty members decide how their points accrue - CX Dive",
+          "title": "Alaska Air will let loyalty members decide how their points accrue - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUZKNDJmc0t2NEdZNDlDNk1ZZUhxZVh6RGE0RE03UG9NR3NOUEh3UVNjU2kxOVctUWMzOWJpLWV0OUxBbHBxdF9IYk5sLThNc1h4RDlzQWh1bU02WDFYN3NNQ0tTbzhCRUhwY2ZMTXJoM0VubkJOb3JwaTNaYzhlSzFzXzRMMGYyWG9KQlFUNTVpeVRsaGtpT1JlVkFHLW8xaHliXzBldEN5U2I2Y3Q4cmJiSjZ2dEIzTkE?oc=5",
           "published": "Tue, 29 Sep 2026 20:51:39 GMT",
-          "summary": "Alaska Air will let loyalty members decide how their points accrue&nbsp;&nbsp;CX Dive"
+          "summary": "Alaska Air will let loyalty members decide how their points accrue&nbsp;&nbsp;customerexperiencedive.com"
         },
         {
-          "title": "Why Are CX Leaders Ordered to Deploy but Excluded From the Room? - CMSWire",
+          "title": "Ordered to Deploy AI, Excluded From the Room: The Real CX Leadership Challenge - CMSWire",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjRHSDR5VEFWWk9DV3NtRVBrNlZ4Vl85V3Z1Snp0RXFWMmFnODlLSlBOc3E5MVJWRlVBcWdIOFlKTEpMb212QW1oY1lGQi1tcXRBaVkwb1dHVDFoNVFmbnE5SHZqalNaZlhnLUxNQksyMlpsSnM1V3ozNG9WVzc2WFJQT2k3amtnMWZURzhTVGdHSDg5OVFsZHBiT3ZRLU5EQ0Q5RF9mWkRDcWx4N0ozNl93OVVlVmRoR0syZTNB?oc=5",
           "published": "Tue, 29 Sep 2026 20:39:44 GMT",
-          "summary": "Why Are CX Leaders Ordered to Deploy but Excluded From the Room?&nbsp;&nbsp;CMSWire"
+          "summary": "Ordered to Deploy AI, Excluded From the Room: The Real CX Leadership Challenge&nbsp;&nbsp;CMSWire"
         },
         {
-          "title": "Zoom CX: The customer experience platform - Zoom",
+          "title": "Zoom CX: The customer experience platform - zoom.com",
           "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNdHo2OXZESldDSVF5YVdIQVQzQzdjMW1BSDFST0lRdDBBeEtiMWRaVEJYQk5iQ19ZUG1ONnVSdXAwTEFJVHVZUXJnRVV1MzFYU0t2d21JZjVTM09jYm5HM3BvMFhVZTdhb01GMWVkcTVyZWtOalZjbVNpM0ZZOXgyZzFlSk93d2RDNkNDcW5EcTFJTkk1dzR1LVhrVXR2U0llSUdLSFNvU0hpVk5ENnFGTzRaN3V6V1MtMUdZc3QtWXpxcWpJTnpWQnR5NVhhcE15V3pvYUlfQjViMkJuOGYxVW14TF9sQ1NDX0x5QkkyTXRVLWRyS2otTUZqODhrNXZKWTVaM1ZULUl2YmlZYlZZUWdIT0ZubnFiNFlwQ3dQM2lUMzd1UTZ0Vy1oTVV4dllqbEs1dnJYWDg1NDNxUS1zWVRZRHdhYUZJY0loSjV5a0Z5cTFxREg4QjJwWUhvQ2VNR2VUTjZIYldDT2o1MUtuQVpVbmFjZ2k2QU1WMk5QWUQ5QlVILXQtamV3dGhZbnktU2RPdFdqSnVaX0d5V01OSGZEQXh2d0tsZmdaRFJqenhiTW5MbUxpYXlXbGNBYmt5cUZ6WnRDdWtaZURtRUY1SVkzMVVTdnhZQU9pOGhuemk5M05QZ2FEVVZNSzFKSWVWWmxZa1JtVEJTeUU?oc=5",
           "published": "Tue, 29 Sep 2026 19:51:27 GMT",
-          "summary": "Zoom CX: The customer experience platform&nbsp;&nbsp;Zoom"
+          "summary": "Zoom CX: The customer experience platform&nbsp;&nbsp;zoom.com"
         },
         {
           "title": "5 Disruptive Use Cases for AI in Customer Experience - CX Today",
@@ -603,46 +1142,10 @@
           "summary": "AI Moves Customer Engagement Closer to the Customer Moment&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "Where do associates fit in an AI world? - CX Dive",
+          "title": "Where do associates fit in an AI world? - customerexperiencedive.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWN2S00yNndqaE92RkF0cjhEYXdGamo0bDJ5YkNpN21QVTBrT05vaVJZOE1nRUJnZkMxYkJ2YmMxZVd2U1EzRTUtVGJiUTVQRko2VmtVUF8yWXJKYXF4MVBtVTJvWFJPbFJMZEFWRi1rc2VXUEV2cnkzSERpMjV2X09IenFZQzl6SVp6b1FvWkFZeEt4?oc=5",
           "published": "Tue, 29 Sep 2026 13:11:10 GMT",
-          "summary": "Where do associates fit in an AI world?&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "When adopting agentic CX, don’t forget about your customer - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRi02UUhJLURGLWdDYlQxOV9FMVpGMENRdmlLdUF1T0hFRW45R2QwVDVURUlfRWJ3bTIxSUkyd0pkT193YTFyNHkwQ050dkNzdV90MHVzR244T25TVHFwSjZOVGxvMUt5ZENBZmR3SWJPZUF6OXJrSW16eHRXQWRFYVhMMm5xOTJZUXBRb3BRTC1uQjVDbjBBbmYxYUFVZUtNTnpFMzVONEluNjRQY1E?oc=5",
-          "published": "Tue, 29 Sep 2026 02:43:42 GMT",
-          "summary": "When adopting agentic CX, don’t forget about your customer&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026 - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WdzVJX29yOVBWempNMnE3Rng1YzVnQkd2SlVTMlI2VTBoUkZTRW5vZVUyV2NleDIycGxuNXJMZVF5Mm5tTE5BX0hwY2ZpWW92SjE5WXU0cE0zZl8yVUUzdy1aaw?oc=5",
-          "published": "Tue, 29 Sep 2026 00:45:52 GMT",
-          "summary": "The Top 10 Platforms To Know About For Customer Community Engagement In 2026&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "How Too Many Engagement Channels Are Quietly Making Customer Journeys Worse - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWgzTUJSX2FDdmtUN3ZtcE9RUzZKX0hvRDJ4RGl6WTNNQlV5cUVPdzNGUnVWMGFjc3NKMDNSUl9uOG8tRzI3amdpUWliSC05N2xyUXJWa2FnVHEtT0lMZ29VcGFyMTNzU2xLT280TWhocFVKOXdKZU93WFhqaWFJNXJfcTQ?oc=5",
-          "published": "Tue, 29 Sep 2026 00:42:53 GMT",
-          "summary": "How Too Many Engagement Channels Are Quietly Making Customer Journeys Worse&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "Orchestrating Customer Journeys Without Disruption - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGNvSnJZdWxIakFpR25nZUhNV1ZwdF8wMTBsNERTOEIxX3Zyc0oyX1Y0ekNseTQyckxna3IzNDEzZTBReldaWjhIaGJISk1femFXWjFVUlFhZjI0SDZnVzhpd0w4TjdCaTFFZ09DRHAwc204SG9DeVlPYk1qUjdCMVFnTmxsZngy?oc=5",
-          "published": "Mon, 28 Sep 2026 22:44:55 GMT",
-          "summary": "Orchestrating Customer Journeys Without Disruption&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "Kustomer Pushes Outcome-Driven AI as CX Leaders Demand Proof - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWEyUFUyckx5eWlmODVuUnlOZ0RjVFFwWFZLNi12V3hMd0FoTUlqMWNKOXhpWmtVSnV4am1DbXBhaHNScjVUdTFYQkl6OEExelhDZk9LUHFUODVNUUdjOGJEdThEYmhSZVo0X2lLZHo3eUdzdzNDaTlPb181UnBjaVFzTzR2NlE?oc=5",
-          "published": "Mon, 28 Sep 2026 22:09:47 GMT",
-          "summary": "Kustomer Pushes Outcome-Driven AI as CX Leaders Demand Proof&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "How one BPO is positioning for an AI future - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTNtaWszdGNhbDZqUkJoS25PLXFIRTB5V083UlFHV0lSUWhmMFpvRnFDblkydGNWbzRtck8wUE9PUWRrUWFOTWNKQ2haVFVPVUt6bm5qM29wWS1jajRNRUlUYjNjenN6aDdCYzcxQkFHRVF0LXU2TzNNYlZoby1aVTlwOHUxWFdqeWRvOVpn?oc=5",
-          "published": "Mon, 28 Sep 2026 21:54:15 GMT",
-          "summary": "How one BPO is positioning for an AI future&nbsp;&nbsp;CX Dive"
+          "summary": "Where do associates fit in an AI world?&nbsp;&nbsp;customerexperiencedive.com"
         }
       ]
     },
@@ -650,22 +1153,22 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
-          "title": "Avianca contact center - HubSpot Community",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yeGZCWVZ3Y0JyR1VpLU4zMG1IbjBsTW9XV1dxVXdYcno0VE1ZRDllMzZlR3phQ3VVbEdRVUU3ZEZyV1dBMXdxY2ZOc0xPMU96M2hKWEhUVFVmZUNEOVp5RzZwMnlpZnpwTUVKN1lB?oc=5",
-          "published": "Wed, 30 Sep 2026 09:56:57 GMT",
-          "summary": "Avianca contact center&nbsp;&nbsp;HubSpot Community"
+          "title": "Essent Cuts Contact Center Costs in Half with Genesys Cloud - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQmdKQnNXRTZBUThoVnVqd0tDR1dmS2FiTE5MbGVJRGNWb1RRSmsxSXhZVWJkS1FGRnd6YVlHcjRPakxpLUtCaGpPN2FKN0czZVNlLUE4X2tWcG5vYjRXZjJnamNCWm1Jak9QNHBoLURBVGxsazNVeHl1d3F1SjM3NzlhYU9XclptS2tOdnQzWG9LdnA1OXlmZUNSUGJJbzdaWkxuc0tpaFR2b0E1dnhqaWpfdjVWeDIwOGE5b0xfMTVhb29kZE1MRXBkT0ZSS3hodDFr?oc=5",
+          "published": "Thu, 01 Oct 2026 04:00:20 GMT",
+          "summary": "Essent Cuts Contact Center Costs in Half with Genesys Cloud&nbsp;&nbsp;Destination CRM"
+        },
+        {
+          "title": "OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYkVnbXI0WWI4UWZ3N0prLVdxbFZHTmFHY2NDUmxXa1g0MmFRcVpVLUxHV09xTldvYm4zSU5BWnF1aC1yZEo5Yjk5aU5KWnFnV1VPal9n?oc=5",
+          "published": "Wed, 30 Sep 2026 16:00:23 GMT",
+          "summary": "OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman&nbsp;&nbsp;YouTube"
         },
         {
           "title": "Remote Customer Service Representative at Invicta Software - polymer.co",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMDNscUxuUlM0bGJlejVfaFdxa1Roc0xiYkkwUFFyaU45ZUwtbllDUU14eVJKRjBRXzNXektYZ05NMlBRUHExWFY0YmlNVDlKUTNPS1gyNnhfUQ?oc=5",
           "published": "Wed, 30 Sep 2026 07:42:24 GMT",
           "summary": "Remote Customer Service Representative at Invicta Software&nbsp;&nbsp;polymer.co"
-        },
-        {
-          "title": "Genesys Cloud Engineer (Remote) - apply.workable.com",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0aGR3SUF6SkZEenI5ZVpLWGlPTmloUVllS0NnVmUyTlA4Yk11a29OOEhtOTVKNE4zVzVVR19NekxISTFRTjdZa2g5X3hVSkZjS2QtVm5ZQVZzVGdYVFE2aw?oc=5",
-          "published": "Wed, 30 Sep 2026 05:32:26 GMT",
-          "summary": "Genesys Cloud Engineer (Remote)&nbsp;&nbsp;apply.workable.com"
         },
         {
           "title": "Genesys & ServiceNow Go Live with Their Unified CCaaS-CRM Offering - CX Today",
@@ -692,28 +1195,23 @@
           "summary": "BaubleBar is Hiring! — Non-Phone — Seasonal Remote Customer Support Roles — Multiple Shifts — Evenings + Overnights&nbsp;&nbsp;Rat Race Rebellion"
         },
         {
-          "title": "Everforth GlideFast: The right partner to fast-track AI-enabled CRM - cio.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmFZdlhrVW93VkF1cTJQOXQwQUF4OERXNy1FU1RTTG1XTlZ1NVI3Z0h0aFZlTy1ZekRTOUxJZ0M0VmtBRFlsTlgta0lrbUtHaEpvbFFla0djN3A1YUJ3bC16dGk2UDkyUkdTUnU1SlRlUDNQekEtallTSF9HeWl0NVo5ajVzcjVjWEFTV2RpaXVFa2dWLXhsVGc2LXZ4OWpPcng1M1FmS3ZqWVU?oc=5",
-          "published": "Tue, 29 Sep 2026 14:03:38 GMT",
-          "summary": "Everforth GlideFast: The right partner to fast-track AI-enabled CRM&nbsp;&nbsp;cio.com"
-        },
-        {
           "title": "V20 Update 10 Beta: Bug Fixes & Continued Testing - 3CX",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WODc4SmhRR0tMQnZkdjhfbXdjTEhIMm5TMEp1c2FpUnJwSzJWQzJFLXE3cExhcUFzRjJGLUVIWGRoVGEyOUxZaXFwN2lST1ktOHJNNVZlYmlDdVRRVU1UVDdPWQ?oc=5",
           "published": "Tue, 29 Sep 2026 13:48:03 GMT",
           "summary": "V20 Update 10 Beta: Bug Fixes & Continued Testing&nbsp;&nbsp;3CX"
-        },
-        {
-          "title": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul - The Register",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamZjb3IxeGJDcmNIS1NDTE1XeUtYWDhSWldzWkJPNkR3UTlWQnFLZlB5UFhmT1g0VG00RnpxSmNpZ0ZQdjdWYlVlRGVPbEhNN0RtU0ZGOEpBOTRrbkxxN3ZSLUVTaUExVmpKTVdnLUdNaElrTEl1VERYVUxVUDJrbE5reHp4ZGdTT0pjNDk3SzhfRnRvUDlXeW9xVC1ERXU1ZzBTMG1qWXJoMU5wOTFMTkthQ0RvbkxkN29nVg?oc=5",
-          "published": "Tue, 29 Sep 2026 08:30:00 GMT",
-          "summary": "HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul&nbsp;&nbsp;The Register"
         }
       ]
     },
     {
       "name": "\"\"Contact Center\" or \"contact centre\" or \"CCaaS\"\" - Google News",
-      "items": []
+      "items": [
+        {
+          "title": "LogMeIn Enables Multichannel CCaaS for all - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FYkRveXJLemlYSGtGb1lNYTZSTi1UUy00VjJWcmpWaTREVlRkS2x0all5dGFHRHJXZ2NJVm5YZnVwVlF6SXRlRDBXODdBNkpUaVFzLWRpT2VTZ0UzQzdsVkpDX3lBUjdCaVgxOE1jVQ?oc=5",
+          "published": "Wed, 30 Sep 2026 04:18:59 GMT",
+          "summary": "LogMeIn Enables Multichannel CCaaS for all&nbsp;&nbsp;CX Today"
+        }
+      ]
     },
     {
       "name": "Microsoft 365 Blog articles",
@@ -874,6 +1372,18 @@
       "name": "Constellation Research",
       "items": [
         {
+          "title": "Google launches Gemini 4 Argon",
+          "link": "https://www.constellationr.com/insights/news/google-launches-gemini-4-argon",
+          "published": "Wed, 30 Sep 2026 22:33:27 +0000",
+          "summary": "Google launches Gemini 4 Argon\nLarry Dignan\nWed, 30 Sep 2026 - 15:33\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transformation, and emerging tre"
+        },
+        {
+          "title": "How Capital One evaluates, governs its AI agents",
+          "link": "https://www.constellationr.com/insights/news/how-capital-one-evaluates-governs-its-ai-agents",
+          "published": "Wed, 30 Sep 2026 20:29:46 +0000",
+          "summary": "How Capital One evaluates, governs its AI agents\nLarry Dignan\nWed, 30 Sep 2026 - 13:29\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transformation"
+        },
+        {
           "title": "Caterpillar's AI autonomy efforts accelerate, but domain knowledge drives returns",
           "link": "https://www.constellationr.com/insights/news/caterpillars-ai-autonomy-efforts-accelerate-domain-knowledge-drives-returns",
           "published": "Wed, 30 Sep 2026 18:04:53 +0000",
@@ -920,12 +1430,6 @@
           "link": "https://www.constellationr.com/insights/news/mongodb-launches-atlas-agent-engine-atlas-infinite-mongodb-90-goes-ga",
           "published": "Tue, 29 Sep 2026 12:30:00 +0000",
           "summary": "MongoDB launches Atlas Agent Engine, Atlas Infinite as MongoDB 9.0 goes GA\nLarry Dignan\nTue, 29 Sep 2026 - 05:30\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technolo"
-        },
-        {
-          "title": "AMD acquires WorldNet for $8.2 billion, adds AI model research heft",
-          "link": "https://www.constellationr.com/insights/news/amd-acquires-worldnet-82-billion-adds-ai-model-research-heft",
-          "published": "Mon, 28 Sep 2026 20:50:10 +0000",
-          "summary": "AMD acquires WorldNet for $8.2 billion, adds AI model research heft\nLarry Dignan\nMon, 28 Sep 2026 - 13:50\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, dig"
         }
       ]
     },
@@ -953,6 +1457,18 @@
       "name": "CX Dive",
       "items": [
         {
+          "title": "Grubhub tests rewards to boost dine-in traffic in NYC, Chicago",
+          "link": "https://www.customerexperiencedive.com/news/grubhub-dine-in-rewards-the-drop-ceo-howard-migdal/831794/",
+          "published": "Thu, 01 Oct 2026 07:00:00 -0400",
+          "summary": "Customers will be able to choose from three personalized weekly rewards to use at partner restaurants and then receive Grubhub credits."
+        },
+        {
+          "title": "3 numbers on what customers want from holiday CX this year",
+          "link": "https://www.customerexperiencedive.com/news/3-numbers-what-customers-want-from-holiday-cx-this-year/831829/",
+          "published": "Thu, 01 Oct 2026 07:00:00 -0400",
+          "summary": "The busiest shopping period is approaching fast, and consumers&rsquo; plans for how they&rsquo;ll approach their gift-buying sprees are becoming clear."
+        },
+        {
           "title": "Why pet insurer Pumpkin leaves customer cold calls to its AI agent",
           "link": "https://www.customerexperiencedive.com/news/how-pet-insurer-uses-voice-ai-expedite-customer-access-people/831675/",
           "published": "Wed, 30 Sep 2026 10:00:00 -0400",
@@ -969,18 +1485,6 @@
           "link": "https://www.customerexperiencedive.com/news/alaska-air-will-let-loyalty-members-decide-how-their-points-accrue/831700/",
           "published": "Tue, 29 Sep 2026 16:33:00 -0400",
           "summary": "The carrier is giving Atmos Rewards members the ability to customize how they earn points &mdash; by distance traveled, price paid or segments flown &mdash; to better fit customers&rsquo; specific travel needs."
-        },
-        {
-          "title": "Where do associates fit in an AI world?",
-          "link": "https://www.customerexperiencedive.com/news/where-do-associates-fit-in-an-ai-world/831545/",
-          "published": "Tue, 29 Sep 2026 07:00:00 -0400",
-          "summary": "Customers are arriving at stores more educated than ever, but associates still need to support or build on what those shoppers learned from AI, experts say."
-        },
-        {
-          "title": "How one BPO is positioning for an AI future",
-          "link": "https://www.customerexperiencedive.com/news/how-one-bpo-positioning-ai-future/831562/",
-          "published": "Mon, 28 Sep 2026 17:00:00 -0400",
-          "summary": "As AI automates more customer service interactions, BPOs like TaskUs are figuring out where people will remain in the loop."
         }
       ]
     },
@@ -988,28 +1492,22 @@
       "name": "Call Centre Helper",
       "items": [
         {
+          "title": "Agentic AI for Contact Centres: Use cases, Benefits, Risks and Implementation",
+          "link": "https://www.callcentrehelper.com/agentic-ai-for-contact-centres-277752.htm",
+          "published": "Thu, 01 Oct 2026 10:00:00 +0000",
+          "summary": "CallMiner covers what agentic AI is, how it works, where it fits in contact center operations, its benefits and risks and how organizations can get ready to adopt it responsibly. Agentic AI enables contact centre systems to pursue goals, make...\nThe post Agentic AI for Contact Centres: Use cases, Benefits, Risks and Implementation appeared first on Call Centre Helper."
+        },
+        {
+          "title": "What’s the Next Step in Your AI Journey?",
+          "link": "https://www.callcentrehelper.com/whats-next-step-ai-journey-277748.htm",
+          "published": "Thu, 01 Oct 2026 08:30:00 +0000",
+          "summary": "Given the range of AI use cases in the contact centre, choosing those that will provide the most value can be difficult. Some may deliver limited impact or even lead to higher costs in other areas. All of this means...\nThe post What’s the Next Step in Your AI Journey? appeared first on Call Centre Helper."
+        },
+        {
           "title": "10 Top Ideas We Heard From Oxfordshire County Council",
           "link": "https://www.callcentrehelper.com/site-visit-oxfordshire-county-council-277555.htm",
           "published": "Wed, 30 Sep 2026 07:00:00 +0000",
           "summary": "Uncover practical contact centre lessons we learnt from our site visit to Oxfordshire County Council, covering AI-powered QA, customer sentiment, and more.\nThe post 10 Top Ideas We Heard From Oxfordshire County Council appeared first on Call Centre Helper."
-        },
-        {
-          "title": "How To Manage Your AI Agent Like A Human",
-          "link": "https://www.callcentrehelper.com/manage-ai-agent-like-human-277709.htm",
-          "published": "Tue, 29 Sep 2026 10:00:00 +0000",
-          "summary": "What if we gave virtual agents the same trust and context we give our best people? Daniel Gil at Sabio explores how this shift could unlock a new level of customer service. For the last few years we’ve talked about...\nThe post How To Manage Your AI Agent Like A Human appeared first on Call Centre Helper."
-        },
-        {
-          "title": "Customer Satisfaction Survey Best Practices: A Complete Guide",
-          "link": "https://www.callcentrehelper.com/csat-survey-best-practices-guide-277584.htm",
-          "published": "Tue, 29 Sep 2026 08:30:00 +0000",
-          "summary": "CallMiner discusses what customer satisfaction surveys are and the metrics that fall under this category, as well as reviewing 12 best practices to help you build better customer satisfaction surveys, common mistakes you should avoid, and how to use survey...\nThe post Customer Satisfaction Survey Best Practices: A Complete Guide appeared first on Call Centre Helper."
-        },
-        {
-          "title": "How to Manage Agent Workarounds and Shortcuts",
-          "link": "https://www.callcentrehelper.com/manage-agent-workarounds-shortcuts-273874.htm",
-          "published": "Tue, 29 Sep 2026 07:00:00 +0000",
-          "summary": "Learn how to strike the right balance when managing agent workarounds by understanding their causes and improving processes, training, and system design.\nThe post How to Manage Agent Workarounds and Shortcuts appeared first on Call Centre Helper."
         }
       ]
     },
@@ -1067,12 +1565,6 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjIwSC1kWmhFazBVQ3hYcEF1NzUybTQ3RmY4T2YxdTI2ZWc3bzVRLVdOeVlVbWNBekx4MldVQ3lBYkNBcTBmM0xsQXl0R1hhSFo1VktOaUxKaTRFTVRiN1NkeFQ1aWl5amM2TEx0UHI4VkxkOC15TVEyRFFaQ2Q0M3lXN01LS2F2R3JEd2hqRi0?oc=5",
           "published": "Tue, 29 Sep 2026 13:22:55 GMT",
           "summary": "Which Customer Engagement Metrics Matter in 2026?&nbsp;&nbsp;Customer Experience Magazine"
-        },
-        {
-          "title": "Agentic Commerce: AWS Gives Its Shopping Assistant a Memory - Customer Experience Magazine",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjhqc1diZlQzbE5lZEJ1WU9TRFlfZjdPS296ek1EYkpSRDlPN3psWVlvc25ENWlMU1dHSkplX1A2TGNEb1Vlb2w5eDVhMDAxeEp6Zlpmdkh1M2JiLVpRM3hqSjR6M0pMN2M0Q3FkYzR1cFptS3JiWnpySVgwOTQyc3AtWWE?oc=5",
-          "published": "Tue, 29 Sep 2026 09:32:14 GMT",
-          "summary": "Agentic Commerce: AWS Gives Its Shopping Assistant a Memory&nbsp;&nbsp;Customer Experience Magazine"
         }
       ]
     },
@@ -1080,28 +1572,28 @@
       "name": "CX Foundation - Google News",
       "items": [
         {
-          "title": "HMRC Turns to Salesforce CRM and NiCE CCaaS in £3bn CX Transformation - CX Foundation",
+          "title": "Cresta Voice AI Agent: Live Demo & Performance Review - cxfoundation.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBId3ItRmRhNlRoaU1PeFZzbXk1anJtLWpxX2xaWnpLUlcwQnhXeGlXZnk2QnJza3IxUENmd0c5bDhjSUQ5SnhhenpidjdndGtvd0V0WmhHdUx5bG9mcW0xUlppWEhRanhSLWpZ?oc=5",
+          "published": "Wed, 30 Sep 2026 16:03:52 GMT",
+          "summary": "Cresta Voice AI Agent: Live Demo & Performance Review&nbsp;&nbsp;cxfoundation.com"
+        },
+        {
+          "title": "HMRC Turns to Salesforce CRM and NiCE CCaaS in £3bn CX Transformation - cxfoundation.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vUHpON1pKQXQzMGJrWFRSVnJpZHZyUXlJY05xZFZ2VzNZNlVBQkVlb0hLS1hudWJLckNNZm1mNUl3VjlrbXl6ZUJTZzVmYTZIcnB2ZWtRWnRudUZPekE?oc=5",
           "published": "Wed, 30 Sep 2026 15:44:25 GMT",
-          "summary": "HMRC Turns to Salesforce CRM and NiCE CCaaS in £3bn CX Transformation&nbsp;&nbsp;CX Foundation"
+          "summary": "HMRC Turns to Salesforce CRM and NiCE CCaaS in £3bn CX Transformation&nbsp;&nbsp;cxfoundation.com"
         },
         {
-          "title": "Zendesk Goes Industry-Specific with Specialized Agents, Targets Up to 80% Automation - CX Foundation",
+          "title": "Zendesk Goes Industry-Specific with Specialized Agents, Targets Up to 80% Automation - cxfoundation.com",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Zk5uOUZtVy1nRXhGYUZTVlBGNmxFRjAyWV9Vdy1Wb3M5dzlmUlJoR0djRW1hVVNzczh5U2pYakNFaTJzdkg1VFVqY3djYXhzc0EyaWp1Mlp1N2dYZ1gwRkRQcld2djA?oc=5",
           "published": "Tue, 29 Sep 2026 20:48:15 GMT",
-          "summary": "Zendesk Goes Industry-Specific with Specialized Agents, Targets Up to 80% Automation&nbsp;&nbsp;CX Foundation"
+          "summary": "Zendesk Goes Industry-Specific with Specialized Agents, Targets Up to 80% Automation&nbsp;&nbsp;cxfoundation.com"
         },
         {
-          "title": "Parloa CEO Malte Kosub on AI Agents and CX - CX Foundation",
+          "title": "Parloa CEO Malte Kosub on AI Agents and CX - cxfoundation.com",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SU19tVmtzbFZXWW5INVdXVWRWbDZ4a2NXVFczWl9QekJzUzFpNmE0TE5PUk1yS2oxV0VwNVR1OGlZa1pTOElDODEzR1NZUXVUR1BwZEIzRmJJN0o2cVlxZTd6VmgxWnRHdUhZ?oc=5",
           "published": "Tue, 29 Sep 2026 13:02:00 GMT",
-          "summary": "Parloa CEO Malte Kosub on AI Agents and CX&nbsp;&nbsp;CX Foundation"
-        },
-        {
-          "title": "Sierra Wants to Turn AI Customer Service Into a Revenue Engine - CX Foundation",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TbW1qTDMxN2p5cHphNkw3LXR5eThkNUZ2OWcycndEOXVOcm83VjhzZlhiYlpjd2tUNVkxZ2pNUGZ0MlNoSDFWNk8tbmJJZHcwQ0FxUUVEcDNLR1Z6VjlTQk9ma1pDYk5JODc1dmVtTlotMUk2SEhURlpjYw?oc=5",
-          "published": "Mon, 28 Sep 2026 20:42:02 GMT",
-          "summary": "Sierra Wants to Turn AI Customer Service Into a Revenue Engine&nbsp;&nbsp;CX Foundation"
+          "summary": "Parloa CEO Malte Kosub on AI Agents and CX&nbsp;&nbsp;cxfoundation.com"
         }
       ]
     }
