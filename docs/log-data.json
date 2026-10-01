@@ -1,6 +1,33 @@
 {
   "days": [
     {
+      "iso": "2026-10-01",
+      "label": "Thu 01 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Dynamics 365 Contact Center adds real-time translation",
+          "sowhat": "Microsoft brings Azure AI translation natively into contact-centre digital channels, removing the integration tax for text-based multilingual support.",
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=573245",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Microsoft (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Essent cuts contact-centre costs 50% with Genesys Cloud",
+          "sowhat": "A utilities provider halved operating costs by migrating to Genesys Cloud, demonstrating the ongoing arbitrage available to CCaaS switchers with legacy on-premise estates.",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQmdKQnNXRTZBUThoVnVqd0tDR1dmS2FiTE5MbGVJRGNWb1RRSmsxSXhZVWJkS1FGRnd6YVlHcjRPakxpLUtCaGpPN2FKN0czZVNlLUE4X2tWcG5vYjRXZjJnamNCWm1Jak9QNHBoLURBVGxsazNVeHl1d3F1SjM3NzlhYU9XclptS2tOdnQzWG9LdnA1OXlmZUNSUGJJbzdaWkxuc0tpaFR2b0E1dnhqaWpfdjVWeDIwOGE5b0xfMTVhb29kZE1MRXBkT0ZSS3hodDFr?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Destination CRM"
+        }
+      ],
+      "pattern_watch": "Microsoft agent identity and context expansion: persistent M365 agents, Work IQ extensibility, and Copilot Studio self-learning all extend agent reach into governed enterprise workflows."
+    },
+    {
       "iso": "2026-09-30",
       "label": "Wed 30 Sep 2026",
       "rows": [
@@ -851,158 +878,7 @@
         }
       ],
       "pattern_watch": ""
-    },
-    {
-      "iso": "2026-09-23",
-      "label": "Wed 23 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "Cisco finalises Splunk trust architecture for agentic SOC",
-          "sowhat": "Splunk .conf26 positioned data and control layers beneath AI agents as a defensible moat, treating trust and cost as the gate before autonomous security operations at scale.",
-          "url": "https://futurumgroup.com/insights/splunk-conf26-trust-is-key-for-the-agentic-era/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce launches Koa CRM reasoning model with NVIDIA",
-          "sowhat": "Salesforce's Koa bets that proprietary CRM training data and silicon co-design can solve inference economics and defend platform gravity against generic foundation models.",
-          "url": "https://futurumgroup.com/insights/salesforce-bets-on-silicon-synergy-and-metadata-to-make-business-ai-practical/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Logitech Spot integrates with 10 workplace platforms",
-          "sowhat": "Logitech is expanding Spot's interoperability to compete in desk booking and room scheduling, where platform lock-in remains a procurement barrier for hybrid deployments.",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2ZhcW5VWFhuVTJsc1ZQeUw4Z0NQekVXbm9pd2RZbTZqZ2N0TklRNlJEUnc0a2owcmdRcDFXVDVvVW0xcEtiLS1iM0pGakJ2THp3cnZnTHI3WUJRdmNhSWZ0SHIzalNPNklJeDdWbFdyeG15ZGZIU1BsVF9yZElhSVpR?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Westcoast Cloud adds Voice by Gamma for Teams",
-          "sowhat": "UK distributor move gives partners a pre-packaged Teams voice SKU ahead of the PSTN switch-off, targeting margin-thin resellers who lack direct carrier relationships.",
-          "url": "https://telecomreseller.com/2026/09/22/westcoast-cloud-expands-microsoft-teams-voice-offering-for-channel-partners-by-adding-voice-by-gamma/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce director Kirk buys $999k CRM stock",
-          "sowhat": "Insider buying at scale often signals confidence, but one board member's purchase alone is not a reliable proxy for company-wide AI or CRM momentum.",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjY1OUtWRmd6T194WDlZdTV4Y2RnRzVLcTAwLWdEeExKNGZsQVBRQ0drV2ZBQktqTWM2eFg2ZDJKREthVVlrcXM5dzN6Y3FfSGhVMG1QWVU5R21Ic0RHaEs5clZhWUdvR2NvcHlxOEZXTnFQWWtYVlVIbGNKMmNEbjNBRjl6blBqdVpmbnlZWDBwNzlvUW9hMzdWQjdya0liRHlWTk13SlFFU0Uxd0hIM25ha29sVl9hcVE?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "EU AI Act compliance now impacts contact centre tooling",
-          "sowhat": "The Act's August enforcement date forces CX leaders to audit AI-embedded workflows for risk classification and explainability, not just legal teams.",
-          "url": "https://www.cxtoday.com/security-privacy-compliance/the-eu-ai-act-is-a-cx-problem-now-ttecdigital-cs-0062/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "UK enterprises cite data sovereignty as AI priority",
-          "sowhat": "IDC/Expereo research shows digital sovereignty concerns rising as AI and cloud complexity increase, signalling a procurement shift toward regional data residency.",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/uk-businesses-data-control-ai-digital-sovereignty/",
-          "vendor_flag": true,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Optimove bets agentic marketing belongs inside CRM governance",
-          "sowhat": "Optimove argues that customer-facing AI agents need CRM context and decisioning rails, not standalone tools, to avoid compliance and consistency gaps.",
-          "url": "https://www.cxtoday.com/crm/optimove-ai-agentic-marketing/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce launches AIforce interface strategy at Dreamforce",
-          "sowhat": "Salesforce introduced AIforce to embed CRM context into Claude, Slack, and custom experiences, plus expanded Agentforce — a clear push to make AI operational across contact centres, though buyer adoption remains the real test.",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-roundup-salesforce-has-an-easy-button-for-ai-but-cx-leaders-still-face-the-hard-decisions/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Vonage adds branded calling to Epic Hello World",
-          "sowhat": "Healthcare organisations using Epic can now display caller information via Vonage branded calling, targeting the persistent problem of missed patient appointments due to unrecognised numbers.",
-          "url": "https://telecomreseller.com/2026/09/23/vonage-targets-missed-healthcare-calls-with-branded-calling/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Tollring integrates Clobba capabilities into Analytics 365",
-          "sowhat": "Tollring is folding Clobba IP into its call analytics platform following July acquisition, a consolidation play that may streamline analytics for resellers but adds little immediate differentiation.",
-          "url": "https://telecomreseller.com/2026/09/23/tollring-folds-clobba-into-its-call-analytics-roadmap/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Glia introduces Banking CRM and Branch Intelligence",
-          "sowhat": "Glia is targeting agentic banking with new CRM and branch intelligence tools, positioning itself as infrastructure for autonomous banking workflows — but deployment velocity will decide whether this is real or roadmap.",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYWpOMG95SmVQWFdpNFFnSWRwQ0dDMmpud3RmQTZxREdsdGtFM0tVYW9LS1lLMVU2M2p3NmxyWWIzZWloc2VLYmFqU3JVclFoSTBNMFB0bll5MkxjOURYalYzZUZqTjMzTEFrcEJYMUthSVpzM2F1dzZqZm80YlVGU0x3WFRUeE93dnlrVkpiemVEUjBBWnU2UkdtaWtzS1JGU0xmWVhZbmVpUTZ6Vld2TDZHeTRQUTlkRkZEVGg0ZGZfZ2RDZjRhSmc4Tk1YUTByQ29XZ1J3?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Veeva adds another top-20 biopharma to Vault CRM",
-          "sowhat": "Veeva now counts 14 of the top 20 biopharma companies on Vault CRM, reinforcing its position in life sciences commercial operations — a vertical lock-in that's hard for horizontal CRM vendors to contest.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjg0WHU5OXBYRjVmQk5aSTNEMDRzYjBCMWxuem92VXdBdUVLXzdxZHdHM25pTlFJNU5LU0VCaGFKajl2MlNsOERodGw4TWJfNnpGVHY2WDhaWEpSWkVfd255ZHVXeTVKbllRUlQtVXc5cmRaU2dMUGFwQnhacTY3Mkp5b2gwN1ZZSEFfUEtVTFdZU2lOcmRWRXNyaUNTZEluY3dGTXRHLVJrWjhZQ3JZ?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Creatio commits $300m to Bank.AI platform through 2028",
-          "sowhat": "Creatio's $300 million investment in agentic AI for banking is a material signal of vendor commitment, but whether banks can absorb autonomous agents at the pace Creatio envisions remains the critical question.",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWXZpckV2WFJfdzNIeUtjY3gzUHdxU1ZMU19wUzlEWDUyR1FoTVpVWWlPRmFqeFU0LUJqNm1DVFVWNHJBVG5GNUdGUHNIb1d2Z3d6VmU5QmlFX0t6TmdGbTNjeThQVTFuYzQ0d3UycnBWQldYblJWSGY2UzM2UVRLOGphS1dvUHh1eU9CS2YtYjVVOHZrUDVLd0ZqN3o4NERz?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft launches Dynamics 365 Activate for Salesforce migrations",
-          "sowhat": "Microsoft is packaging AI-powered migration tooling to pull customers off Salesforce — a direct competitive play that weaponises deployment friction as a switching cost.",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUG1jZW5ldXczRUFXUklFajQwYmNESmFsYjlJZEhNeFJRQ3AwRFBMQV80M21ySzdyaW5nZDl1ekNyNVlsRUhPckx3eFlLRTNtTEllanI1Y18wU3ZZVnJ3cWRSSzF4TjJBS3A2TDRPbFNlSWlnS1VUZWR0TlEwLVVGbWdhSkZVU2JXV2VfemIxSlRVUmYtdi1iLU5qd1pPSXFnZ0Q1VXdqcU84eFNwOENLekNGallBUE5MRmc?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Twilio details five steps for AI-to-human handoff context",
-          "sowhat": "Twilio addresses the persistent problem that 76% of customers say agents lack context after AI handoff — operationalising handoff design as a discrete capability rather than hoping prompts fix it.",
-          "url": "https://www.twilio.com/en-us/blog/insights/ai-to-human-handoff-context",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "EU AI Act enforcement and digital sovereignty concerns are pushing AI governance and data residency up the procurement agenda across CX and UC"
     }
   ],
-  "updated": "2026-09-30T19:51:46.896873+00:00"
+  "updated": "2026-10-01T12:45:31.397153+00:00"
 }
