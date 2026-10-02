@@ -73,9 +73,89 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Sangoma acquired by BRC Group Holdings",
+          "sowhat": "A mid-tier UC/telephony vendor changes hands, signaling continued private-equity consolidation in legacy on-prem and hybrid telephony markets.",
+          "url": "https://telecomreseller.com/2026/10/02/sangoma-technologies-corporation-enters-into-definitive-agreement-to-be-acquired-by-brc-group-holdings-inc/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "CallTower acquires Momentum Telecom's voice/collaboration business",
+          "sowhat": "A midmarket UC provider adds 3,500+ customers and 250 staff, expanding product depth and global reach in a consolidating reseller channel.",
+          "url": "https://telecomreseller.com/2026/10/01/calltower-transforms-its-global-communications-platform-through-acquisition-of-momentum-telecoms-voice-and-collaboration-business/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom brings native Rooms to Cisco devices",
+          "sowhat": "A week before WebexOne, Zoom announces Rooms support for Cisco hardware, intensifying device-layer competition and customer optionality.",
+          "url": "https://www.google.com/url?rct=j&sa=t&url=https://uctoday.com/this-week-in-uc-c-teams-rooms-get-a-new-operating-model&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3LakOXPR0D6xr7mkQUh6IF",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Google Alert"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft shifts Teams Rooms Android to Pro Management Portal",
+          "sowhat": "Microsoft centralizes Android device management, changing how partners and IT teams provision and support Teams Rooms hardware.",
+          "url": "https://uctoday.com/this-week-in-uc-c-teams-rooms-get-a-new-operating-model",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Zoom opens ISV Exchange to channel partners",
+          "sowhat": "Zoom extends its app marketplace through resellers, aiming to broaden ecosystem reach and compete with Salesforce/ServiceNow platform plays.",
+          "url": "https://telecomreseller.com/2026/10/02/zoom-expands-isv-exchange-to-channel-partners-broadening-access-to-its-growing-technology-ecosystem/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Zendesk names Rachita Sundar CFO",
+          "sowhat": "Zendesk appoints a CFO with AI-scaling experience from Salesforce, signaling intent to translate agentic CX ambitions into measurable financial performance.",
+          "url": "https://futurumgroup.com/insights/zendesks-new-cfo-is-built-for-the-billion-dollar-ai-bet/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce acquires Listen Labs for AI simulation in CRM",
+          "sowhat": "Salesforce adds autonomous research agents and digital twins to compress customer research cycles, defending CRM dominance against AI-native challengers.",
+          "url": "https://futurumgroup.com/insights/salesforce-bets-on-ai-simulation-to-defend-crm-dominance/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "ServiceNow launches Flow, a one-day ITSM deploy",
+          "sowhat": "ServiceNow's zero-infrastructure, AI-native service desk targets first-time buyers and signals strategic defense against lightweight, conversational challengers.",
+          "url": "https://futurumgroup.com/insights/servicenow-flow-can-a-one-day-deploy-reshape-enterprise-itsm/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "AI agent governance and post-deployment management emerging as distinct buyer concern (Parloa, Five9)"
+      "pattern_watch": "M&A consolidation in UC/CCaaS and vendor moves to defend CRM/CX turf with AI acquisitions and fast-deploy products"
     },
     {
       "iso": "2026-10-01",
@@ -920,5 +1000,5 @@
       "pattern_watch": "Multiple vendors (Crexendo, Enreach, Yeastar) embedding AI into white-label UCaaS platforms and mobile plans — AI is becoming table stakes in channel go-to-market."
     }
   ],
-  "updated": "2026-10-02T12:09:23.777353+00:00"
+  "updated": "2026-10-02T19:46:06.007455+00:00"
 }
