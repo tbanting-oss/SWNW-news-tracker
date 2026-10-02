@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-02",
+      "label": "Fri 02 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Inworld acquires Ultravox for voice-AI stack",
+          "sowhat": "A research lab buys a voice platform to control model inference through to runtime, relevant if buyers want vertically integrated voice tooling.",
+          "url": "http://www.businesswire.com/news/home/20261001868570/en/AI-Research-Lab-Inworld-Acquires-Voice-Agent-Platform-Ultravox/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Business Wire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco WebexOne opens in Austin this week",
+          "sowhat": "Annual user event covers AI collaboration, Calling and contact-centre roadmap; watch for concrete deployment commitments rather than demos.",
+          "url": "https://uctoday.com/webexone-2026-cisco-brings-ai-collaboration-to-austin-webexbycisco-cs-0244",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Parloa: AI agents drift without active management",
+          "sowhat": "Post-launch observability and feedback loops matter more than build quality; relevant for buyers treating agents as deployed-and-done.",
+          "url": "https://cxtoday.com/ai-agents-need-active-management-not-a-one-time-build-parloa-cs-0228",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Five9: AI handoffs still fail on context",
+          "sowhat": "Orchestration and voice AI matter more than transfer speed; buyers should test whether context survives the handoff in production.",
+          "url": "https://cxtoday.com/why-ai-handoffs-are-still-failing-customers-five9-cs-0210",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "RingCentral launches comparison against Talkdesk CCaaS",
+          "sowhat": "Competitive positioning piece, not a launch; useful only if you're choosing between these two and want RingCentral's self-assessment.",
+          "url": "https://www.ringcentral.com/us/en/blog/ringcentral-vs-talkdesk/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "RingCentral (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "eir chooses Genesys to overhaul customer experience",
+          "sowhat": "Irish telco selects Genesys cloud; relevant as a European CCaaS reference account, not a product change.",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRDczbHdkNnBsVHJiVHJ2TXcyMERQc3NYTlZqQUtJa0ZCWS1pN1lxMm1mQWJZZTBfQXhjNzhsazBGd1p4MVZ4TFVnRnZSajd4Y21yOHN4TWFjUldhTHJiOUJIU3ZnWkJFaW9iYmZ6SjNnTkRsd25Zag?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HMRC awards Salesforce £2.4BN CRM programme contract",
+          "sowhat": "Major UK government CRM deal signals scale and appetite; watch implementation timelines and whether scope matches the price tag.",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUMwbEhqUGdONkdTdmMyanBJekpDcnp1eEoxa3FKZXFRWU5jc1ZEZDBjMk12eHBEOWZRTXZldVJRR0pWZl9MMjRXZmk4eTlpM05XcVVhd3VOcnBzWmtQTzg5c0t4ZndyX2pyMHo0WFB5ZlFkR0xubjl1UGZadUVKRHhZZ25GSDlzTVdHT0dvRnQ?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        }
+      ],
+      "pattern_watch": "AI agent governance and post-deployment management emerging as distinct buyer concern (Parloa, Five9)"
+    },
+    {
       "iso": "2026-10-01",
       "label": "Thu 01 Oct 2026",
       "rows": [
@@ -841,104 +918,7 @@
         }
       ],
       "pattern_watch": "Multiple vendors (Crexendo, Enreach, Yeastar) embedding AI into white-label UCaaS platforms and mobile plans — AI is becoming table stakes in channel go-to-market."
-    },
-    {
-      "iso": "2026-09-24",
-      "label": "Thu 24 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Pure IP launches voice observability for UCaaS",
-          "sowhat": "End-to-end call-path visibility may reduce enterprise finger-pointing but requires UCaaS-carrier data-sharing that many don't control.",
-          "url": "https://telecomreseller.com/2026/09/23/pure-ip-launches-voice-observability-for-end-to-end-call-visibility/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "No Jitter: AI copilots now route and trigger resolutions",
-          "sowhat": "Autonomous decisioning in contact centres forces CX leaders to define AI's authority before a bad call becomes brand damage.",
-          "url": "https://www.nojitter.com/contact-centers/when-should-contact-center-ai-make-the-call",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "RingCentral adds AI meeting follow-up, mobile admin tools",
-          "sowhat": "Incremental admin and AI workflow enhancements continue but signal no step-change in RingEX's competitive positioning for H2.",
-          "url": "https://www.ringcentral.com/us/en/blog/whats-new-in-ringex-ai-that-helps-teams-automate-assist-and-analyze-july-2026-recap/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Glia launches banking CRM and branch intelligence suite",
-          "sowhat": "Combining digital engagement with branch analytics targets banks seeking unified customer context, but adoption hinges on core-system integration complexity.",
-          "url": "https://telecomreseller.com/2026/09/23/glia-introduces-banking-crm-and-branch-intelligence-to-supercharge-agentic-banking/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "TTEC opens Cairo automotive CX programme for unnamed client",
-          "sowhat": "Geographic expansion into Cairo signals vertical-specific offshore capacity growth but provides no buyer intelligence on execution or client tier.",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMU1VSW1aU2xtMWxTVGIxeHR4aEZ0SWVKRFN4Yk1jOS1UcmtLY2gweVNzalN6RFlmb2R2bkVuaXFIZnNJc3JmVWIyaUdiZWpUUHZSNzYyLURuYmkzU0hOTjlqVFBFd3dYRmZiaXU1aGVDTGFYS1NwSDRaX0VLNEdpLUpacVYxdmx1VEx2LTNzMVFDMHJSQjhYX1ptNEx2TWdJREx2a2tLb1diT0cwUUtrZzVNTGNZaEpWMzhOcVF3NmRGaUFxczdqMF9jWkY1TW9QTy1J?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Marketo Co-Founder Jon Miller Launches Phave",
-          "sowhat": "Miller's new marketing automation platform promises campaign reasoning over rules-based workflows, directly challenging his own legacy platform.",
-          "url": "https://www.cmswire.com/marketing-automation/marketo-co-founder-jon-miller-launches-phave-to-replace-the-marketing-automation-platform-he-built/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Parloa to Unveil Agentic CX at WAVE Berlin",
-          "sowhat": "Parloa's conference presentation signals a vendor positioning itself around autonomous customer-service agents, though no discrete product or client has been disclosed.",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMlFsT2drM2NpSmNuX1FmcHpROGpEYnZXUTRrdWtObXhMRGJEV0ZvUWxSZEhVdmZHTkdPR05sdGJXTFN0NmIxMzR3WmJQZmlrT01rX1RaeUVMc2hId2xQNGNhTmllamF3Z3M1eW9MNHhLUE1aNkRPN2xmN01sbTI3RDdYVHUwd2xoUnNUaWJWQWxKcmk5aE85RmQ1dGZSekowTkdsdThVMlBzaGNRVTI2R21ZWjhSYnhoM0o4a0JvdFpQUFM1Q1d5d2l0WnZtaTA?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Dr. Martens Rebuilds CX on Salesforce AI",
-          "sowhat": "The footwear brand is formalizing a multi-year shift from wholesale manufacturer to direct consumer with Salesforce-based customer care and AI tooling.",
-          "url": "https://www.cxtoday.com/ai-automation-in-cx/how-dr-martens-kicked-its-cx-strategy-into-gear/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft Opens Maryland Quantum Research Center",
-          "sowhat": "A physical lab signals continued R&D investment in topological qubits, though commercial quantum applications remain years away for enterprise buyers.",
-          "url": "https://www.constellationr.com/insights/news/microsoft-opens-its-maryland-quantum-research-center",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "OpenAI Announces GPT-6 Luna and Sol",
-          "sowhat": "Two new models promise lower pricing and improved performance, though the announcement lacks client validation or deployment detail for enterprise use cases.",
-          "url": "https://www.constellationr.com/insights/news/openai-adds-gpt-6-luna-and-sol-touts-lower-prices",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": ""
     }
   ],
-  "updated": "2026-10-01T20:08:54.583083+00:00"
+  "updated": "2026-10-02T12:09:23.777353+00:00"
 }
