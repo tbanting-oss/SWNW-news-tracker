@@ -73,9 +73,89 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "OpenAI ships Work Data agent and analytics",
+          "sowhat": "OpenAI is extending ChatGPT beyond conversation into structured work delivery and governance — a direct claim on Microsoft 365 and Notion territory.",
+          "url": "https://uctoday.com/if-you-blinked-openai-shipped-half-a-work-management-stack",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Notion launches Custom Agents for project management",
+          "sowhat": "Notion's Custom Agents flag a shift from passive workspace to overnight risk detection — turning collaborative tools into forward-looking control planes.",
+          "url": "https://uctoday.com/notion-ai-project-management-custom-agents-and-productivity",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Grandstream and Jusan integrate AttendIA agentic AI",
+          "sowhat": "Certified integration with UCM6300 Series brings agentic AI voice automation to mid-market UC estates — a channel-ready play for AI-powered customer engagement.",
+          "url": "https://telecomreseller.com/2026/10/02/grandstream-and-jusan-announce-certified-integration-with-attendia-agentic-ai-solution/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "HMRC signs £2.4bn Salesforce deal, FTC probes AI agents",
+          "sowhat": "A £2.4bn public-sector CRM deal and an FTC probe into rogue AI agents frame the stakes: deployment scale is rising while regulatory scrutiny tightens.",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUJTNjY2S2otdXRQWldoMVY1S0lYWFdoUzBkb1V2Z3JFMDhySEpsTFh4d2J3YlNLTnRNcUVfcmJ3NF9yRDZXTjZNOTJuVjZ1NTJvSmJMYV9QNnJ1NDhuN0Nxc0UtRHg3djlHY1FMMGhNQUo5RUotN2l4Ui16UGV5TEo0UVJwaFF6Mk5yT2ROdw?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Customer Experience Magazine"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Talkdesk research shows AI orchestration gap in CX",
+          "sowhat": "Survey of 252 senior leaders reveals widespread AI adoption but almost zero measurable outcomes — the problem is integration, not technology availability.",
+          "url": "https://siliconangle.com/2026/10/02/ai-in-customer-experience-has-an-orchestration-problem-not-an-adoption-problem/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "SiliconANGLE"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Schnucks deploys AI shopping assistant after data cleanup",
+          "sowhat": "The Midwestern grocer's assistant launch required foundational data work first — a reminder that AI assistants depend on unsexy data hygiene, not just models.",
+          "url": "https://www.customerexperiencedive.com/news/schnucks-ai-shopping-assistant-grocery-technology/831963/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CX",
+          "headline": "Asia-Pacific contact centres shift buying to enterprise IT",
+          "sowhat": "APAC research shows contact centre technology purchasing authority migrating to IT and CX leadership — signaling architectural integration over point solutions.",
+          "url": "https://www.callcentrehelper.com/apac-buyers-guide-2026-277656.htm",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Only 6% of consumers trust AI to finalize purchase decisions",
+          "sowhat": "Despite AI-led discovery, 94% still require reviews and visual proof before buying — the last mile of conversion remains human-anchored.",
+          "url": "https://cxtoday.com/only-6-trust-ai-enough-to-buy-without-proof",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
         }
       ],
-      "pattern_watch": "Six items show AI degrading CX: customers report worse service, trust gaps, and orchestration failures across contact centres and retail."
+      "pattern_watch": "Three items (APAC buying shift, Talkdesk orchestration gap, AI trust research) share one thread: enterprises are moving past AI experimentation into hard questions about architecture, governance, and verified outcomes."
     },
     {
       "iso": "2026-10-02",
@@ -971,5 +1051,5 @@
       "pattern_watch": "Agentic platforms (Microsoft Copilot, RingCX, Salesforce Agentforce) and their security/governance risks emerge as dual threads this week."
     }
   ],
-  "updated": "2026-10-03T11:20:32.743464+00:00"
+  "updated": "2026-10-03T18:33:48.179239+00:00"
 }
