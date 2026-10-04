@@ -1,6 +1,73 @@
 {
   "days": [
     {
+      "iso": "2026-10-04",
+      "label": "Sun 04 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Voice AI lawsuits target biometric consent gaps",
+          "sowhat": "Lowe's and Walmart voiceprint cases signal legal risk for contact centres using voice AI without explicit BIPA-compliant consent.",
+          "url": "https://cxtoday.com/voice-ai-lawsuits-put-contact-centers-on-bipa-watch",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce outage exposes dependency risk in CX",
+          "sowhat": "Extended downtime highlighted that CX platforms depend on multiple third-party services — a resilience gap buyers rarely map.",
+          "url": "https://cxtoday.com/salesforce-outage-chaos-the-week-uptime-lost-its-impact",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Shopify Canvas uses agentic AI for store build",
+          "sowhat": "Merchants can now co-build custom stores with Sidekick in 20 minutes, collapsing a traditional two-week developer timeline.",
+          "url": "https://futurumgroup.com/insights/shopify-canvas-agentic-ai-collapses-the-custom-store-barrier/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Modal launches multi-node GPU serverless compute",
+          "sowhat": "Clusters deliver InfiniBand-connected petaFLOP-scale workloads without infrastructure overhead — a path to production AI for mid-market enterprises.",
+          "url": "https://futurumgroup.com/insights/modal-clusters-ga-serverless-multi-node-gpus-for-every-enterprise/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Netcall adds AI process capture to Liberty Spark",
+          "sowhat": "New capabilities turn business knowledge into searchable processes and auto-generated apps, aiming to reduce manual workflow configuration.",
+          "url": "https://www.callcentrehelper.com/netcall-adds-new-ai-capabilities-277833.htm",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "BearingPoint: 73% see AI value, 13% scale it",
+          "sowhat": "A 1,050-executive study confirms organisational discipline, not tech readiness, is the primary barrier to moving pilots into production.",
+          "url": "https://futurumgroup.com/insights/ai-proves-value-but-only-13-of-organizations-scale-it/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-03",
       "label": "Sat 03 Oct 2026",
       "rows": [
@@ -934,122 +1001,7 @@
         }
       ],
       "pattern_watch": "Agentic AI security and governance concerns surfacing across vendors (Salesforce vulnerabilities, Microsoft architecture, Constellation governance warnings)"
-    },
-    {
-      "iso": "2026-09-26",
-      "label": "Sat 26 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Omdia: channel now shaping enterprise meeting-room vendor picks",
-          "sowhat": "Partners gain buying influence as enterprises consolidate Teams/Zoom deployment decisions, shifting sales motion upstream.",
-          "url": "https://telecomreseller.com/2026/09/25/omdia-channel-partners-have-more-say-in-meeting-room-tech/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "Microsoft merges Copilot consumer and M365 apps into one",
-          "sowhat": "Unified Copilot app with Home/Code/Autopilot tabs marks Microsoft's first move toward a single agentic interface across work and personal contexts.",
-          "url": "https://www.directionsonmicrosoft.com/microsoft-shows-off-its-new-copilot-super-app/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Sinch completes Tier 1 RCS coverage across North America",
-          "sowhat": "Direct carrier connectivity in US and Canada lets brands run RCS campaigns on one platform, removing a multi-vendor deployment friction point.",
-          "url": "https://telecomreseller.com/2026/09/25/sinch-expands-tier-1-rcs-business-messaging-coverage-to-canada-completing-north-american-footprint/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "TPx hires channel veteran Garrett Gee to lead partner sales",
-          "sowhat": "Personnel move signals TPx intent to accelerate indirect UCaaS/CCaaS sales after years of hybrid direct–partner model.",
-          "url": "https://telecomreseller.com/2026/09/25/tpx-names-channel-veteran-garrett-gee-to-lead-next-chapter-of-partner-growth/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Infobip appoints Mirta Pađen Lee as VP People",
-          "sowhat": "CPaaS vendor signals intent to professionalize org structure as it pivots messaging portfolio toward AI-first positioning.",
-          "url": "https://telecomreseller.com/2026/09/25/infobip-appoints-mirta-paden-lee-as-vice-president-of-people/",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "Microsoft Copilot becomes agentic work platform",
-          "sowhat": "Home/Code/Autopilot layers signal Microsoft's push beyond chat assistants into orchestrated workflow automation with spend controls—a direct challenge to Salesforce Agentforce and Google Workspace.",
-          "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco and Microsoft Teams Rooms converge on management",
-          "sowhat": "Webex Control Hub and Teams Rooms Pro Management now overlap in remote room provisioning, raising buyer stakes in platform lock-in decisions.",
-          "url": "https://uctoday.com/cisco-vs-microsoft-teams-rooms-meeting-room-management-battle",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "RingCX adds agentic CX features in July update",
-          "sowhat": "RingCentral's monthly release focuses on AI-driven wrap-up reduction and agent coaching consistency, table stakes in a crowded CCaaS market.",
-          "url": "https://www.ringcentral.com/us/en/blog/whats-new-in-ringcx-building-the-agentic-customer-experience-july-2026-recap/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Teardown",
-          "cat": "CX",
-          "headline": "Salesforce Agentforce exposed to zero-click data theft",
-          "sowhat": "Three vulnerabilities allowed CRM exfiltration and phishing without user interaction—early agentic platforms carry real security debt that buyers must price in.",
-          "url": "https://www.theregister.com/2026/09/24/salesforce_agentforce_vulns_allowed_0click/",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Salesforce unveils Koa AI model for CRM reasoning",
-          "sowhat": "A domain-specific LLM for structured CRM data signals Salesforce's move to vertical inference, though real-world accuracy benchmarks remain undisclosed.",
-          "url": "https://smallbiztrends.com/2026/09/salesforce-unveils-koa-a-breakthrough-ai-model-for-crm-reasoning.html",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CPaaS",
-          "headline": "Twilio addresses context loss across channels in AI",
-          "sowhat": "Forty percent of enterprises cite channel handoff failures as top AI brand harm—Twilio's remediation focus suggests the problem is now costing revenue.",
-          "url": "https://www.twilio.com/en-us/blog/insights/lost-context-between-channels",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "8x8 wins four Stevie Awards for leadership",
-          "sowhat": "Individual and team recognitions in The International Business Awards carry negligible strategic weight for enterprise buyers.",
-          "url": "https://telecomreseller.com/2026/09/25/8x8-earns-four-stevie-awards-in-the-2026-international-business-awards/",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "Agentic platforms (Microsoft Copilot, RingCX, Salesforce Agentforce) and their security/governance risks emerge as dual threads this week."
     }
   ],
-  "updated": "2026-10-03T18:33:48.179239+00:00"
+  "updated": "2026-10-04T12:02:03.839649+00:00"
 }
