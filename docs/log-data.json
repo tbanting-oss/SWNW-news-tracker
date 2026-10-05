@@ -1,6 +1,63 @@
 {
   "days": [
     {
+      "iso": "2026-10-05",
+      "label": "Mon 05 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "Gartner predicts 70% abandon vendor agentic AI",
+          "sowhat": "Enterprises should pilot before lock-in — Gartner signals mass failure of vendor-built agentic platforms by 2028.",
+          "url": "https://cxtoday.com/ai-agents-openais-big-bet-vs-gartners-warning-sign",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Brandeis moves campus comms to Zoom platform",
+          "sowhat": "Another higher-ed consolidation onto Zoom — phones, contact centre, and AI agent all on one stack.",
+          "url": "https://uctoday.com/how-brandeis-university-moved-its-campus-comms-to-zoom",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "BT acquires TalkTalk and PlatformX for £400m",
+          "sowhat": "UK fixed-line consolidation continues — BT secures 2.5m customers and tightens infrastructure dominance.",
+          "url": "https://futurumgroup.com/insights/bt-absorbs-talktalk-and-platformx-uk-fixed-lines-defining-consolidation/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Europe's chatbot disclosure rules taking effect unevenly",
+          "sowhat": "EU's August 2 disclosure mandate now live but most contact centres haven't redesigned complaint flows to comply.",
+          "url": "https://www.cmswire.com/customer-experience/is-your-contact-center-ready-for-europes-chatbot-disclosure-rules/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Scalian names first CAIO for engineering AI",
+          "sowhat": "C-level AI role emerging in critical engineering — signals AI moving from project to operational governance layer.",
+          "url": "https://futurumgroup.com/insights/scalian-names-first-caio-to-scale-ai-in-critical-engineering/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-04",
       "label": "Sun 04 Oct 2026",
       "rows": [
@@ -913,95 +970,7 @@
         }
       ],
       "pattern_watch": "Two items (Nvidia safety platform, Salesforce bugs) reflect emerging agent security concerns as enterprises deploy autonomous AI."
-    },
-    {
-      "iso": "2026-09-27",
-      "label": "Sun 27 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "Salesforce patches three zero-click Agentforce AI flaws",
-          "sowhat": "The vulnerabilities (dubbed SalesBleed) allow hijacking of AI agents without user interaction, exposing early-stage risk in agentic CRM platforms before enterprise hardening.",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Pc0R0V0pfTFhSbldNM0VLSm53YVJjaEFTcmpJZUdkaGNENm1ETE91MHd0NHpsa0ZpQVVVcXAta2JYdkFRbHV6MWlBazhPV3BaNktueVA2WjZVd2dwOGpRaGw0VW1kM2E3U2VvMDFpcTc2WVlTc2hxZGhpZC0?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Firmable study finds 32% B2B CRM data flawed",
-          "sowhat": "Sales teams' own estimate of data quality issues suggests CRM hygiene remains a foundational problem even as AI layers are added on top.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmk2dmpVajFaSUxUbVliYXQtMTYtR2h0MXM2Ti1nVllqZ3JOb1pxUjh5d2cxcnlZUzhGakVNQlZ1Nld4dVRhR2w0cVpNRWw4NzB0aEVXdTZ4TGtwZ0owcndJVFBsMGNRVUpYRVU5cXZWSC1fVkQ5N20yYjNVczRrVncxblQtN1IzTEx0cTNVLWwyQQ?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Salesforce releases Koa, a CRM-focused reasoning model",
-          "sowhat": "A domain-specific AI model for CRM tasks signals vendor strategy to embed proprietary inference rather than rely solely on generic LLMs.",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDRmXzMtc1BMRGVMTmRuRUpQUmMwa3V6VFZrbW9LTkVzV1NOUEozWG9CUHZVS1ZvN0xsZ1g2SmtyZ2ttbDFmOV9ZWkVxMHk3LVJ5VUFIbHIxZUZmNnZtaXg0YkVtUlY1MTUyaERiaVJ3YUMwU0RLNEgyTk1Sbnpxc3BHa1JqT0ZfQ1BuZHA2SkFuY0RCSGpB?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Microsoft redesigns Copilot as agentic work platform",
-          "sowhat": "The three-layer architecture (Home, Code, Autopilot) with dual pricing targets enterprise spend controls and signals Microsoft's shift from assistant to autonomous agent orchestration.",
-          "url": "https://futurumgroup.com/insights/microsoft-copilot-becomes-an-agentic-work-platform/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-copilot-becomes-an-agentic-work-platform",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Roofr raises Series B led by TCV",
-          "sowhat": "Vertical SaaS for roofing (with embedded CRM) securing growth capital suggests fragmentation in niche markets resisting horizontal platforms.",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kMjA0UERTRE95dXloQmJTejZiTTVYTU55eXhwMzQxRUdEMTdfTy1XbVpvTEd6SU9CVGpUQmJQRHpCc3gxNDZCSW1GWEtTUGEwaWdsSEgxWHlhbVIzbDUwOGJmQXRPUmE4ZUpQYWtEYkV1cXQ0?oc=5",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Constellation: personal AI assistants will create governance headaches",
-          "sowhat": "Analyst warns that proliferation of individual AI agents in the enterprise will outpace governance frameworks, raising compliance and data leakage risk.",
-          "url": "https://www.constellationr.com/insights/news/personal-ai-assistants-proliferate-and-so-will-governance-headaches",
-          "vendor_flag": false,
-          "run": "AM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce AI agents hit by three security flaws",
-          "sowhat": "Three vulnerabilities ('SalesBleed') let attackers hijack Salesforce AI agents, raising deployment-risk questions for buyers already testing agentic workflows.",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYzgwb0IyNURCaHpkYWQtbFVpN01lWEVmVFp1ZENJaDZXdkRQLTQ2cFpwYUFtLUhEV3BreE5ZTHFiVzR3Tm1vQnE5Z0w0cGUwWFA2eVMtWFp1NFZKTDV2NUdldXZlck83ckRUT2hLLXZ5TzBqanc?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Creatio launches Bank.AI for financial-services CRM",
-          "sowhat": "Creatio targets legacy CRM replacement in banking with no-code AI agents, a niche vertical play in a segment where Salesforce and Microsoft still dominate.",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanpvZ2hlQ1UyNHU3WkgtdERIZEF0ZU5HdGUwbmVsOHhyZW9tbkVpSmpFOXJaaXpHNlNRZGk2d0E0RDFpaDZUUHZmR0l0bWZSZnhva0NYWURhTURGN0thejFnSENycTlLdDFBck9EbkEzeVloQ0VSX0NGVVNfLXdweVRraTZjTHJEeWRNQ3AtT3BBNnhpM3RTWmRST09JRVlCbTNhYVM1QnpYSjZicTZ2V2EtUjVtQzF1aE1tZGVxNmhudjhwOHBMR0RVN3Z6X3VBakpJZzBiNmZMRVBFc01GS2ZVOWZWUQ?oc=5",
-          "vendor_flag": false,
-          "run": "PM"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "WidePoint loses DHS contract after competitor protest upheld",
-          "sowhat": "GAO sustained TurningPoint's protest of WidePoint's CWMS 3.0 award; incumbent now faces rebid risk on a material federal identity-management contract.",
-          "url": "https://futurumgroup.com/insights/widepoints-dhs-contract-protest-setback-or-speed-bump/?utm_source=rss&utm_medium=rss&utm_campaign=widepoints-dhs-contract-protest-setback-or-speed-bump",
-          "vendor_flag": false,
-          "run": "PM"
-        }
-      ],
-      "pattern_watch": "Agentic AI security and governance concerns surfacing across vendors (Salesforce vulnerabilities, Microsoft architecture, Constellation governance warnings)"
     }
   ],
-  "updated": "2026-10-04T18:31:47.686619+00:00"
+  "updated": "2026-10-05T14:03:24.350726+00:00"
 }
