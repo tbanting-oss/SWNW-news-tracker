@@ -53,9 +53,69 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Webex adds real-time AI translation to Calling",
+          "sowhat": "Cisco is embedding speech translation directly into voice calls, removing language barriers for multinational teams without third-party tools.",
+          "url": "https://blog.webex.com/collaboration/translator-agent-brings-real-time-ai-translation-to-webex-calling/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco extends cloud AI to on-prem UCM",
+          "sowhat": "Cloud Intelligence for UCM lets Cisco's on-premises voice customers access modern AI features without migrating, buying time for hybrid estates.",
+          "url": "https://blog.webex.com/collaboration/cloud-intelligence-for-ucm-modernization-needs-a-strategy-not-a-deadline/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "LeapXpert brings governed WhatsApp into Webex",
+          "sowhat": "Regulated firms can now message clients on WhatsApp from inside Webex while maintaining compliance, archiving, and governance controls.",
+          "url": "https://telecomreseller.com/2026/10/05/leapxpert-brings-governed-whatsapp-messaging-into-webex/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "SIPPIO rebuilds partner portal around automation",
+          "sowhat": "The CPaaS provider is betting channel partners will prefer automated quoting and provisioning over manual workflows to compress sales cycles.",
+          "url": "https://telecomreseller.com/2026/10/05/sippio-rebuilds-partner-platform-around-automation-and-ai/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Gap launches AI shopping agents across brands",
+          "sowhat": "Gap, Banana Republic, and Old Navy now offer conversational AI recommendation engines, joining the wave of retailers testing agent-led commerce.",
+          "url": "https://www.customerexperiencedive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832188/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "Adobe embeds CX intelligence directly into ChatGPT",
+          "sowhat": "Enterprise marketers can now trigger Adobe campaign workflows from inside ChatGPT, collapsing multi-week processes into days via agentic automation.",
+          "url": "https://futurumgroup.com/insights/adobe-embeds-cx-intelligence-into-chatgpt-at-openai-devday/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "Three Webex product launches (translation, on-prem AI, governed WhatsApp) signal Cisco is embedding AI and compliance tools across its UC stack in response to hybrid-work permanence."
     },
     {
       "iso": "2026-10-04",
@@ -972,5 +1032,5 @@
       "pattern_watch": "Two items (Nvidia safety platform, Salesforce bugs) reflect emerging agent security concerns as enterprises deploy autonomous AI."
     }
   ],
-  "updated": "2026-10-05T14:03:24.350726+00:00"
+  "updated": "2026-10-05T21:50:34.711432+00:00"
 }
