@@ -73,9 +73,69 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Cisco launches Dialog agentic harness for Webex",
+          "sowhat": "Webex agents now coordinate tasks and maintain context across interactions, a key step toward persistent customer relationships that challenge traditional CCaaS episode boundaries.",
+          "url": "https://blog.webex.com/customer-experience/webexone-2026-disconnected-customer-interactions-one-continuous-relationship/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Atlassian confirms Opsgenie shutdown in April 2027",
+          "sowhat": "Incident management buyers have six months to migrate away, with PagerDuty and Jira Service Management as obvious replacements.",
+          "url": "https://cxtoday.com/opsgenie-end-of-life-the-six-month-countdown-has-started",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "GFiber selects Alianza One for broadband voice",
+          "sowhat": "Google's fiber unit is moving residential voice to cloud CPaaS infrastructure, a validation of Alianza's carrier-grade positioning.",
+          "url": "https://telecomreseller.com/2026/10/07/gfiber-taps-alianza-one-to-modernize-broadband-voice-service/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "HubSpot cuts 660 staff, reorganises around customer outcomes",
+          "sowhat": "Seven percent workforce reduction plus shift from Hub-based teams to end-to-end outcome ownership signals strategic reset under margin pressure.",
+          "url": "https://www.cmswire.com/digital-experience/hubspot-cuts-660-jobs-reorganizes-product-teams-around-customer-outcomes/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "ServiceNow unveils AI Workflow Factory, Autonomous Engineer",
+          "sowhat": "ServiceNow is packaging workflow construction and KPI-driven build loops for India partners, aiming to close the enterprise AI execution gap.",
+          "url": "https://futurumgroup.com/insights/servicenow-launches-ai-workflow-factory-to-close-the-ai-execution-gap/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "SAP shows Joule Work with 20% productivity gains",
+          "sowhat": "Autonomous Enterprise demos claim measurable finance, HR, and procurement efficiency, positioning SAP for a share of the $664B enterprise applications market.",
+          "url": "https://futurumgroup.com/insights/saps-autonomous-enterprise-is-joule-the-erp-endgame/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "Personal-agent protocol backed by Sierra, Meta, Genesys, NiCE; HubSpot and SAP both restructure around AI-led outcomes."
+      "pattern_watch": "Three vendors (Cisco, SAP, ServiceNow) launched AI agent orchestration layers this week, each positioning context and workflow coordination as the differentiator beyond simple task automation."
     },
     {
       "iso": "2026-10-06",
@@ -957,5 +1017,5 @@
       "pattern_watch": "Three items (HMRC/Salesforce, Microsoft Copilot pricing, Oracle Fusion Claw) share a thread: platform vendors moving from horizontal AI hooks to governed, domain-specific agentic workflows with new commercial models."
     }
   ],
-  "updated": "2026-10-07T12:56:47.359131+00:00"
+  "updated": "2026-10-07T20:25:11.933018+00:00"
 }
