@@ -73,9 +73,69 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Automation Anywhere acquires Boost.ai for voice AI",
+          "sowhat": "Automation Anywhere is betting that voice AI in customer service will differentiate its agentic automation platform from competitors racing to add conversational interfaces.",
+          "url": "https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "SiliconANGLE"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Cisco Webex adds Dialog for persistent agent memory",
+          "sowhat": "Cisco is trying to make AI agents stateful across interactions—giving them context beyond a single session—which could reduce handoffs but raises governance questions around data retention.",
+          "url": "https://cxm.world/customer-experience/cisco-dialog-agentic-ai-customer-service/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Google Gemini now queries Asana, Jira, Salesforce directly",
+          "sowhat": "Google is embedding Gemini into third-party stacks to reduce context-switching, competing with Microsoft's own cross-app agent ambitions.",
+          "url": "https://uctoday.com/google-just-wired-gemini-into-everyone-elses-stack",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco unveils Claude Managed Agents within Webex App",
+          "sowhat": "Cisco is embedding Anthropic's Claude into Webex as a managed agent, signalling a preference for external LLMs over purely proprietary AI—governance will be the test.",
+          "url": "https://uctoday.com/webexone-2026-amit-barave-on-claude-agents-the-new-webex",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Microsoft embeds Dynamics 365 CRM skills into Copilot workflows",
+          "sowhat": "Microsoft is positioning Copilot as a CRM orchestration layer, making agents executable inside Dynamics rather than separate bots—reducing workflow fragmentation.",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzM1TlpJdjhQZnpTN19VUWRKWkoybFhRSXJxUjEzYnVTM2M4N2l6ZHg4ZE9xN09ieWtVZDhZazBrMkFjMnlWVWFZR0R0dkplTFVtV00wZ0RSNldHQWExUFpsUnRIWGJKZVh2SHlKMWVKSUU3ZGxNVW9ndENLbEJnUVdVZ3F2TlpfOUVXaVZYSXZNa3lvc3N4cDFOVWgwelNEV1d3RHB1OTVIdjZUZWJFeHJqZE1QT3pFLWUwUlZacURSZ0ItdE1WNWFDZmpKODdxbnBsTWIwTUdiUWZpVXJUVHVoMDFPZw?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Microsoft"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "8x8 appoints Jamie Snaddon Chief Strategy Officer",
+          "sowhat": "8x8 is adding a dedicated strategy chief, potentially signalling a refocus or repositioning as it competes in a CCaaS market consolidating around AI-native platforms.",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xa0Rmcjd3Q2Y4M1VJVmxRc0xoelRIMVJUaG5UU0p1bHhya01wazVhbzJoaV8yMUhoZmRvQTFfeUpBWlppeDd4NGJlN09PeDVWSl9qVFU5MEs0cDE4VkY5RFVlYw?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Foundation"
         }
       ],
-      "pattern_watch": "Cisco Dialog and SAP's autonomous agents both move AI from Q&A to workflow; governance and context handoff emerging as the real differentiators in agentic CX."
+      "pattern_watch": "Multiple vendors embedding third-party LLMs (Claude, Gemini) into collaboration and CRM workflows—platform vendors becoming orchestration layers rather than AI owners."
     },
     {
       "iso": "2026-10-07",
@@ -937,5 +997,5 @@
       "pattern_watch": "Three items share UC/CCaaS M&A and integration thread: CallTower-Momentum, Luware Teams extension, 8x8 retail consolidation."
     }
   ],
-  "updated": "2026-10-08T13:04:53.968056+00:00"
+  "updated": "2026-10-08T20:30:49.249616+00:00"
 }
