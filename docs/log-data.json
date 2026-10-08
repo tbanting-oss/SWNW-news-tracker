@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-08",
+      "label": "Thu 08 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Cisco launches Dialog for persistent AI agents",
+          "sowhat": "Webex AI agents can now keep working after conversations end, moving enterprise agentic collaboration beyond turn-by-turn chat into continuous workflows — a clear shift in how vendors define agent scope.",
+          "url": "https://cxtoday.com/webexone-2026-cisco-dialog-turns-ai-agents-into-advocates",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio says voice will reshape customer journeys",
+          "sowhat": "Vendor positioning for voice+AI in CX, but no discrete move beyond commentary — so buyers should wait for real integration proof points, not marketing narrative.",
+          "url": "https://cxtoday.com/why-twilio-says-voice-will-reshape-customer-journeys",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Five9 reports poor AI handoff experience persists",
+          "sowhat": "Context loss and forced customer repetition remain widespread post-deflection, exposing the operational gap between AI containment targets and agent-ready context handoff.",
+          "url": "https://cxtoday.com/ai-handoffs-should-feel-seamless-why-arent-they-five9",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Gamma launches FibreXchange portal for UK partners",
+          "sowhat": "Aggregates BT Wholesale, PXC and CityFibre into one partner interface, simplifying fibre choice for UK MSPs but adding complexity to multi-supplier commercial negotiation.",
+          "url": "https://uctoday.com/why-fibre-choice-is-becoming-more-complex-for-partners-gamma-cs-0219",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HubSpot cuts 660 staff, restructures around AI",
+          "sowhat": "CRM vendor eliminates 7% of headcount to realign around AI-driven customer outcomes — a sign that enterprise AI is forcing platform vendors to cut costs while rebuilding go-to-market.",
+          "url": "https://cxm.world/customer-experience/hubspot-layoffs-ai-restructure",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "SAP launches autonomous enterprise solution, acquires TechWolf",
+          "sowhat": "Joule AI agents move from answering questions to autonomous task execution; TechWolf buy adds skills intelligence, signalling SAP's push into agentic workflow beyond ERP navigation.",
+          "url": "https://cxm.world/customer-experience/sap-ai-agents-joule-work-techwolf",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "SKYBOXE adds Verizon plans to 5G offering",
+          "sowhat": "Reseller partnership expands fixed wireless portfolio for small business — incremental carrier choice, no material differentiation in a crowded 5G resale market.",
+          "url": "https://telecomreseller.com/2026/10/06/skyboxe-adds-verizon-business-plans-to-5g-fixed-wireless-offering/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        }
+      ],
+      "pattern_watch": "Cisco Dialog and SAP's autonomous agents both move AI from Q&A to workflow; governance and context handoff emerging as the real differentiators in agentic CX."
+    },
+    {
       "iso": "2026-10-07",
       "label": "Wed 07 Oct 2026",
       "rows": [
@@ -858,164 +935,7 @@
         }
       ],
       "pattern_watch": "Three items share UC/CCaaS M&A and integration thread: CallTower-Momentum, Luware Teams extension, 8x8 retail consolidation."
-    },
-    {
-      "iso": "2026-09-30",
-      "label": "Wed 30 Sep 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Genesys and ServiceNow launch unified CCaaS-CRM",
-          "sowhat": "Long-promised integration finally goes live, but buyers need proof it survives shared-tenant contention and agent-handoff lag in production.",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGlDaGFmdkR0ZW9kOFVaakNnbFFiWjJDb1E1LUlpQUVPd29jRlFCRE44VEhpVzI0STBHaHdyUEFwUm9SamNqWVktNm9kR3h4bVdkU2RNMlRaR05tbzU2a252YW54ZGhxOWtLNkhWQTVtU2lnS3BjSXZmSFluVHVFUnFWV3Z0Si1FdlJMSw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Zendesk deploys industry-specific AI agents targeting 80% automation",
-          "sowhat": "Verticalized templates may cut time-to-value, but the 80% claim assumes ideal data and zero workflow exceptions — rare in practice.",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Zk5uOUZtVy1nRXhGYUZTVlBGNmxFRjAyWV9Vdy1Wb3M5dzlmUlJoR0djRW1hVVNzczh5U2pYakNFaTJzdkg1VFVqY3djYXhzc0EyaWp1Mlp1N2dYZ1gwRkRQcld2djA?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Foundation"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Kustomer pitches outcome-driven AI as buyers demand proof",
-          "sowhat": "Shift from demo-ware to outcome contracts reflects market fatigue with pilot theatre; pricing risk now lies with the vendor.",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TbW1qTDMxN2p5cHphNkw3LXR5eThkNUZ2OWcycndEOXVOcm83VjhzZlhiYlpjd2tUNVkxZ2pNUGZ0MlNoSDFWNk8tbmJJZHcwQ0FxUUVEcDNLR1Z6VjlTQk9ma1pDYk5JODc1dmVtTlotMUk2SEhURlpjYw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Foundation"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Amazon re-hires laid-off AI staff, tests boomerang trust",
-          "sowhat": "Boomerang recruiting after cuts signals talent scarcity but undermines retention for those who stayed; morale drag outweighs speed gain.",
-          "url": "https://uctoday.com/amazon-boomerang-hiring-tests-trust-after-layoffs",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Twilio study: 86% of brands trust AI; only 51% of customers agree",
-          "sowhat": "35-point perception gap confirms AI deployments ship with broken or untested edge cases that damage trust faster than ops recover.",
-          "url": "https://www.twilio.com/en-us/blog/insights/improve-ai-satisfaction",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Twilio (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft gives Dynamics 365 agents write access to ERP",
-          "sowhat": "Agentic writes raise the stakes: one hallucinated order or invoice could breach controls, yet read-only agents solve nothing material.",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmJXTXRvdnE3UElIaHlXUm5iUkNJNk9jcmZfMkhQOHpXUHNKekVpaFY0TVRWVkFPLU1xN1lfbmhyZ2g1R2JZREpSenRFNTN4dmlIdkhpT1FqMjZsYk15a0g1bjhMOVFBUzFwYXBsb0gwUHJEQXBQQmdtTUhpTGpqcVFpTlE3Y28?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Customer Experience Magazine"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "NVIDIA, Palo Alto, Cohesity push agent-safety frameworks",
-          "sowhat": "Three vendors in a week launch agent containment and rollback tools; pattern suggests AI escape risk now corporate-priority, not edge case.",
-          "url": "https://futurumgroup.com/insights/nvidia-wants-agent-safety-enforced-in-silicon/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "HMRC awards Salesforce and NiCE £3bn CX contract",
-          "sowhat": "A major UK public-sector CCaaS deployment at scale, signalling both Salesforce Service Cloud momentum and the viability of newer CCaaS entrants in regulated deals.",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vUHpON1pKQXQzMGJrWFRSVnJpZHZyUXlJY05xZFZ2VzNZNlVBQkVlb0hLS1hudWJLckNNZm1mNUl3VjlrbXl6ZUJTZzVmYTZIcnB2ZWtRWnRudUZPekE?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Foundation"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce acquires Listen Labs for unknown consideration",
-          "sowhat": "A tuck-in targeting real-time conversational intelligence, suggesting Salesforce wants deeper agent-assist and sentiment hooks inside Service Cloud.",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWZhTGUzS3ZUMzJGeG1NRVlqWV9ySkVJeEI5NGF2QjZ2VnZQQmRKN0xBbjl1VjJpZkszdVN1X0M4aEQ4OXg5dVhRZGRzalpKS1oyTmYxS3hxcUUtWUp4U1A5SUFSWWhCY1N1MWVNRzd3Y1FGamUwOFBHS2l5SEVjM0c5SGF3MktULTBFSWJ0Y2FNbXJ6UGxNdFl3dVhZMXkybnFZ?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Salesforce"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "AVANT adds Vida AI agent platform to reseller portfolio",
-          "sowhat": "Channel distribution signal for a horizontal AI-agent vendor; watch whether resellers can actually deploy and support agentic workflows at SMB scale.",
-          "url": "https://telecomreseller.com/2026/09/30/avant-adds-vida-ai-agent-platform-to-trusted-advisor-portfolio/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Microsoft splits Copilot pricing into everyday and advanced tiers",
-          "sowhat": "A structural change that decouples per-seat baseline AI from consumption-based agent and frontier-model workloads—expect budget and governance headaches for buyers managing both.",
-          "url": "https://futurumgroup.com/insights/microsoft-splits-the-copilot-pricing-model-into-everyday-and-advanced-ai/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Oracle launches Fusion Claw runtime for governed autonomous agents",
-          "sowhat": "Oracle's first purpose-built agentic execution layer merges reasoning and deterministic compute across finance, HR and supply chain—potentially shortening time-to-value for ERP-heavy enterprises.",
-          "url": "https://futurumgroup.com/insights/oracle-fusion-claw-from-ai-assistance-to-governed-autonomous-execution/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Braze unveils self-serve AI decisioning at Forge 2026",
-          "sowhat": "Marketing-automation platform adds agent-like decisioning and QA tools; relevant for CX leaders evaluating engagement-layer AI beyond the contact centre.",
-          "url": "https://cxtoday.com/braze-forge-2026-ai-turns-marketers-into-decision-makers",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Seismic-Highspot merger completed, CEO outlines SalesTech roadmap",
-          "sowhat": "A material consolidation in revenue enablement; enterprises running both platforms face integration work, but combined data sets may improve sales-AI grounding.",
-          "url": "https://cxtoday.com/seismic-ceo-mergers-milestones-and-the-future-of-salestech",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Sierra joins OpenAI B2B Marketplace as launch partner",
-          "sowhat": "Distribution play lets enterprises apply existing OpenAI credits toward Sierra's customer-support agents with outcomes-based pricing—lowers initial friction for pilot buyers.",
-          "url": "https://futurumgroup.com/insights/sierra-joins-openai-marketplace-a-distribution-play-for-enterprise-ai-agents/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "Three items (HMRC/Salesforce, Microsoft Copilot pricing, Oracle Fusion Claw) share a thread: platform vendors moving from horizontal AI hooks to governed, domain-specific agentic workflows with new commercial models."
     }
   ],
-  "updated": "2026-10-07T20:25:11.933018+00:00"
+  "updated": "2026-10-08T13:04:53.968056+00:00"
 }
