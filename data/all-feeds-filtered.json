@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:13:01.015358+00:00",
+  "generated_at": "2026-10-08T20:03:50.032523+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 3,
@@ -7,17 +7,17 @@
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
-      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
+      "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw=="
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/9000-Technology/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Technology",
-      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
+      "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/RssFeed/industry/9000-Technology/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Technology"
     },
     {
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
-      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=25)"
+      "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications"
     }
   ],
   "feeds": [
@@ -32,6 +32,24 @@
     {
       "name": "Google Alert - Cisco Webex",
       "items": [
+        {
+          "title": "<b>Cisco</b> unveils agentic AI tools across <b>Webex</b>, workplace and CX - Verdict",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.verdict.co.uk/cisco-agentic-ai-tools/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2Wf_N8mMx_xi7P45_DdWVl",
+          "published": "2026-10-08T13:59:57Z",
+          "summary": "Cisco introduced agentic AI capabilities across Webex, its workplace portfolio and CX stack, alongside a Google Meet partnership."
+        },
+        {
+          "title": "<b>Cisco</b> Unveils AI Agents and Intelligent Workplace Technologies at WebexOne 2026",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.konsulteer.com/article/cisco-unveils-ai-agents-and-intelligent-workplace-technologies-at-webexone-2026&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw06dBnuzfxeFsO-TlvdJ-b2",
+          "published": "2026-10-08T11:30:54Z",
+          "summary": "Cisco is expanding its workplace technology strategy with a new set of AI, collaboration and physical workplace innovations announced at WebexOne 2026&nbsp;..."
+        },
+        {
+          "title": "<b>Cisco</b> unveils agentic AI tools across <b>Webex</b>, workplace and CX - Yahoo Finance",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/news/cisco-unveils-agentic-ai-tools-085813334.html&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw124G364hIEtyOg3Rf_gW4U",
+          "published": "2026-10-08T09:25:19Z",
+          "summary": "Updates span Webex AI agents, a Google Meet partnership for Cisco devices, a new CX platform, and RoomOS 27 due in November."
+        },
         {
           "title": "<b>Cisco</b> brings collaborative agents and Claude into <b>Webex</b> chats - Computerworld",
           "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.computerworld.com/article/4231779/cisco-brings-collaborative-agents-and-claude-into-webex-chats.html&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2RvoVbiVf3VcNMOD8kypbZ",
@@ -115,18 +133,24 @@
           "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/cisco-unveils-dialog-agentic-ai-platform-and-claude-integration-for-webex-collaboration&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1d5rYOZOT7DtTxRuZ-wVIH",
           "published": "2026-10-07T14:22:44Z",
           "summary": "Cisco announced new AI-powered collaboration tools at WebexOne 2026 in Austin, Texas. The company is integrating AI agents into Webex to work&nbsp;..."
-        },
-        {
-          "title": "A Spark That Ignited <b>Cisco</b> FIRE",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://blogs.cisco.com/wearecisco/a-spark-that-ignited-cisco-fire&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1IeaHJ_3PUjOOGHeyXFLIY",
-          "published": "2026-10-07T12:04:19Z",
-          "summary": "What began as a small, personal idea evolved into a vibrant community and endless flow of ideas. Our Webex Space is a constant stream of thoughts on&nbsp;..."
         }
       ]
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "How Consumer Attitudes to AI Are Reshaping Contact Centers",
+          "link": "https://cxtoday.com/how-consumer-attitudes-to-ai-are-reshaping-contact-centers",
+          "published": "Thu, 08 Oct 2026 14:01:00 GMT",
+          "summary": "NTT DATA's new research reveals why consumer resistance to AI in customer service is a myth, and where real adoption barriers lie."
+        },
+        {
+          "title": "Why the Agent Zoo Creates a Performance Problem",
+          "link": "https://cxtoday.com/why-the-agent-zoo-creates-a-performance-problem-cs-0249",
+          "published": "Thu, 08 Oct 2026 12:31:00 GMT",
+          "summary": "Disconnected AI agents can hurt CX and accountability. Centrical’s Gal Rimon explains orchestration, guardrails and governance in CX Today."
+        },
         {
           "title": "Why Twilio Says Voice Will Reshape Customer Journeys",
           "link": "https://cxtoday.com/why-twilio-says-voice-will-reshape-customer-journeys",
@@ -180,18 +204,6 @@
           "link": "https://cxtoday.com/why-real-time-personalization-is-revtechs-new-battleground",
           "published": "Wed, 07 Oct 2026 08:01:00 GMT",
           "summary": "TikTok, OpenAI, and Treasure AI race to deliver real-time personalization, reshaping how RevenueTech vendors compete for the customer moment"
-        },
-        {
-          "title": "AI Is Starting to Run Customer Journeys, Not Just Shape Them",
-          "link": "https://cxtoday.com/ai-is-starting-to-run-customer-journeys-not-just-shape-them",
-          "published": "Tue, 06 Oct 2026 14:01:00 GMT",
-          "summary": "SAP, Braze, Cisco Webex, and Walmart show how AI customer journey orchestration is reshaping engagement, trust, and control."
-        },
-        {
-          "title": "World CX Day: Five CX Lessons Beyond the AI Hype in 2026",
-          "link": "https://cxtoday.com/world-cx-day-five-cx-lessons-beyond-the-ai-hype-in-2026",
-          "published": "Tue, 06 Oct 2026 12:31:01 GMT",
-          "summary": "For World CX Day 2026, CX Today examines 5 AI customer experience trends, from governance and context to human escalation, trust, and better resolution metrics."
         }
       ]
     },
@@ -300,6 +312,18 @@
       "name": "UC Today",
       "items": [
         {
+          "title": "Do Audio-Only Glasses Solve Meta’s ‘Pervert Glasses’ Problem?",
+          "link": "https://uctoday.com/do-audio-only-glasses-solve-metas-pervert-glasses-problem",
+          "published": "Thu, 08 Oct 2026 16:00:31 GMT",
+          "summary": "Meta’s audio-only Ray-Ban glasses may feel more workplace-friendly, but privacy and consent still matter. UC Today on AI, microphones and agents."
+        },
+        {
+          "title": "Google Just Wired Gemini Into Everyone Else's Stack",
+          "link": "https://uctoday.com/google-just-wired-gemini-into-everyone-elses-stack",
+          "published": "Thu, 08 Oct 2026 15:58:20 GMT",
+          "summary": "Google’s Gemini now reaches into Asana, Jira and Salesforce, making context easier to find and workflows easier to act on across Workspace."
+        },
+        {
           "title": "Why Is Amazon’s Smart-Glasses Rollout a Governance Test?",
           "link": "https://uctoday.com/why-is-amazons-smart-glasses-rollout-a-governance-test",
           "published": "Thu, 08 Oct 2026 11:01:00 GMT",
@@ -346,12 +370,6 @@
           "link": "https://uctoday.com/openai-devday-2026-and-the-agent-race-in-task-management",
           "published": "Wed, 07 Oct 2026 08:01:00 GMT",
           "summary": "Agents are moving into project coordination, raising governance and cost questions. UC Today on OpenAI DevDay 2026, Dots, ChatGPT Space, Microsoft and Asana."
-        },
-        {
-          "title": "This Week: ServiceNow Automates, Atlassian Patches",
-          "link": "https://uctoday.com/this-week-servicenow-automates-atlassian-patches",
-          "published": "Tue, 06 Oct 2026 14:01:00 GMT",
-          "summary": "Why it matters: ServiceNow Flow brings AI service desk support to Slack and Teams, while Atlassian issues a Jira Service Management patch for a critical flaw."
         }
       ]
     },
@@ -396,110 +414,7 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "Cisco Unveils New Agentic Collaboration Experiences",
-          "link": "https://telecomreseller.com/2026/10/07/cisco-unveils-new-agentic-collaboration-experiences/",
-          "published": "Wed, 07 Oct 2026 20:32:48 +0000",
-          "summary": "New updates bring people, digital teammates, and enterprise context together across work, workplaces and customer experience News Summary Cisco evolves Webex to empower digital teammates and people to work seamlessly [...]\nThe post Cisco Unveils New Agentic Collaboration Experiences appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "U.S. Robocalls Dip to Nearly 3.9 Billion in September, According to YouMail Robocall Index",
-          "link": "https://telecomreseller.com/2026/10/07/u-s-robocalls-dip-to-nearly-3-9-billion-in-september-according-to-youmail-robocall-index/",
-          "published": "Wed, 07 Oct 2026 20:20:37 +0000",
-          "summary": "Twelve-Month Total Falls to Lowest Level Since April 2021 IRVINE, CA &#8211; October 7, 2026 &#8211; U.S. consumers received nearly 3.9 billion robocalls in September 2026, according to the Robocall Index [...]\nThe post U.S. Robocalls Dip to Nearly 3.9 Billion in September, According to YouMail Robocall Index appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "NRS and Bennett Pump Introduce National Pricing Program for Independent Fuel Retailers",
-          "link": "https://telecomreseller.com/2026/10/07/nrs-and-bennett-pump-introduce-national-pricing-program-for-independent-fuel-retailers/",
-          "published": "Wed, 07 Oct 2026 20:00:29 +0000",
-          "summary": "NEWARK, NJ &#8211; October 7, 2026 &#8211; National Retail Solutions (NRS), through its NRS Petro division, and Bennett Pump Company today announced a national pricing program designed to give independent [...]\nThe post NRS and Bennett Pump Introduce National Pricing Program for Independent Fuel Retailers appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cisco Webex: The Workplace Is Becoming an Intelligent Participant in Work, Podcast",
-          "link": "https://telecomreseller.com/2026/10/07/cisco-webex-the-workplace-is-becoming-an-intelligent-participant-in-work-podcast/",
-          "published": "Wed, 07 Oct 2026 19:50:05 +0000",
-          "summary": "By Doug Green “The workplace is becoming an active participant in work — sensing, reasoning and acting.” In this Technology Reseller News podcast recorded at WebexOne, Bob Cicero, Global Director [...]\nThe post Cisco Webex: The Workplace Is Becoming an Intelligent Participant in Work, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Webex Dialog Brings Persistent, Agentic Customer Relationships to CX, Podcast",
-          "link": "https://telecomreseller.com/2026/10/07/webex-dialog-brings-persistent-agentic-customer-relationships-to-cx-podcast/",
-          "published": "Wed, 07 Oct 2026 19:17:03 +0000",
-          "summary": "By Doug Green “The AI agent can keep working on your behalf even after the conversation is over.” In this Technology Reseller News podcast recorded at WebexOne in Austin, Chang [...]\nThe post Webex Dialog Brings Persistent, Agentic Customer Relationships to CX, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cisco Webex, Covenant House Use Technology to Help Youth Move Toward Independence, Podcast",
-          "link": "https://telecomreseller.com/2026/10/07/cisco-webex-covenant-house-use-technology-to-help-youth-move-toward-independence-podcast/",
-          "published": "Wed, 07 Oct 2026 19:03:36 +0000",
-          "summary": "By Doug Green “We’re not just giving them a home. We’re giving them an office and a connection to the next world.” In this Technology Reseller News podcast recorded at [...]\nThe post Cisco Webex, Covenant House Use Technology to Help Youth Move Toward Independence, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Cisco Webex Expands AI Agents Across Collaboration Portfolio",
-          "link": "https://telecomreseller.com/2026/10/07/cisco-webex-expands-ai-agents-across-collaboration-portfolio/",
-          "published": "Wed, 07 Oct 2026 18:08:20 +0000",
-          "summary": "By: Moshe Beauford, Editor Cisco is putting AI agents deeper into Webex, with the company positioning the platform as a place where employees and software can work together on business [...]\nThe post Cisco Webex Expands AI Agents Across Collaboration Portfolio appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "How AI Agents Are Exposing the Limits of Enterprise Permissions",
-          "link": "https://telecomreseller.com/2026/10/07/how-ai-agents-are-exposing-the-limits-of-enterprise-permissions/",
-          "published": "Wed, 07 Oct 2026 17:21:18 +0000",
-          "summary": "By: Moshe Beauford, Editor AI agents are already capable of doing much more than answering questions. They can read email, pull information from business systems, work with documents and take [...]\nThe post How AI Agents Are Exposing the Limits of Enterprise Permissions appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "GFiber Taps Alianza One to Modernize Broadband Voice Service",
-          "link": "https://telecomreseller.com/2026/10/07/gfiber-taps-alianza-one-to-modernize-broadband-voice-service/",
-          "published": "Wed, 07 Oct 2026 16:44:19 +0000",
-          "summary": "By: Moshe Beauford, Editor GFiber has selected Alianza One to power its phone service, moving voice delivery to a cloud-based communications platform as the fiber provider looks to expand its [...]\nThe post GFiber Taps Alianza One to Modernize Broadband Voice Service appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "CallTower Named a 2026 Remote Work Award Winner by TopWorkplaces.com",
-          "link": "https://telecomreseller.com/2026/10/07/calltower-named-a-2026-remote-work-award-winner-by-topworkplaces-com/",
-          "published": "Wed, 07 Oct 2026 14:57:05 +0000",
-          "summary": "Employee-Driven Recognition Highlights CallTower’s Commitment to Flexible Work and a People-First Culture SALT LAKE CITY, UT &#8211; October 7, 2026 &#8211; CallTower, a global leader in cloud communications, collaboration, and [...]\nThe post CallTower Named a 2026 Remote Work Award Winner by TopWorkplaces.com appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Communications at the Network Edge",
-          "link": "https://telecomreseller.com/2026/10/06/communications-at-the-network-edge/",
-          "published": "Tue, 06 Oct 2026 21:30:08 +0000",
-          "summary": "Communications at the Network Edge &#8211; Why Communications Features Are Moving from the Application to the Network By John Perkins, Chief Executive Officer, ICA AI, Inc. Purpose of This Document [...]\nThe post Communications at the Network Edge appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Frontline Acquires KL Software, Expands AI Services",
-          "link": "https://telecomreseller.com/2026/10/06/frontline-acquires-kl-software-expands-ai-services/",
-          "published": "Tue, 06 Oct 2026 17:00:50 +0000",
-          "summary": "By: Moshe Beauford, Editor Frontline Managed Services is acquiring KL Software Technologies and its affiliate KLoBot as the company expands the technology and AI services it provides to law firms. [...]\nThe post Frontline Acquires KL Software, Expands AI Services appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "SKYBOXE Adds Verizon Business Plans to 5G Fixed Wireless Offering",
-          "link": "https://telecomreseller.com/2026/10/06/skyboxe-adds-verizon-business-plans-to-5g-fixed-wireless-offering/",
-          "published": "Tue, 06 Oct 2026 16:25:54 +0000",
-          "summary": "By: Moshe Beauford, Editor SKYBOXE is adding Verizon Business data plans to its 5G fixed wireless offering through a new reseller partnership aimed at small businesses and other customers that [...]\nThe post SKYBOXE Adds Verizon Business Plans to 5G Fixed Wireless Offering appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "CTERA Adds Engineering Service to Turn Enterprise Data Into Production AI",
-          "link": "https://telecomreseller.com/2026/10/06/ctera-adds-engineering-service-to-turn-enterprise-data-into-production-ai/",
-          "published": "Tue, 06 Oct 2026 16:11:42 +0000",
-          "summary": "By: Moshe Beauford, Editor CTERA is adding an engineering services component to its data platform as enterprises struggle to move AI projects from experimentation into production. The company on Tuesday [...]\nThe post CTERA Adds Engineering Service to Turn Enterprise Data Into Production AI appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "AI Glasses Could Find Place in the Enterprise Amid Growing Privacy Risks",
-          "link": "https://telecomreseller.com/2026/10/06/ai-glasses-could-find-place-in-the-enterprise-amid-growing-privacy-risks/",
-          "published": "Tue, 06 Oct 2026 16:00:04 +0000",
-          "summary": "By: Moshe Beauford, Editor AI smart glasses are moving closer to the workplace, giving employees a hands-free way to access information, communicate and use AI. But new research shows enterprises [...]\nThe post AI Glasses Could Find Place in the Enterprise Amid Growing Privacy Risks appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Ingram Micro Helps MSPs Evolve into Strategic Service Providers, Podcast",
-          "link": "https://telecomreseller.com/2026/10/06/ingram-micro-helps-msps-evolve-into-strategic-service-providers-podcast/",
-          "published": "Tue, 06 Oct 2026 15:21:24 +0000",
-          "summary": "By Doug Green “A buyer isn’t paying for the deal you did yesterday. They’re paying for the certainty of tomorrow.” In this Technology Reseller News podcast recorded at MSP Summit, [...]\nThe post Ingram Micro Helps MSPs Evolve into Strategic Service Providers, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "NetCarrier Builds on 30 Years of Communications Experience with AI and Automation, Podcast",
-          "link": "https://telecomreseller.com/2026/10/06/netcarrier-builds-on-30-years-of-communications-experience-with-ai-and-automation-podcast/",
-          "published": "Tue, 06 Oct 2026 14:42:32 +0000",
-          "summary": "“We connect, we communicate and we automate.” In this Technology Reseller News podcast, Doug Derstine, President and CEO of NetCarrier, discusses his new role, the company’s thirty-plus-year communications heritage and [...]\nThe post NetCarrier Builds on 30 Years of Communications Experience with AI and Automation, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
@@ -539,31 +454,12 @@
           "link": "https://www.cmswire.com/digital-experience/hubspot-cuts-660-jobs-reorganizes-product-teams-around-customer-outcomes/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Tue, 06 Oct 2026 16:19:37 -0500",
           "summary": "HubSpot is eliminating about 7% of its workforce and replacing Hub-based product teams with teams that own customer results from end to end.\nContinue reading..."
-        },
-        {
-          "title": "Treasure AI Bets on Click-Based Email Pricing, Launches Personalization Studio",
-          "link": "https://www.cmswire.com/digital-marketing/treasure-ai-bets-on-click-based-email-pricing-launches-personalization-studio/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 06 Oct 2026 10:30:41 -0500",
-          "summary": "Treasure AI will charge by email engagement, and it just launched real-time web personalization to back the bet.\nContinue reading..."
-        },
-        {
-          "title": "Why Complex CX Is the Real Proving Ground for Agentic AI",
-          "link": "https://www.cmswire.com/customer-experience/why-complex-cx-is-the-real-proving-ground-for-agentic-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 06 Oct 2026 10:02:50 -0500",
-          "summary": "A landmark consumer study uncovers what actually happens when automation meets real-world complexity — and why the window of consumer grace is closing fast.\nContinue reading..."
         }
       ]
     },
     {
       "name": "CPaaSAA",
-      "items": [
-        {
-          "title": "The Voice Was Never the Product",
-          "link": "https://cpaasaa.com/the-voice-was-never-the-product/?utm_source=rss&utm_medium=rss&utm_campaign=the-voice-was-never-the-product",
-          "published": "Wed, 07 Oct 2026 09:50:00 +0000",
-          "summary": "Vocca's $20M Series A is a funding story only on the surface. Voice AI is becoming vertical workflow software, and the question for every CPaaS partner is whether they sit in the workflow or under it.\nThe post The Voice Was Never the Product first appeared on CPaaSAA."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Microsoft 365 Blog",
@@ -604,6 +500,18 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
+          "title": "Why Gen Z, millennials are most satisfied with online banks, fintechs - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1dpWElvRWtJUHZ1MnlrVDB3djdONGVxSDB2Z1M1N2l5ZWxZLWNwYmJxazhjOGxaZkdjZGZVTnc0YXFkakZ6MTZQdzZ5OE81MnVvdkVUZ2xRUzBqb0ZjQzJhVGpVMjJqUUJNNmY1dld5dGx6QXM4QURsbHd5cS1aVXpxamtkTVIzdHA1a0RLVE92bDVQMm04QUlIbFQyczRGOF94ckhGZzdHemRBVi04YQ?oc=5",
+          "published": "Thu, 08 Oct 2026 19:58:25 GMT",
+          "summary": "Why Gen Z, millennials are most satisfied with online banks, fintechs&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "When the drive-thru feels fast and friendly, satisfaction grows - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG9vUURwci1JZ0piUms2R3RNUUVyMWpYUmF3ekltRGI1aGNsd2xJM0s2WGxQU3JpbUhVLWNBdjhCWDg3eWMwVllIVVBpWThSdDhYUlRSaU1ickcxZ3pHX2w1ZGNpTUNqMEdvQjcwTzhoYkItSzBxeXljNnBhSTlMX0ZwSHY0QUJhenQ2dnEzdm0zMmVicXJwMjZ1NndWdWNaNUE0?oc=5",
+          "published": "Thu, 08 Oct 2026 13:13:25 GMT",
+          "summary": "When the drive-thru feels fast and friendly, satisfaction grows&nbsp;&nbsp;CX Dive"
+        },
+        {
           "title": "Why Twilio Says Voice Will Reshape Customer Journeys - CX Today",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YTGhNMjF1SHVwbTBnWUt1UzFwTTJyZFlBZDNONVl3T0s4Tm1NYW9McjY1cGpkVjNHUUg1TlBFSlYweUhTSXJNMW9aOUNoNkVKTktlMTZhYTBtb0NKSnpGZnVJbUlwSXdlWW1RMHoxd0YyTDRMRjl1ZTFTXzA?oc=5",
           "published": "Thu, 08 Oct 2026 11:01:03 GMT",
@@ -614,6 +522,12 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RLVRnRFlFamh0Rm9Va1RkS1NVZ05mVU9WYlNOMVdLa0J6ZXZ4OUVqYnd3bEdwLW1vMXpGRm1vYlhVaEN6ZlhqWmdpSkZ6V3ByYXZQcEtPbElCV3lXT1VNUjN2TjdBSk5tM196ell2aXFNTW5tUmUwcl9EVGZDQQ?oc=5",
           "published": "Thu, 08 Oct 2026 09:34:27 GMT",
           "summary": "AI Handoffs Should Feel Seamless. Why Aren’t They?&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "McDonald’s disputes reports that it uses AI to set prices - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFBHWmsteUQ4SnJUdVdLTVN6OUVpMVppSHlOMXF0bHRvZnZBSUx3VWU3b0plM1pYN3o2dG1sYW45c00wUktqTU9jM1E3ZHNXOEV0MlpMc1loWDRNUHpiRWIyQzA2aWhBd0JRU1lqdEc0eVB4TzJGbEhIXzI5STRzMWxGTHBpSUFsZkVoWmVtUTRPQ2MyZFR6YkRVcHVrd2hJcmhIY3ZBa3FhRzZiaDZITmUxQ2NqbnU5OS1kOGRWZw?oc=5",
+          "published": "Wed, 07 Oct 2026 21:45:19 GMT",
+          "summary": "McDonald’s disputes reports that it uses AI to set prices&nbsp;&nbsp;CX Dive"
         },
         {
           "title": "WebexOne 2026: Cisco Dialog Turns AI Agents Into Advocates - CX Today",
@@ -650,24 +564,6 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ3FWQW9NZkJYY0RxT19PU2tJXzRwSDN4UldadDFVNk13WUpSTERUTHV4OXZIT3ZYMXJ3a0Y2OTJvWDZRaDhndXd2aGlGX2NHTmcwSUJmendsT2VpUW1Xc3I5VjdBQ1UwUUMwWGZ0TmNIYmRtVVIza1FTUmNNUWxXYURnTdIBgwFBVV95cUxQZ3FWQW9NZkJYY0RxT19PU2tJXzRwSDN4UldadDFVNk13WUpSTERUTHV4OXZIT3ZYMXJ3a0Y2OTJvWDZRaDhndXd2aGlGX2NHTmcwSUJmendsT2VpUW1Xc3I5VjdBQ1UwUUMwWGZ0TmNIYmRtVVIza1FTUmNNUWxXYURnTQ?oc=5",
           "published": "Wed, 07 Oct 2026 01:21:34 GMT",
           "summary": "The CX engineer: The role customer experience teams need next | CX Network&nbsp;&nbsp;CX Network"
-        },
-        {
-          "title": "Top customer experience events to attend in 2027 - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQURBSGZpQnR4WEpGYVh0Z0sxT2k2ejhFSE1fZjVnbWVVZDlsV1V3c0hNVEhLUXVpZ0MtVEhRTUJFdTVFLXNZNThVTEVxUEJRM2NBZlpweWNDbGp1bUlPQTRGZ0VVT2N5ZV9JMmx0SllEZkd0WDJHbzk5dnlGajBTVTlETHhfQ0ZLLW9zUkx0QlA?oc=5",
-          "published": "Tue, 06 Oct 2026 13:23:49 GMT",
-          "summary": "Top customer experience events to attend in 2027&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "World CX Day: Five CX Lessons Beyond the AI Hype in 2026 - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUF6WGljT3RzVWh6eXFuSS1HdnJoRWw5NUk5VjBkTkQ3Q2szSVhlMm5zcTJCTjRaTThxSVp5Y1dDMFJ1VjY4UHJBel9rMG9OWnhqdm9abDB4Tnoxd0VDT0txcUxBamQ1LWgyQkloek5UMkpjdktpUldMTVQ3LUpoNA?oc=5",
-          "published": "Tue, 06 Oct 2026 13:01:38 GMT",
-          "summary": "World CX Day: Five CX Lessons Beyond the AI Hype in 2026&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "Adoreboard launches CX predictive intelligence platform to turn customer experience into revenue impact - Lelezard",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUmdnSFI0VXB3MGxVWV9BMHptQm92TGJubzhSRGI5cS1wd0QxMVNvRjNUZjdHMS1DblZVcjlIS3VOWjlBMlc4aHpzRFJIeko4UDMzbGtMNTVpTEZKbWdRR3AyZGZtbWEtajM5Um5BbE9hUDlzVWZNaVBHYVRvdk9iVmVUUzc4TUdWT2h4Rk9sZ1BRRzAtV0FZMmlzS2dhZ2VSbFI5azdDNXZzZ1h3YnRXYzZRczNCOTNnam1WX09Hd0NvOV9lYU5yeWpRNVgtTGJiR0c2SExwclpQclU?oc=5",
-          "published": "Tue, 06 Oct 2026 12:28:50 GMT",
-          "summary": "Adoreboard launches CX predictive intelligence platform to turn customer experience into revenue impact&nbsp;&nbsp;Lelezard"
         }
       ]
     },
@@ -675,22 +571,34 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
+          "title": "Microsoft Dynamics 365 CRM skills for Copilot and agentic workflows - Microsoft Dynamics 365 Blog - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzM1TlpJdjhQZnpTN19VUWRKWkoybFhRSXJxUjEzYnVTM2M4N2l6ZHg4ZE9xN09ieWtVZDhZazBrMkFjMnlWVWFZR0R0dkplTFVtV00wZ0RSNldHQWExUFpsUnRIWGJKZVh2SHlKMWVKSUU3ZGxNVW9ndENLbEJnUVdVZ3F2TlpfOUVXaVZYSXZNa3lvc3N4cDFOVWgwelNEV1d3RHB1OTVIdjZUZWJFeHJqZE1QT3pFLWUwUlZacURSZ0ItdE1WNWFDZmpKODdxbnBsTWIwTUdiUWZpVXJUVHVoMDFPZw?oc=5",
+          "published": "Thu, 08 Oct 2026 15:52:29 GMT",
+          "summary": "Microsoft Dynamics 365 CRM skills for Copilot and agentic workflows - Microsoft Dynamics 365 Blog&nbsp;&nbsp;Microsoft"
+        },
+        {
+          "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVVBJbVhlSWRyRUF2ZHZWM3NIcno3X01BcGlZQ1hTeld4M2NuYkN3dVJoNVF2M1piOEMyTUFlUEZnbGdPZWpnNFVDb3ZiS0kzbk52UDN4d2VnN2Rhb2hONmxzS3lUNi1hWkFlUkQ3RXg5cU5Hek44ZlhMSDVHcVVTVDZVcC1xM01PaDZNbUJKY2tvWk5IR0stZWQ3ZW94SnFyMWlEcXB5ZU5Zb3ZuT3dOeHZVa1BjWThXMDdDVHFpVkZkcHFvN0k4UEoxTkFhQVZMeFhtVVhoOTd6bXZCdjRzRU9rUU91RGs?oc=5",
+          "published": "Thu, 08 Oct 2026 15:00:00 GMT",
+          "summary": "Bringing CRM into the flow of work and agents into business process for sales and service teams&nbsp;&nbsp;Microsoft"
+        },
+        {
+          "title": "AI Agents in Dynamics 365 CRM for Customer Service | Part 1 - Inogic",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzdES2dtREtEdXZ2RXR0SnNHdkUtYXJycUY5T2NuZzFqRk94MW9DSm9IZlkzbnJ0ckVnMURrYmgwR01Qdm92WG55ZHZIRmU3R0RpNlVHakdXRzRJMXBiTUt3MjBYbXV1ZWwwUmo3alB4Qmx0OU9TdDNuYUN5Z3NNU0p6MTNTZkFSdDJLMW1meXktSWVEcHVoZVY0YVpmQjljOXJ0OEduaFBQMjdQWFJXeDJHcEZtUlU?oc=5",
+          "published": "Thu, 08 Oct 2026 14:01:01 GMT",
+          "summary": "AI Agents in Dynamics 365 CRM for Customer Service | Part 1&nbsp;&nbsp;Inogic"
+        },
+        {
           "title": "Eliminating the ‘toggle tax’: how CRM integration changes customer experience - TechCentral",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jRWRXVVpwZTdoMjVUemYzc2V1WHVkcGEwSjVDZWxDUEdUWVNTc1ptQXNveHZSdW5FSzU4akhYNWozRGVHV3JJNHJiS0VaOTVONUFzMXpzNXNKaUNoVkpWYVVDemVOd183NGF5Zzhka0lTcnVzMzJRS1ZoT04?oc=5",
-          "published": "Thu, 08 Oct 2026 07:25:50 GMT",
+          "published": "Thu, 08 Oct 2026 04:25:50 GMT",
           "summary": "Eliminating the ‘toggle tax’: how CRM integration changes customer experience&nbsp;&nbsp;TechCentral"
         },
         {
-          "title": "Introducing Claude Haiku 5.5 - Anthropic",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
-          "published": "Wed, 07 Oct 2026 18:06:12 GMT",
-          "summary": "Introducing Claude Haiku 5.5&nbsp;&nbsp;Anthropic"
-        },
-        {
-          "title": "Conversational AI Is Finally Connected to the Work: Automation Anywhere to Acquire Boost.ai - Automation Anywhere",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVByT05Oc2hCaG1sQ2tHU1V2UjN0R0VDYW9jTXJRTnBxaHBOUWdtUTBOSmJUUjFyS2REWkR4Z3ZUT0ZJd2YzR3d6a0JkQ2xPZUltRnQ1bXhYc0dUeUQ4ckZ5QkFtSGtOamhTZkhkVEVIbjJlX185ekExeUhBcFJqV21SbWRHZVJzWkEtYUpBYkx1TlE3ZVI1UjcxYlFkMDIwbnBfNlFoOWdhc2NHX2pTdW1nSXFPMDJhcVhQQzI0Uk5PTUxUZWhGci1n?oc=5",
-          "published": "Wed, 07 Oct 2026 13:04:25 GMT",
-          "summary": "Conversational AI Is Finally Connected to the Work: Automation Anywhere to Acquire Boost.ai&nbsp;&nbsp;Automation Anywhere"
+          "title": "Amperity Introduces Pér, an AI Agent - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGJLb0ZtblFOaGdNZ05ycHozbF9pZnZ1QjhJcFZCRXVJS2J2RFRaWC0yaEVmZF95eU1nY3pVM09aNHZRVzAyZEFOSkZJSGgtckpSUmcyTEVCQ1NDV2M5cGtLX1kzdFRvb3piZG9kQm5lejBGRExYSG1qbzk1X091TDhLdVlhekhtczc2MHE5QmY2SnY3VllKTzRGNjl4ZlBtU0FxYUphMC1HU081RnY5TUZlUW1nOWdSTjE0a05abw?oc=5",
+          "published": "Thu, 08 Oct 2026 04:00:57 GMT",
+          "summary": "Amperity Introduces Pér, an AI Agent&nbsp;&nbsp;Destination CRM"
         },
         {
           "title": "Privia Health Sr. Customer Service & Billing Support Specialist - SmartRecruiters",
@@ -699,22 +607,10 @@
           "summary": "Privia Health Sr. Customer Service & Billing Support Specialist&nbsp;&nbsp;SmartRecruiters"
         },
         {
-          "title": "Medical Representative, CRM (Fixed-Term) - Nairobi - Novartis",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlNDbGxVd21MMEJYa2hqSllwS05MUlJKWTdGMUZRN1I4Q2xWbFNiNmdSaTA4TDNmcFcwVDJjNUk1dUhvY1VtaDh0Y0tVZXp5MTl4NmdjVDBtUHJycF9LS2lHaFZSdzQwdkdMdGxDbGNuT1U4WUNac1lrNlZzVDdBUGRwMVlmd0VBbFVxVlNVUVF1cHhzX2VaamJkdWpNVW1jZWptRkYwdzFOU1hwSmJURjN1bENvTzB5?oc=5",
-          "published": "Wed, 07 Oct 2026 05:24:42 GMT",
-          "summary": "Medical Representative, CRM (Fixed-Term) - Nairobi&nbsp;&nbsp;Novartis"
-        },
-        {
           "title": "Loyalty, CRM & Omni CX Senior Manager - Workable",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWJoQ05PRWk0MVNTTGZTakU4ZU91ZWFFTUcyYzN0eGszS2RGRGpMZ3NJN0dPamJ6MHU3VnJDVm1WQzZkeE4zUmo4MmFKRFlCbXNiZmJDWWlraFBzYTVFYnhxcnFHNVJtVEJPa0NsRkF4X25rOG1PSGpYM3ZxdkFHdGU5OWNUaVNPZGJpZ05FVThWRWJsYjVDaGs5bEYxYUtPYlh5YUthbjZhY0IzWnR5cjdzV3lNQ1J0bS1KNloycw?oc=5",
           "published": "Tue, 06 Oct 2026 20:47:59 GMT",
           "summary": "Loyalty, CRM & Omni CX Senior Manager&nbsp;&nbsp;Workable"
-        },
-        {
-          "title": "Patient Engagement Associate - Penn Medicine Careers",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWXJjVTBPWjZHYmZzMkwxMDdFRFhLQmtOb09odjZ4SWpIb09BMWt2MHVuQk91OVVzQTBfZjlRZHJ1UnNiR0dzb2kyWm13NmRSdUN2Y3FrREJwU2NXY1QwOVJHZGNnSkZsZUlDMFpIakpneWk5TWx1TjBaTkZuVnZrVg?oc=5",
-          "published": "Tue, 06 Oct 2026 15:45:19 GMT",
-          "summary": "Patient Engagement Associate&nbsp;&nbsp;Penn Medicine Careers"
         }
       ]
     },
@@ -734,10 +630,34 @@
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
       "items": [
         {
+          "title": "5 reasons guaranteed-margin programs are gaining traction with MSPs - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjh6UHVKQ0pOaVVMRXg2UGJOVEsyMG5aNDJBYUt3ekcwOTlzLXFkUHlKeTdzY2dKSksxOWdBNlJnZ0daQkotUHdiSE1Tb0JuelBRZEpyQmxTcWxYQlRpekx4bXg4a0piS1dHVHNpMU0xMXgzSUZDWmVLdm4ybndiek9ZcE1kS3p1ci0zWWl1QWttY1A4amww?oc=5",
+          "published": "Thu, 08 Oct 2026 16:00:39 GMT",
+          "summary": "5 reasons guaranteed-margin programs are gaining traction with MSPs&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "FREE DOWNLOAD: 25 Questions that will expose the gaps in your security stack - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnN3QzFNTXhEWGxaeTY0Ul9McEtmNHpPeGJMbTIyMlEySXp5dXNrQXF3aGxueHliWGpUVEZmN2RyWDNXY211dE9UVUlyMnF1M0wzSHpRc3NPMUFfMkxNLUlMVk1XZzM2aGtQLU05V2d2S0o5UjhDcGlqYW5WdGh3dg?oc=5",
+          "published": "Thu, 08 Oct 2026 13:43:44 GMT",
+          "summary": "FREE DOWNLOAD: 25 Questions that will expose the gaps in your security stack&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
           "title": "TD SYNNEX announces entering into a definitive agreement to acquire BlueStar - The ChannelPro Network",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkF1a0g2QWJsZ3RlOHVvNi1oX3dzNnVZTEdYWFl0SEhGbXFmczVXT25rYi1DanRFdThjcTdER3JJcGpCUmFYcUlQMXU2QTlpaGxqeXhZRW5sWExuaThYMVNuRTFleS1HWVh5bGFGZ3JpNjdhUlNHUDdCbWdsYTRTUA?oc=5",
           "published": "Wed, 07 Oct 2026 18:29:14 GMT",
           "summary": "TD SYNNEX announces entering into a definitive agreement to acquire BlueStar&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "Am I tracking metrics for MSP success right? I’m hitting goals but still not seeing growth. - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUUwtU3R2dTc5NlZNMWVOWElHWlMwTHN6YTZQcXZUTHNiY1owdGs3UTdvS0tGWEtmd2FQTEd2Y2RicUViNllNSkllY2E1a3Y0VjRhbTFUUUszdUZzSHNHR3NJNzhsV0g2cW5VZnc0VWFqM0hEdEZkTW1HbkFhZjd5a2ZzS3Z5ajVmNHV1UGt0Y2lkSTNQNnNRMGhSR0dmbk9oOFp3WEJyMXZmZGJ3bVRwUWRDWTBiZE1CRm9KSXVhcVBLcS13cExjXzlR?oc=5",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "summary": "Am I tracking metrics for MSP success right? I’m hitting goals but still not seeing growth.&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "How not to run a ‘lifestyle business’ in the MSP industry - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEl1cDJseWJSaUdkejE0aWVZS0xTWGlRSExMZHBFUVFlTHVYZkxyX3NMYWRSbTNKcWo1WTVpQnhibGl2UFNLMTlwencySUhZOFRONFBDNm5SX2FYT3Q1RXZNOUt1U2lrU18xRGtMMjQzZ3NJR3VrNEpJTmRwSlVRTU5UdVZySmpmTW5UWDVFWXdtQ1ROMnZEd2ptTDJyTFZzb3ZN?oc=5",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+          "summary": "How not to run a ‘lifestyle business’ in the MSP industry&nbsp;&nbsp;The ChannelPro Network"
         },
         {
           "title": "3 Questions with Dr. Jared Knisley – Fizen Technology, XDuce - The ChannelPro Network",
@@ -750,18 +670,18 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xQk9abmJkSlFTa09hdEV2em8wME9JUUhiSEZ0Ui1sUHNiaHF1UW1xamJPRWpSUEJrZGlyUThBcTdHeWJKUjBUYkxuRjJUR1UwZXlpOFc3YjRONzZuOGFaaGZGdFEyZm90OFR2SktkWnZlSnFqUEQ2cFV0LW1ON0E?oc=5",
           "published": "Tue, 06 Oct 2026 20:20:45 GMT",
           "summary": "What separates the world’s Top 250 MSSPs from everyone else?&nbsp;&nbsp;The ChannelPro Network"
-        },
-        {
-          "title": "AI as a service needs a definition. Let’s build one together. - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlZ1SVhfR1pXUHprR1hkeEN2bDg2MGVfVF9WT3JfYW5OaGd4XzBXVVR1c29XWlBYUHMxNkxJcW1WY3NkaXNNcjltTWpkbWRRQy13ZkpZSlRqVG1EQ0VuLTdvNXVtRFRYWjk2bFFsTTlvVkR4UVhENHgzY2tKOTZDTldGb0UzSnRKc2ZVV09pNk82dWs?oc=5",
-          "published": "Tue, 06 Oct 2026 18:29:49 GMT",
-          "summary": "AI as a service needs a definition. Let’s build one together.&nbsp;&nbsp;The ChannelPro Network"
         }
       ]
     },
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "FPT IS Positions as Southeast Asia's Go-To e-Procurement Partner",
+          "link": "https://futurumgroup.com/insights/fpt-is-positions-as-southeast-asias-go-to-e-procurement-partner/?utm_source=rss&utm_medium=rss&utm_campaign=fpt-is-positions-as-southeast-asias-go-to-e-procurement-partner",
+          "published": "Thu, 08 Oct 2026 12:12:16 +0000",
+          "summary": "The post FPT IS Positions as Southeast Asia&#039;s Go-To e-Procurement Partner appeared first on Futurum.\nFPT IS demonstrates its e-procurement expertise to Cambodia's Ministry of Economy and Finance, positioning itself as Southeast Asia's Go-To e-Procurement Partner for government digital transformation initiatives.\nThe post FPT IS Positions as Southeast Asia&#039;s Go-To e-Procurement Partner appeared first on Futurum."
+        },
         {
           "title": "Lumen’s Nasdaq Debut Puts Alkira at the Center of Its AI Networking Pitch",
           "link": "https://futurumgroup.com/insights/lumens-nasdaq-debut-puts-alkira-at-the-center-of-its-ai-networking-pitch/?utm_source=rss&utm_medium=rss&utm_campaign=lumens-nasdaq-debut-puts-alkira-at-the-center-of-its-ai-networking-pitch",
@@ -791,78 +711,6 @@
           "link": "https://futurumgroup.com/insights/arctiq-joins-wiz-msp-program-to-scale-multi-tenant-cloud-security/?utm_source=rss&utm_medium=rss&utm_campaign=arctiq-joins-wiz-msp-program-to-scale-multi-tenant-cloud-security",
           "published": "Wed, 07 Oct 2026 12:18:40 +0000",
           "summary": "The post Arctiq Joins Wiz MSP Program to Scale Multi-Tenant Cloud Security appeared first on Futurum.\nArctiq joined Wiz's MSP Program, gaining centralized multi-tenant management through Wiz Tenant Manager to deliver cloud and AI security at scale, strengthening its Google SecOps-powered security operations.\nThe post Arctiq Joins Wiz MSP Program to Scale Multi-Tenant Cloud Security appeared first on Futurum."
-        },
-        {
-          "title": "Schneider Electric and PTC Expand Industrial Software Coverage",
-          "link": "https://futurumgroup.com/insights/schneider-electric-and-ptc-expand-industrial-software-coverage/?utm_source=rss&utm_medium=rss&utm_campaign=schneider-electric-and-ptc-expand-industrial-software-coverage",
-          "published": "Tue, 06 Oct 2026 16:54:18 +0000",
-          "summary": "The post Schneider Electric and PTC Expand Industrial Software Coverage appeared first on Futurum.\nKeith Kirkpatrick from The Futurum Group shares insights on Schneider Electric’s proposed PTC acquisition, its industrial data strategy, and financial commitments.\nThe post Schneider Electric and PTC Expand Industrial Software Coverage appeared first on Futurum."
-        },
-        {
-          "title": "Solving the Agentic Context Dilemma: Inside Neo4j’s Strategy to Build an Operational World Model",
-          "link": "https://futurumgroup.com/insights/solving-the-agentic-context-dilemma-inside-neo4js-strategy-to-build-an-operational-world-model/?utm_source=rss&utm_medium=rss&utm_campaign=solving-the-agentic-context-dilemma-inside-neo4js-strategy-to-build-an-operational-world-model",
-          "published": "Tue, 06 Oct 2026 16:29:29 +0000",
-          "summary": "The post Solving the Agentic Context Dilemma: Inside Neo4j’s Strategy to Build an Operational World Model appeared first on Futurum.\nBrad Shimmin, Practice Lead at Futurum, shares insights on how Neo4j is repositioning graph architecture into an enterprise context engine to resolve data bottlenecks and govern autonomous AI agents.\nThe post Solving the Agentic Context Dilemma: Inside Neo4j’s Strategy to Build an Operational World Model appeared first on Futurum."
-        },
-        {
-          "title": "CoreWeave Fully Connected 2026: Forge Brings Frontier Lab RL to Every AI Team",
-          "link": "https://futurumgroup.com/insights/coreweave-fully-connected-2026-forge-brings-frontier-lab-rl-to-every-ai-team/?utm_source=rss&utm_medium=rss&utm_campaign=coreweave-fully-connected-2026-forge-brings-frontier-lab-rl-to-every-ai-team",
-          "published": "Tue, 06 Oct 2026 16:01:53 +0000",
-          "summary": "The post CoreWeave Fully Connected 2026: Forge Brings Frontier Lab RL to Every AI Team appeared first on Futurum.\nBrendan Burke and Nick Patience of Futurum share insights from CoreWeave Fully Connected 2026, where CoreWeave Forge packaged frontier lab RL for every customer while enterprises enter the AI loop through distillation and evals.\nThe post CoreWeave Fully Connected 2026: Forge Brings Frontier Lab RL to Every AI Team appeared first on Futurum."
-        },
-        {
-          "title": "env zero EZ Control: Telling a Fix From a Mistake",
-          "link": "https://futurumgroup.com/insights/env-zero-ez-control-telling-a-fix-from-a-mistake/?utm_source=rss&utm_medium=rss&utm_campaign=env-zero-ez-control-telling-a-fix-from-a-mistake",
-          "published": "Tue, 06 Oct 2026 15:49:15 +0000",
-          "summary": "The post env zero EZ Control: Telling a Fix From a Mistake appeared first on Futurum.\nMitch Ashley, VP and Practice Lead, CIO and Tech Buyers, and Vikram Rathnam, Research Director, Software Lifecycle Engineering at The Futurum Group, share insights on env zero EZ Control and the judgment its cloud remediation depends on.\nThe post env zero EZ Control: Telling a Fix From a Mistake appeared first on Futurum."
-        },
-        {
-          "title": "Moving Flash Into the Runtime: Everpure Repositions FlashBlade for Agentic Workloads",
-          "link": "https://futurumgroup.com/insights/moving-flash-into-the-runtime-everpure-repositions-flashblade-for-agentic-workloads/?utm_source=rss&utm_medium=rss&utm_campaign=moving-flash-into-the-runtime-everpure-repositions-flashblade-for-agentic-workloads",
-          "published": "Tue, 06 Oct 2026 14:37:13 +0000",
-          "summary": "The post Moving Flash Into the Runtime: Everpure Repositions FlashBlade for Agentic Workloads appeared first on Futurum.\nBrad Shimmin examines how Everpure's FlashBlade updates turn enterprise flash into an active inference tier with PureKVA and native Model Context Protocol support.\nThe post Moving Flash Into the Runtime: Everpure Repositions FlashBlade for Agentic Workloads appeared first on Futurum."
-        },
-        {
-          "title": "Does a 17-Year-Old Movement Need a DevOps Standard?",
-          "link": "https://futurumgroup.com/insights/does-a-17-year-old-movement-need-a-devops-standard/?utm_source=rss&utm_medium=rss&utm_campaign=does-a-17-year-old-movement-need-a-devops-standard",
-          "published": "Tue, 06 Oct 2026 14:22:54 +0000",
-          "summary": "The post Does a 17-Year-Old Movement Need a DevOps Standard? appeared first on Futurum.\nVikram Rathnam and Mitch Ashley of Futurum Research share insights on The DevOps Standard, why its AI agent governance is a well-built retrofit, and what enterprise leaders and platform vendors should do next.\nThe post Does a 17-Year-Old Movement Need a DevOps Standard? appeared first on Futurum."
-        },
-        {
-          "title": "Beyond Retrieval: CData Connect AI Gateway Tackles Transactional Agents",
-          "link": "https://futurumgroup.com/insights/beyond-retrieval-cdata-connect-ai-gateway-tackles-transactional-agents/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-retrieval-cdata-connect-ai-gateway-tackles-transactional-agents",
-          "published": "Tue, 06 Oct 2026 13:19:18 +0000",
-          "summary": "The post Beyond Retrieval: CData Connect AI Gateway Tackles Transactional Agents appeared first on Futurum.\nBrad Shimmin, Practice Lead at Futurum, assesses the launch of CData Connect AI Gateway and how its managed MCP architecture overcomes the enterprise agentic read-write divide.\nThe post Beyond Retrieval: CData Connect AI Gateway Tackles Transactional Agents appeared first on Futurum."
-        },
-        {
-          "title": "NETSCOUT nGenius Copilot Caps a Three-Release Data-First Strategy",
-          "link": "https://futurumgroup.com/insights/netscout-ngenius-copilot-caps-a-three-release-data-first-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=netscout-ngenius-copilot-caps-a-three-release-data-first-strategy",
-          "published": "Tue, 06 Oct 2026 12:51:25 +0000",
-          "summary": "The post NETSCOUT nGenius Copilot Caps a Three-Release Data-First Strategy appeared first on Futurum.\nMitch Ashley, VP and Practice Lead, CIO &#038; Technology Buyers and Software Lifecycle Engineering at Futurum, shares his insights on NETSCOUT nGenius Copilot and why its September AI sequence puts trusted Smart Data at the center of the strategy.\nThe post NETSCOUT nGenius Copilot Caps a Three-Release Data-First Strategy appeared first on Futurum."
-        },
-        {
-          "title": "OPSWAT Firmware 4.3.0 Deepens OT/IT Data-Sharing for Industrial Diodes",
-          "link": "https://futurumgroup.com/insights/opswat-firmware-430-deepens-otit-data-sharing-for-industrial-diodes/?utm_source=rss&utm_medium=rss&utm_campaign=opswat-firmware-430-deepens-otit-data-sharing-for-industrial-diodes",
-          "published": "Tue, 06 Oct 2026 12:19:31 +0000",
-          "summary": "The post OPSWAT Firmware 4.3.0 Deepens OT/IT Data-Sharing for Industrial Diodes appeared first on Futurum.\nOPSWAT's MetaDefender NetWall Fend 4.3.0 adds UDP Multicast, Syslog, and MQTT support, enhancing secure data-sharing between operational and IT environments.\nThe post OPSWAT Firmware 4.3.0 Deepens OT/IT Data-Sharing for Industrial Diodes appeared first on Futurum."
-        },
-        {
-          "title": "Ricoh's Board-Led Strategic Review: A Channel Ecosystem Wake-Up Call",
-          "link": "https://futurumgroup.com/insights/ricohs-board-led-strategic-review-a-channel-ecosystem-wake-up-call/?utm_source=rss&utm_medium=rss&utm_campaign=ricohs-board-led-strategic-review-a-channel-ecosystem-wake-up-call",
-          "published": "Tue, 06 Oct 2026 12:18:35 +0000",
-          "summary": "The post Ricoh&#039;s Board-Led Strategic Review: A Channel Ecosystem Wake-Up Call appeared first on Futurum.\nRicoh's strategic review aims to realign operations with AI and workplace transformation demands, reshaping its channel partner ecosystem in a market growing 36% CAGR through 2029.\nThe post Ricoh&#039;s Board-Led Strategic Review: A Channel Ecosystem Wake-Up Call appeared first on Futurum."
-        },
-        {
-          "title": "A $1.94 Trillion Cash Gap Is AI's Next Enterprise Opportunity",
-          "link": "https://futurumgroup.com/insights/a-194-trillion-cash-gap-is-ais-next-enterprise-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=a-194-trillion-cash-gap-is-ais-next-enterprise-opportunity",
-          "published": "Tue, 06 Oct 2026 12:17:05 +0000",
-          "summary": "The post A $1.94 Trillion Cash Gap Is AI&#039;s Next Enterprise Opportunity appeared first on Futurum.\nThe Hackett Group's 2026 North American Working Capital Survey reveals a record $1.94 trillion opportunity for AI platform vendors and channel partners to drive finance transformation among the 1,000 largest public companies.\nThe post A $1.94 Trillion Cash Gap Is AI&#039;s Next Enterprise Opportunity appeared first on Futurum."
-        },
-        {
-          "title": "Reflection's Beam: Open-Weight Frontier at Enterprise Inference Cost",
-          "link": "https://futurumgroup.com/insights/reflections-beam-open-weight-frontier-at-enterprise-inference-cost/?utm_source=rss&utm_medium=rss&utm_campaign=reflections-beam-open-weight-frontier-at-enterprise-inference-cost",
-          "published": "Tue, 06 Oct 2026 12:12:45 +0000",
-          "summary": "The post Reflection&#039;s Beam: Open-Weight Frontier at Enterprise Inference Cost appeared first on Futurum.\nReflection launches Beam, a sparse MoE model matching advanced reasoning benchmarks while cutting enterprise inference costs 3-4x, positioning itself as a credible open-weight challenger in the expanding AI market.\nThe post Reflection&#039;s Beam: Open-Weight Frontier at Enterprise Inference Cost appeared first on Futurum."
         }
       ]
     },
@@ -873,6 +721,18 @@
     {
       "name": "Constellation Research",
       "items": [
+        {
+          "title": "Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users",
+          "link": "https://www.constellationr.com/research/blog/microsoft-brings-more-agentic-intelligence-flow-work-crm-users",
+          "published": "Thu, 08 Oct 2026 17:13:50 +0000",
+          "summary": "Microsoft Brings More Agentic Intelligence into the Flow of Work for CRM Users\nMartin Schneider\nThu, 8 Oct 2026 - 10:13\n\n  \n  \n\n\n          \n\n\n\n\n\n  MS CRM Agentic Innovation\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Martin\n   Schneider\n\n                  Vice President and Principal Analyst\n  Constellation Research\n\n            \n            \n                Martin Schneider has had a unique career that has spanned both analyst and marketing practi"
+        },
+        {
+          "title": "Qualtrics CEO Jason Maynard on the Future of Experience Management",
+          "link": "https://www.constellationr.com/video/qualtrics-ceo-jason-maynard-future-experience-management",
+          "published": "Thu, 08 Oct 2026 14:30:07 +0000",
+          "summary": "Qualtrics CEO Jason Maynard on the Future of Experience Management\nHannah Mason\nThu, 8 Oct 2026 - 07:30\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  R \"Ray\"\n   Wang\n\n                  Principal Analyst and Founder\n  Constellation Research\n\n            \n            \n                R “Ray” Wang is the CEO of Silicon Valley-based Constellation Research Inc. He co-hosts DisrupTV, a weekly enterprise tech and leadership webcast that averages 50,000 vie"
+        },
         {
           "title": "Google Cloud launches Gemini agent to work across enterprise systems",
           "link": "https://www.constellationr.com/insights/news/google-cloud-launches-gemini-agent-work-across-enterprise-systems",
@@ -902,24 +762,18 @@
           "link": "https://www.constellationr.com/research/blog/decision-advantage-age-distributed-power-what-us-intelligence-executives-want-every",
           "published": "Tue, 06 Oct 2026 23:11:09 +0000",
           "summary": "Decision Advantage in the Age of Distributed Power: What U.S. Intelligence Executives Want Every Board and CEO to Know\nDr. David Bray\nTue, 6 Oct 2026 - 16:11\n\n  \n  \n\n\n          \n\n\n\n\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Dr. David\n   Bray\n\n                  Distinguished Chair of the Accelerator &amp; Principal/CEO\n  Stimson Center &amp; LeadDoAdapt Ventures\n\n            \n            \n                Business Insider named Dr. David A. Bray o"
-        },
-        {
-          "title": "Mistral makes its open model case with Mistral Large 4",
-          "link": "https://www.constellationr.com/insights/news/mistral-makes-its-open-model-case-mistral-large-4",
-          "published": "Tue, 06 Oct 2026 19:02:05 +0000",
-          "summary": "Mistral makes its open model case with Mistral Large 4\nLarry Dignan\nTue, 6 Oct 2026 - 12:02\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transform"
-        },
-        {
-          "title": "Strategic Optionality for Resilient and Innovative Architectures",
-          "link": "https://www.constellationr.com/research/blog/strategic-optionality-resilient-and-innovative-architectures",
-          "published": "Tue, 06 Oct 2026 17:18:26 +0000",
-          "summary": "Strategic Optionality for Resilient and Innovative Architectures\nEsteban Kolsky\nTue, 6 Oct 2026 - 10:18\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Esteban\n   Kolsky\n\n                  Chief Distiller, Board Advisor\n  Constellation Research\n\n            \n            \n                Esteban Kolsky spent the first part of his professional career working on the customer service front line and in management roles, culminating in early implementations"
         }
       ]
     },
     {
       "name": "SiliconANGLE",
       "items": [
+        {
+          "title": "Automation Anywhere acquires Boost.ai to expand customer-facing voice AI",
+          "link": "https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/",
+          "published": "2026-10-08T18:05:27Z",
+          "summary": "Automation Anywhere Inc., an enterprise agentic automation and orchestration firm, announced Wednesday an agreement to acquire Boost.ai Inc., a conversational voice artificial intelligence company, from Nordic Capital. The firm seeks to build the “autonomous enterprise,” an operating model where businesses operate up to 80% autonomously or with AI assistance. Boost.ai’s technology will extend that vision [&#8230;]\nThe post Automation Anywhere acquires Boost.ai to expand customer-facing voice AI "
+        },
         {
           "title": "At WebexOne, Cisco&#8217;s Jeetu Patel argues the agent era will be won on context, cost and control",
           "link": "https://siliconangle.com/2026/10/07/at-webexone-ciscos-jeetu-patel-argues-the-agent-era-will-be-won-on-context-cost-and-control/",
@@ -950,6 +804,12 @@
       "name": "Technology News For IT Channel Partners and Solution Providers",
       "items": [
         {
+          "title": "Cisco Wants Webex To Be The Operating System For AI And Work",
+          "link": "https://www.crn.com/news/networking/2026/cisco-wants-webex-to-be-the-operating-system-for-ai-and-work",
+          "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+          "summary": "Cisco is transforming Webex from a meeting platform into a hub where employees and AI agents work side by side. Through new AI agents, intelligent workspace tools and a broader agentic AI strategy, Cisco is betting the future of work is people and AI getting work done together."
+        },
+        {
           "title": "8 New Cisco Workplace And AI Innovations Unveiled At WebexOne 2026",
           "link": "https://www.crn.com/news/networking/2026/8-new-cisco-workplace-and-ai-innovations-unveiled-at-webexone-2026",
           "published": "Wed, 07 Oct 2026 14:00:00 GMT",
@@ -972,6 +832,18 @@
     {
       "name": "CX Dive",
       "items": [
+        {
+          "title": "Why Gen Z, millennials are most satisfied with online banks, fintechs",
+          "link": "https://www.customerexperiencedive.com/news/gen-z-millennials-customers-satisfied-online-banks-fintechs/832533/",
+          "published": "Thu, 08 Oct 2026 15:54:00 -0400",
+          "summary": "&ldquo;A lot of it really does start with the idea that the fintechs are protecting their customers from fees, helping customers to protect their money,&rdquo; JD Power&rsquo;s Paul McAdam said."
+        },
+        {
+          "title": "Grocery trade groups caution FTC on overly broad pricing enforcement",
+          "link": "https://www.customerexperiencedive.com/news/fmi-nga-ftc-personalized-pricing-enforcement/832403/",
+          "published": "Thu, 08 Oct 2026 09:52:00 -0400",
+          "summary": "Both FMI and the NGA called for the agency to distinguish between personalized pricing and personalized promotions."
+        },
         {
           "title": "When the drive-thru feels fast and friendly, satisfaction grows",
           "link": "https://www.customerexperiencedive.com/news/drive-thru-feels-fast-friendly-satisfaction-grows/832440/",
@@ -1001,18 +873,18 @@
           "link": "https://www.customerexperiencedive.com/news/tiktok-add-ai-powered-discovery-one-click-checkout/832317/",
           "published": "Tue, 06 Oct 2026 16:07:56 -0400",
           "summary": "TikTok is already a source of product discovery. Now, it&rsquo;s adding into the mix a conversational AI agent that can remember user needs, and it&rsquo;s making purchasing on its platform even easier.&nbsp;"
-        },
-        {
-          "title": "Walmart defends pricing practices, again",
-          "link": "https://www.customerexperiencedive.com/news/walmart-defends-dynamic-pricing-practices-again/832273/",
-          "published": "Tue, 06 Oct 2026 13:21:00 -0400",
-          "summary": "The retailer says it won't renew a key patent that could leverage scan-and-go tech to personalize prices. It's one of several that has drawn the attention of a progressive advocacy group."
         }
       ]
     },
     {
       "name": "Call Centre Helper",
       "items": [
+        {
+          "title": "Webinar: How to Tackle the Biggest Barriers to Quality Assurance (QA)",
+          "link": "https://www.callcentrehelper.com/webinar-tackle-biggest-barriers-qa-275076.htm",
+          "published": "Thu, 08 Oct 2026 13:00:00 +0000",
+          "summary": "Click here for this webinar recording Do you want to make improvements to your Quality Assurance (QA), but don’t even know where to begin? You are not alone! The barriers can feel endless – from lack of time, tight budgets,...\nThe post Webinar: How to Tackle the Biggest Barriers to Quality Assurance (QA) appeared first on Call Centre Helper."
+        },
         {
           "title": "Are You Doing Enough to Help New Starters Settle In?",
           "link": "https://www.callcentrehelper.com/doing-enough-help-new-starters-settle-275691.htm",
@@ -1023,11 +895,24 @@
     },
     {
       "name": "Light Reading",
-      "items": []
+      "items": [
+        {
+          "title": "Adtran deploys AI agents to assist service provider operations",
+          "link": "https://www.lightreading.com/ai-machine-learning/adtran-deploys-ai-agents-to-assist-service-provider-operations",
+          "published": "Thu, 08 Oct 2026 14:33:37 GMT",
+          "summary": "Adtran has introduced AI agents for its Mosaic One Fabric platform to assist in areas such as network management, customer care and business operations. #pressrelease"
+        }
+      ]
     },
     {
       "name": "CXM Customer Experience Magazine",
       "items": [
+        {
+          "title": "Robert Hackl to launch the AI Perception Score at CX Vision 2035",
+          "link": "https://cxm.world/video/robert-hackl-to-launch-the-ai-perception-score-at-cx-vision-2035/",
+          "published": "Thu, 08 Oct 2026 14:57:33 +0000",
+          "summary": "The founder of AI Amplifier will unveil AIPS on the main stage at Wembley on 5 November. It is designed to show companies whether their AI is winning or losing customers, and what to fix first. The AI Perception Score, or AIPS, will be unveiled at CX Vision 2035, hosted at Wembley Stadium on 5...\nThe post Robert Hackl to launch the AI Perception Score at CX Vision 2035 appeared first on Customer Experience Magazine."
+        },
         {
           "title": "HSBC Reportedly Set to Cut Roughly 70% of UK Financial Advisers as AI Rolls Out",
           "link": "https://cxm.world/employee-experience/hsbc-wealth-management-job-cuts-ai-advisers/",
@@ -1093,12 +978,6 @@
           "link": "https://cxm.world/customer-experience/sap-ai-agents-joule-work-techwolf/",
           "published": "Wed, 07 Oct 2026 08:23:48 +0000",
           "summary": "In a plethora of SAP news, its Joule AI offerings are moving from answering questions to doing the work. SAP has also launched a payments service and agreed to buy a skills-data start-up. Here is what changed this week, and what buyers should check. Joule Gets a Job Description&#160;&#160; SAP AI agents are moving from...\nThe post SAP Sets its AI Agents to Work With Autonomous Enterprise Solution and Buys TechWolf appeared first on Customer Experience Magazine."
-        },
-        {
-          "title": "Robert Hackl to launch the AI Perception Score at CX Vision 2035",
-          "link": "https://cxm.world/todays-pick/robert-hackl-to-launch-the-ai-perception-score-at-cx-vision-2035/",
-          "published": "Tue, 06 Oct 2026 15:59:18 +0000",
-          "summary": "The founder of AI Amplifier will unveil AIPS on the main stage at Wembley on 5 November. It is designed to show companies whether their AI is winning or losing customers, and what to fix first. The AI Perception Score, or AIPS, will be unveiled at CX Vision 2035, hosted at Wembley Stadium on 5...\nThe post Robert Hackl to launch the AI Perception Score at CX Vision 2035 appeared first on Customer Experience Magazine."
         }
       ]
     },
@@ -1106,16 +985,16 @@
       "name": "CX Foundation - Google News",
       "items": [
         {
+          "title": "8x8 Appoints Jamie Snaddon as SVP + Chief Strategy Officer, Nerea Gandarias as Managing Director, EMEA - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xa0Rmcjd3Q2Y4M1VJVmxRc0xoelRIMVJUaG5UU0p1bHhya01wazVhbzJoaV8yMUhoZmRvQTFfeUpBWlppeDd4NGJlN09PeDVWSl9qVFU5MEs0cDE4VkY5RFVlYw?oc=5",
+          "published": "Thu, 08 Oct 2026 17:04:13 GMT",
+          "summary": "8x8 Appoints Jamie Snaddon as SVP + Chief Strategy Officer, Nerea Gandarias as Managing Director, EMEA&nbsp;&nbsp;CX Foundation"
+        },
+        {
           "title": "Cisco Debuts the New-Look Webex AI Agent Platform, with Dialog and AI Agent 360 - CX Foundation",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVDB0X05BenpCckl2ejhvemtGaEdXdjRKMXB0SWI1X3RmUHRSMlljU0hTNnJ0aGVUMlhSQ0xrR3VVZE5kZThmeXdDX09zT2w5a3R4QnBIcTFQS1ZseEwzcmtjUUNOWVo4SUJpYkRTdEZ6RlBGTFNUU1JKaE83ejU0VA?oc=5",
           "published": "Wed, 07 Oct 2026 14:26:02 GMT",
           "summary": "Cisco Debuts the New-Look Webex AI Agent Platform, with Dialog and AI Agent 360&nbsp;&nbsp;CX Foundation"
-        },
-        {
-          "title": "SAP Unveils New AI Assistants, Advances Its Autonomous CX Vision - CX Foundation",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6cjJlZzVmUy1ldjl1Ti1FQzFFM0dEQnJNcXNQbzFLSmYxMlFqWEZVZWhGYmdibnV5NzhoSTRuR25RSUF6M0xMQllwbUtGazNTcXYtNFZ5Y2JBc25GLVNv?oc=5",
-          "published": "Tue, 06 Oct 2026 14:09:01 GMT",
-          "summary": "SAP Unveils New AI Assistants, Advances Its Autonomous CX Vision&nbsp;&nbsp;CX Foundation"
         }
       ]
     }
