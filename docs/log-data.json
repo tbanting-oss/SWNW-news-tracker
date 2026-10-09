@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-09",
+      "label": "Fri 09 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco launches Dialog AI agent platform at WebexOne",
+          "sowhat": "Cisco positions Webex as an operating system for work that embeds AI agents into collaboration workflows, competing on context rather than just features.",
+          "url": "https://siliconangle.com/2026/10/07/cisco-broadens-agentic-features-in-webex-collaboration-platform/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "SiliconANGLE"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio embeds voice, SMS, WhatsApp natively in Salesforce",
+          "sowhat": "Twilio's new Partner Contact Center Integration eliminates tab-switching by unifying channels inside Salesforce, reducing agent friction in CRM-led workflows.",
+          "url": "https://www.twilio.com/en-us/blog/partners/integrations/voice-sms-whatsapp-salesforce",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Twilio (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "RingCentral sets Q3 2026 earnings for 22 October",
+          "sowhat": "RingCentral will report Q3 results on 22 October after market close, offering early visibility into UC and AI-powered engagement performance.",
+          "url": "http://www.businesswire.com/news/home/20261008003475/en/RingCentral-to-Announce-Third-Quarter-2026-Financial-Results/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Business Wire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio reports Q3 2026 results on 29 October",
+          "sowhat": "Twilio's Q3 earnings on 29 October will show whether its communications platform continues to deliver growth in the AI era.",
+          "url": "http://www.businesswire.com/news/home/20261008752233/en/Twilio-to-Announce-Third-Quarter-2026-Results-on-October-29-2026/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Business Wire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Microsoft integrates CRM into flow of work, adds agents",
+          "sowhat": "Microsoft brings Dynamics 365 CRM functions and AI agents directly into Teams and other work surfaces, reducing context-switching for sales and service teams.",
+          "url": "https://www.constellationr.com/research/blog/microsoft-brings-more-agentic-intelligence-flow-work-crm-users",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Treasure AI launches Personalization Studio, engagement-based pricing",
+          "sowhat": "Treasure AI's new tool lets marketers personalise websites using CDP data and shifts pricing to engagement, raising questions about whether clicks correlate with sales.",
+          "url": "https://www.cmswire.com/customer-data-platforms/can-treasure-ais-personalization-studio-close-the-cdp-to-website-gap/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Only 5% of CX programs can prove revenue impact",
+          "sowhat": "CustomerGauge research shows 95% of CX initiatives lack a measurable link to revenue, underlining persistent measurement and accountability gaps across the industry.",
+          "url": "https://www.customerexperiencedive.com/news/5-percent-cx-programs-prove-impact-on-revenue/832542/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-08",
       "label": "Thu 08 Oct 2026",
       "rows": [
@@ -908,94 +985,7 @@
         }
       ],
       "pattern_watch": "M&A consolidation in UC/CCaaS and vendor moves to defend CRM/CX turf with AI acquisitions and fast-deploy products"
-    },
-    {
-      "iso": "2026-10-01",
-      "label": "Thu 01 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Dynamics 365 Contact Center adds real-time translation",
-          "sowhat": "Microsoft brings Azure AI translation natively into contact-centre digital channels, removing the integration tax for text-based multilingual support.",
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=573245",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Microsoft (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Essent cuts contact-centre costs 50% with Genesys Cloud",
-          "sowhat": "A utilities provider halved operating costs by migrating to Genesys Cloud, demonstrating the ongoing arbitrage available to CCaaS switchers with legacy on-premise estates.",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQmdKQnNXRTZBUThoVnVqd0tDR1dmS2FiTE5MbGVJRGNWb1RRSmsxSXhZVWJkS1FGRnd6YVlHcjRPakxpLUtCaGpPN2FKN0czZVNlLUE4X2tWcG5vYjRXZjJnamNCWm1Jak9QNHBoLURBVGxsazNVeHl1d3F1SjM3NzlhYU9XclptS2tOdnQzWG9LdnA1OXlmZUNSUGJJbzdaWkxuc0tpaFR2b0E1dnhqaWpfdjVWeDIwOGE5b0xfMTVhb29kZE1MRXBkT0ZSS3hodDFr?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Destination CRM"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "HMRC picks Salesforce for £2.4bn CRM overhaul",
-          "sowhat": "UK's largest service department commits multi-billion CRM spend, signaling government-scale platform consolidation and validating Salesforce in regulated, high-volume public-sector use.",
-          "url": "https://cxtoday.com/hmrc-selects-salesforce-for-2bn-crm-program-as-overhaul-takes-shape",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "CallTower acquires Momentum Telecom's voice and collaboration unit",
-          "sowhat": "Private-equity-backed UCaaS consolidation continues; CallTower adds 3,500 customers and deepens channel capacity, though recurring revenue impact and integration risk remain unclear.",
-          "url": "https://telecomreseller.com/2026/10/01/calltowers-momentum-deal-adds-more-room-for-the-channel/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Luware launches NimbusOne agent UI beyond Teams client",
-          "sowhat": "Microsoft Teams contact-centre partners now extending beyond native UI, suggesting Teams CCaaS buyers want dedicated agent tooling not tethered to collaboration UX.",
-          "url": "https://telecomreseller.com/2026/10/01/luware-looks-to-push-contact-center-beyond-the-teams-client/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "8x8 reports 50% cost cut for Australian retailer",
-          "sowhat": "Single-digit-percentage cost saves matter most to SMB buyers; 8x8's Doors Plus case reinforces price and simplicity over feature breadth for retail consolidation.",
-          "url": "https://telecomreseller.com/2026/10/01/doors-plus-consolidates-contact-centre-and-store-operations-on-8x8-platform-slashes-communications-costs-by-50/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "RingCentral publishes voice AI agent deployment and ROI survey",
-          "sowhat": "Fifty-seven percent of surveyed leaders claim live voice-AI deployments and 82% report positive ROI, but sample selection and ROI definition remain unaudited vendor claims.",
-          "url": "https://www.ringcentral.com/us/en/blog/agentic-voice-ai-statistics/",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "RingCentral (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco WebexOne opens in Austin with AI collaboration focus",
-          "sowhat": "Annual flagship event signals Cisco's continued AI-collaboration messaging; real news will come from product launches, customer deployments, and competitive positioning details.",
-          "url": "https://cxtoday.com/webexone-2026-cisco-brings-ai-collaboration-to-austin-webexbycisco-cs-0244",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        }
-      ],
-      "pattern_watch": "Three items share UC/CCaaS M&A and integration thread: CallTower-Momentum, Luware Teams extension, 8x8 retail consolidation."
     }
   ],
-  "updated": "2026-10-08T20:30:49.249616+00:00"
+  "updated": "2026-10-09T12:51:31.061382+00:00"
 }
