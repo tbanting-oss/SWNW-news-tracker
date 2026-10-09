@@ -73,9 +73,89 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Zoom Rooms on Cisco delayed to Q4",
+          "sowhat": "Buyers choosing Zoom on Cisco hardware must now pick between native features and interop limbo, with split room analytics creating new governance friction.",
+          "url": "https://uctoday.com/zoom-rooms-on-cisco-hits-a-delay-room-data-battle-heats-up",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco opens Webex to Claude and Google",
+          "sowhat": "Cisco is hedging its AI stack by allowing third-party models and native Google Meet in rooms, testing whether openness can reclaim platform share.",
+          "url": "https://uctoday.com/this-week-in-uc-c-cisco-goes-open-at-webexone-2026",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Verizon joins Webex Calling PSTN program",
+          "sowhat": "Verizon becomes a Certified Calling Provider for Webex, giving FedRAMP buyers another PSTN route and fragmenting the carrier-UCaaS integration map further.",
+          "url": "https://blog.webex.com/collaboration/verizon-business-joins-cloud-connect-for-webex-calling-program/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Genesys partners Meta and Sierra on agents",
+          "sowhat": "Genesys is building a Personal Agent Protocol with Meta and Sierra, aiming to make AI customers interoperable across contact centre platforms.",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wS0Y5Yko2ek1MS1lGMHVqdEZEMjZWYmVRbDBhYWFoXzIyc0V6ZkxfSE1wZXYwdHBNbXJCTV8xMzRySl9BSWdDUEVRejFZbm9yMGh4RmFtZDNISW5sTlp0WkFNSnRLZkFyZzAxWVVn?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Foundation"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Sanas proposes one human supervising four agents",
+          "sowhat": "Sanas wants contact centre agents to supervise four AI agents simultaneously, collapsing labour costs but raising quality and accountability questions.",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TNU84RjB4OTJ3TnluN09qcFFMbVJLZ0pyOXZuZWE1RW9CRU1zMVBhNldSUmRTQ2Y2bU13Zlh1MUdGVW5RcVFNRGtXbURHY3ZrVTJHVExzaG9UZVI3Q2tz?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Foundation"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "ServiceNow becomes Bundesliga's CRM partner; FCR hits 89%",
+          "sowhat": "Bundesliga reports 89% first-contact resolution on ServiceNow's fan service platform, offering a rare public benchmark for sports CX automation.",
+          "url": "https://cxm.world/customer-experience/bundesliga-first-contact-resolution-servicenow/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Google launches Gemini agent across Workspace identities",
+          "sowhat": "Google gives coworker agents their own Workspace identities, making AI delegation feel more like working with colleagues than invoking a chatbot.",
+          "url": "https://futurumgroup.com/insights/google-collapses-enterprise-ai-into-a-single-gemini-agent-at-gemini-at-work-2026/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft embeds Dynamics 365 into Teams and Outlook",
+          "sowhat": "Microsoft is turning Dynamics 365 into an ambient CRM layer across Teams and Outlook, betting that context in the flow of work beats forcing clicks into a separate app.",
+          "url": "https://futurumgroup.com/insights/microsoft-turns-dynamics-365-into-an-ambient-crm-layer/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "Multiple vendors (Cisco, Google, Microsoft) embedding AI agents and CRM into collaboration tools, testing whether AI delegation belongs in the flow of work or in standalone apps."
     },
     {
       "iso": "2026-10-08",
@@ -987,5 +1067,5 @@
       "pattern_watch": "M&A consolidation in UC/CCaaS and vendor moves to defend CRM/CX turf with AI acquisitions and fast-deploy products"
     }
   ],
-  "updated": "2026-10-09T12:51:31.061382+00:00"
+  "updated": "2026-10-09T19:59:57.808920+00:00"
 }
