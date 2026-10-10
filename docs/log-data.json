@@ -73,9 +73,89 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco launches agentic AI for Webex workplace",
+          "sowhat": "Cisco extends Webex AI with enterprise-grade agents and shared context, signaling UC's shift from copilot to autonomous action.",
+          "url": "https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/tech/nasdaq-csco/cisco-systems/news/cisco-csco-rolls-out-agentic-ai-across-webex-and-workplace-t&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0IBAGffM-5KrSI7qFjk6Zi",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Yahoo Finance"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft expands local AI processing on Windows",
+          "sowhat": "Microsoft pushes local AI inference beyond developers, betting cost and latency will sway buyers despite uncertain ROI.",
+          "url": "https://www.directionsonmicrosoft.com/microsoft-makes-its-case-again-for-running-ai-workloads-on-windows-pcs/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Directions on Microsoft"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft adds scheduling agent to Copilot chat",
+          "sowhat": "Users can now book meetings, find times, and draft agendas in Copilot chat—proof agentic moves from demo to desk.",
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=573220",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Microsoft (vendor blog)"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CX",
+          "headline": "Outages now fail between systems, not inside them",
+          "sowhat": "CX Today flags Cloudflare, Fastly, Twilio outages—integration layer is becoming the new single point of failure.",
+          "url": "https://cxtoday.com/the-reliability-stories-cx-leaders-cant-afford-to-miss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CX",
+          "headline": "ASOS hack exposes app-layer attack surface for CX",
+          "sowhat": "Extortion note pushed via ASOS app shows AI agents and 400+ vulnerabilities create new enterprise exposure.",
+          "url": "https://cxtoday.com/what-asos-ai-agents-and-400-vulnerabilities-reveal-about-cx-risk",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Just 5% of CX programs prove revenue impact",
+          "sowhat": "Most CX initiatives still lack hard ROI evidence, underscoring the gap between deployment and measurable business value.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHkteFdOZHNmdnRHeG5XNnA2Tm9pM05ybWY0ZGNpbExjT2JkY1RweFJJT092aHZqa2h4S3B3dDdWLXY5UDRvZ2xUOVRPSnVwMVAxMlViZno1QkdPV3NyV1l3NWJTT011RHlZbDBTRU9NV3JrNDlLOEZDekM1SjFSaFdrVUltalhuYnpLNGZiYmNJcndsLTBqYzI0M1ZqZw?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "SAP embeds workforce context in SuccessFactors via TechWolf",
+          "sowhat": "SAP's TechWolf buy adds skills intelligence to Joule, making work context central to SuccessFactors AI decisions.",
+          "url": "https://futurumgroup.com/insights/sap-makes-work-intelligence-central-to-successfactors/?utm_source=rss&utm_medium=rss&utm_campaign=sap-makes-work-intelligence-central-to-successfactors",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "SailPoint extends identity governance to AI agents",
+          "sowhat": "SailPoint's Navigate 2026 launches JIT access and discovery for AI agents, showing identity as the new agent control plane.",
+          "url": "https://futurumgroup.com/insights/sailpoint-bets-on-identity-to-govern-ai-agents-at-navigate-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sailpoint-bets-on-identity-to-govern-ai-agents-at-navigate-2026",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "Outages and security breaches converging on integration layer and AI agent attack surface"
     },
     {
       "iso": "2026-10-09",
@@ -987,5 +1067,5 @@
       "pattern_watch": "Three items (APAC buying shift, Talkdesk orchestration gap, AI trust research) share one thread: enterprises are moving past AI experimentation into hard questions about architecture, governance, and verified outcomes."
     }
   ],
-  "updated": "2026-10-10T12:09:26.029599+00:00"
+  "updated": "2026-10-10T19:07:51.362697+00:00"
 }
