@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-10",
+      "label": "Sat 10 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "8×8 names Jamie Snaddon chief strategy officer",
+          "sowhat": "Leadership reshuffle places EMEA under new lead, signalling a sharpened focus on strategic execution and growth markets for the UCaaS vendor.",
+          "url": "https://telecomreseller.com/2026/10/09/8x8-names-jamie-snaddon-chief-strategy-officer/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Gamma selected as UK Carrier Link partner for Google Voice",
+          "sowhat": "Google's new Carrier Link programme now includes a UK PSTN partner, making it easier for Workspace customers to integrate business calling.",
+          "url": "https://telecomreseller.com/2026/10/09/gamma-selected-as-a-key-partner-for-carrier-link-for-google-voice/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Ribbon completes MTA modernisation milestone with NUSO contact centre",
+          "sowhat": "Ribbon's work for North America's largest transport network shows it can replace legacy infrastructure without operational disruption, a critical CCaaS migration proof-point.",
+          "url": "https://telecomreseller.com/2026/10/09/ribbons-mta-modernization-milestone-includes-a-new-nuso-contact-center/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco positions Webex as an operating system for AI and work",
+          "sowhat": "Cisco is expanding Webex from meetings into an AI-agent collaboration hub, betting that the future of work requires people and agents working side-by-side.",
+          "url": "https://www.crn.com/news/networking/2026/cisco-wants-webex-to-be-the-operating-system-for-ai-and-work",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "crn.com"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Google Cloud launches Gemini agent across enterprise systems",
+          "sowhat": "Google's Gemini agent separates the agent from the model, making it system-agnostic and potentially more durable than tightly coupled AI stacks.",
+          "url": "https://www.constellationr.com/insights/news/google-cloud-launches-gemini-agent-work-across-enterprise-systems",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HSBC reportedly to cut 70% of UK financial advisers as AI rolls out",
+          "sowhat": "If confirmed, this marks one of the largest AI-driven headcount reductions in wealth management, raising questions about the pace and scope of AI displacement in advisory roles.",
+          "url": "https://cxm.world/employee-experience/hsbc-wealth-management-job-cuts-ai-advisers/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "US freezes green card applications at Microsoft, Adobe, Capgemini",
+          "sowhat": "The PERM freeze on eight IT firms, including major CX platform vendors, signals tighter immigration enforcement that could disrupt hiring and service delivery in enterprise software.",
+          "url": "https://cxm.world/customer-experience/green-card-freeze-microsoft-it-outsourcers/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-09",
       "label": "Fri 09 Oct 2026",
       "rows": [
@@ -908,164 +985,7 @@
         }
       ],
       "pattern_watch": "Three items (APAC buying shift, Talkdesk orchestration gap, AI trust research) share one thread: enterprises are moving past AI experimentation into hard questions about architecture, governance, and verified outcomes."
-    },
-    {
-      "iso": "2026-10-02",
-      "label": "Fri 02 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Inworld acquires Ultravox for voice-AI stack",
-          "sowhat": "A research lab buys a voice platform to control model inference through to runtime, relevant if buyers want vertically integrated voice tooling.",
-          "url": "http://www.businesswire.com/news/home/20261001868570/en/AI-Research-Lab-Inworld-Acquires-Voice-Agent-Platform-Ultravox/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Business Wire"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco WebexOne opens in Austin this week",
-          "sowhat": "Annual user event covers AI collaboration, Calling and contact-centre roadmap; watch for concrete deployment commitments rather than demos.",
-          "url": "https://uctoday.com/webexone-2026-cisco-brings-ai-collaboration-to-austin-webexbycisco-cs-0244",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Parloa: AI agents drift without active management",
-          "sowhat": "Post-launch observability and feedback loops matter more than build quality; relevant for buyers treating agents as deployed-and-done.",
-          "url": "https://cxtoday.com/ai-agents-need-active-management-not-a-one-time-build-parloa-cs-0228",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Five9: AI handoffs still fail on context",
-          "sowhat": "Orchestration and voice AI matter more than transfer speed; buyers should test whether context survives the handoff in production.",
-          "url": "https://cxtoday.com/why-ai-handoffs-are-still-failing-customers-five9-cs-0210",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "RingCentral launches comparison against Talkdesk CCaaS",
-          "sowhat": "Competitive positioning piece, not a launch; useful only if you're choosing between these two and want RingCentral's self-assessment.",
-          "url": "https://www.ringcentral.com/us/en/blog/ringcentral-vs-talkdesk/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "RingCentral (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "eir chooses Genesys to overhaul customer experience",
-          "sowhat": "Irish telco selects Genesys cloud; relevant as a European CCaaS reference account, not a product change.",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRDczbHdkNnBsVHJiVHJ2TXcyMERQc3NYTlZqQUtJa0ZCWS1pN1lxMm1mQWJZZTBfQXhjNzhsazBGd1p4MVZ4TFVnRnZSajd4Y21yOHN4TWFjUldhTHJiOUJIU3ZnWkJFaW9iYmZ6SjNnTkRsd25Zag?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HMRC awards Salesforce £2.4BN CRM programme contract",
-          "sowhat": "Major UK government CRM deal signals scale and appetite; watch implementation timelines and whether scope matches the price tag.",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUMwbEhqUGdONkdTdmMyanBJekpDcnp1eEoxa3FKZXFRWU5jc1ZEZDBjMk12eHBEOWZRTXZldVJRR0pWZl9MMjRXZmk4eTlpM05XcVVhd3VOcnBzWmtQTzg5c0t4ZndyX2pyMHo0WFB5ZlFkR0xubjl1UGZadUVKRHhZZ25GSDlzTVdHT0dvRnQ?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "Sangoma acquired by BRC Group Holdings",
-          "sowhat": "A mid-tier UC/telephony vendor changes hands, signaling continued private-equity consolidation in legacy on-prem and hybrid telephony markets.",
-          "url": "https://telecomreseller.com/2026/10/02/sangoma-technologies-corporation-enters-into-definitive-agreement-to-be-acquired-by-brc-group-holdings-inc/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "CallTower acquires Momentum Telecom's voice/collaboration business",
-          "sowhat": "A midmarket UC provider adds 3,500+ customers and 250 staff, expanding product depth and global reach in a consolidating reseller channel.",
-          "url": "https://telecomreseller.com/2026/10/01/calltower-transforms-its-global-communications-platform-through-acquisition-of-momentum-telecoms-voice-and-collaboration-business/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Zoom brings native Rooms to Cisco devices",
-          "sowhat": "A week before WebexOne, Zoom announces Rooms support for Cisco hardware, intensifying device-layer competition and customer optionality.",
-          "url": "https://www.google.com/url?rct=j&sa=t&url=https://uctoday.com/this-week-in-uc-c-teams-rooms-get-a-new-operating-model&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3LakOXPR0D6xr7mkQUh6IF",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Google Alert"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Microsoft shifts Teams Rooms Android to Pro Management Portal",
-          "sowhat": "Microsoft centralizes Android device management, changing how partners and IT teams provision and support Teams Rooms hardware.",
-          "url": "https://uctoday.com/this-week-in-uc-c-teams-rooms-get-a-new-operating-model",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Zoom opens ISV Exchange to channel partners",
-          "sowhat": "Zoom extends its app marketplace through resellers, aiming to broaden ecosystem reach and compete with Salesforce/ServiceNow platform plays.",
-          "url": "https://telecomreseller.com/2026/10/02/zoom-expands-isv-exchange-to-channel-partners-broadening-access-to-its-growing-technology-ecosystem/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Zendesk names Rachita Sundar CFO",
-          "sowhat": "Zendesk appoints a CFO with AI-scaling experience from Salesforce, signaling intent to translate agentic CX ambitions into measurable financial performance.",
-          "url": "https://futurumgroup.com/insights/zendesks-new-cfo-is-built-for-the-billion-dollar-ai-bet/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce acquires Listen Labs for AI simulation in CRM",
-          "sowhat": "Salesforce adds autonomous research agents and digital twins to compress customer research cycles, defending CRM dominance against AI-native challengers.",
-          "url": "https://futurumgroup.com/insights/salesforce-bets-on-ai-simulation-to-defend-crm-dominance/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "ServiceNow launches Flow, a one-day ITSM deploy",
-          "sowhat": "ServiceNow's zero-infrastructure, AI-native service desk targets first-time buyers and signals strategic defense against lightweight, conversational challengers.",
-          "url": "https://futurumgroup.com/insights/servicenow-flow-can-a-one-day-deploy-reshape-enterprise-itsm/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "M&A consolidation in UC/CCaaS and vendor moves to defend CRM/CX turf with AI acquisitions and fast-deploy products"
     }
   ],
-  "updated": "2026-10-09T19:59:57.808920+00:00"
+  "updated": "2026-10-10T12:09:26.029599+00:00"
 }
