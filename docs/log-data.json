@@ -43,9 +43,39 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "The ChannelPro Network"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Meeting room utilization data shows 53% ceiling",
+          "sowhat": "Logitech/CBRE/JLL data quantifies workspace ROI gaps as hybrid work stabilizes, pressing UC vendors to prove space-efficiency value.",
+          "url": "https://uctoday.com/the-53-utilization-trap-redefining-meeting-room-roi",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Nadella flags deterministic controls for agentic AI",
+          "sowhat": "Microsoft's CEO publicly acknowledges guardrail requirements for autonomous agents, signaling enterprise deployment friction ahead.",
+          "url": "https://www.constellationr.com/insights/news/microsoft-ceo-nadella-agentic-ai-needs-healthy-dose-deterministic-controls",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Voice AI executives cite context-layer brittleness",
+          "sowhat": "Industry insiders admit voice AI pipelines still break on context failures, tempering near-term CCaaS agent-replacement expectations.",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "TechCrunch"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "AI deployment caution: voice brittleness and control requirements surface"
     },
     {
       "iso": "2026-10-10",
@@ -957,5 +987,5 @@
       "pattern_watch": ""
     }
   ],
-  "updated": "2026-10-11T12:23:17.999264+00:00"
+  "updated": "2026-10-11T19:21:32.552777+00:00"
 }
