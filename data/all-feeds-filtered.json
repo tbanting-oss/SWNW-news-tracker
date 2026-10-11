@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:33:03.130845+00:00",
+  "generated_at": "2026-10-11T19:07:29.036046+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 3,
@@ -72,18 +72,6 @@
           "link": "https://cxtoday.com/what-asos-ai-agents-and-400-vulnerabilities-reveal-about-cx-risk",
           "published": "Sat, 10 Oct 2026 11:01:00 GMT",
           "summary": "Why CX teams should care: ASOS, IBM, Red Hat, Anthropic and Cloudflare show how AI agents and 400+ vulnerabilities can expose customer data and services."
-        },
-        {
-          "title": "Retailers Cannot Allow WhatsApp to Become a Spam Channel",
-          "link": "https://cxtoday.com/retailers-are-moving-to-whatsapp-can-they-avoid-spam",
-          "published": "Fri, 09 Oct 2026 14:01:00 GMT",
-          "summary": "Retailers are turning to WhatsApp for service and sales. Infobip’s Kim Johal explains how relevance, consent, and context can prevent spam."
-        },
-        {
-          "title": "Why Customer Service AI Needs a Post-Launch Operating Model",
-          "link": "https://cxtoday.com/why-customer-service-ai-needs-a-post-launch-operating-model-parloa-cs-0228",
-          "published": "Fri, 09 Oct 2026 12:31:00 GMT",
-          "summary": "Go-live is only stage one. Parloa says CX buyers need post-launch control for customer service AI, with IT, CRM, ERP and business teams."
         }
       ]
     },
@@ -167,7 +155,14 @@
     },
     {
       "name": "TechCrunch",
-      "items": []
+      "items": [
+        {
+          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "published": "Sun, 11 Oct 2026 14:00:00 +0000",
+          "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+        }
+      ]
     },
     {
       "name": "UC Today",
@@ -177,37 +172,12 @@
           "link": "https://uctoday.com/the-53-utilization-trap-redefining-meeting-room-roi",
           "published": "Sat, 10 Oct 2026 08:01:00 GMT",
           "summary": "Office use is rising, so buyers need better ROI evidence. Logitech, CBRE and JLL data show where meeting rooms fail and what it costs, UC Today reports."
-        },
-        {
-          "title": "This Week in UC&C: Cisco Goes Open at WebexOne 2026",
-          "link": "https://uctoday.com/this-week-in-uc-c-cisco-goes-open-at-webexone-2026",
-          "published": "Fri, 09 Oct 2026 14:01:00 GMT",
-          "summary": "Cisco opened Webex to Claude and its rooms to Google Meet at WebexOne 2026. What Cisco execs told UC Today, plus the rest of the UC&amp;C week"
-        },
-        {
-          "title": "Zoom Rooms on Cisco Hits a Delay & Room Data Battle Heats Up",
-          "link": "https://uctoday.com/zoom-rooms-on-cisco-hits-a-delay-room-data-battle-heats-up",
-          "published": "Fri, 09 Oct 2026 12:31:00 GMT",
-          "summary": "Zoom Rooms on Cisco has slipped to Q4 2026, leaving buyers to choose between native and interop while Zoom and Cisco split room management and analytics."
         }
       ]
     },
     {
       "name": "Webex Blog",
-      "items": [
-        {
-          "title": "WebexOne 2026: A new chapter for intelligent, secure calling",
-          "link": "https://blog.webex.com/collaboration/webexone-2026-a-new-chapter-for-intelligent-secure-calling/",
-          "published": "Fri, 09 Oct 2026 16:00:00 +0000",
-          "summary": "There is always an unmistakable energy around WebexOne, but this year felt especially significant for Cisco Calling. We introduced major [&#8230;]\nThe post WebexOne 2026: A new chapter for intelligent, secure calling appeared first on Webex Blog."
-        },
-        {
-          "title": "Verizon Business joins the Cloud Connect for Webex Calling program",
-          "link": "https://blog.webex.com/collaboration/verizon-business-joins-cloud-connect-for-webex-calling-program/",
-          "published": "Fri, 09 Oct 2026 15:55:00 +0000",
-          "summary": "Verizon Business is now a Certified Calling Provider for Webex Calling, giving customers more choice for cloud PSTN connectivity, including Webex FedRAMP.\nThe post Verizon Business joins the Cloud Connect for Webex Calling program appeared first on Webex Blog."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Zoom Video Communications, Inc.",
@@ -215,79 +185,11 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "Ribbon’s MTA Modernization Milestone Includes a New NUSO Contact Center",
-          "link": "https://telecomreseller.com/2026/10/09/ribbons-mta-modernization-milestone-includes-a-new-nuso-contact-center/",
-          "published": "Fri, 09 Oct 2026 20:19:09 +0000",
-          "summary": "Ribbon Achieves Critical Infrastructure Modernization Milestone Across North America’s Largest Transportation Network Paves the way for a next-generation network without compromising operational continuity Plano, TX &#8211; October 8, 2026 &#8211; Ribbon [...]\nThe post Ribbon&#8217;s MTA Modernization Milestone Includes a New NUSO Contact Center appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "netnumber and Kudosity Partner to Bring Intelligent Routing, Identity and Fraud Mitigation to Enterprises",
-          "link": "https://telecomreseller.com/2026/10/09/netnumber-and-kudosity-partner-to-bring-intelligent-routing-identity-and-fraud-mitigation-to-enterprises/",
-          "published": "Fri, 09 Oct 2026 20:11:54 +0000",
-          "summary": "Strategic partnership expands the value of phone number intelligence across messaging, routing, identity and fraud mitigation MARLBOROUGH, MA, USA and SIDNEY, AU &#8211; October 7, 2026 &#8211; netnumber, a global [...]\nThe post netnumber and Kudosity Partner to Bring Intelligent Routing, Identity and Fraud Mitigation to Enterprises appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Grandstream Introduces Tri-Band Wi-Fi 7 Router",
-          "link": "https://telecomreseller.com/2026/10/09/grandstream-introduces-tri-band-wi-fi-7-router/",
-          "published": "Fri, 09 Oct 2026 19:57:14 +0000",
-          "summary": "The new high-performance router delivers tri-band Wi-Fi 7, multi-gigabit connectivity, intelligent mesh networking, advanced security, and flexible management for smart homes and small-to-medium businesses Boston, MA &#8211; October 5, 2026 [...]\nThe post Grandstream Introduces Tri-Band Wi-Fi 7 Router appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Gamma selected as a key partner for Carrier Link for Google Voice",
-          "link": "https://telecomreseller.com/2026/10/09/gamma-selected-as-a-key-partner-for-carrier-link-for-google-voice/",
-          "published": "Fri, 09 Oct 2026 19:48:44 +0000",
-          "summary": "Google have announced Carrier Link for Google Voice, making it easier for organisations using Google Workspace to integrate business calling into the tools their employees use every day. Gamma have [...]\nThe post Gamma selected as a key partner for Carrier Link for Google Voice appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "8×8 Names Jamie Snaddon Chief Strategy Officer",
-          "link": "https://telecomreseller.com/2026/10/09/8x8-names-jamie-snaddon-chief-strategy-officer/",
-          "published": "Fri, 09 Oct 2026 19:28:47 +0000",
-          "summary": "Nerea Gandarias replaces Snaddon to lead EMEA as leadership appointments sharpen focus on growth opportunities, strategic execution and long-term value creation CAMPBELL, CA &#8211; October 8, 2026 &#8211; 8&#215;8, Inc. [...]\nThe post 8&#215;8 Names Jamie Snaddon Chief Strategy Officer appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "UponAI Gives MSPs a Telecom-Native Path into Voice AI, Podcast",
-          "link": "https://telecomreseller.com/2026/10/09/uponai-gives-msps-a-telecom-native-path-into-voice-ai-podcast/",
-          "published": "Fri, 09 Oct 2026 17:51:27 +0000",
-          "summary": "By Doug Green “We are our partners. We’ve seen what they see, and we built the platform around those real-world problems.” In this Technology Reseller News podcast, Bill McClain and [...]\nThe post UponAI Gives MSPs a Telecom-Native Path into Voice AI, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "UponAI Brings Telecom-Native Voice AI to MSPs, Podcast",
-          "link": "https://telecomreseller.com/2026/10/09/uponai-brings-telecom-native-voice-ai-to-msps-podcast/",
-          "published": "Fri, 09 Oct 2026 17:17:41 +0000",
-          "summary": "By Doug Green “We built this as telecom people first — because AI voice has to understand the phone system.” In this Technology Reseller News podcast, Bill McClain and Jody [...]\nThe post UponAI Brings Telecom-Native Voice AI to MSPs, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "AI Voice Adoption Tests Global Contact Center Security",
-          "link": "https://telecomreseller.com/2026/10/09/ai-voice-adoption-tests-global-contact-center-security/",
-          "published": "Fri, 09 Oct 2026 16:08:58 +0000",
-          "summary": "By Moshe Beauford, Editor AI voice agents are moving into enterprise contact centers, but expanding deployments across international markets is proving more complicated than adopting the technology itself. A new [...]\nThe post AI Voice Adoption Tests Global Contact Center Security appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Net Insight Joins Oracle Marketplace",
-          "link": "https://telecomreseller.com/2026/10/09/net-insight-joins-oracle-marketplace/",
-          "published": "Fri, 09 Oct 2026 16:00:24 +0000",
-          "summary": "By Moshe Beauford, Editor Net Insight, a media networking technology provider, has made its cloud-native live media orchestration offering available through Oracle Cloud Marketplace. The offering uses Net Insight’s Nimbra [...]\nThe post Net Insight Joins Oracle Marketplace appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Harmonic Brings New Fiber Monitoring Tools to Market",
-          "link": "https://telecomreseller.com/2026/10/09/harmonic-brings-new-fiber-monitoring-tools-to-market/",
-          "published": "Fri, 09 Oct 2026 15:54:19 +0000",
-          "summary": "By Moshe Beauford, Editor Broadband technology provider Harmonic is expanding its fiber network intelligence portfolio with two recent launches designed to help broadband operators detect faults, diagnose problems and manage [...]\nThe post Harmonic Brings New Fiber Monitoring Tools to Market appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
-      "items": [
-        {
-          "title": "Why Should CMOs Treat Earned Media as a Data Play?",
-          "link": "https://www.cmswire.com/digital-marketing/why-should-cmos-treat-earned-media-as-a-data-play/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Fri, 09 Oct 2026 13:51:38 -0500",
-          "summary": "Earned media is now the source AI, buyers and search engines cite most, turning a brand awareness play into one of your plan&apos;s most valuable strategies.\nContinue reading..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CPaaSAA",
@@ -323,12 +225,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0d4NUZFUkZwdVQtdDRlaDcxU1pwenllN2RwX2VPUlRpM0VYTk1TZ1NTOUlMaDF2X09EOGxncmptWFZGZERqV21zb2xPX1FjZW84eFFEb0Vrc0xvVjI2OVdocVlTYmhkeUFjUHFtTFhfRUVZa2lnVjVFamhUSWdnajhRMVRjeW1PWE04QnUwZ3pHaWRodHlrMFBKTFpXOVQ1TFhtZnF3NA?oc=5",
           "published": "Fri, 09 Oct 2026 20:54:53 GMT",
           "summary": "Delta’s loyalty and premium push continues to pay off&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "Just 5% of CX programs can prove their impact on revenue - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHkteFdOZHNmdnRHeG5XNnA2Tm9pM05ybWY0ZGNpbExjT2JkY1RweFJJT092aHZqa2h4S3B3dDdWLXY5UDRvZ2xUOVRPSnVwMVAxMlViZno1QkdPV3NyV1l3NWJTT011RHlZbDBTRU9NV3JrNDlLOEZDekM1SjFSaFdrVUltalhuYnpLNGZiYmNJcndsLTBqYzI0M1ZqZw?oc=5",
-          "published": "Fri, 09 Oct 2026 13:13:26 GMT",
-          "summary": "Just 5% of CX programs can prove their impact on revenue&nbsp;&nbsp;CX Dive"
         }
       ]
     },
@@ -336,22 +232,10 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
-          "title": "ROI for CS-Related AI Deployments Remains Elusive - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDhPU2xSeTNPaE5hLU5seVJ0cDZhS1NPdUFGRUxVb1NTTm5yV1dXYVVZNzNYejVhUG9qczBCcVluTUZMUnB1X0duR0lzLW9ScDI1dVdZMjJneXdyX0FBWlNRS3ZEM05TaVZla2xZUWpIZEVfaHY3LWNsS3l3OGE4TmJFUUNzdFBwN2FlSGNwejBoSXpfeXFOcXpFRkJxaDU5QXpKUjczU0REOENXWVNlM3VwYm9aNzU1LTFQS2NBWQ?oc=5",
-          "published": "Fri, 09 Oct 2026 15:26:39 GMT",
-          "summary": "ROI for CS-Related AI Deployments Remains Elusive&nbsp;&nbsp;Destination CRM"
-        },
-        {
-          "title": "Odido to offer cloud telephony from Dstny with AI agent, CRM integration - Telecompaper",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFBBZUk5RHllNTd5TlptVmRLdE1qQXZ6MnJMX3BDNjV3Y2wtMWJDSzF6dGctYjBpSU1PWWFhcnctUFJ4dHBlQ0JTVFdlcGZmMDhOcjZ0UVRTdzYzSWFPS1o3WTZ5aGlfWUVPQ3ViVDF4aUFucnB1dEJ6REF1cXBZVTkwVFF3X1hBQzE4WkFRdC1ZOGZuUVJCaHJUUGNXTE9hWlYxbllHTkxKTEQtSU5nUTI2Z0Q?oc=5",
-          "published": "Fri, 09 Oct 2026 13:11:05 GMT",
-          "summary": "Odido to offer cloud telephony from Dstny with AI agent, CRM integration&nbsp;&nbsp;Telecompaper"
-        },
-        {
-          "title": "AI Translation Needs More Than Speed to Serve Global Customers - CRM Buyer",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjZxaVJ2bi02dHJoNmJVYXBZeXFyUWpOQ3FBTUpOZXE4Sy10aXJqVmprUmlSbWxqY2UwenVZVllhZ2RGX01rRFhLbVlmY3JrRENkZjBSRHRDMFh6TEg3RGxWNkZhazJfZjUwRU5UeTJKZ016SHhKUlQyOWZudFlNckZNLUR2elVaMV9Ub1JxUV9kZ0dldFd4aWxKcU1PSEk0MmJ1SmJObDg?oc=5",
-          "published": "Fri, 09 Oct 2026 12:09:12 GMT",
-          "summary": "AI Translation Needs More Than Speed to Serve Global Customers&nbsp;&nbsp;CRM Buyer"
+          "title": "With My experience i am telling you You can make more on Money on building Agents for Non-Tech Startups - Reddit",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVJZdnZSZ2VXeEF4X1JWMFppeHlmZG1nVnRxUXE3XzhOSXdKaGdlYmhSVnVOMFpvZzJwV2ZMS3lrRnhPZWZEblVpVTBQZjI5Q0h0Y2ZsTmFmLWZsN1QwNW9COW56ZUxaQmNjbElaRHZiVFNKcEkxWjdZdTBLOVR1eVNTR0RaYnJqdmczd25BbnFQQUxXY1BZQUNldW9iV3FrWUg0?oc=5",
+          "published": "Sun, 11 Oct 2026 05:14:44 GMT",
+          "summary": "With My experience i am telling you You can make more on Money on building Agents for Non-Tech Startups&nbsp;&nbsp;Reddit"
         }
       ]
     },
@@ -375,103 +259,12 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGxSX2JPRWJUek1UWVBiSkhXN2JsMHlmZ2dfSjRoU1otZzh0bVhnVmppNmVRTnFRakNxVmNKYVh4UTdDNUhuZzNEcURQMDhHamdZdEZVT0djZnZaN1huVlNlX0NZMjBVVjNjV1ppdUFtTXAzZnhmaUNCaDBYMDZtZDV6dVNwTUVidFpFMjJwV0JIQk5HVi1HWDMyekhJOVZiRzJ2OWozdzN5V1F0?oc=5",
           "published": "Fri, 09 Oct 2026 20:33:21 GMT",
           "summary": "TD Synnex to acquire specialty distributor BlueStar leads news&nbsp;&nbsp;The ChannelPro Network"
-        },
-        {
-          "title": "Backup provider deal promises more resources for MSP partners - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGNUN1Z5T05xV0ZvQ09TcDNzR1VCR3A1ZGFkQVBvbU9iamJBR295RERQOUVtM2dpaC15bXVXNlJ0MENYR1R5Vmg0dExYU0pDRGEzSFk5amxtenlLZ1Y0Mm1haU9vQ2Z6WVNJdEd1Rk1fbEFqRTgzcm9DN0NwUGNTX3lCUlktTVI1ZzlsSHQxMWRDNWV2Y2EtUW16N0lBSUZrZ2J1eW04OHFEUHJS?oc=5",
-          "published": "Fri, 09 Oct 2026 17:23:30 GMT",
-          "summary": "Backup provider deal promises more resources for MSP partners&nbsp;&nbsp;The ChannelPro Network"
         }
       ]
     },
     {
       "name": "Futurum",
-      "items": [
-        {
-          "title": "Google Gemini Agent Puts the Agent Ahead of the Model",
-          "link": "https://futurumgroup.com/insights/google-gemini-agent-puts-the-agent-ahead-of-the-model/?utm_source=rss&utm_medium=rss&utm_campaign=google-gemini-agent-puts-the-agent-ahead-of-the-model",
-          "published": "Fri, 09 Oct 2026 16:17:14 +0000",
-          "summary": "The post Google Gemini Agent Puts the Agent Ahead of the Model appeared first on Futurum.\nNick Patience, VP and Practice Lead for AI Platforms at Futurum, shares his insights on the Google Gemini agent and why separating the agent from the model, Claude included, matters for enterprise buyers.\nThe post Google Gemini Agent Puts the Agent Ahead of the Model appeared first on Futurum."
-        },
-        {
-          "title": "SAP Expands Workforce Learning With WalkMe Learning Arc",
-          "link": "https://futurumgroup.com/insights/sap-expands-workforce-learning-with-walkme-learning-arc/?utm_source=rss&utm_medium=rss&utm_campaign=sap-expands-workforce-learning-with-walkme-learning-arc",
-          "published": "Fri, 09 Oct 2026 15:58:11 +0000",
-          "summary": "The post SAP Expands Workforce Learning With WalkMe Learning Arc appeared first on Futurum.\nKeith Kirkpatrick, Research Director at The Futurum Group shares insights on WalkMe Learning Arc’s SAP SuccessFactors integration and the milestones that will test its learning workflow.\nThe post SAP Expands Workforce Learning With WalkMe Learning Arc appeared first on Futurum."
-        },
-        {
-          "title": "SAP Makes Work Intelligence Central to SuccessFactors",
-          "link": "https://futurumgroup.com/insights/sap-makes-work-intelligence-central-to-successfactors/?utm_source=rss&utm_medium=rss&utm_campaign=sap-makes-work-intelligence-central-to-successfactors",
-          "published": "Fri, 09 Oct 2026 15:43:15 +0000",
-          "summary": "The post SAP Makes Work Intelligence Central to SuccessFactors appeared first on Futurum.\nKeith Kirkpatrick, Research Director at The Futurum Group shares insights on SAP’s TechWolf acquisition, workforce context for Joule, and work intelligence in SuccessFactors.\t\nThe post SAP Makes Work Intelligence Central to SuccessFactors appeared first on Futurum."
-        },
-        {
-          "title": "Google Collapses Enterprise AI Into a Single Gemini Agent at Gemini at Work 2026",
-          "link": "https://futurumgroup.com/insights/google-collapses-enterprise-ai-into-a-single-gemini-agent-at-gemini-at-work-2026/?utm_source=rss&utm_medium=rss&utm_campaign=google-collapses-enterprise-ai-into-a-single-gemini-agent-at-gemini-at-work-2026",
-          "published": "Fri, 09 Oct 2026 15:28:04 +0000",
-          "summary": "The post Google Collapses Enterprise AI Into a Single Gemini Agent at Gemini at Work 2026 appeared first on Futurum.\nKeith Kirkpatrick, VP, Research, Enterprise Software &#038; Digital Workflows at Futurum, shares his insights on Google's new Gemini agent and why giving coworker agents their own Workspace identities changes how enterprises deploy AI.\nThe post Google Collapses Enterprise AI Into a Single Gemini Agent at Gemini at Work 2026 appeared first on Futurum."
-        },
-        {
-          "title": "SailPoint Bets on Identity to Govern AI Agents at Navigate 2026",
-          "link": "https://futurumgroup.com/insights/sailpoint-bets-on-identity-to-govern-ai-agents-at-navigate-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sailpoint-bets-on-identity-to-govern-ai-agents-at-navigate-2026",
-          "published": "Fri, 09 Oct 2026 14:53:21 +0000",
-          "summary": "The post SailPoint Bets on Identity to Govern AI Agents at Navigate 2026 appeared first on Futurum.\nFernando Montenegro, VP at Futurum, analyzes SailPoint's Navigate 2026 launches, which extend just-in-time access, discovery, and autonomous agents to AI agents, and what they mean for identity teams.\nThe post SailPoint Bets on Identity to Govern AI Agents at Navigate 2026 appeared first on Futurum."
-        },
-        {
-          "title": "With Kong Volcano, Kong Hosts the Agents It Governs",
-          "link": "https://futurumgroup.com/insights/with-kong-volcano-kong-hosts-the-agents-it-governs/?utm_source=rss&utm_medium=rss&utm_campaign=with-kong-volcano-kong-hosts-the-agents-it-governs",
-          "published": "Fri, 09 Oct 2026 13:47:05 +0000",
-          "summary": "The post With Kong Volcano, Kong Hosts the Agents It Governs appeared first on Futurum.\nVikram Rathnam and Mitch Ashley of The Futurum Group share their analyst insights on Kong Volcano: what it gives developers building AI agents and whether Kong can host agents and still govern the ones it does not host.\nThe post With Kong Volcano, Kong Hosts the Agents It Governs appeared first on Futurum."
-        },
-        {
-          "title": "Microsoft Turns Dynamics 365 Into an Ambient CRM Layer",
-          "link": "https://futurumgroup.com/insights/microsoft-turns-dynamics-365-into-an-ambient-crm-layer/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-turns-dynamics-365-into-an-ambient-crm-layer",
-          "published": "Fri, 09 Oct 2026 13:00:33 +0000",
-          "summary": "The post Microsoft Turns Dynamics 365 Into an Ambient CRM Layer appeared first on Futurum.\nMicrosoft expands Dynamics 365 with autonomous AI agents across Teams, Outlook, and Copilot, addressing surging demand as 48.6% of decision makers plan agentic AI deployment in customer experience within 18 months.\nThe post Microsoft Turns Dynamics 365 Into an Ambient CRM Layer appeared first on Futurum."
-        },
-        {
-          "title": "Marvell Investor Day 2026 Targets $80B FY 2031 Revenue With Custom Silicon and Optics",
-          "link": "https://futurumgroup.com/insights/marvell-investor-day-2026-targets-80b-fy-2031-revenue-with-custom-silicon-and-optics/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-investor-day-2026-targets-80b-fy-2031-revenue-with-custom-silicon-and-optics",
-          "published": "Fri, 09 Oct 2026 12:45:40 +0000",
-          "summary": "The post Marvell Investor Day 2026 Targets $80B FY 2031 Revenue With Custom Silicon and Optics appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, shares his insights on the Marvell Investor Day, the $80 billion FY 2031 target, and whether custom silicon and scale-up optics can compound at 55% for five years.\nThe post Marvell Investor Day 2026 Targets $80B FY 2031 Revenue With Custom Silicon and Optics appeared first on Futurum."
-        },
-        {
-          "title": "AMD's Class Y Versal Package Extends AI Silicon to 15 Year Space Missions",
-          "link": "https://futurumgroup.com/insights/amds-class-y-versal-package-extends-ai-silicon-to-15-year-space-missions/?utm_source=rss&utm_medium=rss&utm_campaign=amds-class-y-versal-package-extends-ai-silicon-to-15-year-space-missions",
-          "published": "Fri, 09 Oct 2026 12:30:02 +0000",
-          "summary": "The post AMD&#039;s Class Y Versal Package Extends AI Silicon to 15 Year Space Missions appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, examines AMD's sampling of the Versal AI Core XQRVC1902 in a Class Y space-grade package, bringing AI compute density to 15-year human-rated and deep space missions for the first time.\nThe post AMD&#039;s Class Y Versal Package Extends AI Silicon to 15 Year Space Missions appeared first on Futurum."
-        },
-        {
-          "title": "FPT IS and Bytesforce Target ASEAN Insurtech Modernization",
-          "link": "https://futurumgroup.com/insights/fpt-is-and-bytesforce-target-asean-insurtech-modernization/?utm_source=rss&utm_medium=rss&utm_campaign=fpt-is-and-bytesforce-target-asean-insurtech-modernization",
-          "published": "Fri, 09 Oct 2026 12:23:25 +0000",
-          "summary": "The post FPT IS and Bytesforce Target ASEAN Insurtech Modernization appeared first on Futurum.\nFPT IS and Bytesforce Technologies announce strategic partnership targeting insurtech modernization in Vietnam and broader ASEAN markets, combining four decades of local expertise with advanced AI capabilities and core insurance platform technology.\nThe post FPT IS and Bytesforce Target ASEAN Insurtech Modernization appeared first on Futurum."
-        },
-        {
-          "title": "Astera Labs Bets on PCIe 7 as AI's Next Signal Bottleneck",
-          "link": "https://futurumgroup.com/insights/astera-labs-bets-on-pcie-7-as-ais-next-signal-bottleneck/?utm_source=rss&utm_medium=rss&utm_campaign=astera-labs-bets-on-pcie-7-as-ais-next-signal-bottleneck",
-          "published": "Fri, 09 Oct 2026 12:21:20 +0000",
-          "summary": "The post Astera Labs Bets on PCIe 7 as AI&#039;s Next Signal Bottleneck appeared first on Futurum.\nAstera Labs launches its broadest PCIe 7 signal-conditioning portfolio, including optical connectivity products, to address AI's growing interconnect demands. The expanded Aries family spans retimers, redrivers, and cable modules.\nThe post Astera Labs Bets on PCIe 7 as AI&#039;s Next Signal Bottleneck appeared first on Futurum."
-        },
-        {
-          "title": "Lattice Brings FPGAs and AMI Firmware to Arm's $15 Billion AGI CPU Server Push",
-          "link": "https://futurumgroup.com/insights/lattice-brings-fpgas-and-ami-firmware-to-arms-15-billion-agi-cpu-server-push/?utm_source=rss&utm_medium=rss&utm_campaign=lattice-brings-fpgas-and-ami-firmware-to-arms-15-billion-agi-cpu-server-push",
-          "published": "Fri, 09 Oct 2026 12:15:58 +0000",
-          "summary": "The post Lattice Brings FPGAs and AMI Firmware to Arm&#039;s $15 Billion AGI CPU Server Push appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, shares insights on the Lattice-Arm collaboration placing Lattice FPGAs and AMI firmware inside Arm AGI CPU server platforms as the merchant Arm server era begins.\nThe post Lattice Brings FPGAs and AMI Firmware to Arm&#039;s $15 Billion AGI CPU Server Push appeared first on Futurum."
-        },
-        {
-          "title": "SpaceX Closes the Final Gap to Become America's First Satellite-Terrestrial Carrier",
-          "link": "https://futurumgroup.com/insights/spacex-closes-the-final-gap-to-become-americas-first-satellite-terrestrial-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=spacex-closes-the-final-gap-to-become-americas-first-satellite-terrestrial-carrier",
-          "published": "Fri, 09 Oct 2026 12:13:42 +0000",
-          "summary": "The post SpaceX Closes the Final Gap to Become America&#039;s First Satellite-Terrestrial Carrier appeared first on Futurum.\nSpaceX achieved two major Starlink Mobile milestones: acquiring 14 MHz of 800 MHz spectrum and gaining FCC approval for its Gen2 constellation of 15,000 satellites, making it America's first integrated satellite-terrestrial carrier.\nThe post SpaceX Closes the Final Gap to Become America&#039;s First Satellite-Terrestrial Carrier appeared first on Futurum."
-        },
-        {
-          "title": "Astera Labs Aries 7 Goes Optical. Can PCIe 7 Outgrow the Retimer Plateau?",
-          "link": "https://futurumgroup.com/insights/astera-labs-aries-7-goes-optical-can-pcie-7-outgrow-the-retimer-plateau/?utm_source=rss&utm_medium=rss&utm_campaign=astera-labs-aries-7-goes-optical-can-pcie-7-outgrow-the-retimer-plateau",
-          "published": "Fri, 09 Oct 2026 12:00:46 +0000",
-          "summary": "The post Astera Labs Aries 7 Goes Optical. Can PCIe 7 Outgrow the Retimer Plateau? appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, examines Astera Labs Aries 7, the first PCIe 7 signal conditioning portfolio across copper and optics, and whether it can turn a maturing retimer franchise into an optical growth driver.\nThe post Astera Labs Aries 7 Goes Optical. Can PCIe 7 Outgrow the Retimer Plateau? appeared first on Futurum."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Verdict",
@@ -535,31 +328,11 @@
     },
     {
       "name": "CXM Customer Experience Magazine",
-      "items": [
-        {
-          "title": "Your CX News Roundup: ASOS Hacked, HubSpot Cuts 660 Jobs, and Cisco Gives AI Agents a Memory",
-          "link": "https://cxm.world/customer-experience/customer-experience-news-roundup-october-9-2026/",
-          "published": "Fri, 09 Oct 2026 13:29:32 +0000",
-          "summary": "This week in your customer experience news roundup, ASOS customers received an extortion message through the brand&#8217;s own app; HubSpot announced 660 job cuts as it reorganises around customer outcomes; Washington froze green card applications at eight major IT firms, and Cisco unveiled a memory layer for its AI agents. SAP, ServiceNow, and CX Day...\nThe post Your CX News Roundup: ASOS Hacked, HubSpot Cuts 660 Jobs, and Cisco Gives AI Agents a Memory appeared first on Customer Experience Mag"
-        },
-        {
-          "title": "ServiceNow Becomes Bundesliga’s CRM Partner as Caseload Drops by Half",
-          "link": "https://cxm.world/customer-experience/bundesliga-first-contact-resolution-servicenow/",
-          "published": "Fri, 09 Oct 2026 12:16:46 +0000",
-          "summary": "Bundesliga has made ServiceNow its Official CRM Partner, and reports a first contact resolution rate of 89% from the fan service platform it launched in August 2026. The deal extends a relationship that began last year, when the company became the league&#8217;s Official Workflow Partner. Fan enquiries from the Bundesliga app, website, email, and social...\nThe post ServiceNow Becomes Bundesliga&#8217;s CRM Partner as Caseload Drops by Half appeared first on Customer Experience Magazine."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CX Foundation - Google News",
-      "items": [
-        {
-          "title": "Genesys Takes Action on AI Customers, Partners with Meta, Sierra to Deliver a Personal Agent Protocol - CX Foundation",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wS0Y5Yko2ek1MS1lGMHVqdEZEMjZWYmVRbDBhYWFoXzIyc0V6ZkxfSE1wZXYwdHBNbXJCTV8xMzRySl9BSWdDUEVRejFZbm9yMGh4RmFtZDNISW5sTlp0WkFNSnRLZkFyZzAxWVVn?oc=5",
-          "published": "Fri, 09 Oct 2026 14:41:01 GMT",
-          "summary": "Genesys Takes Action on AI Customers, Partners with Meta, Sierra to Deliver a Personal Agent Protocol&nbsp;&nbsp;CX Foundation"
-        }
-      ]
+      "items": []
     }
   ]
 }
