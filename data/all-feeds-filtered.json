@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T19:07:29.036046+00:00",
+  "generated_at": "2026-10-12T13:25:22.727782+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 3,
@@ -31,30 +31,23 @@
     },
     {
       "name": "Google Alert - Cisco Webex",
-      "items": [
-        {
-          "title": "<b>Cisco</b> turns <b>Webex</b> into an AI agent workspace with Claude built in - Startup Fortune",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/cisco-turns-webex-into-an-ai-agent-workspace-with-claude-built-in/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1FRedeyEZJhcbkOVGtjU_Y",
-          "published": "2026-10-10T11:41:46Z",
-          "summary": "Cisco unveiled Claude Managed Agents in Webex at WebexOne 2026, alongside RoomOS 27 and OpenAI's dot agents, with most features landing in early&nbsp;..."
-        },
-        {
-          "title": "Post-Chat Agent Harnesses - Trend Hunter",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trendhunter.com/trends/post-chat-agent-harnesses&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2der4hSl9ASVhL3nwhl3DZ",
-          "published": "2026-10-09T23:20:06Z",
-          "summary": "Running inside Cisco AI Defense guardrails, with observability in Splunk, gives Webex customers a governed way to let automation continue handling&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco</b> adds AI and data expert Girish Rishi to i... - Pluang",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://pluang.com/en/news-feed/cisco-tunjuk-girish-rishi-ke-dewan-direksi&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw335BDJ4hqYOLM9wsIj6vCx",
-          "published": "2026-10-09T20:15:31Z",
-          "summary": "Cisco upgrades Webex with AI&nbsp;..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "How CX Leaders Should Own AI Agent Performance",
+          "link": "https://cxtoday.com/how-cx-leaders-should-own-ai-agent-performance-centrical-cs-0249",
+          "published": "Mon, 12 Oct 2026 12:31:00 GMT",
+          "summary": "CX leaders must link AI agent activity to business outcomes. CX Today speaks with Centrical CEO Gal Rimon on hybrid teams, governance and orchestration."
+        },
+        {
+          "title": "Redesign Not Replace: How to Prepare Your Frontline Team Successfully",
+          "link": "https://cxtoday.com/redesign-not-replace-how-to",
+          "published": "Mon, 12 Oct 2026 08:01:00 GMT",
+          "summary": "This week’s WFM news shows why CX leaders must redesign work, skills and planning around AI automation."
+        },
         {
           "title": "The Community Platform Migration Fight Just Got More Expensive",
           "link": "https://cxtoday.com/the-community-platform-migration-fight-just-got-more-expensive",
@@ -66,12 +59,6 @@
           "link": "https://cxtoday.com/the-reliability-stories-cx-leaders-cant-afford-to-miss",
           "published": "Sat, 10 Oct 2026 14:01:00 GMT",
           "summary": "Why customer journeys now fail between systems, not inside them. CX Today looks at Cloudflare, Fastly, Twilio, GitHub and Atlassian."
-        },
-        {
-          "title": "What ASOS, AI Agents and 400+ Vulnerabilities Reveal About CX Risk",
-          "link": "https://cxtoday.com/what-asos-ai-agents-and-400-vulnerabilities-reveal-about-cx-risk",
-          "published": "Sat, 10 Oct 2026 11:01:00 GMT",
-          "summary": "Why CX teams should care: ASOS, IBM, Red Hat, Anthropic and Cloudflare show how AI agents and 400+ vulnerabilities can expose customer data and services."
         }
       ]
     },
@@ -81,62 +68,7 @@
     },
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
-      "items": [
-        {
-          "title": "Dynamics 365 Project Operations: Import task - Public API support",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574365",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "Public APIs for the Import tasks capability enable customers and partners to programmatically import tasks from one project into another. Organizations can call these APIs from custom applications, integrations, or automated workflows instead of requiring a user to initiate each import manually.\nThe APIs support repeatable project-creation and planning scenarios, such as populating new projects with tasks from templates or previously completed projects. Customers can incorporate task imports int"
-        },
-        {
-          "title": "Dynamics 365 Sales: Choose the data sources AI-powered Data Enrichment uses, including CRM notes",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574364",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "AI-powered Data Enrichment now lets admins choose which data sources the agent uses to enrich records. Outlook emails, Teams meetings, and the new CRM notes source each have their own control toggle, and the agent keeps running as long as at least one source is toggled on. Admins no longer need to connect every permission before they create the agent. With CRM notes, the agent extracts insights from manual notes added to supported records and uses them to enrich those records, with no tenant adm"
-        },
-        {
-          "title": "Microsoft Teams: Pro Management portal Analytics & Reports Design Refresh",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574362",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "We are refreshing the way we organize the Analytics &amp; Reports area in the Pro Management portal to make it more user-friendly.GA date: December CY2026"
-        },
-        {
-          "title": "Dynamics 365 Finance: Improved Matrix visual performance for large table",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574119",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "Business Performance Planning introduce Virtualization to optimizes how the Matrix visual renders large planning datasets. Rather than loading and displaying the entire dataset at once, the visual progressively renders the rows and columns needed as users scroll, expand, collapse, and navigate through the Matrix. This reduces the amount of data processed by the browser at any one time and helps maintain visual responsiveness at scale.GA date: October CY2026"
-        },
-        {
-          "title": "Microsoft Teams: Events now support up to 20,000 registrations, making it easier to reach and engage larger audiences at scale",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574110",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "Connect with more attendees than ever before with Teams Events, now supporting up to 20,000 registrations for organizers with valid Attendee packs.GA date: November CY2026"
-        },
-        {
-          "title": "Dynamics 365 Supply Chain Management: Procurement Agent - Customize the Procurement Agent supplier follow-up criteria",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573704",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "Organizations often use business-specific data and criteria to determine when suppliers require follow-up on purchase orders. The Procurement Agent will enable buyers to extend supplier follow-up criteria using related standard, extended, and custom table data. Buyers can add table joins and use fields from those tables as filter conditions, providing greater flexibility to determine which purchase order lines qualify for supplier follow-up based on their organization’s processes and data.GA dat"
-        },
-        {
-          "title": "Microsoft Copilot (Microsoft 365): Scheduling with Copilot",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573220",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "Users can now schedule appointments and meetings directly from chat. Simply ask Copilot to create an appointment or schedule a meeting with colleagues, and it will find available times, book rooms, draft agendas, and send invites—all within the chat experience.GA date: October CY2026"
-        },
-        {
-          "title": "Microsoft Copilot Studio: Discover and use shared plugins in Copilot Studio",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570669",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "Copilot Studio now connects to Microsoft's shared plugin registry, making it easier for makers to discover and use plugins, connectors, and other available capabilities. This integration provides a more consistent way to extend agents with capabilities across Microsoft's AI ecosystem.GA date: November CY2026Preview date: October CY2026"
-        },
-        {
-          "title": "Outlook: Improved SharePoint file experience in file picker in Outlook mobile apps",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570442",
-          "published": "Fri, 09 Oct 2026 22:04:35 Z",
-          "summary": "Users can more easily work with SharePoint files in Outlook by saving email attachments directly to SharePoint and searching across SharePoint sites for files from the file picker.GA date: October CY2026"
-        }
-      ]
+      "items": []
     },
     {
       "name": "My Business Wire News",
@@ -168,10 +100,10 @@
       "name": "UC Today",
       "items": [
         {
-          "title": "The 53% Utilization Trap: Redefining Meeting Room ROI",
-          "link": "https://uctoday.com/the-53-utilization-trap-redefining-meeting-room-roi",
-          "published": "Sat, 10 Oct 2026 08:01:00 GMT",
-          "summary": "Office use is rising, so buyers need better ROI evidence. Logitech, CBRE and JLL data show where meeting rooms fail and what it costs, UC Today reports."
+          "title": "Is Humanoid Robotics Hype Outrunning Workplace Reality?",
+          "link": "https://uctoday.com/unitree-and-the-first-real-test-for-workplace-robots",
+          "published": "Mon, 12 Oct 2026 08:01:00 GMT",
+          "summary": "Why Unitree’s IPO matters: humanoid robots must prove safety, AI, connectivity and ROI before workplace leaders can scale them, UC Today reports."
         }
       ]
     },
@@ -189,7 +121,14 @@
     },
     {
       "name": "CMSWire.com - All News",
-      "items": []
+      "items": [
+        {
+          "title": "Voice AI Sounds Better. Is the Customer Experience Improving?",
+          "link": "https://www.cmswire.com/customer-experience/why-do-voice-assistants-sound-friendly-but-still-fail-customers/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Sun, 11 Oct 2026 13:36:18 -0500",
+          "summary": "A pleasant voice won’t fix a misheard date or a broken handoff. Here’s how CX leaders can build voicebots that resolve requests, not just chat.\nContinue reading..."
+        }
+      ]
     },
     {
       "name": "CPaaSAA",
@@ -215,16 +154,22 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
-          "title": "What ASOS, AI Agents and 400+ Vulnerabilities Reveal About CX Risk - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFdJdzBpWDBvdWFQdUM4Zkc5bW02UzR1VjdYdEpRT1daeXJkRFJXWWYyWmpSWmNha3N4Mkx2bGxVOU9TbEFabEVTMzVWMkY0aHUwMldlMWRTRXJYa090TTR4SDktOW1Rd253QTZabkU4NlQzZGhVV2FQRDNaN3ZoZHphUVRXbUtYWVZ5YQ?oc=5",
-          "published": "Sat, 10 Oct 2026 11:07:53 GMT",
-          "summary": "What ASOS, AI Agents and 400+ Vulnerabilities Reveal About CX Risk&nbsp;&nbsp;CX Today"
+          "title": "When grocery prices rise, in-store issues become more frustrating - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkhWRTdYclN2bkpsZl80ZTF1VmFOX2JqeG4xZlo5c3lwT1pveDBJODdza2dyaklhNVd5VG9Tb01JZ2owQ2p4Y0ZXTUF2SU5aczdyalhOdXJuY2hFa01uVEszZHluS1pqY2RmTHJzSHBVcFN2RlFwZlEtNTRMMFVIclM3SkVlQzRINm1odm5ZYmZtYm9wVHhwRUdJcmpHV2lIay1ENHRSLUlUUHBZMzAzZA?oc=5",
+          "published": "Mon, 12 Oct 2026 12:27:12 GMT",
+          "summary": "When grocery prices rise, in-store issues become more frustrating&nbsp;&nbsp;CX Dive"
         },
         {
-          "title": "Delta’s loyalty and premium push continues to pay off - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0d4NUZFUkZwdVQtdDRlaDcxU1pwenllN2RwX2VPUlRpM0VYTk1TZ1NTOUlMaDF2X09EOGxncmptWFZGZERqV21zb2xPX1FjZW84eFFEb0Vrc0xvVjI2OVdocVlTYmhkeUFjUHFtTFhfRUVZa2lnVjVFamhUSWdnajhRMVRjeW1PWE04QnUwZ3pHaWRodHlrMFBKTFpXOVQ1TFhtZnF3NA?oc=5",
-          "published": "Fri, 09 Oct 2026 20:54:53 GMT",
-          "summary": "Delta’s loyalty and premium push continues to pay off&nbsp;&nbsp;CX Dive"
+          "title": "New service to help firms boost customer experience - Greater Birmingham Chambers of Commerce",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEVibUp6S19OdnlkNmt1VkhNSm9lcThPTUZmRGpvWlhnWGFUejZ2NEJWVDBNYmdyc1d2M0NMcUY0VnBqNmlHeW54Z1JYX2VLbFU3QkpvNVRzOWY3MFRSRE1UUWlaSW11LTRyS0ZMUmZZVmthZ3M2aW5xVHF0WXcyMFpHVmhPanYtVWliSURTdFRxcjRFWkdkMDBZQU9EV004TFhFNlRJV3V0b0U?oc=5",
+          "published": "Mon, 12 Oct 2026 07:31:58 GMT",
+          "summary": "New service to help firms boost customer experience&nbsp;&nbsp;Greater Birmingham Chambers of Commerce"
+        },
+        {
+          "title": "CX Summit 2026 returns Bigger and Bolder. - The Malaysian Reserve",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm95a1ZRSmJoVXh5dFpub2E0dVVRMDYtZ1RncU5Jc2VDVURRTDJhS203dVMtbWFVVkY2Tmc5SFJKVURyR2FzamFEcGlBQ1RyNU5Ic3Z3UHh5THJOX0ZVemRFUkdCZlkzRGwxYnNtdUVEazBrV0YyVjBWZFVEd0o0cUVrMGkyN3d3ZnduZQ?oc=5",
+          "published": "Mon, 12 Oct 2026 05:51:24 GMT",
+          "summary": "CX Summit 2026 returns Bigger and Bolder.&nbsp;&nbsp;The Malaysian Reserve"
         }
       ]
     },
@@ -232,10 +177,16 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
-          "title": "With My experience i am telling you You can make more on Money on building Agents for Non-Tech Startups - Reddit",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVJZdnZSZ2VXeEF4X1JWMFppeHlmZG1nVnRxUXE3XzhOSXdKaGdlYmhSVnVOMFpvZzJwV2ZMS3lrRnhPZWZEblVpVTBQZjI5Q0h0Y2ZsTmFmLWZsN1QwNW9COW56ZUxaQmNjbElaRHZiVFNKcEkxWjdZdTBLOVR1eVNTR0RaYnJqdmczd25BbnFQQUxXY1BZQUNldW9iV3FrWUg0?oc=5",
-          "published": "Sun, 11 Oct 2026 05:14:44 GMT",
-          "summary": "With My experience i am telling you You can make more on Money on building Agents for Non-Tech Startups&nbsp;&nbsp;Reddit"
+          "title": "AI Agents for Customer Service Automation in Dynamics 365 CRM – Part 1 - Microsoft Power Platform Community",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGRFUTdtR1ViZGVxdTRpOXdsTl9zaDk4SlZoX2MteUZRamdWeUhNcTJNblhrMXJXVnBuSllBNEFzWVZCV2lRUEt2UlR5ek9Na3RWcFNwSktZTWdZbTVJUEtQZWR0dmVrQmtNcWN6eEtnaGs5M2RtbVk3aUcwWWVBNkZHVjlmbFpQZ0NnY2RINDNLanhEakE?oc=5",
+          "published": "Mon, 12 Oct 2026 06:49:14 GMT",
+          "summary": "AI Agents for Customer Service Automation in Dynamics 365 CRM – Part 1&nbsp;&nbsp;Microsoft Power Platform Community"
+        },
+        {
+          "title": "With 30 New CRM skills for Dynamics 365 CE, Microsoft aims to move more processes to Copilot, AI agents - MSDynamicsWorld.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFBUV2hsZ1NoUlNWTXotV2tVUmtYRVZ6RGZ1X2hXTVNSTW9CQ0hxcW9oVGx3WEVxS01uUjFPcnZWRmZ3aDVwcjY1UkRrZjRZaUhDanZOWHV6UUFuaWFTQWNMWE1HTGx3bExOdWtqNWw4amdoZkd6NzZyRVdwaW9Ga0NwQnVqLUpBRl85QVRURlpDNGtTS0tGb1M4ckE2cGFuVHNSVlhTVldxMU4xeWJUWTNnZThWSGFENGszQg?oc=5",
+          "published": "Sun, 11 Oct 2026 16:54:10 GMT",
+          "summary": "With 30 New CRM skills for Dynamics 365 CE, Microsoft aims to move more processes to Copilot, AI agents&nbsp;&nbsp;MSDynamicsWorld.com"
         }
       ]
     },
@@ -253,18 +204,18 @@
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "items": [
-        {
-          "title": "TD Synnex to acquire specialty distributor BlueStar leads news - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGxSX2JPRWJUek1UWVBiSkhXN2JsMHlmZ2dfSjRoU1otZzh0bVhnVmppNmVRTnFRakNxVmNKYVh4UTdDNUhuZzNEcURQMDhHamdZdEZVT0djZnZaN1huVlNlX0NZMjBVVjNjV1ppdUFtTXAzZnhmaUNCaDBYMDZtZDV6dVNwTUVidFpFMjJwV0JIQk5HVi1HWDMyekhJOVZiRzJ2OWozdzN5V1F0?oc=5",
-          "published": "Fri, 09 Oct 2026 20:33:21 GMT",
-          "summary": "TD Synnex to acquire specialty distributor BlueStar leads news&nbsp;&nbsp;The ChannelPro Network"
-        }
-      ]
+      "items": []
     },
     {
       "name": "Futurum",
-      "items": []
+      "items": [
+        {
+          "title": "Info Quest Technologies Becomes Cloudflare's Regional Distributor",
+          "link": "https://futurumgroup.com/insights/info-quest-technologies-becomes-cloudflares-regional-distributor/?utm_source=rss&utm_medium=rss&utm_campaign=info-quest-technologies-becomes-cloudflares-regional-distributor",
+          "published": "Mon, 12 Oct 2026 12:16:23 +0000",
+          "summary": "The post Info Quest Technologies Becomes Cloudflare&#039;s Regional Distributor appeared first on Futurum.\nInfo Quest Technologies has been appointed as Cloudflare's official distributor across Greece, Cyprus, and Malta, bringing enterprise-grade cloud networking and Zero Trust security solutions to a rapidly growing regional market.\nThe post Info Quest Technologies Becomes Cloudflare&#039;s Regional Distributor appeared first on Futurum."
+        }
+      ]
     },
     {
       "name": "Verdict",
@@ -311,16 +262,41 @@
       "name": "CX Dive",
       "items": [
         {
-          "title": "Delta’s loyalty and premium push continue to pay off",
-          "link": "https://www.customerexperiencedive.com/news/deltas-loyalty-and-premium-push-continue-to-pay-off/832656/",
-          "published": "Fri, 09 Oct 2026 16:41:00 -0400",
-          "summary": "Customers are spending more within the airline&rsquo;s loyalty ecosystem, especially on premium products, CEO Ed Bastian said on an earnings call."
+          "title": "When grocery prices rise, in-store issues become more frustrating",
+          "link": "https://www.customerexperiencedive.com/news/grocery-prices-rise-in-store-issues-become-more-frustrating/832635/",
+          "published": "Mon, 12 Oct 2026 07:00:00 -0400",
+          "summary": "Grocers can&rsquo;t stop inflation, but they have control over how it feels to shop their stores &mdash; and that can make the difference with customers, Axonify&rsquo;s Melissa Burghardt said."
+        },
+        {
+          "title": "What an autonomous CRM actually looks like",
+          "link": "https://www.customerexperiencedive.com/spons/what-an-autonomous-crm-actually-looks-like/831854/",
+          "published": "Mon, 12 Oct 2026 05:00:00 -0400",
+          "summary": "The autonomous CRM coordinates and completes work, keeping people in control for when judgment and empathy are needed"
+        },
+        {
+          "title": "How AI virtual agents are changing the resolution standard in the contact center",
+          "link": "https://www.customerexperiencedive.com/spons/how-ai-virtual-agents-are-changing-the-resolution-standard-in-the-contact-c-2/831225/",
+          "published": "Mon, 12 Oct 2026 05:00:00 -0400",
+          "summary": "AI virtual agents can now resolve issues end-to-end in the contact center &mdash; not just deflect them. Here's what resolution-first AI can mean for CX leaders."
         }
       ]
     },
     {
       "name": "Call Centre Helper",
-      "items": []
+      "items": [
+        {
+          "title": "What Is Average Handle Time (AHT) and How to Improve It",
+          "link": "https://www.callcentrehelper.com/average-handle-time-improve-it-277800.htm",
+          "published": "Mon, 12 Oct 2026 08:30:00 +0000",
+          "summary": "What’s really driving up your Average Handle Time? Richard Higginbotham from Netcall looks at where contact centres can improve efficiency, without sacrificing customer experience. Average handle time is one of the most widely used measures of contact centre performance. It...\nThe post What Is Average Handle Time (AHT) and How to Improve It appeared first on Call Centre Helper."
+        },
+        {
+          "title": "13 CXA Mistakes Every Contact Centre Leader Should Avoid",
+          "link": "https://www.callcentrehelper.com/cxa-mistakes-should-avoid-277822.htm",
+          "published": "Mon, 12 Oct 2026 07:00:00 +0000",
+          "summary": "Discover the CXA mistakes contact centre leaders should avoid, from poor handoffs and weak knowledge to over-automation, metric fixation, and lost trust.\nThe post 13 CXA Mistakes Every Contact Centre Leader Should Avoid appeared first on Call Centre Helper."
+        }
+      ]
     },
     {
       "name": "Light Reading",
@@ -328,7 +304,26 @@
     },
     {
       "name": "CXM Customer Experience Magazine",
-      "items": []
+      "items": [
+        {
+          "title": "The AI That Doesn’t Talk: What the Rise of ‘Decision Models’ Means for CX",
+          "link": "https://cxm.world/customer-experience/ai-decision-models-customer-experience/",
+          "published": "Mon, 12 Oct 2026 13:06:39 +0000",
+          "summary": "Within days of each other, OpenAI and Microsoft have released what they&#8217;re calling &#8220;AI decision models&#8221;, which choose between options instead of writing text. While that distinction may seem minor at face value, the implications for CX might be seismic. What Are AI Decision Models?&#160;&#160; An AI decision model takes an input, a question, and...\nThe post The AI That Doesn&#8217;t Talk: What the Rise of &#8216;Decision Models&#8217; Means for CX appeared first on Customer Exp"
+        },
+        {
+          "title": "Microsoft Takes Agentic CRM Into Copilot With 30 New Dynamics 365 Skills",
+          "link": "https://cxm.world/customer-experience/agentic-crm-microsoft-dynamics-365-copilot-skills/",
+          "published": "Mon, 12 Oct 2026 09:54:54 +0000",
+          "summary": "Microsoft has made 30 pre-built CRM skills generally available in Copilot Cowork, its tool for handing off multi-step work. The skills draw on Dynamics 365 Sales, Customer Service, and Customer Insights. They are also coming to Autopilot, which is in private preview, and to Code, which is available through Microsoft&#8217;s Frontier early-access programme. Deva Rajamohan,...\nThe post Microsoft Takes Agentic CRM Into Copilot With 30 New Dynamics 365 Skills appeared first on Customer Experience Ma"
+        },
+        {
+          "title": "Salesforce Renames AIForce as ‘SIForce’ in Nod to Trump: What Actually Changes for CX Teams?",
+          "link": "https://cxm.world/customer-experience/salesforce-super-intelligence-rebrand-siforce/",
+          "published": "Mon, 12 Oct 2026 08:34:40 +0000",
+          "summary": "Salesforce has joined the White House&#8217;s Super Intelligence rebrand. On Friday, 9 October, Chief Executive Marc Benioff wrote on X: &#8220;The era of Super Intelligence is here. AIForce is officially SIForce.&#8221; The platform, which plugs Salesforce data into tools such as Claude and Slack, launched at Dreamforce last month. The prompt, if you will, came...\nThe post Salesforce Renames AIForce as &#8216;SIForce&#8217; in Nod to Trump: What Actually Changes for CX Teams? appeared first on "
+        }
+      ]
     },
     {
       "name": "CX Foundation - Google News",
