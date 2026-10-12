@@ -43,6 +43,56 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco opens Webex workspace data to third-party agents",
+          "sowhat": "Cisco's MCP connector lets Microsoft, Google and Amazon agents query meeting rooms and device state — turning collaboration infrastructure into a shared data layer for enterprise AI.",
+          "url": "https://blog.webex.com/collaboration/bringing-ciscos-workspace-intelligence-every-ai-agent-already-use/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Walmart's Sparky AI drives cost savings into CX",
+          "sowhat": "Walmart CEO confirms AI is delivering operational savings that the retailer is reinvesting in customer experience — a rare public linkage of automation ROI to front-line service budgets.",
+          "url": "https://www.customerexperiencedive.com/news/ai-walmart-sparky-CX-investment/832789/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HSBC reportedly cutting 70% of UK financial advisers",
+          "sowhat": "HSBC's reported adviser cull signals a wholesale shift to AI-led advisory in UK wealth management, raising questions about regulatory acceptance and customer trust in high-stakes financial conversations.",
+          "url": "https://cxm.world/employee-experience/employee-experience-news-roundup-hsbc-ai-robo-bosses/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft to ship Maia 300 inference chip in 2027",
+          "sowhat": "Microsoft's second-gen Maia accelerator targets inference workloads, signalling the hyperscaler's intent to reduce Nvidia dependence for its Copilot and Azure AI services.",
+          "url": "https://www.constellationr.com/insights/news/microsoft-launch-maia-300-inference-chip-2027",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Deepgram targets air-gapped voice AI on laptops",
+          "sowhat": "Deepgram's on-device voice model aims at regulated and offline environments, positioning speech-to-text as infrastructure that no longer requires cloud round-trips or persistent connectivity.",
+          "url": "https://siliconangle.com/2026/10/12/deepgram-targets-voice-ai-air-gapped-laptops-dellaileadershipsymposium/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "SiliconANGLE"
         }
       ],
       "pattern_watch": "Microsoft and Salesforce both pushing agentic CRM surfaces into production within weeks"
@@ -967,5 +1017,5 @@
       "pattern_watch": "Three Webex product launches (translation, on-prem AI, governed WhatsApp) signal Cisco is embedding AI and compliance tools across its UC stack in response to hybrid-work permanence."
     }
   ],
-  "updated": "2026-10-12T14:52:26.994154+00:00"
+  "updated": "2026-10-12T22:24:04.728603+00:00"
 }
