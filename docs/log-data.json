@@ -1,6 +1,53 @@
 {
   "days": [
     {
+      "iso": "2026-10-12",
+      "label": "Mon 12 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Microsoft ships 30 Dynamics CRM skills to Copilot",
+          "sowhat": "Pre-built multi-step CRM automation now generally available in Copilot Cowork, with Autopilot handoff in private preview — Microsoft's first production agentic CRM surface.",
+          "url": "https://cxm.world/customer-experience/agentic-crm-microsoft-dynamics-365-copilot-skills/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce renames AIForce 'SIForce' following White House rebrand",
+          "sowhat": "Cosmetic rebrand aligns with Trump administration 'Super Intelligence' language but changes nothing technical in the Claude/Slack integration platform launched last month.",
+          "url": "https://cxm.world/customer-experience/salesforce-super-intelligence-rebrand-siforce/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "OpenAI and Microsoft launch 'decision model' AI class",
+          "sowhat": "New models choose between options rather than generate text, potentially shifting CX automation from chat deflection toward routing and triage use cases.",
+          "url": "https://cxm.world/customer-experience/ai-decision-models-customer-experience/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Info Quest becomes Cloudflare distributor in Greece, Cyprus, Malta",
+          "sowhat": "Regional distribution deal brings Zero Trust networking to smaller enterprise markets but changes nothing for UK or global CX infrastructure strategy.",
+          "url": "https://futurumgroup.com/insights/info-quest-technologies-becomes-cloudflares-regional-distributor/?utm_source=rss&utm_medium=rss&utm_campaign=info-quest-technologies-becomes-cloudflares-regional-distributor",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        }
+      ],
+      "pattern_watch": "Microsoft and Salesforce both pushing agentic CRM surfaces into production within weeks"
+    },
+    {
       "iso": "2026-10-11",
       "label": "Sun 11 Oct 2026",
       "rows": [
@@ -918,74 +965,7 @@
         }
       ],
       "pattern_watch": "Three Webex product launches (translation, on-prem AI, governed WhatsApp) signal Cisco is embedding AI and compliance tools across its UC stack in response to hybrid-work permanence."
-    },
-    {
-      "iso": "2026-10-04",
-      "label": "Sun 04 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Voice AI lawsuits target biometric consent gaps",
-          "sowhat": "Lowe's and Walmart voiceprint cases signal legal risk for contact centres using voice AI without explicit BIPA-compliant consent.",
-          "url": "https://cxtoday.com/voice-ai-lawsuits-put-contact-centers-on-bipa-watch",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce outage exposes dependency risk in CX",
-          "sowhat": "Extended downtime highlighted that CX platforms depend on multiple third-party services — a resilience gap buyers rarely map.",
-          "url": "https://cxtoday.com/salesforce-outage-chaos-the-week-uptime-lost-its-impact",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Shopify Canvas uses agentic AI for store build",
-          "sowhat": "Merchants can now co-build custom stores with Sidekick in 20 minutes, collapsing a traditional two-week developer timeline.",
-          "url": "https://futurumgroup.com/insights/shopify-canvas-agentic-ai-collapses-the-custom-store-barrier/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Modal launches multi-node GPU serverless compute",
-          "sowhat": "Clusters deliver InfiniBand-connected petaFLOP-scale workloads without infrastructure overhead — a path to production AI for mid-market enterprises.",
-          "url": "https://futurumgroup.com/insights/modal-clusters-ga-serverless-multi-node-gpus-for-every-enterprise/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Netcall adds AI process capture to Liberty Spark",
-          "sowhat": "New capabilities turn business knowledge into searchable processes and auto-generated apps, aiming to reduce manual workflow configuration.",
-          "url": "https://www.callcentrehelper.com/netcall-adds-new-ai-capabilities-277833.htm",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Call Centre Helper"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "BearingPoint: 73% see AI value, 13% scale it",
-          "sowhat": "A 1,050-executive study confirms organisational discipline, not tech readiness, is the primary barrier to moving pilots into production.",
-          "url": "https://futurumgroup.com/insights/ai-proves-value-but-only-13-of-organizations-scale-it/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": ""
     }
   ],
-  "updated": "2026-10-11T19:21:32.552777+00:00"
+  "updated": "2026-10-12T14:52:26.994154+00:00"
 }
