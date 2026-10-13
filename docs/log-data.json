@@ -63,6 +63,66 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce acquires Loops for agentic analytics",
+          "sowhat": "Loops brings continuous KPI monitoring and root-cause analysis into Tableau, widening Salesforce's lead in predictive CX intelligence over rivals relying on static dashboards.",
+          "url": "https://cxtoday.com/salesforce-loops-deal-targets-cx-problems-before-they-hit",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Sinch adds RCS to SAP Engagement Cloud",
+          "sowhat": "Businesses on SAP can now send richer, AI-powered conversations via RCS instead of plain SMS, raising the floor for branded customer messaging.",
+          "url": "https://telecomreseller.com/2026/10/13/sinch-expands-sap-partnership-with-rcs-integration-for-sap-engagement-cloud/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Q-SYS aligns with Microsoft Device Ecosystem Platform",
+          "sowhat": "IT teams gain a clearer path for deploying Teams, Copilot, and connected workplace data without juggling separate AV and UC certification matrices.",
+          "url": "https://uctoday.com/why-q-sys-and-microsoft-go-deeper-than-av-certification-qsc-cs-0233",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Workday to acquire C1.ai for agentic identity",
+          "sowhat": "Workday adds an identity layer specifically for AI agents, signalling that enterprises must now govern non-human actors alongside employees in the same IAM stack.",
+          "url": "https://futurumgroup.com/insights/workday-makes-sana-its-interface-launches-agent-harness-decision-and-work/?utm_source=rss&utm_medium=rss&utm_campaign=workday-makes-sana-its-interface-launches-agent-harness-decision-and-work",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": ""
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Octopus Deploy ships remote MCP for agentic DevOps",
+          "sowhat": "Removing per-machine MCP installation friction lets enterprises scale AI-driven deployment workflows without manual configuration on every endpoint.",
+          "url": "https://futurumgroup.com/insights/octopus-deploys-remote-mcp-removes-the-last-excuse-not-to-go-agentic/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-deploys-remote-mcp-removes-the-last-excuse-not-to-go-agentic",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "AI",
+          "headline": "Meta's Muse Charm enters pre-failure hype cycle",
+          "sowhat": "A pocket AI agent device must avoid Humane and Rabbit's fate by proving tangible value before the market decides it is a solution hunting for a problem.",
+          "url": "https://futurumgroup.com/insights/can-metas-muse-charm-create-enough-value-to-survive-its-own-initial-hype-cycle/?utm_source=rss&utm_medium=rss&utm_campaign=can-metas-muse-charm-create-enough-value-to-survive-its-own-initial-hype-cycle",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
       "pattern_watch": "Agentic CX: Meta/Genesys protocol, Twilio live memory, Salesforce Loops buy all point to infrastructure for autonomous customer agents"
@@ -967,5 +1027,5 @@
       "pattern_watch": "Three items (SAP CX agents, SAP tabular AI, Oracle Health AI) share one thread: major enterprise vendors embedding autonomous AI into core workflows, not just pilot chatbots."
     }
   ],
-  "updated": "2026-10-13T13:51:15.419225+00:00"
+  "updated": "2026-10-13T20:30:52.775446+00:00"
 }
