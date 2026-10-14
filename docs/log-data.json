@@ -63,9 +63,89 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "Light Reading"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Sanas launches supervised AI for contact-center calls",
+          "sowhat": "One supervisor can now oversee four AI-led customer calls, a ratio that lowers cost but concentrates accountability risk if agents cannot intervene fast enough.",
+          "url": "https://cxtoday.com/sanas-launches-supervised-ai-to-keep-humans-in-control-of-ai-customer",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "GetixHealth picks Webex Contact Center for medical billing",
+          "sowhat": "A vertical win for Cisco in a regulated sector where AI must run on predictable infrastructure, not just promise convenience.",
+          "url": "https://cxtoday.com/webexone-2026-getixhealth-on-buying-into-the-webex-roadmap",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Yealink ships MP66W Teams Phone for shared spaces",
+          "sowhat": "Frontline workers still want a handset they can pick up; native Teams certification matters when softphone apps fail in high-noise environments.",
+          "url": "https://uctoday.com/untethered-yealinks-mp-portfolio-frees-the-desk-phone-yealink-cs-0227",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Atlassian launches AMP agent platform with governed context",
+          "sowhat": "Atlassian brings agents into shared workflows with clear identity and oversight, targeting the gap between pilot demos and production trust.",
+          "url": "https://uctoday.com/atlassians-ai-plan-puts-employee-engagement-first",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "Context graphs become the new agent memory battleground",
+          "sowhat": "Atlassian, Wrike, Google, SAP, and Asana are racing to own the semantic layer that tells agents what they may touch—winner writes the agentic rulebook.",
+          "url": "https://uctoday.com/the-context-graph-fight-who-owns-your-agents-memory",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Aragon coins ICX category merging UC and CCaaS",
+          "sowhat": "A new label for platform convergence that vendors already ship; the test is whether enterprises buy one system or keep two with an integration tax.",
+          "url": "https://www.ringcentral.com/us/en/blog/icx-aragon-new-category-business-communications/",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "RingCentral (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft ends Office LTSC 2021 support today",
+          "sowhat": "Enterprises still running perpetual Office lose security patches; Microsoft's leverage to push cloud subscriptions just increased materially.",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/office-ltsc-2021-support-ends-today/ba-p/4562577",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Microsoft (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce acquires Loops to embed agentic analytics in Tableau",
+          "sowhat": "Salesforce bets continuous KPI monitoring and root-cause agents will extend its analytics lead before competitors ship similar capabilities.",
+          "url": "https://futurumgroup.com/insights/salesforce-bets-on-loops-to-extend-its-analytics-lead-with-agentic-intelligence/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "Two items share a thread: Salesforce/Loops and Sanas both point to the shift from reporting to explaining—root-cause vs. volume."
+      "pattern_watch": "Context graphs / agent memory: Atlassian AMP, Wrike, Google, SAP, Asana all launch competing semantic layers this week."
     },
     {
       "iso": "2026-10-13",
@@ -957,5 +1037,5 @@
       "pattern_watch": "Three vendors (Cisco, SAP, ServiceNow) launched AI agent orchestration layers this week, each positioning context and workflow coordination as the differentiator beyond simple task automation."
     }
   ],
-  "updated": "2026-10-14T11:28:30.337128+00:00"
+  "updated": "2026-10-14T19:11:28.368481+00:00"
 }
