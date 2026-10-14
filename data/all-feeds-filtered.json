@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-13T20:20:15.727639+00:00",
+  "generated_at": "2026-10-14T10:28:31.601578+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 4,
   "fetch_errors": [
     {
-      "name": "Webex Blog",
-      "url": "https://blog.webex.com/feed/",
-      "error": "403 Client Error: Forbidden for url: https://blog.webex.com/feed/"
-    },
-    {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw=="
+    },
+    {
+      "name": "Telecom Reseller / Technology Reseller News",
+      "url": "https://telecomreseller.com/feed/",
+      "error": "403 Client Error: Forbidden for url: https://telecomreseller.com/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -38,46 +38,40 @@
       "name": "Google Alert - Cisco Webex",
       "items": [
         {
-          "title": "UK Regains Early Access to AI Models After Reported White House Reversal",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techrepublic.com/article/news-uk-ai-model-access-white-house-reversal-emea/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0G1_XcGE2YdAmMp-cj071W",
-          "published": "2026-10-13T08:12:21Z",
-          "summary": "Cisco's Webex is bringing together enterprise context, collaboration software and AI agents to its platform. The company is extending this idea beyond&nbsp;..."
+          "title": "Sign in - WEBEX Login",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://web.webex.com/sign-in&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0uIyJgzNcnYThCzzRVmrHb",
+          "published": "2026-10-13T21:25:08Z",
+          "summary": ""
         },
         {
-          "title": "<b>Cisco</b> Announces <b>Webex</b> AI Agents: What IT Should Know - TechRepublic",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techrepublic.com/article/news-cisco-webex-ai-agents-meetings-customer-service/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3-TWoT25KmS9uhAeM4qeup",
-          "published": "2026-10-12T20:16:07Z",
-          "summary": "Cisco wants AI agents to work inside Webex meetings, messages and customer-service workflows, giving IT teams new integration and oversight&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco</b> shares fall 3.3% to $114.52 as <b>Webex</b> AI agents keep working after calls end",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/cisco-shares-fall-3-3-to-114-52-as-webex-ai-agents-keep-working-after-calls-end&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1EfoA9kmm13uv8o7k1-DQ9",
-          "published": "2026-10-12T19:30:02Z",
-          "summary": "Cisco Systems (NASDAQ:CSCO) has added AI agents to Webex that keep working on tasks after a conversation ends. Its shares traded at $114.52 on&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco</b> Stocks Drop 3.3% as <b>Webex</b> Agents Keep Working After Calls - Yahoo Finance",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-drop-3-3-185951303.html&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw13z52bwf2CGzj-ULPJUoHz",
-          "published": "2026-10-12T19:29:30Z",
-          "summary": "Cisco Systems (NASDAQ:CSCO), the networking, security and collaboration provider, expanded its Webex AI ambitions with agents designed to keep tasks&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco</b> Stocks Drop 3.3% as <b>Webex</b> Agents Keep Working After Calls - TradingView",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/gurufocus:d51f7278d094b:0-cisco-stocks-drop-3-3-as-webex-agents-keep-working-after-calls/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw02Y5Z4KSKbKGa01lkMoo8E",
-          "published": "2026-10-12T19:14:39Z",
-          "summary": "Cisco Systems NASDAQ:CSCO, the networking, security and collaboration provider, expanded its Webex AI ambitions with agents designed to keep tasks&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco</b> Stocks Drop 3.3% as <b>Webex</b> Agents Keep Working After Calls - GuruFocus",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gurufocus.com/news/9119430/cisco-stocks-drop-33-as-webex-agents-keep-working-after-calls&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2Fw0ULZRbyw5FYASViaVro",
-          "published": "2026-10-12T18:10:17Z",
-          "summary": "Cisco Systems (CSCO), the networking, security and collaboration provider, expanded its Webex AI ambitions with agents designed to keep tasks&nbsp;..."
+          "title": "WebexOne 2026: Key themes and why they matter to network engineers",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.networkworld.com/article/4234623/webexone-2026-key-themes-and-why-they-matter-to-network-engineers.html&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1rWKXoj9p50w9NewHCEuvQ",
+          "published": "2026-10-13T18:37:50Z",
+          "summary": "At Cisco's WebexOne 2026 event in Austin, it became clear that this division of labor is ending. Over two days of keynotes and analyst sessions, Cisco&nbsp;..."
         }
       ]
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Can Enterprises Trust AI to Do the Work, Not Just the Demo?",
+          "link": "https://cxtoday.com/can-enterprises-trust-ai-to-deliver-outcomes-not-just-pilots-tatacommunications",
+          "published": "Wed, 14 Oct 2026 09:31:00 GMT",
+          "summary": "Enterprises need AI that finishes work, not just demos. Tata Communications explains touchless resolution, AI handoffs and production-ready CX pilots in CX Toda"
+        },
+        {
+          "title": "Why Martech Alignment Matters More Than Features",
+          "link": "https://cxtoday.com/why-martech-alignment-matters-more-than-features",
+          "published": "Wed, 14 Oct 2026 08:01:00 GMT",
+          "summary": "Tom Kaneshige explains why martech investments underperform and how CMOs can align technology, skills, and workflows for value."
+        },
+        {
+          "title": "CCW Nashville 2026: Key AI and Customer Experience Takeaways",
+          "link": "https://cxtoday.com/ccw-nashville-2026-key-ai-and-customer-experience-takeaways",
+          "published": "Wed, 14 Oct 2026 07:36:55 GMT",
+          "summary": "Sanas Supervised AI lets one person oversee four AI-led customer calls, aiming to scale voice automation without losing human accountability."
+        },
         {
           "title": "Salesforce Loops Deal Targets CX Problems Before They Hit",
           "link": "https://cxtoday.com/salesforce-loops-deal-targets-cx-problems-before-they-hit",
@@ -125,12 +119,6 @@
           "link": "https://cxtoday.com/how-cx-leaders-should-own-ai-agent-performance-centrical-cs-0249",
           "published": "Mon, 12 Oct 2026 12:31:00 GMT",
           "summary": "CX leaders must link AI agent activity to business outcomes. CX Today speaks with Centrical CEO Gal Rimon on hybrid teams, governance and orchestration."
-        },
-        {
-          "title": "Redesign Not Replace: How to Prepare Your Frontline Team Successfully",
-          "link": "https://cxtoday.com/redesign-not-replace-how-to",
-          "published": "Mon, 12 Oct 2026 08:01:00 GMT",
-          "summary": "This week’s WFM news shows why CX leaders must redesign work, skills and planning around AI automation."
         }
       ]
     },
@@ -141,6 +129,114 @@
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
       "items": [
+        {
+          "title": "SharePoint: Agent chat web part",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575298",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "This is a new web part available for modern page editors in SharePoint. The web part can be configured to use any M365 Copilot agent.GA date: January CY2027Preview date: November CY2026"
+        },
+        {
+          "title": "Microsoft Purview: Data Loss Prevention-Admin Units Support for Copilot & Cowork DLP",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575287",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Microsoft Purview Data Loss Prevention is extending Administrative Units support to Microsoft 365 Copilot, Copilot Chat, and Cowork. This enables organizations to delegate management of supported Copilot DLP policies to administrators within their assigned Administrative Units, supporting regional, departmental, and regulatory boundaries without granting tenant-wide policy-management permissions. Existing tenant-wide policies continue to apply, and configuration is optional for organizations cho"
+        },
+        {
+          "title": "Microsoft Purview: Information Protection-Auto-labeling for legacy Office files",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574363",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Microsoft Purview server-side auto-labeling will support legacy Microsoft Office file formats, including Word (.doc), Excel (.xls), and PowerPoint (.ppt). Organizations can automatically evaluate and apply sensitivity labels to these files in SharePoint and OneDrive.GA date: November CY2026Preview date: November CY2026"
+        },
+        {
+          "title": "Visio: Desktop Model Context Protocol (MCP) Server",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574125",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "The Microsoft Visio Desktop MCP Server enables compatible AI clients to connect with the Visio Desktop application to create, read, and update Visio diagrams using natural language. It runs locally on Windows and requires a licensed Visio Desktop application.GA date: June CY2027Preview date: November CY2026"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Enable MCP tools for POS returns",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574124",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "This feature provides reusable MCP tools for Store Commerce POS returns. These tools expose Commerce return capabilities as structured actions that customers, partners, and agent developers can use to build conversational or agentic return experiences.\nThe tools enable agentic experiences to look up the original purchase using supported identifiers such as receipt, order, invoice, or confirmation number; retrieve matching transactions and returnable lines; identify items that are returnable, par"
+        },
+        {
+          "title": "Dynamics 365 Finance: Improved planning writeback performance and flexibility",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574118",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Business performance planning improves the performance and flexibility of writeback from the Matrix visual.\nWriteback processing has been optimized to improve performance for planning adjustments, particularly for larger splash and multi-update operations. The improvements also optimize writeback for users with dimension security, where additional security validation is required.\nIn addition, report designers no longer need to include a field from every cube dimension in the Matrix visual to ena"
+        },
+        {
+          "title": "Dynamics 365 Finance: Manage dimension security with Microsoft Entra groups",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574117",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Administrators can now assign Microsoft Dataverse group teams backed by Microsoft Entra groups to Business performance planning dimension security groups. Previously, dimension security assignments were limited to individual users. The updated experience allows administrators to view and add eligible Entra group-backed teams alongside users, with separate membership information for each assignment type.\nTo use this capability, the Dataverse group team must first be configured correctly and assig"
+        },
+        {
+          "title": "Dynamics 365 Finance: Collaborative comments for planning cubes and dimensions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574116",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Create and manage contextual discussion threads directly on planning cubes and dimensions. Users can comment on dimension cells, detailed or aggregate cube cells, and reporting rows; reply to and mention colleagues; receive email notifications; and resolve or reactivate discussions. Public and private visibility options, together with an All Comments view, filters, export, and role-based management actions, support collaboration throughout the planning cycle.GA date: October CY2026"
+        },
+        {
+          "title": "Power Apps: Manage model-driven app AI features from consolidated settings",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574104",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Consolidated AI settings make it easier for makers and admins to find and manage AI capabilities for model-driven apps across two complementary surfaces.\nIn Maker Studio, the Settings dialog in the model app form designer adds a new top-level Copilot and AI tab. Makers can see and adjust all available AI options for the app in one place instead of finding them scattered among all the other settings.\nIn the Power Platform admin center, model-driven app AI settings are consolidated from Environmen"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Procurement Agent - Define custom scenarios for agent-generated supplier emails",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573705",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Business end-users and buyers can define and maintain their own outbound follow-up scenarios and use them wherever built-in scenarios are used today:\n\nScenario maintenance — a dedicated setup page where users create, edit, and maintain custom follow-up scenarios. Each scenario carries its own name, the instructions that shape the email the agent writes, and the business entity it applies to.\nScenario-driven configuration — follow-up configurations are built around the chosen scenario, so criteri"
+        },
+        {
+          "title": "Outlook: Copilot Chat available in shared and delegate mailboxes",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573698",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Shared mailbox users and delegates with read and manage (full access) and/or mail folder-level permission will now be able to access Copilot Chat directly from their shared and delegate mailboxes in classic Outlook, when added as a resource.GA date: November CY2026"
+        },
+        {
+          "title": "Power Pages: Create Power Pages SPA site from the Power Pages studio",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573277",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Quickly get started with modern single-page application (SPA) development by creating a site directly from Power Pages Studio. Continue building and customizing your experience using your preferred development tools and frameworks.GA date: November CY2026"
+        },
+        {
+          "title": "Work IQ: Microsoft IQ",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570870",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Provide a unified intelligence layer that helps agents discover, reason over, and use organizational knowledge.GA date: January CY2027Preview date: November CY2026"
+        },
+        {
+          "title": "Work IQ: REST endpoint tools",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570868",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Enable agents to use supported REST endpoints as tools through governed Work IQ integrations.GA date: November CY2026Preview date: October CY2026"
+        },
+        {
+          "title": "Work IQ: A2A and MCP elicitation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570852",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Enable A2A and MCP tasks to request missing information or authorization and then resume.GA date: November CY2026Preview date: October CY2026"
+        },
+        {
+          "title": "Work IQ: A2A and MCP long running tasks",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570851",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Enable durable long-running A2A and MCP tasks with progress tracking, later result retrieval, and cancellation.GA date: November CY2026Preview date: October CY2026"
+        },
+        {
+          "title": "Work IQ: Retrieve",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570673",
+          "published": "Tue, 13 Oct 2026 23:01:05 Z",
+          "summary": "Enable agents to retrieve relevant Microsoft 365 content and context through Work IQ.GA date: November CY2026Preview date: October CY2026"
+        },
+        {
+          "title": "Microsoft Teams: View files and conversations side by side",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574094",
+          "published": "Mon, 12 Oct 2026 23:01:05 Z",
+          "summary": "Review shared files without losing conversation context. When you open a PDF, Markdown, or HTML file from a Teams chat or channel message, the conversation appears alongside the file and takes you directly to where it was shared, allowing you to catch up on the discussion and respond without closing the file preview or switching back to chat.GA date: November CY2026"
+        },
         {
           "title": "Microsoft Purview: Data Loss Prevention-Apply Purview network data security DLP policies to all websites, or all websites except specific cloud apps, through Entra GSA Internet Access integration",
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575285",
@@ -164,12 +260,6 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574105",
           "published": "Mon, 12 Oct 2026 23:01:05 Z",
           "summary": "Sales Development Agent now integrates with Salesforce, enabling organizations to use SDA with their existing Salesforce CRM. SDA can access leads, manage prospect records, log sales activities, and keep engagement actions—including qualification, disqualification, and ownership changes—connected to the CRM workflow. The integration uses Microsoft’s Salesforce Model Context Protocol (MCP) server to connect SDA with Salesforce.GA date: October CY2026"
-        },
-        {
-          "title": "Microsoft Teams: View files and conversations side by side",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574094",
-          "published": "Mon, 12 Oct 2026 23:01:05 Z",
-          "summary": "Review shared files without losing conversation context. When you open a PDF, Markdown, or HTML file from a Teams chat or channel message, the conversation appears alongside the file and takes you directly to where it was shared, allowing you to catch up on the discussion and respond without closing the file preview or switching back to chat.GA date: November CY2026"
         },
         {
           "title": "Dynamics 365 Project Operations: Import tasks into a project from other projects",
@@ -220,6 +310,12 @@
       "name": "UC Today",
       "items": [
         {
+          "title": "The Context Graph Fight: Who Owns Your Agent’s Memory?",
+          "link": "https://uctoday.com/the-context-graph-fight-who-owns-your-agents-memory",
+          "published": "Wed, 14 Oct 2026 08:01:00 GMT",
+          "summary": "Why context graphs now matter: Atlassian AMP, Wrike Work Intelligence Graph, Google Gemini, SAP TechWolf, Asana and OpenAI battle for agent memory."
+        },
+        {
           "title": "Why AI Can Pass Technical Checks but Still Fail Customers",
           "link": "https://uctoday.com/why-ai-can-pass-technical-checks-but-still-fail-customers",
           "published": "Tue, 13 Oct 2026 14:01:00 GMT",
@@ -248,18 +344,31 @@
           "link": "https://uctoday.com/this-week-productivity-ai-gets-a-human-manager-now",
           "published": "Mon, 12 Oct 2026 14:02:00 GMT",
           "summary": "Atlassian, Sanas and Ringover show why productivity AI now needs visible ownership, human supervision and tighter control of enterprise data."
-        },
-        {
-          "title": "Is Humanoid Robotics Hype Outrunning Workplace Reality?",
-          "link": "https://uctoday.com/unitree-and-the-first-real-test-for-workplace-robots",
-          "published": "Mon, 12 Oct 2026 08:01:00 GMT",
-          "summary": "Why Unitree’s IPO matters: humanoid robots must prove safety, AI, connectivity and ROI before workplace leaders can scale them, UC Today reports."
         }
       ]
     },
     {
       "name": "Webex Blog",
-      "items": []
+      "items": [
+        {
+          "title": "Celebrating the 2026 Webex Customer Awards Winners",
+          "link": "https://blog.webex.com/innovation-ai/webex-champion-awards-2026-winners/",
+          "published": "Tue, 13 Oct 2026 19:01:14 +0000",
+          "summary": "Meet the 2026 Webex Customer Awards winners — real organizations turning AI-powered collaboration, customer experience, and workplace transformation into measurable results.\nThe post Celebrating the 2026 Webex Customer Awards Winners appeared first on Webex Blog."
+        },
+        {
+          "title": "Celebrating the partners leading the way",
+          "link": "https://blog.webex.com/collaboration/celebrating-the-partners-leading-the-way/",
+          "published": "Mon, 12 Oct 2026 23:08:12 +0000",
+          "summary": "What a week at WebexOne in Austin! So much excitement about what’s ahead for Webex, and I’m leaving even more [&#8230;]\nThe post Celebrating the partners leading the way appeared first on Webex Blog."
+        },
+        {
+          "title": "Bringing Cisco’s Workspace Intelligence to Every AI Agent ...",
+          "link": "https://blog.webex.com/collaboration/bringing-ciscos-workspace-intelligence-every-ai-agent-already-use/",
+          "published": "Mon, 12 Oct 2026 18:57:57 +0000",
+          "summary": "Bring Cisco workspace and device intelligence to AI agents with the Cisco Workspaces MCP for Microsoft Copilot, Gemini Enterprise, Amazon Quick, and more.\nThe post Bringing Cisco&#8217;s Workspace Intelligence to Every AI Agent ... appeared first on Webex Blog."
+        }
+      ]
     },
     {
       "name": "Zoom Video Communications, Inc.",
@@ -267,78 +376,17 @@
     },
     {
       "name": "Telecom Reseller / Technology Reseller News",
-      "items": [
-        {
-          "title": "Liquibase Secure Expands to Google and Microsoft Marketplaces",
-          "link": "https://telecomreseller.com/2026/10/13/liquibase-secure-expands-to-google-and-microsoft-marketplaces/",
-          "published": "Tue, 13 Oct 2026 17:19:10 +0000",
-          "summary": "By Moshe Beauford, Editor Liquibase is making its database change management platform available through Google Cloud Marketplace and Microsoft Marketplace, adding two purchasing options for customers already working with those [...]\nThe post Liquibase Secure Expands to Google and Microsoft Marketplaces appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "First Orion Adds Free Spam Watchlist for Business Phone Numbers",
-          "link": "https://telecomreseller.com/2026/10/13/first-orion-adds-free-spam-watchlist-for-business-phone-numbers/",
-          "published": "Tue, 13 Oct 2026 17:09:51 +0000",
-          "summary": "By Moshe Beauford, Editor First Orion has added a free Spam Watchlist to its Business Number Registration service, giving registered businesses visibility into phone numbers flagged as Potential Spam on [...]\nThe post First Orion Adds Free Spam Watchlist for Business Phone Numbers appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Jabra Report Links Voice-Based AI Use to Lower Reported Workplace Stress",
-          "link": "https://telecomreseller.com/2026/10/13/jabra-report-links-voice-based-ai-use-to-lower-reported-workplace-stress/",
-          "published": "Tue, 13 Oct 2026 16:59:00 +0000",
-          "summary": "By Moshe Beauford, Editor Workers who regularly speak to AI report lower levels of workplace stress and exhaustion than those who primarily type to it, according to Jabra’s WorkLife 2026: The [...]\nThe post Jabra Report Links Voice-Based AI Use to Lower Reported Workplace Stress appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Sinch expands SAP partnership with RCS integration for SAP Engagement Cloud",
-          "link": "https://telecomreseller.com/2026/10/13/sinch-expands-sap-partnership-with-rcs-integration-for-sap-engagement-cloud/",
-          "published": "Tue, 13 Oct 2026 15:21:16 +0000",
-          "summary": "Sinch adds RCS messaging to SAP Engagement Cloud, enabling businesses to deliver richer, branded and interactive customer experiences with AI-powered conversations across channels. Stockholm &#8211; October 13, 2026 &#8211; Sinch [...]\nThe post Sinch expands SAP partnership with RCS integration for SAP Engagement Cloud appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Why a “Verified” Caller ID Is No Longer Enough",
-          "link": "https://telecomreseller.com/2026/10/12/why-a-verified-caller-id-is-no-longer-enough/",
-          "published": "Mon, 12 Oct 2026 20:30:31 +0000",
-          "summary": "Why a &#8220;Verified&#8221; Caller ID Is No Longer Enough By John Perkins, Chief Executive Officer, ICA AI, Inc. &#8220;Verified&#8221; Is Not the Same as Trusted The phone call has a [...]\nThe post Why a &#8220;Verified&#8221; Caller ID Is No Longer Enough appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Tango Networks Helps MSPs Extend UCaaS Revenue to the Mobile Workforce, Podcast",
-          "link": "https://telecomreseller.com/2026/10/12/tango-networks-helps-msps-extend-ucaas-revenue-to-the-mobile-workforce-podcast/",
-          "published": "Mon, 12 Oct 2026 16:48:15 +0000",
-          "summary": "By Doug Green “The mobile workforce is part of the communications opportunity — and partners should be capturing that revenue.” In this special Cloud Communications Alliance and Technology Reseller News [...]\nThe post Tango Networks Helps MSPs Extend UCaaS Revenue to the Mobile Workforce, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Dexatel: Microsoft’s SMS Authentication Shift Makes Multi-Channel Verification More Important, Podcast",
-          "link": "https://telecomreseller.com/2026/10/12/dexatel-microsofts-sms-authentication-shift-makes-multi-channel-verification-more-important-podcast/",
-          "published": "Mon, 12 Oct 2026 15:55:32 +0000",
-          "summary": "By Doug Green “Don’t treat this as stop using SMS. Treat it as stop relying on only one channel.” In this Technology Reseller News podcast, Gegham Azatyam of Dexatel discusses [...]\nThe post Dexatel: Microsoft’s SMS Authentication Shift Makes Multi-Channel Verification More Important, Podcast appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "NordVPN brings message protection and HangUp to iPhone",
-          "link": "https://telecomreseller.com/2026/10/12/nordvpn-brings-message-protection-and-hangup-to-iphone/",
-          "published": "Mon, 12 Oct 2026 15:46:42 +0000",
-          "summary": "SMS scam screening and a free call protection app land on iOS All-in-one digital security and privacy app NordVPN is bringing its message protection feature to iOS. It screens incoming [...]\nThe post NordVPN brings message protection and HangUp to iPhone appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "Brightspeed Makes WiFi 7 Standard with Every New Fiber Plan at No Additional Cost",
-          "link": "https://telecomreseller.com/2026/10/12/brightspeed-makes-wifi-7-standard-with-every-new-fiber-plan-at-no-additional-cost/",
-          "published": "Mon, 12 Oct 2026 15:43:15 +0000",
-          "summary": "Premium WiFi 7 technology now comes standard for every new Brightspeed fiber customer CHARLOTTE, NC &#8211; October 9, 2026 &#8211; Brightspeed, the nation’s third-largest fiber broadband builder empowering consumers and [...]\nThe post Brightspeed Makes WiFi 7 Standard with Every New Fiber Plan at No Additional Cost appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "The Next Revenue Opportunity for Communications Providers May Be Trust",
-          "link": "https://telecomreseller.com/2026/10/12/the-next-revenue-opportunity-for-communications-providers-may-be-trust/",
-          "published": "Mon, 12 Oct 2026 15:28:54 +0000",
-          "summary": "By James L. Lee, CEO, Inlayer Most people have stopped answering calls from numbers they do not know, and it is hard to blame them. Hiya reports that 86% of [...]\nThe post The Next Revenue Opportunity for Communications Providers May Be Trust appeared first on Telecom Reseller / Technology Reseller News."
-        },
-        {
-          "title": "How CallTower Builds One-Stop Cloud Communications For Global Teams",
-          "link": "https://telecomreseller.com/2026/10/12/how-calltower-builds-one-stop-cloud-communications-for-global-teams/",
-          "published": "Mon, 12 Oct 2026 12:00:15 +0000",
-          "summary": "@Evan Kirstel, Special to Technology Reseller News Interested in being a guest? Email us at admin@evankirstel.com Read more from Evan A major deal just landed in cloud communications: CallTower is acquiring Momentum [...]\nThe post How CallTower Builds One-Stop Cloud Communications For Global Teams appeared first on Telecom Reseller / Technology Reseller News."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CMSWire.com - All News",
       "items": [
+        {
+          "title": "Are You Automating Away the Apprenticeship That Builds Service Experts?",
+          "link": "https://www.cmswire.com/customer-experience/are-you-automating-away-the-apprenticeship-that-builds-service-experts/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Tue, 13 Oct 2026 14:52:32 -0500",
+          "summary": "Your veteran engineers are retiring. The junior roles that once produced their replacements are disappearing.\nContinue reading..."
+        },
         {
           "title": "Is the Era of Martech Absolutes Over? Buyers Are Going Hybrid",
           "link": "https://www.cmswire.com/digital-marketing/is-the-era-of-martech-absolutes-over-buyers-are-going-hybrid/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
@@ -387,10 +435,16 @@
       "name": "Twilio Blog",
       "items": [
         {
-          "title": "Now in GA: Power Live Conversations with Segment Conversation Memory Integration",
-          "link": "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
-          "published": "Sun, 11 Oct 2026 20:00:00 -0400",
-          "summary": "Eliminate agent cold starts with Segment Conversation Memory Integration. Sync customer profiles into live channels for real-time, context-aware AI interactions."
+          "title": "How to Retrieve a Phone Number's SMS Pumping Score in Rust",
+          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
+          "published": "Tue, 13 Oct 2026 20:00:00 -0400",
+          "summary": "In this tutorial, you'll learn how to retrieve a phone number's SMS Pumping Risk Score — along with other helpful information — in Rust."
+        },
+        {
+          "title": "Cyber Week Readiness: A Developer's Guide to Scalable Comms",
+          "link": "https://www.twilio.com/en-us/blog/developers/best-practices/best-practices-cyber-week",
+          "published": "Mon, 12 Oct 2026 20:00:00 -0400",
+          "summary": "Learn how to scale your SMS, voice, and email infrastructure for Cyber Week — covering API optimization, fault tolerance, and real-time deliverability."
         }
       ]
     },
@@ -402,9 +456,27 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
+          "title": "Can Enterprises Trust AI to Do the Work, Not Just the Demo? - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQem9nRFdFLW5Nel9uM0lmcFRYaktfTXd2UWwxNy0zaHNXbXd6dHlMNmpiRXhkZ1pCOHpQOXVtSDRLb1NFT190cXpYMldfd2RFZnpfNUdhR01uT2JlWDd6bW1VVXl4S1IwcldPYlM1c0h6SHlXR0ZsSWZpT3RuOWZUc0V2My1RVnQwam5NSGg5cmpfSTMyTGh3ZXZaQUFUUHlz?oc=5",
+          "published": "Wed, 14 Oct 2026 09:31:12 GMT",
+          "summary": "Can Enterprises Trust AI to Do the Work, Not Just the Demo?&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "CCW Nashville 2026: Key AI and Customer Experience Takeaways - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdHNBcllpZFFrbGlBd25HeHotbUh3cEItM0tGdlY0bnRQV3dONEZLZDJ1eUgyTG40X3pHeWg2c1Y5TmtsUmhOYXBHWnFMUERYdnM4dWRfZlhxTGNpczZVLWdoT3RxMkNDalFvZWxxYWRSRnFnblBGVU1uWVJWU1ctLVZ4Z1M1dw?oc=5",
+          "published": "Wed, 14 Oct 2026 07:40:31 GMT",
+          "summary": "CCW Nashville 2026: Key AI and Customer Experience Takeaways&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "Redesign Not Replace: How to Prepare Your Frontline Team Successfully - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZT251a0hMa2VXUXd6UmlmOFJJMTd6eWt3U0NYLWlXR3hWSmUzSmIzeWkxaHgtR3JYYVFfa3VSRUtCX242RTlxektfZExranFSSFNWV0lfV1hLTE0?oc=5",
+          "published": "Tue, 13 Oct 2026 21:14:11 GMT",
+          "summary": "Redesign Not Replace: How to Prepare Your Frontline Team Successfully&nbsp;&nbsp;CX Today"
+        },
+        {
           "title": "Domino’s new CEO plans on ‘getting closer to the customer’ - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWNJR21iUlR6R2U2VFJZOVBwbTBVRGoyd2tNQVlhRVRxYl9RRTVUb2RmZ3M3bEF0QXJVaXBKYmgwZi1tZUJiNzctT1NrY05iMktyNkl5RWVzYjBKQUNzaXFzVjNZRTN3S0pKSlNuQ2t4QUhjRnRiYWF1bTB2cjdXRFJZQU9Eb0FQOUdnUHFjNVlNYmZJWEwweEhLZGo2aF8yanpUUE5B?oc=5",
-          "published": "Tue, 13 Oct 2026 19:07:22 GMT",
+          "published": "Tue, 13 Oct 2026 19:06:39 GMT",
           "summary": "Domino’s new CEO plans on ‘getting closer to the customer’&nbsp;&nbsp;CX Dive"
         },
         {
@@ -466,18 +538,30 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGJzVkRWYlhTYTgtc1F4aGdSN1o2NnhxazdCXzFZR0M4ejVJSU96UW5rS0RGNU1JTE1LUTcxbHRFRmhHWmo5WENuY1RDcEMxUlE1RFBjaV81WHczSExnTWUyVFlfUnh6OHZpSm1kbzB1bDV1blVsVG55OUU3SjRhSnlPVHVhNnBGbGFlMjJHcXRpWlBUWlp6a1ctYw?oc=5",
           "published": "Mon, 12 Oct 2026 13:41:24 GMT",
           "summary": "What an autonomous CRM actually looks like&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "Don't forget the CX! How Clay puts agents out onto Slack for support but still rates the 'human in the loop' - Diginomica",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmZOZnotNGg4WHBZekphTG9iYmpHZ0Y2cF91SEExOXpkNmRicGItc1JhVUxkTUF6dVJiR2NZU3huTXI1MEhJUHBRQzBLenZTSnJWMWxZNUJ6dWViWDBQa0dfdk9LR2MxNHJOa0x4VXFhb0xLbVBaNVpzSmdYc1FnaFUzZC02VC1MYXJHN20tSHlpa0tsQjJRbC05MDdXMlJy?oc=5",
-          "published": "Mon, 12 Oct 2026 09:05:02 GMT",
-          "summary": "Don't forget the CX! How Clay puts agents out onto Slack for support but still rates the 'human in the loop'&nbsp;&nbsp;Diginomica"
         }
       ]
     },
     {
       "name": "\"CRM\" - Google News",
       "items": [
+        {
+          "title": "Associate Tech Support Analyst - UnitedHealth Group",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOck9KaWVPUGVfOXY2N2wwS1hsVzVQc2xyRFhBR0pnMVdONHBnYklNYmlQREhBeXFVaHF6V1FZMnlYSmtoV3diRFVLRF9udWNNWEpkck9jeFJJaTVSbzM1OC01RUk3SVdXU01idEliN1p6a2xlSF9RQllTMUdnR251RUoyNGpqVjRaUmN4cFNidFdDejc1RWJTTEtBS2hGSDh1?oc=5",
+          "published": "Wed, 14 Oct 2026 04:37:11 GMT",
+          "summary": "Associate Tech Support Analyst&nbsp;&nbsp;UnitedHealth Group"
+        },
+        {
+          "title": "Job Announcement: ADMINISTRATIVE OFFICER III - State of Maryland - JobAps",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94Sk4yanBQUVZrcnJjclFaSmRtWHllRW90OUNyTjZublJQQktjZUIxbXEwSEk4YkhpRTB6WVR1NjNsUElOYzlCX2k4dDRuM29rbUNxamtVMjZfc2dxTUIyeHE1YTcwaWgteVpzWTF3N2VJdWxQUVNCaGw3WVZHZw?oc=5",
+          "published": "Wed, 14 Oct 2026 04:34:31 GMT",
+          "summary": "Job Announcement: ADMINISTRATIVE OFFICER III - State of Maryland&nbsp;&nbsp;JobAps"
+        },
+        {
+          "title": "Data Scientist - CRM Intelligence AI Orchestration - ThinkNorth LLC - Hybrid in New York, NY, US - Dice",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNcVN6TV85Tk9RQy1EaTBLaUU1ZFl1eFhSV1FheTBrWDg2Qk1Ob1pxTGx6OEw2ZFV0dEFiNEtfQnFPYTNEZWF2U0NsS25ReUhDOURlSzZmUzNVWW02MC1LZ09ab2pOMGN5YnlEUTdjWldVdTBZcmZV?oc=5",
+          "published": "Tue, 13 Oct 2026 18:15:25 GMT",
+          "summary": "Data Scientist - CRM Intelligence AI Orchestration - ThinkNorth LLC - Hybrid in New York, NY, US&nbsp;&nbsp;Dice"
+        },
         {
           "title": "Call Center CRM Systems & CRM Integration Services - AnswerNet",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fVDMwQXpFUHFKM0ZIYk5laTZySE5lMUgwN3ZnZWpRbHh6cThxZ3RmM0Nlak5tMWJVbzI5ZWo0YlF5aDdMR1M5OUJheG5qaFJEVGV4cXF0WkNaSzZpZVVzYUdqOFozdEFuOW1wRVNrMXY3NzdPdWd3Ulkyblk2UQ?oc=5",
@@ -493,32 +577,14 @@
         {
           "title": "RHB Bank Transforms Customer Experience with BUSINESSNEXT Enterprise CRM Rollout - FF News",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnBwV1FiOTNDZVVzZzdrbWdqTWxnWG1iUWtSSkcxSThGTXhPQ0VBNUJReURVNXpYQXpqTnk2Zm1lb2d4b0N2MS1JNGRWRFNjWGJBdDJPYUMweUI1UjNDZVRPdU9zMzN0bjZOaTFlZTd4bmNyMVByRi1MbW1pb2N5UmUxUjRuT29tMUJQMTlEVUhkNG85WV9jR1JRZFVRNFY1bTlVV2t1bkJlM3h4eDI2UTNoYw?oc=5",
-          "published": "Tue, 13 Oct 2026 15:53:07 GMT",
+          "published": "Tue, 13 Oct 2026 15:54:02 GMT",
           "summary": "RHB Bank Transforms Customer Experience with BUSINESSNEXT Enterprise CRM Rollout&nbsp;&nbsp;FF News"
-        },
-        {
-          "title": "Senior Manager, Salesforce & Technology - Idealist",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcVdsVXQ2V2VnYkFmLWdBRi1aTXBvZnZxYmRTRkFxd3FMcnBIWWM4NmlVTEljOENadkpQZ2I5N3JfYTZBMGw5dGxCdDByZ1JObmVUZjFkbXlfSE1DUlJXSWZVa1pSa2o3aC1XT2JZS3hab19jV1kzS1FYMU9wQXR0RE82VWgxMm9RLWJRUkUwV05YQUsya180ZExyS1lteWc5QllCdkJpU2wxMkRMZDMxYWJzdHZ2RkttT1RCaXRJVnB5ZXZNbFZUZEZyVUNFT3hKV0xKdjhJN053WXM?oc=5",
-          "published": "Tue, 13 Oct 2026 15:14:51 GMT",
-          "summary": "Senior Manager, Salesforce & Technology&nbsp;&nbsp;Idealist"
-        },
-        {
-          "title": "Careers at LINQ - Client Services Specialist - Weekend Shifts - Paylocity",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5b2ZweVlCVllBS2JQcFlJRTZZYnNCU3B0TkNfOFR2Y25XTmxnRHl4b2JZV3BjOU5pQkpCQ1UyUTZmU3NzRTZHSjNLTHZieDM1MGh1b1hGcllKZDVTbUZ4U2RseWdfN3FOM3lZTXA1Sk5Odw?oc=5",
-          "published": "Tue, 13 Oct 2026 13:46:18 GMT",
-          "summary": "Careers at LINQ - Client Services Specialist - Weekend Shifts&nbsp;&nbsp;Paylocity"
         },
         {
           "title": "AI Agents Could Replace Contact Forms for CRM Lead Capture - CRM Buyer",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTBYWGR4LXNhY2tUaWhpUHREX3RDSzFRV1BBS0lfbE12R3VYV1k4cl9pcFkwMmxoQldsQ3JwN3JzeXMtVWppVWU2UnRoQ2M2bjJHMTJLZW9qYmowM19GMW16ZXB3dmd0Njd3eERZbG4zTm8tSDhMeUNITlk2ZjRLZ3lOR2tORFlsanpJa0lIenBHN0cyNDgyY3d2TEoyMFY2MXpV?oc=5",
           "published": "Tue, 13 Oct 2026 13:11:20 GMT",
           "summary": "AI Agents Could Replace Contact Forms for CRM Lead Capture&nbsp;&nbsp;CRM Buyer"
-        },
-        {
-          "title": "Workday to Acquire C1.ai, a Leading Agentic Identity Platform for People and Agents - Workday",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX0M4TThRRm90QlNLQ2dDdE42WjhobTRudmQ4T2RGSFZnaThucDJzZkUteUhrWWxhSUJLSEZ2MnlRUXpZejFLMzZwaHhIcU5KWmZVVWRiYkRTQzk0UGJvSW5JbGZxNkR2X2Rta2stVjIxSE4ybUUxM29QSzRBZGlrMmkwNkUxYU5yUS1nOGQ4XzYyYVJ2akcwazEtaTY0NlNzaEZ5NEtvaGJKOWk0V2V3Z0V3dnB0NjMwdzkyaGJra3pUS2lRbTFYVjJmMmZtX1lnMXkwdjIxY0R2aGwzbjNzWXdnTVdWUW1Vb0hycDVjcHdyM0pYRWRUQU5BZXJnZlZHM044?oc=5",
-          "published": "Tue, 13 Oct 2026 12:46:54 GMT",
-          "summary": "Workday to Acquire C1.ai, a Leading Agentic Identity Platform for People and Agents&nbsp;&nbsp;Workday"
         },
         {
           "title": "RHB Bank rolls out BUSINESSNEXT CRM platform to advance customer experience in Malaysia - marketech apac",
@@ -539,28 +605,28 @@
           "summary": "Sales reps want pipeline, not tasks 🎯 Hunter is the AI agent that turns CRM data into a prioritized list of exactly who to call and why Hunter updates your CRM and finds your best prospects Your team closes the deals&nbsp;&nbsp;Instagram"
         },
         {
-          "title": "Salesforce Signs Definitive Agreement to Acquire Loops - Salesforce",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXhUb3RiY1ROQVJySi10R0dIOXBnbnZrMGVSUXIxS3c1UVBHQWlhbVY4ZHJTWmlYdGxmS2JSaDZxVzRXRk9Jcmp6ZjJFSzVEYlA5dXJlTzQ1eTNTdGRvUms3UDR3U1ZKNk5aWlZtUEtDakwwS0R4cW5Fb2xNUHNndnJxUjVIUThRQ3BFUmc0WDhIdHBPV1FsS3FoZw?oc=5",
-          "published": "Mon, 12 Oct 2026 15:58:26 GMT",
-          "summary": "Salesforce Signs Definitive Agreement to Acquire Loops&nbsp;&nbsp;Salesforce"
+          "title": "Hunter, the AI agent that turns CRM data into a prioritized list of exactly who to call and why - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96Vm5sazdDSWVrSmJGQ21teFRTY292QmRtNTVIUFhjWkJHdXR0aTBka2FtdHdxaGRPd2ZEb3dsQ29seGFGVHBGaU5sb3RuSUFUcFE2dQ?oc=5",
+          "published": "Mon, 12 Oct 2026 19:01:07 GMT",
+          "summary": "Hunter, the AI agent that turns CRM data into a prioritized list of exactly who to call and why&nbsp;&nbsp;YouTube"
+        },
+        {
+          "title": "Sales reps want pipeline, not tasks 🎯 Hunter is the AI agent that turns CRM data into a prioritized list of exactly who to call and why Hunter updates your CRM and finds your best prospects Your team closes the deals - X",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6YjRtZ3hoUURuS1NOQlFVTTFScXU4SmFXQXVOemw0ZFhyZzUwTXhmd3lPX0xERnk5VzRxTTZ2aUxfYTBzNHlycVRQRGtPZnlsd19ZVVM1Q0t3Z1B0bzlJZw?oc=5",
+          "published": "Mon, 12 Oct 2026 19:00:32 GMT",
+          "summary": "Sales reps want pipeline, not tasks 🎯 Hunter is the AI agent that turns CRM data into a prioritized list of exactly who to call and why Hunter updates your CRM and finds your best prospects Your team closes the deals&nbsp;&nbsp;X"
+        },
+        {
+          "title": "Patient Engagement Associate - Penn Medicine Careers",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEhwNWNLNHk2el9JSzNic2tDZ25rZGUxbk1ZUm5tOGhWNTBBLUxXcGdGVnpYMzR5NHR0SFluUzJzaDlXM3NBUktpbmkxeUI4RWJxc1Q3bTQwV1M4dFBHNmJoSVFETWtObHBNYjVNa1dUeUZoZkRNVlFKN0pSNkx6Xw?oc=5",
+          "published": "Mon, 12 Oct 2026 15:02:08 GMT",
+          "summary": "Patient Engagement Associate&nbsp;&nbsp;Penn Medicine Careers"
         },
         {
           "title": "What an autonomous CRM actually looks like - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGJzVkRWYlhTYTgtc1F4aGdSN1o2NnhxazdCXzFZR0M4ejVJSU96UW5rS0RGNU1JTE1LUTcxbHRFRmhHWmo5WENuY1RDcEMxUlE1RFBjaV81WHczSExnTWUyVFlfUnh6OHZpSm1kbzB1bDV1blVsVG55OUU3SjRhSnlPVHVhNnBGbGFlMjJHcXRpWlBUWlp6a1ctYw?oc=5",
           "published": "Mon, 12 Oct 2026 13:41:24 GMT",
           "summary": "What an autonomous CRM actually looks like&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "Remote Customer Resilience Manager - Customer Success (Remote) at Rubrik Job Board - We Work Remotely",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTlaNktBWE42SG9WdkZVeXhDN2tYcGxDRC1DQXpmWUdiWlF6cE1aR3docHBXZlFoc3RRQ1EwMnlxQzJGczZKMXZPOUxFTTZFQ1F1bVBEUTF1SkdpVG04XzZTUDBKTDJTYkdtX1NmNW1xMzVyem04dDJLa3pqekhsbWt5M1VybWdCV3lFUXBZS3ZlS0RXZk9qVUV1elZsNjJuMU1xcVFoVzVjTDg?oc=5",
-          "published": "Mon, 12 Oct 2026 07:47:02 GMT",
-          "summary": "Remote Customer Resilience Manager - Customer Success (Remote) at Rubrik Job Board&nbsp;&nbsp;We Work Remotely"
-        },
-        {
-          "title": "AI Agents for Customer Service Automation in Dynamics 365 CRM – Part 1 - Microsoft Power Platform Community",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGRFUTdtR1ViZGVxdTRpOXdsTl9zaDk4SlZoX2MteUZRamdWeUhNcTJNblhrMXJXVnBuSllBNEFzWVZCV2lRUEt2UlR5ek9Na3RWcFNwSktZTWdZbTVJUEtQZWR0dmVrQmtNcWN6eEtnaGs5M2RtbVk3aUcwWWVBNkZHVjlmbFpQZ0NnY2RINDNLanhEakE?oc=5",
-          "published": "Mon, 12 Oct 2026 06:49:14 GMT",
-          "summary": "AI Agents for Customer Service Automation in Dynamics 365 CRM – Part 1&nbsp;&nbsp;Microsoft Power Platform Community"
         }
       ]
     },
@@ -580,10 +646,10 @@
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
       "items": [
         {
-          "title": "Report: Nearly 75% of Microsoft partners would cut marketing without vendor funds - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbHphNjZWdjhPeDhOREY3bHE1QTBlRkdwVTczVUxWM1VUZFFMUWVybllnbFJqRDMxNGRQQlVmRTRwOGgtZ2VMaFZwLXA4b0NUTTV5WHBaeXExTHp5TXFzX1FFUy0tdHY1Q21pY1N2WEJFbFRLLW5iXw?oc=5",
-          "published": "Tue, 13 Oct 2026 14:50:22 GMT",
-          "summary": "Report: Nearly 75% of Microsoft partners would cut marketing without vendor funds&nbsp;&nbsp;The ChannelPro Network"
+          "title": "Report: Nearly 75% of Microsoft partners depend on vendor funding for marketing - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMDA2TmhjZmIwaTdMUkVCVjNwaTVZS0lMSzV2bzJ3NVdad1dvN21MOWd5Y2U3R1RQRTdUZXBCZ3d3dnZ0X184dVhyRGNGanM2cko0VVVNRUFIMGpjcUF4UkxhdVlHazBDbWlXZ0tsZDhRWXctMEJ2c010bmJqVFBnOUVMWWNuRWh4M3h2anhacXU0b1BBN1ZrdHB3T1hVczUtUzM1VWdOR1hJNWRZYlJZUU1HVVBHSkU?oc=5",
+          "published": "Tue, 13 Oct 2026 14:15:00 GMT",
+          "summary": "Report: Nearly 75% of Microsoft partners depend on vendor funding for marketing&nbsp;&nbsp;The ChannelPro Network"
         },
         {
           "title": "Security on a budget: How to help your SMB customers build cyber resilience - The ChannelPro Network",
@@ -596,6 +662,18 @@
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "Ethernet Won’t Collapse the Four Enterprise Networks Into One",
+          "link": "https://futurumgroup.com/insights/ethernet-wont-collapse-the-four-enterprise-networks-into-one/?utm_source=rss&utm_medium=rss&utm_campaign=ethernet-wont-collapse-the-four-enterprise-networks-into-one",
+          "published": "Tue, 13 Oct 2026 21:30:47 +0000",
+          "summary": "The post Ethernet Won&#8217;t Collapse the Four Enterprise Networks Into One appeared first on Futurum.\nFuturum's Tom Hollingsworth argues that Ethernet's spread into AI back-end and scale-up fabrics won't merge the enterprise network into one. Network teams fully own only two of four networks and must manage the handoffs to the rest.\nThe post Ethernet Won&#8217;t Collapse the Four Enterprise Networks Into One appeared first on Futurum."
+        },
+        {
+          "title": "Lightmatter and Flex Bring 204.8 Tbps Co-Packaged Optics Into Open Racks",
+          "link": "https://futurumgroup.com/insights/lightmatter-and-flex-bring-2048-tbps-co-packaged-optics-into-open-racks/?utm_source=rss&utm_medium=rss&utm_campaign=lightmatter-and-flex-bring-2048-tbps-co-packaged-optics-into-open-racks",
+          "published": "Tue, 13 Oct 2026 20:39:45 +0000",
+          "summary": "The post Lightmatter and Flex Bring 204.8 Tbps Co-Packaged Optics Into Open Racks appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, examines Lightmatter's 204.8T CPO switch tray with Flex and 102.4T XPU tray at OCP 2026, the first open rack photonic systems, and whether open standards can beat proprietary CPO to volume.\nThe post Lightmatter and Flex Bring 204.8 Tbps Co-Packaged Optics Into Open Racks appeared first on Futurum."
+        },
         {
           "title": "Arm AGI CPU Posts 2x the Agentic Work Per Rack of AMD's EPYC 9755 at OCP 2026",
           "link": "https://futurumgroup.com/insights/arm-agi-cpu-posts-2x-the-agentic-work-per-rack-of-amds-epyc-9755-at-ocp-2026/?utm_source=rss&utm_medium=rss&utm_campaign=arm-agi-cpu-posts-2x-the-agentic-work-per-rack-of-amds-epyc-9755-at-ocp-2026",
@@ -684,6 +762,12 @@
       "name": "Constellation Research",
       "items": [
         {
+          "title": "How aviation maintenance looks at AI systems",
+          "link": "https://www.constellationr.com/insights/news/how-aviation-maintenance-looks-ai-systems",
+          "published": "Wed, 14 Oct 2026 10:00:00 +0000",
+          "summary": "How aviation maintenance looks at AI systems\nLarry Dignan\nWed, 14 Oct 2026 - 03:00\n\n  \n  \n\n\n          \n\n\n\n\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, di"
+        },
+        {
           "title": "Palihapitiya on AI valuations, energy, auditors",
           "link": "https://www.constellationr.com/insights/news/palihapitiya-ai-valuations-energy-auditors",
           "published": "Tue, 13 Oct 2026 17:23:23 +0000",
@@ -736,12 +820,6 @@
           "link": "https://www.constellationr.com/insights/news/nvidia-contributes-rack-tray-designs-ocp",
           "published": "Mon, 12 Oct 2026 15:00:00 +0000",
           "summary": "Nvidia contributes rack, tray designs to OCP\nLarry Dignan\nMon, 12 Oct 2026 - 08:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transformation, an"
-        },
-        {
-          "title": "The New Rules of Trust, Work & Leadership | DisrupTV Episode 452",
-          "link": "https://www.constellationr.com/video/disruptv/new-rules-trust-work-leadership-disruptv-episode-452",
-          "published": "Mon, 12 Oct 2026 14:39:32 +0000",
-          "summary": "The New Rules of Trust, Work &amp; Leadership | DisrupTV Episode 452\nElle DeRosa\nMon, 12 Oct 2026 - 07:39\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  R \"Ray\"\n   Wang\n\n                  Principal Analyst and Founder\n  Constellation Research\n\n            \n            \n                R “Ray” Wang is the CEO of Silicon Valley-based Constellation Research Inc. He co-hosts DisrupTV, a weekly enterprise tech and leadership webcast that averages 50,000 v"
         }
       ]
     },
@@ -810,24 +888,24 @@
           "link": "https://www.customerexperiencedive.com/news/grocery-prices-rise-in-store-issues-become-more-frustrating/832635/",
           "published": "Mon, 12 Oct 2026 07:00:00 -0400",
           "summary": "Grocers can&rsquo;t stop inflation, but they have control over how it feels to shop their stores &mdash; and that can make the difference with customers, Axonify&rsquo;s Melissa Burghardt said."
-        },
-        {
-          "title": "How AI virtual agents are changing the resolution standard in the contact center",
-          "link": "https://www.customerexperiencedive.com/spons/how-ai-virtual-agents-are-changing-the-resolution-standard-in-the-contact-c-2/831225/",
-          "published": "Mon, 12 Oct 2026 05:00:00 -0400",
-          "summary": "AI virtual agents can now resolve issues end-to-end in the contact center &mdash; not just deflect them. Here's what resolution-first AI can mean for CX leaders."
-        },
-        {
-          "title": "What an autonomous CRM actually looks like",
-          "link": "https://www.customerexperiencedive.com/spons/what-an-autonomous-crm-actually-looks-like/831854/",
-          "published": "Mon, 12 Oct 2026 05:00:00 -0400",
-          "summary": "The autonomous CRM coordinates and completes work, keeping people in control for when judgment and empathy are needed"
         }
       ]
     },
     {
       "name": "Call Centre Helper",
       "items": [
+        {
+          "title": "How to Keep Your Promises to Customers",
+          "link": "https://www.callcentrehelper.com/keep-promises-to-customers-274670.htm",
+          "published": "Wed, 14 Oct 2026 07:00:00 +0000",
+          "summary": "Find out how top contact centre customer service experts identify hidden customer promises, prevent expectation gaps and strengthen long-term customer trust.\nThe post How to Keep Your Promises to Customers appeared first on Call Centre Helper."
+        },
+        {
+          "title": "8×8 Names Jamie Snaddon and Nerea Gandarias in New Roles",
+          "link": "https://www.callcentrehelper.com/8x8-snaddon-chief-strategy-officer-277995.htm",
+          "published": "Wed, 14 Oct 2026 07:00:00 +0000",
+          "summary": "8x8 appoints Nerea Gandarias as EMEA Managing Director, replacing Jamie Snaddon as he takes on the new Chief Strategy Officer role.\nThe post 8&#215;8 Names Jamie Snaddon and Nerea Gandarias in New Roles appeared first on Call Centre Helper."
+        },
         {
           "title": "PCI Pal Launches New Brand Identity",
           "link": "https://www.callcentrehelper.com/pci-pal-launches-new-brand-identity-277965.htm",
@@ -863,18 +941,6 @@
           "link": "https://www.callcentrehelper.com/afford-to-ignore-shadow-knowledge-277737.htm",
           "published": "Tue, 13 Oct 2026 07:00:00 +0000",
           "summary": "Find out how shadow knowledge creates hidden costs in the contact centre and how knowledge management can improve agent support, efficiency, and customer experience.\nThe post Can You Afford to Ignore Shadow Knowledge? appeared first on Call Centre Helper."
-        },
-        {
-          "title": "What Is Average Handle Time (AHT) and How to Improve It",
-          "link": "https://www.callcentrehelper.com/average-handle-time-improve-it-277800.htm",
-          "published": "Mon, 12 Oct 2026 08:30:00 +0000",
-          "summary": "What’s really driving up your Average Handle Time? Richard Higginbotham from Netcall looks at where contact centres can improve efficiency, without sacrificing customer experience. Average handle time is one of the most widely used measures of contact centre performance. It...\nThe post What Is Average Handle Time (AHT) and How to Improve It appeared first on Call Centre Helper."
-        },
-        {
-          "title": "13 CXA Mistakes Every Contact Centre Leader Should Avoid",
-          "link": "https://www.callcentrehelper.com/cxa-mistakes-should-avoid-277822.htm",
-          "published": "Mon, 12 Oct 2026 07:00:00 +0000",
-          "summary": "Discover the CXA mistakes contact centre leaders should avoid, from poor handoffs and weak knowledge to over-automation, metric fixation, and lost trust.\nThe post 13 CXA Mistakes Every Contact Centre Leader Should Avoid appeared first on Call Centre Helper."
         }
       ]
     },
@@ -904,6 +970,12 @@
     {
       "name": "CXM Customer Experience Magazine",
       "items": [
+        {
+          "title": "Salesforce Buys Loops to Bring Root-Cause AI to Tableau",
+          "link": "https://cxm.world/customer-experience/agentic-analytics-salesforce-loops-tableau/",
+          "published": "Wed, 14 Oct 2026 08:06:17 +0000",
+          "summary": "Salesforce has agreed to buy Loops, a small Israeli company whose software premise is to explain why a business&#8217;s numbers have moved, not just report that they have. The deal, confirmed this week, is the latest step in what Salesforce calls its agentic analytics strategy. Loops&#8217; tech and staff will be folded into Tableau, Salesforce&#8217;s...\nThe post Salesforce Buys Loops to Bring Root-Cause AI to Tableau appeared first on Customer Experience Magazine."
+        },
         {
           "title": "Speed Without Trust or Context: Is Your AI Solving Anything?",
           "link": "https://cxm.world/customer-experience/speed-without-trust-or-context-is-your-ai-solving-anything/",
@@ -945,18 +1017,6 @@
           "link": "https://cxm.world/customer-experience/ai-decision-models-customer-experience/",
           "published": "Mon, 12 Oct 2026 13:06:39 +0000",
           "summary": "Within days of each other, OpenAI and Microsoft have released what they&#8217;re calling &#8220;AI decision models&#8221;, which choose between options instead of writing text. While that distinction may seem minor at face value, the implications for CX might be seismic. What Are AI Decision Models?&#160;&#160; An AI decision model takes an input, a question, and...\nThe post The AI That Doesn&#8217;t Talk: What the Rise of &#8216;Decision Models&#8217; Means for CX appeared first on Customer Exp"
-        },
-        {
-          "title": "Microsoft Takes Agentic CRM Into Copilot With 30 New Dynamics 365 Skills",
-          "link": "https://cxm.world/customer-experience/agentic-crm-microsoft-dynamics-365-copilot-skills/",
-          "published": "Mon, 12 Oct 2026 09:54:54 +0000",
-          "summary": "Microsoft has made 30 pre-built CRM skills generally available in Copilot Cowork, its tool for handing off multi-step work. The skills draw on Dynamics 365 Sales, Customer Service, and Customer Insights. They are also coming to Autopilot, which is in private preview, and to Code, which is available through Microsoft&#8217;s Frontier early-access programme. Deva Rajamohan,...\nThe post Microsoft Takes Agentic CRM Into Copilot With 30 New Dynamics 365 Skills appeared first on Customer Experience Ma"
-        },
-        {
-          "title": "Salesforce Renames AIForce as ‘SIForce’ in Nod to Trump: What Actually Changes for CX Teams?",
-          "link": "https://cxm.world/customer-experience/salesforce-super-intelligence-rebrand-siforce/",
-          "published": "Mon, 12 Oct 2026 08:34:40 +0000",
-          "summary": "Salesforce has joined the White House&#8217;s Super Intelligence rebrand. On Friday, 9 October, Chief Executive Marc Benioff wrote on X: &#8220;The era of Super Intelligence is here. AIForce is officially SIForce.&#8221; The platform, which plugs Salesforce data into tools such as Claude and Slack, launched at Dreamforce last month. The prompt, if you will, came...\nThe post Salesforce Renames AIForce as &#8216;SIForce&#8217; in Nod to Trump: What Actually Changes for CX Teams? appeared first on "
         }
       ]
     },
