@@ -1,6 +1,73 @@
 {
   "days": [
     {
+      "iso": "2026-10-14",
+      "label": "Wed 14 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Sanas ships supervised AI for four-call oversight",
+          "sowhat": "One operator monitoring four concurrent AI voice calls may signal the threshold where automation economics finally beat pure human handling—if control holds.",
+          "url": "https://cxtoday.com/ccw-nashville-2026-key-ai-and-customer-experience-takeaways",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce acquires Loops for root-cause analytics in Tableau",
+          "sowhat": "Buying an Israeli outfit to explain why KPIs moved (not just that they moved) is Salesforce's bid to turn Tableau into an agentic analytics front-end.",
+          "url": "https://cxm.world/customer-experience/agentic-analytics-salesforce-loops-tableau/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "8×8 appoints Snaddon CSO, Gandarias EMEA MD",
+          "sowhat": "Jamie Snaddon moves from EMEA MD to new Chief Strategy Officer role; Nerea Gandarias takes over the region as 8×8 refocuses go-to-market.",
+          "url": "https://www.callcentrehelper.com/8x8-snaddon-chief-strategy-officer-277995.htm",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Kensington Mortgages completes Amazon Connect migration with Sabio",
+          "sowhat": "Kensington's second-phase move to Connect via Sabio signals continued mortgage-sector appetite for cloud-native telephony despite tighter budgets.",
+          "url": "https://www.callcentrehelper.com/kensington-mortgages-migration-sabio-278087.htm",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Cablelynx signs Netcracker AI commerce and CX tools",
+          "sowhat": "A US rural broadband operator picking Netcracker's AI layer to cut calls and lift CSAT is a rare tier-two BSS deal worth tracking.",
+          "url": "https://www.lightreading.com/ai-machine-learning/cablelynx-broadband-taps-into-netcracker-s-ai-tools",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Light Reading"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Plume launches Console add-on for ISP AI agents",
+          "sowhat": "Plume's new ISP dashboard for deploying and managing Wi-Fi AI agents hints at the next battleground: which network-gear vendors own the orchestration layer.",
+          "url": "https://www.lightreading.com/oss-bss-cx/plume-s-console-enables-isps-to-deploy-ai-agents-to-detect-and-fix-home-network-issues",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Light Reading"
+        }
+      ],
+      "pattern_watch": "Two items share a thread: Salesforce/Loops and Sanas both point to the shift from reporting to explaining—root-cause vs. volume."
+    },
+    {
       "iso": "2026-10-13",
       "label": "Tue 13 Oct 2026",
       "rows": [
@@ -888,144 +955,7 @@
         }
       ],
       "pattern_watch": "Three vendors (Cisco, SAP, ServiceNow) launched AI agent orchestration layers this week, each positioning context and workflow coordination as the differentiator beyond simple task automation."
-    },
-    {
-      "iso": "2026-10-06",
-      "label": "Tue 06 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "SAP launches autonomous CX agent suite",
-          "sowhat": "SAP Connect 2026 unveils agents for marketing, commerce, sales and service — a bid to coordinate autonomous action across CX workflows, but strategic value depends on how governance layers actually work.",
-          "url": "https://cxtoday.com/sap-launches-autonomous-cx-ai-assistants-at-connect-2026",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "Schneider Electric buys PTC for $22.6bn",
-          "sowhat": "This is a major industrial AI consolidation play, betting that operational-technology data plus energy management creates a defensible AI flywheel — a pattern CX buyers should watch as data becomes the moat.",
-          "url": "https://www.constellationr.com/insights/news/schneider-electric-buys-ptc-226-billion-it-eyes-industrial-ai-energy-data-flywheel",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Constellation Research"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco integrates governed WhatsApp into Webex",
-          "sowhat": "LeapXpert's tie-up with Cisco lets regulated firms reach clients on WhatsApp inside Webex with archiving and compliance — addressing a genuine shadow-IT pain point in financial services and healthcare.",
-          "url": "https://siliconangle.com/2026/10/05/leapxpert-brings-governed-whatsapp-client-messaging-into-ciscos-webex/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "SiliconANGLE"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "SAP makes tabular AI generally available",
-          "sowhat": "SAP releases TabPFN-3.5 Plus in AI Core for instant structured-data predictions without training — a credible step if you need fast cash-flow or risk forecasts, though long-term model governance remains unclear.",
-          "url": "https://futurumgroup.com/insights/sap-bets-tabular-ai-is-the-core-of-the-autonomous-enterprise/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Oracle Health embeds AI across revenue cycle",
-          "sowhat": "Oracle targets prior auth, coding and appeals with native AI — addressing genuine workflow friction in healthcare revenue cycle, though execution risk remains high in a fragmented EHR landscape.",
-          "url": "https://futurumgroup.com/insights/oracle-health-builds-ai-into-the-full-revenue-cycle-stack/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Unit4 acquires Napta for skills management",
-          "sowhat": "Unit4 buys French resource-planning vendor Napta to add real-time skills matching into ERP — a modest capability tuck-in, signalling that workforce planning is becoming table stakes in professional services automation.",
-          "url": "https://www.constellationr.com/insights/news/unit4-acquires-napta-expand-resource-skills-management",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Constellation Research"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Treasure AI launches click-based email pricing model",
-          "sowhat": "A new vendor is betting engagement-based billing will resonate with buyers tired of volume-based email pricing, but it's unproven.",
-          "url": "https://www.cmswire.com/digital-marketing/treasure-ai-bets-on-click-based-email-pricing-launches-personalization-studio/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CMSWire"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Thames Valley Police deploys AI for vulnerability triage",
-          "sowhat": "UK police are using an AI agent to spot high-harm cases in routine contact, a use case that could translate to regulated CX.",
-          "url": "https://cxtoday.com/how-thames-valley-police-is-using-ai-to-flag-vulnerability",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CPaaS",
-          "headline": "Twilio completes branded calling across all three US carriers",
-          "sowhat": "Twilio now offers verified caller ID branding on AT&T (pilot), T-Mobile, and Verizon—a material step toward trusted enterprise voice at scale.",
-          "url": "https://www.twilio.com/en-us/blog/products/launches/branded-calling-att-t-mobile-verizon-networks",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Twilio (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "SAP launches autonomous AI assistants at Connect 2026",
-          "sowhat": "SAP is expanding its Joule agent capabilities into autonomous CX workflows, signalling a shift from copilots to unattended actions.",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjNDWTJLV2RFbmswZjhPcjAwR0pTMEZXeVJtZ09aelE4azN3aTdpc2ZPSjBYbEdPYUQtc0d5Rl9zYUozT2pRVVhKVnJSNXEyN2NXX3p2eHBneXpoclNrNnIxa0tlN0xRN1NnejFLOHVkak9HS1VUV2dpZWVZYTFLcTVB?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco partners LeapXpert to bring WhatsApp into Webex",
-          "sowhat": "Cisco is tackling shadow comms by pulling WhatsApp into a governed Webex layer—useful for regulated industries, but adoption is uncertain.",
-          "url": "https://www.crn.com/news/networking/2026/cisco-leapxpert-take-on-shadow-communication-with-webex-whatsapp-tie-up",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "crn.com"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "ServiceNow Flow embeds IT support into Slack and Teams",
-          "sowhat": "ServiceNow is bringing AI service desk capabilities into chat tools, a sensible move but not a structural change.",
-          "url": "https://uctoday.com/this-week-servicenow-automates-atlassian-patches",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "CTERA adds AI data engineering service for production rollout",
-          "sowhat": "CTERA is addressing the gap between AI pilots and production by offering data engineering as a service—a real friction point.",
-          "url": "https://telecomreseller.com/2026/10/06/ctera-adds-engineering-service-to-turn-enterprise-data-into-production-ai/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        }
-      ],
-      "pattern_watch": "Three items (SAP CX agents, SAP tabular AI, Oracle Health AI) share one thread: major enterprise vendors embedding autonomous AI into core workflows, not just pilot chatbots."
     }
   ],
-  "updated": "2026-10-13T20:30:52.775446+00:00"
+  "updated": "2026-10-14T11:28:30.337128+00:00"
 }
