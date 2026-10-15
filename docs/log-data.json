@@ -53,9 +53,79 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "Directions on Microsoft"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "HubSpot caps AI spend with flexible billing",
+          "sowhat": "Customers can now set credit caps and switch between pay-per-use and flat-rate billing, removing one friction point in AI agent adoption.",
+          "url": "https://www.cmswire.com/digital-experience/hubspot-rolls-out-ai-spend-caps-flexible-billing/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "ServiceNow launches AI Passport for agent governance",
+          "sowhat": "Cryptographic credentials verify each AI agent's authorized scope at runtime, addressing the absence of governance frameworks in 76% of banks using AI.",
+          "url": "https://www.constellationr.com/insights/news/servicenow-launches-ai-passport-ride-along-nvidias-open-agent-safety-platform",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Freshworks acquires Torii for AI spend governance",
+          "sowhat": "ITSM platforms are adding SaaS spend controls as AI agent proliferation creates budget visibility gaps for IT teams.",
+          "url": "https://futurumgroup.com/insights/freshworks-to-acquire-torii-extending-freshservice-to-ai-spend-governance/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Kustomer adds AI QA to score every conversation",
+          "sowhat": "Automated scoring of all interactions replaces sampling, but buyers must verify verdict stability before trusting any system to block workflow.",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamlNU0k3SDVGeHROMXBfXzdHV1ZyTExTSkRoajZrUmxPODhEb0c3Rkp4WEp0eW1xODVFU3ItczFZMl9ZcEs4RWdOcmN3TFRCTFJmVGNISGgydEV0VTc0WW1RMVQ5ZlRBeUc5Nlg5RHhZaXczcmxNODVNelZfaFVQeEpSMVYyWGI2SUxEbnJpcmZwMG9nU2FoVk52WkdNRnQzblZQbUszZjE3NWl1c2xBd1RBSEZKenhvbEwwUzd2Ukc2SUU2ZThOTlZwd2NJdEwxejVLRFp5NDZtc2hNY2NKTg?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Business Wire"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "Meta Muse raises personal-AI authentication questions for CX",
+          "sowhat": "Personal AI agents entering service channels force contact centres to decide now who authenticates them, who owns commitments, and what context they carry.",
+          "url": "https://cxtoday.com/muse-shows-why-ai-may-grow-the-contact-center-again",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "JPMorgan warns customers owning third-party AI agent risk",
+          "sowhat": "If customers grant external AI agents bank access, the bank treats that as customer choice, shifting liability ahead of any regulatory clarity.",
+          "url": "https://www.customerexperiencedive.com/news/jpmorgan-ceo-warns-customers-risks-third-party-ai-agents/832974/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco's Brian Stout details Intelligent Workplace growth drivers",
+          "sowhat": "Workplace Designer and intelligence tools are contributing to Cisco collaboration revenue, but specifics on revenue contribution remain undisclosed.",
+          "url": "https://uctoday.com/webexone-2026-brian-stout-on-ciscos-intelligent-workplace",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
         }
       ],
-      "pattern_watch": "AI agents appearing across Cisco UC, Kustomer CX, and multiple analyst pieces—suggesting 'agentic' positioning is now a baseline pitch rather than differentiation."
+      "pattern_watch": "Personal AI agents (Muse) and enterprise governance (ServiceNow, Freshworks, JPMorgan) converge on the same question: who controls access and owns liability."
     },
     {
       "iso": "2026-10-14",
@@ -957,5 +1027,5 @@
       "pattern_watch": "Multiple vendors embedding third-party LLMs (Claude, Gemini) into collaboration and CRM workflows—platform vendors becoming orchestration layers rather than AI owners."
     }
   ],
-  "updated": "2026-10-15T11:05:41.211664+00:00"
+  "updated": "2026-10-15T18:53:33.890486+00:00"
 }
