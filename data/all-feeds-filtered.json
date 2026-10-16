@@ -1,18 +1,13 @@
 {
-  "generated_at": "2026-10-16T10:03:58.348343+00:00",
+  "generated_at": "2026-10-16T18:17:27.672501+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
-  "feeds_with_errors": 5,
+  "feeds_with_errors": 3,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw=="
-    },
-    {
-      "name": "Telecom Reseller / Technology Reseller News",
-      "url": "https://telecomreseller.com/feed/",
-      "error": "403 Client Error: Forbidden for url: https://telecomreseller.com/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -23,11 +18,6 @@
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications"
-    },
-    {
-      "name": "Call Centre Helper",
-      "url": "https://www.callcentrehelper.com/feed/",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "feeds": [
@@ -43,28 +33,34 @@
       "name": "Google Alert - Cisco Webex",
       "items": [
         {
-          "title": "Gamma Showcases Nine New Innovations at Gammaverse '26 as <b>Webex</b> Milestone and ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technologyreseller.uk/gamma-showcases-nine-new-innovations-at-gammaverse-26-as-webex-milestone-and-sky-partnership-strengthen-market-position/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3o9RzV5NUGqrVNnQIZhT2T",
-          "published": "2026-10-15T15:53:55Z",
-          "summary": "A major headline from the day was Cisco naming Gamma the world's largest Webex Wholesale Provider, with the platform reaching 100,000 active users as&nbsp;..."
-        },
-        {
-          "title": "WebexOne 2026: Why <b>Cisco</b> Is Putting AI Agents to Work - UC Today",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://uctoday.com/webexone-2026-why-cisco-is-putting-ai-agents-to-work&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2gHBlDbXGhTZA1EmhDMdI4",
-          "published": "2026-10-15T15:53:28Z",
-          "summary": "The WebexOne 2026 keynote in Austin covered a lot of ground in one morning. Cisco unveiled a rebuilt Webex App with Anthropic's Claude Managed&nbsp;..."
-        },
-        {
-          "title": "UC Awards 2026 Finalists Revealed: See The Full Shortlist",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.uctoday.com/uc-awards-2026-finalists-announced&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0RzCJ-Se3_T3A_I4vUA77F",
-          "published": "2026-10-15T15:04:34Z",
-          "summary": "... Webex, the contact centre and devices, and why he believes trust ... Cisco used WebexOne 2026 in Austin to open Webex to Anthropic's Claude&nbsp;..."
+          "title": "Bank of India (NSE:BANKINDIA): What Is the Q2 FY27 Earnings Call Scheduled for?",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kalkine.co.in/article/announcements/bank-of-india-nsebankindia-what-is-the-q2-fy27-earnings-call-scheduled-for&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1L3-mvNdPVk8zSNFQfLolO",
+          "published": "2026-10-16T13:27:44Z",
+          "summary": "... Cisco Webex. The management panel for the call includes MD and CEO Shri Rajneesh Karnatak, Executive Director Shri P R Rajagopal, and Executive&nbsp;..."
         }
       ]
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Why Customer Engagement Is Still Too Slow to Be Personal",
+          "link": "https://cxtoday.com/why-customer-engagement-is-still-too-slow-to-be-personal",
+          "published": "Fri, 16 Oct 2026 14:01:00 GMT",
+          "summary": "Amperity’s Pér highlights why customer engagement teams need to turn signals into action faster, without losing customer context, control, or trust."
+        },
+        {
+          "title": "The AI Handoff Problem CX Leaders Need to Fix",
+          "link": "https://cxtoday.com/ai-to-human-handoffs-should-feel-like-one-conversation-so-why-are-han",
+          "published": "Fri, 16 Oct 2026 12:31:01 GMT",
+          "summary": "Why AI handoffs still fail customers matters for CX buyers: Five9 shows repeat contact and context gaps, so leaders must improve agent desktop, CRM and outcomes"
+        },
+        {
+          "title": "The Hidden Cost of Manual Contact Center Scheduling",
+          "link": "https://cxtoday.com/8x8-flagship-wfm-fran",
+          "published": "Fri, 16 Oct 2026 11:01:00 GMT",
+          "summary": "8x8’s WFM growth shows why contact centres are replacing spreadsheets with integrated planning, quality insight and AI support."
+        },
         {
           "title": "Will Consumer AI Agents Force Businesses to Rethink CRM?",
           "link": "https://cxtoday.com/will-consumer-ai-agents-force-businesses-to-rethink-crm",
@@ -100,30 +96,6 @@
           "link": "https://cxtoday.com/why-fragmented-retail-media-data-damages-customer-intelligence",
           "published": "Thu, 15 Oct 2026 08:01:00 GMT",
           "summary": "Learn why fragmented retail media data is limiting customer insight and what CX leaders can do to improve measurement."
-        },
-        {
-          "title": "When Stolen Identity Data Turns Your Next Customer Into a Fraudster",
-          "link": "https://cxtoday.com/when-stolen-identity-data-turns-your-next-customer-into-a-fraudster",
-          "published": "Wed, 14 Oct 2026 14:01:00 GMT",
-          "summary": "Stolen IDs are letting fraudsters pass checks, so CX Today looks at why Prove’s Mary Ann Miller wants continuous identity verification."
-        },
-        {
-          "title": "Sanas Launches Supervised AI, Keeping Humans in Control of AI Calls",
-          "link": "https://cxtoday.com/sanas-launches-supervised-ai-to-keep-humans-in-control-of-ai-customer",
-          "published": "Wed, 14 Oct 2026 12:31:00 GMT",
-          "summary": "Sanas Supervised AI lets one supervisor oversee four AI-led customer calls, aiming to scale automation without weakening accountability or CX."
-        },
-        {
-          "title": "WebexOne 2026: GetixHealth on Buying Into the Webex Roadmap",
-          "link": "https://cxtoday.com/webexone-2026-getixhealth-on-buying-into-the-webex-roadmap",
-          "published": "Wed, 14 Oct 2026 11:19:18 GMT",
-          "summary": "GetixHealth's Dan Womack explains why the medical billing firm chose Webex Contact Center and how AI is helping it reach more patients"
-        },
-        {
-          "title": "AI Agent Observability Just Changed Again, What Next?",
-          "link": "https://cxtoday.com/ai-agent-observability-just-changed-again",
-          "published": "Wed, 14 Oct 2026 11:01:00 GMT",
-          "summary": "Why AI agent failures now matter for CX: Elastic nightshift AI SRE, Grafana IRM, OpenTelemetry and ServiceNow aim to link incidents to customer impact."
         }
       ]
     },
@@ -275,6 +247,12 @@
       "name": "UC Today",
       "items": [
         {
+          "title": "This Week: Apple Puts AI at the Heart of Shared Spaces",
+          "link": "https://uctoday.com/this-week-apple-puts-ai-at-the-heart-of-shared-spaces",
+          "published": "Fri, 16 Oct 2026 11:01:00 GMT",
+          "summary": "Apple, IR and Logitech show why shared spaces are getting smarter, as HomeView, Clarion and government collaboration tools reshape UC Today."
+        },
+        {
           "title": "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid",
           "link": "https://uctoday.com/microsofts-record-patch-meta-breach-and-openais-cyber-bid",
           "published": "Fri, 16 Oct 2026 08:01:00 GMT",
@@ -309,30 +287,6 @@
           "link": "https://uctoday.com/gammaverse-2026-the-channel-shift-beyond-legacy-revenue-gamma-cs-0220",
           "published": "Thu, 15 Oct 2026 09:31:00 GMT",
           "summary": "Gamma’s Gammaverse 2026 shows why partner growth now hinges on Sky Business Wholesale, FibreXchange, Webex Wholesale, AI, CX and security, UC Today."
-        },
-        {
-          "title": "Amazon’s Fire and Rehire: Can Boomerang Hiring Really Work?",
-          "link": "https://uctoday.com/amazons-fire-and-rehire-can-boomerang-hiring-really-work",
-          "published": "Wed, 14 Oct 2026 14:01:00 GMT",
-          "summary": "With Amazon recruiting back some of the 30,000 people, should companies rethink mass layoffs"
-        },
-        {
-          "title": "Untethered: Yealink's MP Portfolio Frees the Desk Phone",
-          "link": "https://uctoday.com/untethered-yealinks-mp-portfolio-frees-the-desk-phone-yealink-cs-0227",
-          "published": "Wed, 14 Oct 2026 12:31:00 GMT",
-          "summary": "Yealink’s MP55 E2 and MP66W show why frontline Teams Phone users still need dedicated handsets, with native certification for shared spaces."
-        },
-        {
-          "title": "WebexOne 2026: Brian Stout on Cisco's Intelligent Workplace",
-          "link": "https://uctoday.com/webexone-2026-brian-stout-on-ciscos-intelligent-workplace",
-          "published": "Wed, 14 Oct 2026 11:17:12 GMT",
-          "summary": "Cisco's Brian Stout explains Intelligent Workplace Experiences, Workplace Designer and what's driving Cisco's collaboration growth"
-        },
-        {
-          "title": "How Atlassian’s AMP Brings AI Agents Into Team Workflows",
-          "link": "https://uctoday.com/atlassians-ai-plan-puts-employee-engagement-first",
-          "published": "Wed, 14 Oct 2026 11:01:00 GMT",
-          "summary": "Atlassian AMP brings AI agents into shared workflows with clear identity, governed context, and human oversight across teams."
         }
       ]
     },
@@ -351,6 +305,18 @@
     {
       "name": "CMSWire.com - All News",
       "items": [
+        {
+          "title": "How Do Multi-Location Brands Keep Local Chatbots From Going Rogue?",
+          "link": "https://www.cmswire.com/customer-experience/how-do-multi-location-brands-keep-local-chatbots-from-going-rogue/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Fri, 16 Oct 2026 08:44:42 -0500",
+          "summary": "One branch chatbot promising an unapproved discount is a mistake. Hundreds of them is a brand crisis.\nContinue reading..."
+        },
+        {
+          "title": "Why Are Marketers Still Paying for Martech They Never Use?",
+          "link": "https://www.cmswire.com/digital-marketing/why-are-marketers-still-paying-for-martech-they-never-use/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Fri, 16 Oct 2026 08:24:38 -0500",
+          "summary": "Martech budgets just hit a five-year low, yet half of stack capability goes unused. A four-factor audit shows what to cut first.\nContinue reading..."
+        },
         {
           "title": "Is CMS Modernization Now an Answer Engine Visibility Decision?",
           "link": "https://www.cmswire.com/digital-experience/is-cms-modernization-now-an-answer-engine-visibility-decision/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
@@ -416,24 +382,6 @@
           "link": "https://www.cmswire.com/digital-marketing/can-starbucks-bet-on-baristas-rewrite-the-customer-experience-playbook/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Wed, 14 Oct 2026 15:01:46 -0500",
           "summary": "Starbucks stopped buying visits with discounts and started funding baristas. Here is what that shift means for marketers chasing loyalty.\nContinue reading..."
-        },
-        {
-          "title": "Unpacking the State of Contact Center Maturity",
-          "link": "https://www.cmswire.com/contact-center/unpacking-the-state-of-contact-center-maturity/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 11:26:21 -0500",
-          "summary": "New research from SuccessKPI and CMSWire evaluates contact centers across 7 benchmarking areas for a holistic view of how advanced operations are.\nContinue reading..."
-        },
-        {
-          "title": "What Is Customer Satisfaction Score (CSAT) and How Do You Calculate Your Score?",
-          "link": "https://www.cmswire.com/customer-experience/what-is-customer-satisfaction-score-csat/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 11:26:00 -0500",
-          "summary": "Customer satisfaction slipped in early 2026. Here&apos;s how to measure CSAT, calculate your score and benchmark it against the latest ACSI data.\nContinue reading..."
-        },
-        {
-          "title": "Contact Center Leaders: You Have About 10 Minutes Before Customers Give Up on AI",
-          "link": "https://www.cmswire.com/contact-center/contact-center-leaders-you-have-10-minutes/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 09:50:49 -0500",
-          "summary": "Asked by Five9 what makes for good customer service, consumers named quick resolution, fast response times, polite service and knowledgeable staff.\nContinue reading..."
         }
       ]
     },
@@ -459,12 +407,6 @@
           "link": "https://www.ringcentral.com/us/en/blog/intelligent-call-routing/",
           "published": "Thu, 15 Oct 2026 14:00:45 +0000",
           "summary": "How intelligent call routing directs each caller to the right resource, and how it differs from traditional routing. A caller picks the wrong menu option, lands in the wrong queue, and waits, while the one agent who would have solved it in two minutes sits idle in a different skill group. By the time the ...\nThe post Intelligent call routing: How it works and why it matters appeared first on RingCentral Blog."
-        },
-        {
-          "title": "What is ICX? Aragon Research defines a new category for business communications",
-          "link": "https://www.ringcentral.com/us/en/blog/icx-aragon-new-category-business-communications/",
-          "published": "Wed, 14 Oct 2026 13:55:40 +0000",
-          "summary": "Most businesses run two separate systems: one for employees to talk to each other, and one for talking to customers. Unified communications tools handled voice, video, and messaging between coworkers. Contact center systems handled customer calls and chats. A new report from Aragon Research says these two systems are merging into one category: Intelligent Communications ...\nThe post What is ICX? Aragon Research defines a new category for business communications appeared first on RingCentral Blog"
         }
       ]
     },
@@ -480,10 +422,22 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
+          "title": "As Albertsons embarks on a turnaround, what role will CX play? - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbU9IQzRlTm5sUjAteEtOOFpXTTRibWdxd3ZXYXlydHBJOXVPOVhHVEd1MEtZcmxJTFZnQ1JLUVZjbE13MF9OdHhlRUdTWDBVdUdNbDR1YXpWcThvNUtpRXBUdjI1dzB6bHlINlhRU1NleWxHN3RTZG1YTVJ4Y0tzR0kwN29ka2VSNjc4TVNRalB2dTRlTDZJYl80ZkJpU3h3bWtnV21raw?oc=5",
+          "published": "Fri, 16 Oct 2026 15:00:00 GMT",
+          "summary": "As Albertsons embarks on a turnaround, what role will CX play?&nbsp;&nbsp;CX Dive"
+        },
+        {
           "title": "Kustomer Unveils Conversation Intelligence and AI QA, Giving CX Leaders Greater Visibility Into Their Conversations - CustomerThink",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORktSZnFiVS1kTEtTRF9seFVTUGJCYkZJSUYtNnRZMGJRLUktSkprcGFTNXlNZDB3M1pQOFNkMXp5VWRxOHlkQ0tqcE9TRU5abTBlZFdkLXpsWEpDY2hsZGlVV3Q4Nng0TU54VXlFQnVxQUJacnphUlp3aFZfWjhwVFpVWk9fczJ5MlVETUdNYi1ONU5XQUVPOGRscHdZLTJ3WjZzYUhZdHFhTWRoZVNxaFc3RFExZ3h2SkYteEVxbXkwU1lQNW1XeUNhMnZ5anRuVC1ONUYzS0c?oc=5",
           "published": "Fri, 16 Oct 2026 05:57:19 GMT",
           "summary": "Kustomer Unveils Conversation Intelligence and AI QA, Giving CX Leaders Greater Visibility Into Their Conversations&nbsp;&nbsp;CustomerThink"
+        },
+        {
+          "title": "Delta overhauls its most luxurious flight experience - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb1ZibmhvNG50VlFnbFdnaDdoajcwX2FFYjRlVEh4WTZDd2lweEd5elNuMlVTMHpuMFNFQVF3Vzh1RXFqVTJtQTFLYWliV2NaaURwX3pFcWhfaldtYlRDcm90VTRmQTB6N2xoeHBJT0RoVFhZb2tpaFZSVkp6cGx0TC1DSFU2Ukg1SUpTN29yR1d0N1NYSWJhYWhFNXBhOTJ6QVcybTlOVQ?oc=5",
+          "published": "Thu, 15 Oct 2026 21:06:53 GMT",
+          "summary": "Delta overhauls its most luxurious flight experience&nbsp;&nbsp;CX Dive"
         },
         {
           "title": "Can Enterprises Trust AI to Do the Work, Not Just the Demo? - CX Today",
@@ -522,28 +476,10 @@
           "summary": "Target’s operations app updates let associates spend more time with customers&nbsp;&nbsp;CX Dive"
         },
         {
-          "title": "Why customers are fed up with AI chatbots - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUpBRkFrd3ctbVJQLV83Zk42V3U5TE1VNFUwV05iM3RhVWlucnd3VHFrWUw3QzFhR3RLSlV2UDN0RzRySGtNSWFlZnlPMU10MnlDeVZyNXJoTVRtZS1uanRzbGdMT0czb1hlTzd4N29CUldsZ2RnUkdCdkJQdVdNOWN6U1M0MThFLTJTRA?oc=5",
-          "published": "Wed, 14 Oct 2026 19:09:34 GMT",
-          "summary": "Why customers are fed up with AI chatbots&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "From Heathrow to the Bundesliga, CRM Gets Closer to the Customer - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjk0Mmp4SkFldXloaGh2OWxaRk45dFNRZHRHdUZ6dWg3Um1kdm9nSzVJakduX0hyN3dXX25zOEpvVl83Qk5NWjc2dkQ4VjZ6RDhEUkdQSHF4T3FCQzVmZnJ1dTZVYWo2TUJ3VjRiR2lISVFHaTZMajJwTUlLd2o2N1hoUVA4N1FMM0lj?oc=5",
-          "published": "Wed, 14 Oct 2026 17:59:30 GMT",
-          "summary": "From Heathrow to the Bundesliga, CRM Gets Closer to the Customer&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "When Stolen Identity Data Turns Your Next Customer Into a Fraudster - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkxad3JhaHZHVmZvWmU0Qm1yWnpaWUtad1BmenViekx6RFBlanM3azlIZ1AzcDJhaTFveDd2c2JxZW5XbHZJcDJHcHlrbmVUZEtIQy1oTXRSRlBDX0pGWTQycWdRcFRkRmdlN0dqUWlmd2Q4eXJzd0VtUllNMDdwSnBQLWFYd2xCMlRoN3JHVGc?oc=5",
-          "published": "Wed, 14 Oct 2026 14:01:00 GMT",
-          "summary": "When Stolen Identity Data Turns Your Next Customer Into a Fraudster&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "CallMiner Advances CX Intelligence and Agent Augmentation with New AI-Powered Capabilities - Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamlNU0k3SDVGeHROMXBfXzdHV1ZyTExTSkRoajZrUmxPODhEb0c3Rkp4WEp0eW1xODVFU3ItczFZMl9ZcEs4RWdOcmN3TFRCTFJmVGNISGgydEV0VTc0WW1RMVQ5ZlRBeUc5Nlg5RHhZaXczcmxNODVNelZfaFVQeEpSMVYyWGI2SUxEbnJpcmZwMG9nU2FoVk52WkdNRnQzblZQbUszZjE3NWl1c2xBd1RBSEZKenhvbEwwUzd2Ukc2SUU2ZThOTlZwd2NJdEwxejVLRFp5NDZtc2hNY2NKTg?oc=5",
-          "published": "Wed, 14 Oct 2026 13:00:00 GMT",
-          "summary": "CallMiner Advances CX Intelligence and Agent Augmentation with New AI-Powered Capabilities&nbsp;&nbsp;Business Wire"
+          "title": "Level AI Appoints Cardinal Health SVP Shane Abeyratne to CX Advisory Board - citybiz",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzJEbU5iS3ExWGpYYWstTnI5VnhYRVFDQTdCNUpDbUxKcndUcXVWMFh2WDJlaGE0X21MNVY1ZHdGN2dZSGZ0S0szZWNGS0ZyWEYtWUVQQWlIYnlocTBqWTBRbGNLV3dpa0ZFR295LVkzQVJBVlhDRF9PdWpMc2Zpdl82UnhyVW8tMVE3UGRWb2d5YlJkMkJ0VGdfNGVqNEgyZXJYZnBwS01UTVQzZXNqSkozdw?oc=5",
+          "published": "Wed, 14 Oct 2026 19:18:15 GMT",
+          "summary": "Level AI Appoints Cardinal Health SVP Shane Abeyratne to CX Advisory Board&nbsp;&nbsp;citybiz"
         }
       ]
     },
@@ -591,18 +527,6 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOajNaODZaQkxpUElNUnFWV3pYLVpmbFgwM24zbWRuNnVaRHhRTFNpdW1vcUwzN25hMXZZdkZHTnNjR0lCU0hNblluNG5Ca1NyWVR2eHZGcjRhLWFYTkFrWHpqbndXUGVNU1RQRXROMV85QkhLYjBGeE9hU1NwanhWVVlVdDc4ak82Q29DSklwUTNuclh6YzZ3TzZZVGJJcFh1aUhaT2YzVm9XMVR2UF9ZT2VGY1lBYTJuRUE?oc=5",
           "published": "Thu, 15 Oct 2026 04:00:24 GMT",
           "summary": "Customer Service Chatbots Get Only One Chance&nbsp;&nbsp;Destination CRM"
-        },
-        {
-          "title": "The architecture for agentic revenue - Attio",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1YdTBLOWRMMF9KQWRYS1QzWXhYeFhsdXNfYmR3OEVCbWxJaExZcjlpdXlOZnN0eXVGX2N1N3dZN3dwQUJF?oc=5",
-          "published": "Wed, 14 Oct 2026 16:37:47 GMT",
-          "summary": "The architecture for agentic revenue&nbsp;&nbsp;Attio"
-        },
-        {
-          "title": "Data Analyst - Careers | RATP Dev USA",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVZJSlFaVm4yVU40RHU5YXJ4eU9MVmN2R19Ld3k0amo4RjdVNUFRQUVIQ01IS1YyUWM0Q3R5bzVOSFQ2WEpUTkc1Z2U5UFZBR2VBZzVwYTNaWkM5bjE2Y3VLVmQ4Yi1xekd0bUNGbk5vamdlUkpvTW1mb1RyVjVpWVpLOW4?oc=5",
-          "published": "Wed, 14 Oct 2026 16:11:10 GMT",
-          "summary": "Data Analyst&nbsp;&nbsp;Careers | RATP Dev USA"
         }
       ]
     },
@@ -622,16 +546,52 @@
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
       "items": [
         {
-          "title": "Alternative Payments launches AI tool to track much more than AI finances - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxamxOY3pqUHQwS25hLW9lZk16emN2NUlPUEFMRjc0aHh1dW53Z2MxM29GbE92dXdCbVRyWnZFbUxoLTdyZGlLUHkxZm1CQ1dveWJmWkEwRUJnb0RzN3dJVnUxeWhUZ1ZFT0lSMi1hYTJFaC15RkY0RVhldw?oc=5",
-          "published": "Wed, 14 Oct 2026 14:52:51 GMT",
-          "summary": "Alternative Payments launches AI tool to track much more than AI finances&nbsp;&nbsp;The ChannelPro Network"
+          "title": "ChannelPro LIVE: Dallas puts innovation in the spotlight for local MSPs - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVVhwdU1lQ3FBcUc4RkFkTVNnRXIyejJIbWw5R0NPeXYySnR1SDQzSXZ1Z2ZFemU0VDNieWRaOTREblJnMWZFa3lvUDlxZENNS2dyYmhWTFMyQ0Z3Q3l4SXRtMUV0RG5WdlJwNzQtYWswNzEzSU92cUMxeDhwdw?oc=5",
+          "published": "Fri, 16 Oct 2026 14:59:58 GMT",
+          "summary": "ChannelPro LIVE: Dallas puts innovation in the spotlight for local MSPs&nbsp;&nbsp;The ChannelPro Network"
         }
       ]
     },
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "SolarWinds Avior: Goal-Driven Agentic AI for Hybrid IT Ops",
+          "link": "https://futurumgroup.com/insights/solarwinds-avior-goal-driven-agentic-ai-for-hybrid-it-ops/?utm_source=rss&utm_medium=rss&utm_campaign=solarwinds-avior-goal-driven-agentic-ai-for-hybrid-it-ops",
+          "published": "Fri, 16 Oct 2026 15:58:55 +0000",
+          "summary": "The post SolarWinds Avior: Goal-Driven Agentic AI for Hybrid IT Ops appeared first on Futurum.\nAlastair Cooke, Research Director, Hybrid Cloud &#38; Infrastructure at Futurum, examines SolarWinds' launch of Avior, a goal-driven agentic platform that enables IT teams to define objectives, coordinate specialized agents, and track measurable outcome.\nThe post SolarWinds Avior: Goal-Driven Agentic AI for Hybrid IT Ops appeared first on Futurum."
+        },
+        {
+          "title": "Proofpoint Buys Varonis to Connect People Risk With Data Access",
+          "link": "https://futurumgroup.com/insights/proofpoint-buys-varonis-to-connect-people-risk-with-data-access/?utm_source=rss&utm_medium=rss&utm_campaign=proofpoint-buys-varonis-to-connect-people-risk-with-data-access",
+          "published": "Fri, 16 Oct 2026 15:43:15 +0000",
+          "summary": "The post Proofpoint Buys Varonis to Connect People Risk With Data Access appeared first on Futurum.\nFernando Montenegro, Vice President &#38; Practice Lead, Cybersecurity &#38; Resilience at Futurum, analyzes how Proofpoint's $6.3 billion acquisition of Varonis combines threat targeting intelligence with identity-based data access controls to reduce breac.\nThe post Proofpoint Buys Varonis to Connect People Risk With Data Access appeared first on Futurum."
+        },
+        {
+          "title": "Closing the Enterprise Context Gap",
+          "link": "https://futurumgroup.com/research-reports/closing-the-enterprise-context-gap/?utm_source=rss&utm_medium=rss&utm_campaign=closing-the-enterprise-context-gap",
+          "published": "Fri, 16 Oct 2026 15:37:09 +0000",
+          "summary": "The post Closing the Enterprise Context Gap appeared first on Futurum.\nIn our latest thought leadership brief, Closing the Enterprise Context Gap, completed in partnership with Teradata, Futurum Research examines why autonomous AI agents stall before reaching production and outlines the governed context architecture technology leaders need to move from pilots to reliable, explainable AI at scale.\nThe post Closing the Enterprise Context Gap appeared first on Futurum."
+        },
+        {
+          "title": "IFS Ties Its Industrial AI Platform to a Governance Layer Built to Contain It",
+          "link": "https://futurumgroup.com/insights/ifs-ties-its-industrial-ai-platform-to-a-governance-layer-built-to-contain-it/?utm_source=rss&utm_medium=rss&utm_campaign=ifs-ties-its-industrial-ai-platform-to-a-governance-layer-built-to-contain-it",
+          "published": "Fri, 16 Oct 2026 14:24:13 +0000",
+          "summary": "The post IFS Ties Its Industrial AI Platform to a Governance Layer Built to Contain It appeared first on Futurum.\nIFS paired a new conversational AI platform with a governance layer at Unleashed 2026 — and admitted, in the same breath, where its differentiation claims still fall short.\nThe post IFS Ties Its Industrial AI Platform to a Governance Layer Built to Contain It appeared first on Futurum."
+        },
+        {
+          "title": "NetSuite QuickStart Makes AI-First Finance Free to Win Startups Early",
+          "link": "https://futurumgroup.com/insights/netsuite-quickstart-makes-ai-first-finance-free-to-win-startups-early/?utm_source=rss&utm_medium=rss&utm_campaign=netsuite-quickstart-makes-ai-first-finance-free-to-win-startups-early",
+          "published": "Fri, 16 Oct 2026 14:08:33 +0000",
+          "summary": "The post NetSuite QuickStart Makes AI-First Finance Free to Win Startups Early appeared first on Futurum.\nKeith Kirkpatrick, VP, Research at Futurum, shares his insights on NetSuite QuickStart, Oracle NetSuite's free AI-first finance platform for startups, and what it means for the race to win founders early.\nThe post NetSuite QuickStart Makes AI-First Finance Free to Win Startups Early appeared first on Futurum."
+        },
+        {
+          "title": "Ikusi's Triple Certification Signals Compliance-Ready Managed Services",
+          "link": "https://futurumgroup.com/insights/ikusis-triple-certification-signals-compliance-ready-managed-services/?utm_source=rss&utm_medium=rss&utm_campaign=ikusis-triple-certification-signals-compliance-ready-managed-services",
+          "published": "Fri, 16 Oct 2026 12:23:35 +0000",
+          "summary": "The post Ikusi&#039;s Triple Certification Signals Compliance-Ready Managed Services appeared first on Futurum.\nIkusi's simultaneous achievement of ENS, NIS2, and ISO 27001:2022 certifications positions it as a compliance-ready provider for Spanish public-sector and EU critical-infrastructure buyers.\nThe post Ikusi&#039;s Triple Certification Signals Compliance-Ready Managed Services appeared first on Futurum."
+        },
         {
           "title": "ServiceNow's AI Passport Closes the Agentic Governance Gap",
           "link": "https://futurumgroup.com/insights/servicenows-ai-passport-closes-the-agentic-governance-gap/?utm_source=rss&utm_medium=rss&utm_campaign=servicenows-ai-passport-closes-the-agentic-governance-gap",
@@ -691,96 +651,6 @@
           "link": "https://futurumgroup.com/insights/nvidias-cupotential-takes-the-cuda-moat-down-to-the-atom-in-the-ai-defined-fab/?utm_source=rss&utm_medium=rss&utm_campaign=nvidias-cupotential-takes-the-cuda-moat-down-to-the-atom-in-the-ai-defined-fab",
           "published": "Wed, 14 Oct 2026 20:33:37 +0000",
           "summary": "The post NVIDIA&#039;s cuPotential Takes the CUDA Moat Down to the Atom in the AI-Defined Fab appeared first on Futurum.\nBurke, Research Director at Futurum, examines NVIDIA's SEMICON West 2026 launch of cuPotential and the AI-defined fab, weighing 30x vendor speedups against the absence of fab output data.\nThe post NVIDIA&#039;s cuPotential Takes the CUDA Moat Down to the Atom in the AI-Defined Fab appeared first on Futurum."
-        },
-        {
-          "title": "HPE ProLiant Gen13: Security Features Matter More Than the Silicon",
-          "link": "https://futurumgroup.com/insights/hpe-proliant-gen13-security-features-matter-more-than-the-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=hpe-proliant-gen13-security-features-matter-more-than-the-silicon",
-          "published": "Wed, 14 Oct 2026 16:05:42 +0000",
-          "summary": "The post HPE ProLiant Gen13: Security Features Matter More Than the Silicon appeared first on Futurum.\nAlastair Cooke, Research Director, Hybrid Cloud &#38; Infrastructure at Futurum, HPE's ProLiant Gen13 servers prioritize advanced security—automatic drive encryption and post-quantum cryptography—over traditional processor specifications.\nThe post HPE ProLiant Gen13: Security Features Matter More Than the Silicon appeared first on Futurum."
-        },
-        {
-          "title": "Broadcom's HyperArmor Brings Virtual Patching to the Hypervisor",
-          "link": "https://futurumgroup.com/insights/broadcoms-hyperarmor-brings-virtual-patching-to-the-hypervisor/?utm_source=rss&utm_medium=rss&utm_campaign=broadcoms-hyperarmor-brings-virtual-patching-to-the-hypervisor",
-          "published": "Wed, 14 Oct 2026 15:50:21 +0000",
-          "summary": "The post Broadcom&#039;s HyperArmor Brings Virtual Patching to the Hypervisor appeared first on Futurum.\nFernando Montenegro, Vice President &#38; Practice Lead, Cybersecurity &#38; Resilience at Futurum, examines how Broadcom's HyperArmor brings virtual patching, execution allowlisting, and SSH MFA to ESX hypervisors, marking a strategic shift in infrastructu.\nThe post Broadcom&#039;s HyperArmor Brings Virtual Patching to the Hypervisor appeared first on Futurum."
-        },
-        {
-          "title": "Microsoft FabCon And SQLCon Europe: Elevating Semantic Models to an Enterprise AI Control Plane",
-          "link": "https://futurumgroup.com/insights/microsoft-fabcon-and-sqlcon-europe-elevating-semantic-models-to-an-enterprise-ai-control-plane/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-fabcon-and-sqlcon-europe-elevating-semantic-models-to-an-enterprise-ai-control-plane",
-          "published": "Wed, 14 Oct 2026 15:35:22 +0000",
-          "summary": "The post Microsoft FabCon And SQLCon Europe: Elevating Semantic Models to an Enterprise AI Control Plane appeared first on Futurum.\nBrad Shimmin examines how Microsoft Fabric elevates Power BI semantic models and ontologies into an authoritative operational control plane for enterprise AI agents.\nThe post Microsoft FabCon And SQLCon Europe: Elevating Semantic Models to an Enterprise AI Control Plane appeared first on Futurum."
-        },
-        {
-          "title": "Harness Shows Why LLM Security Scanning Needs a Repeatable Verdict",
-          "link": "https://futurumgroup.com/insights/harness-shows-why-llm-security-scanning-needs-a-repeatable-verdict/?utm_source=rss&utm_medium=rss&utm_campaign=harness-shows-why-llm-security-scanning-needs-a-repeatable-verdict",
-          "published": "Wed, 14 Oct 2026 15:20:10 +0000",
-          "summary": "The post Harness Shows Why LLM Security Scanning Needs a Repeatable Verdict appeared first on Futurum.\nVikram Rathnam and Mitch Ashley of The Futurum Research share insights on Harness's LLM security scanning research and why any AI scan should show verdict stability before it can block a merge.\nThe post Harness Shows Why LLM Security Scanning Needs a Repeatable Verdict appeared first on Futurum."
-        },
-        {
-          "title": "Meta Muse Wonder Reaches the Frontier. Can Meta Sell It?",
-          "link": "https://futurumgroup.com/insights/meta-muse-wonder-reaches-the-frontier-can-meta-sell-it/?utm_source=rss&utm_medium=rss&utm_campaign=meta-muse-wonder-reaches-the-frontier-can-meta-sell-it",
-          "published": "Wed, 14 Oct 2026 14:25:44 +0000",
-          "summary": "The post Meta Muse Wonder Reaches the Frontier. Can Meta Sell It? appeared first on Futurum.\nNick Patience, VP and Practice Lead for AI Platforms at Futurum, shares his insights on Meta Muse Wonder, how it compares with Google’s Gemini 4 Argon, and what Meta must fix to win enterprise AI buyers.\nThe post Meta Muse Wonder Reaches the Frontier. Can Meta Sell It? appeared first on Futurum."
-        },
-        {
-          "title": "TI Debuts Nanosecond Power Telemetry at OCP to Cut AI Data Center Downtime",
-          "link": "https://futurumgroup.com/insights/ti-debuts-nanosecond-power-telemetry-at-ocp-to-cut-ai-data-center-downtime/?utm_source=rss&utm_medium=rss&utm_campaign=ti-debuts-nanosecond-power-telemetry-at-ocp-to-cut-ai-data-center-downtime",
-          "published": "Wed, 14 Oct 2026 14:09:14 +0000",
-          "summary": "The post TI Debuts Nanosecond Power Telemetry at OCP to Cut AI Data Center Downtime appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, analyzes TI's OCP Summit debut of nanosecond power telemetry, 800V hot-swap control, and BAW timing, and whether analog platforms become the reliability layer of AI data centers.\nThe post TI Debuts Nanosecond Power Telemetry at OCP to Cut AI Data Center Downtime appeared first on Futurum."
-        },
-        {
-          "title": "Astera Labs Orion Reimagines the XPU Rack as a Compute-Agnostic Platform",
-          "link": "https://futurumgroup.com/insights/astera-labs-orion-reimagines-the-xpu-rack-as-a-compute-agnostic-platform/?utm_source=rss&utm_medium=rss&utm_campaign=astera-labs-orion-reimagines-the-xpu-rack-as-a-compute-agnostic-platform",
-          "published": "Wed, 14 Oct 2026 13:52:43 +0000",
-          "summary": "The post Astera Labs Orion Reimagines the XPU Rack as a Compute-Agnostic Platform appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, examines Astera Labs Orion, a compute-agnostic rack-scale reference design pooling up to 160 accelerators on PCIe Gen 6, and whether open racks can win AI inference from single-vendor systems.\nThe post Astera Labs Orion Reimagines the XPU Rack as a Compute-Agnostic Platform appeared first on Futurum."
-        },
-        {
-          "title": "The AI Last Mile Problem",
-          "link": "https://futurumgroup.com/research-reports/the-ai-last-mile-problem/?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-last-mile-problem",
-          "published": "Wed, 14 Oct 2026 13:44:45 +0000",
-          "summary": "The post The AI Last Mile Problem appeared first on Futurum.\nIn our latest thought leadership brief, The AI Last Mile Problem, completed in partnership with Snowflake, Futurum Research examines why enterprise AI stalls between pilot and production and lays out the five requirements technology and business leaders should set before scoping an embedded-engineering engagement.\nThe post The AI Last Mile Problem appeared first on Futurum."
-        },
-        {
-          "title": "Wiz Brings AI Agents to FedRAMP High: CNAPP Becomes AI-APP",
-          "link": "https://futurumgroup.com/insights/wiz-brings-ai-agents-to-fedramp-high-cnapp-becomes-ai-app/?utm_source=rss&utm_medium=rss&utm_campaign=wiz-brings-ai-agents-to-fedramp-high-cnapp-becomes-ai-app",
-          "published": "Wed, 14 Oct 2026 12:20:26 +0000",
-          "summary": "The post Wiz Brings AI Agents to FedRAMP High: CNAPP Becomes AI-APP appeared first on Futurum.\nWiz launched three AI agents in its FedRAMP High environment, evolving from CNAPP to AI-APP and delivering machine-speed security operations for federal agencies facing cyber threats.\nThe post Wiz Brings AI Agents to FedRAMP High: CNAPP Becomes AI-APP appeared first on Futurum."
-        },
-        {
-          "title": "SCSK Bets on Agentic AI to Digitize Japan's Excel-Dependent Enterprises",
-          "link": "https://futurumgroup.com/insights/scsk-bets-on-agentic-ai-to-digitize-japans-excel-dependent-enterprises/?utm_source=rss&utm_medium=rss&utm_campaign=scsk-bets-on-agentic-ai-to-digitize-japans-excel-dependent-enterprises",
-          "published": "Wed, 14 Oct 2026 12:19:19 +0000",
-          "summary": "The post SCSK Bets on Agentic AI to Digitize Japan&#039;s Excel-Dependent Enterprises appeared first on Futurum.\nSCSK's CELF AI Development Agent, powered by Claude via Amazon Bedrock, launches October 23, 2026, with alpha testing showing 300–800% productivity gains to capture Japan's enterprise market.\nThe post SCSK Bets on Agentic AI to Digitize Japan&#039;s Excel-Dependent Enterprises appeared first on Futurum."
-        },
-        {
-          "title": "Liquibase Goes Four-for-Four on Cloud Marketplaces",
-          "link": "https://futurumgroup.com/insights/liquibase-goes-four-for-four-on-cloud-marketplaces/?utm_source=rss&utm_medium=rss&utm_campaign=liquibase-goes-four-for-four-on-cloud-marketplaces",
-          "published": "Wed, 14 Oct 2026 12:18:53 +0000",
-          "summary": "The post Liquibase Goes Four-for-Four on Cloud Marketplaces appeared first on Futurum.\nLiquibase Secure now available on Google Cloud and Microsoft Marketplaces alongside AWS and Snowflake, enabling enterprises to purchase through existing agreements while supporting 65+ databases with AI-powered governance.\nThe post Liquibase Goes Four-for-Four on Cloud Marketplaces appeared first on Futurum."
-        },
-        {
-          "title": "FIT Builds Sri Lanka's Most Advanced Renewable Energy NOC",
-          "link": "https://futurumgroup.com/insights/fit-builds-sri-lankas-most-advanced-renewable-energy-noc/?utm_source=rss&utm_medium=rss&utm_campaign=fit-builds-sri-lankas-most-advanced-renewable-energy-noc",
-          "published": "Wed, 14 Oct 2026 12:17:40 +0000",
-          "summary": "The post FIT Builds Sri Lanka&#039;s Most Advanced Renewable Energy NOC appeared first on Futurum.\nHayleys Fentons Limited unveiled Sri Lanka's most advanced Renewable Energy Operations Centre, delivering unified monitoring, AI-driven alarm management, and performance analytics across residential, commercial, and utility-scale renewable assets.\nThe post FIT Builds Sri Lanka&#039;s Most Advanced Renewable Energy NOC appeared first on Futurum."
-        },
-        {
-          "title": "TCS BaNCS Wins MyState's Post-Merger Core Banking Bet",
-          "link": "https://futurumgroup.com/insights/tcs-bancs-wins-mystates-post-merger-core-banking-bet/?utm_source=rss&utm_medium=rss&utm_campaign=tcs-bancs-wins-mystates-post-merger-core-banking-bet",
-          "published": "Wed, 14 Oct 2026 12:17:17 +0000",
-          "summary": "The post TCS BaNCS Wins MyState&#039;s Post-Merger Core Banking Bet appeared first on Futurum.\nMyState Limited selected TCS BaNCS to consolidate systems post-merger with Auswide Bank, reflecting AI-driven modernization trends in Asia-Pacific financial services.\nThe post TCS BaNCS Wins MyState&#039;s Post-Merger Core Banking Bet appeared first on Futurum."
-        },
-        {
-          "title": "Sovereign AI Goes Agentic: DataRobot Deepens Etisalat UAE Bet",
-          "link": "https://futurumgroup.com/insights/sovereign-ai-goes-agentic-datarobot-deepens-etisalat-uae-bet/?utm_source=rss&utm_medium=rss&utm_campaign=sovereign-ai-goes-agentic-datarobot-deepens-etisalat-uae-bet",
-          "published": "Wed, 14 Oct 2026 12:13:36 +0000",
-          "summary": "The post Sovereign AI Goes Agentic: DataRobot Deepens Etisalat UAE Bet appeared first on Futurum.\nDataRobot and Etisalat UAE deepen their strategic partnership with a new multi-year agreement deploying the Agent Workforce Platform on-premises, addressing critical enterprise demands for data sovereignty and governance in regulated markets.\nThe post Sovereign AI Goes Agentic: DataRobot Deepens Etisalat UAE Bet appeared first on Futurum."
-        },
-        {
-          "title": "Hackett's AI Supply Chain Benchmarks Quantify the Cost of Falling Behind",
-          "link": "https://futurumgroup.com/insights/hacketts-ai-supply-chain-benchmarks-quantify-the-cost-of-falling-behind/?utm_source=rss&utm_medium=rss&utm_campaign=hacketts-ai-supply-chain-benchmarks-quantify-the-cost-of-falling-behind",
-          "published": "Wed, 14 Oct 2026 12:04:46 +0000",
-          "summary": "The post Hackett&#039;s AI Supply Chain Benchmarks Quantify the Cost of Falling Behind appeared first on Futurum.\nThe Hackett Group's AI benchmarks show AI-native supply chain operators achieve forecast error reductions up to 52% and cost declines of 12-17% across 16 enterprise workflows.\nThe post Hackett&#039;s AI Supply Chain Benchmarks Quantify the Cost of Falling Behind appeared first on Futurum."
         }
       ]
     },
@@ -791,6 +661,12 @@
     {
       "name": "Constellation Research",
       "items": [
+        {
+          "title": "Microsoft's releases MAI-Base-2 aimed at open models with a twist",
+          "link": "https://www.constellationr.com/insights/news/microsofts-releases-mai-base-2-aimed-open-models-twist",
+          "published": "Fri, 16 Oct 2026 10:45:07 +0000",
+          "summary": "Microsoft's releases MAI-Base-2 aimed at open models with a twist\nLarry Dignan\nFri, 16 Oct 2026 - 03:45\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digit"
+        },
         {
           "title": "Meta launches Muse Spark Open, may appeal to enterprises",
           "link": "https://www.constellationr.com/insights/news/meta-launches-muse-spark-open-may-appeal-enterprises",
@@ -820,18 +696,19 @@
           "link": "https://www.constellationr.com/insights/news/kodiak-gas-services-needs-scale-humans-and-digital-workers-are-answer",
           "published": "Thu, 15 Oct 2026 12:00:00 +0000",
           "summary": "Kodiak Gas Services needs to scale, humans and digital workers are the answer\nLarry Dignan\nThu, 15 Oct 2026 - 05:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise techn"
-        },
-        {
-          "title": "JPMorgan Chase aims to avoid AI lock-in, have nuanced view of AI agents",
-          "link": "https://www.constellationr.com/insights/news/jpmorgan-chase-aims-avoid-ai-lock-have-nuanced-view-ai-agents",
-          "published": "Wed, 14 Oct 2026 10:30:00 +0000",
-          "summary": "JPMorgan Chase aims to avoid AI lock-in, have nuanced view of AI agents\nLarry Dignan\nWed, 14 Oct 2026 - 03:30\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology,"
         }
       ]
     },
     {
       "name": "SiliconANGLE",
-      "items": []
+      "items": [
+        {
+          "title": "Band launches desktop app for developer collaboration and control of multiple AI coding agents",
+          "link": "https://siliconangle.com/2026/10/16/band-launches-desktop-app-for-developer-collaboration-and-control-of-multiple-ai-coding-agents/",
+          "published": "2026-10-16T15:50:56Z",
+          "summary": "Artificial intelligence agentic collaboration platform for multi-agent systems Thenovi AI Ltd., also known as Band, announced Thursday the launch of Band for Developers, a platform and new desktop application that allows software engineers to manage multiple coding agents at once. As software developers continue to adopt agentic AI, autonomous coding assistance platforms that can generate [&#8230;]\nThe post Band launches desktop app for developer collaboration and control of multiple AI coding a"
+        }
+      ]
     },
     {
       "name": "Technology News For IT Channel Partners and Solution Providers",
@@ -853,8 +730,14 @@
       "name": "CX Dive",
       "items": [
         {
-          "title": "Delta overhauls its most luxury flight experience",
-          "link": "https://www.customerexperiencedive.com/news/delta-overhauls-its-most-luxury-flight-experience/833159/",
+          "title": "As Albertsons embarks on a turnaround, what role will CX play?",
+          "link": "https://www.customerexperiencedive.com/news/albertsons-embarks-turnaround-what-role-will-cx-play/833173/",
+          "published": "Fri, 16 Oct 2026 07:00:00 -0400",
+          "summary": "The grocer, which is struggling with high prices, wants to sharpen its value perception through better in-store experiences, CEO Susan Morris said."
+        },
+        {
+          "title": "Delta overhauls its most luxurious flight experience",
+          "link": "https://www.customerexperiencedive.com/news/delta-overhauls-its-most-luxurious-flight-experience/833159/",
           "published": "Thu, 15 Oct 2026 16:26:00 -0400",
           "summary": "The airline&rsquo;s refresh of Delta One is its latest effort to court customers with premium experiences."
         },
@@ -869,24 +752,43 @@
           "link": "https://www.customerexperiencedive.com/news/jpmorgan-ceo-warns-customers-risks-third-party-ai-agents/832974/",
           "published": "Wed, 14 Oct 2026 15:17:00 -0400",
           "summary": "As Meta&rsquo;s Muse reignites fears over AI-driven deposit flight, Jamie Dimon cautioned customers Tuesday that if they&rsquo;re giving AI agents access to their bank accounts, they&rsquo;re owning that decision."
-        },
-        {
-          "title": "Why customers are fed up with AI chatbots",
-          "link": "https://www.customerexperiencedive.com/news/why-customers-fed-up-ai-chatbots/832914/",
-          "published": "Wed, 14 Oct 2026 09:00:00 -0400",
-          "summary": "Few things will cause a customer to immediately request &mdash; or demand &mdash; a live agent like a bot that misunderstands them."
-        },
-        {
-          "title": "Behind the scenes of DSW’s loyalty program relaunch",
-          "link": "https://www.customerexperiencedive.com/news/behind-the-scenes-of-dsws-loyalty-program-relaunch/832885/",
-          "published": "Wed, 14 Oct 2026 07:00:00 -0400",
-          "summary": "The &ldquo;Rewards at the Ready&rdquo; revamp emphasizes putting more control in customer&rsquo;s hands and helps the DSW VIP program stand out from the competition, DSW&rsquo;s Paige Sheedy said."
         }
       ]
     },
     {
       "name": "Call Centre Helper",
-      "items": []
+      "items": [
+        {
+          "title": "Preparing for 2027: What the Latest Research Tells Us – Webinar",
+          "link": "https://www.callcentrehelper.com/preparing-for-2027-webinar-278173.htm",
+          "published": "Fri, 16 Oct 2026 08:52:16 +0000",
+          "summary": "Date: 11th November 2026 &#124; 14:00 GMT Location: Virtual Register Now! Call Centre Helper’s latest research paints an interesting picture of an industry heading into 2027. AI adoption continues to accelerate, with chatbot usage passing 50% for the first time....\nThe post Preparing for 2027: What the Latest Research Tells Us &#8211; Webinar appeared first on Call Centre Helper."
+        },
+        {
+          "title": "How to Fix The Most Common WFM Planning Mistakes",
+          "link": "https://www.callcentrehelper.com/fix-common-wfm-planning-mistakes-278093.htm",
+          "published": "Fri, 16 Oct 2026 08:30:00 +0000",
+          "summary": "Zaineb Ahmed at Peopleware shares the key takeaways from a webinar in which Ben Heslop, Director of Resource Planning at ResQ and founder and author of Smooth Planning, explored six common planning mistakes and how to avoid them. Resource planning...\nThe post How to Fix The Most Common WFM Planning Mistakes appeared first on Call Centre Helper."
+        },
+        {
+          "title": "What is Agentic Experience Orchestration (AXO)?",
+          "link": "https://www.callcentrehelper.com/what-is-agentic-experience-orchestration-278127.htm",
+          "published": "Thu, 15 Oct 2026 10:00:00 +0000",
+          "summary": "UJET explores what agentic AI means for contact centres, how AXO works during live customer interactions, and how it differs from traditional agent assist and workflow automation. What Does &#8220;Agentic&#8221; Mean in a Contact Centre? An agentic system can look...\nThe post What is Agentic Experience Orchestration (AXO)? appeared first on Call Centre Helper."
+        },
+        {
+          "title": "How to Send a Document For Signature in 5 Easy Steps",
+          "link": "https://www.callcentrehelper.com/send-document-signature-easy-steps-278132.htm",
+          "published": "Thu, 15 Oct 2026 08:30:00 +0000",
+          "summary": "Zoom shares five clear steps on how to send a document for signature, from prepping your file to storing the completed copy, so proposals, contracts, and agreements get signed without the usual friction. Chasing down a client&#8217;s signature used to...\nThe post How to Send a Document For Signature in 5 Easy Steps appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Case Study: HELP Dropped Customer Contacts by 23% With Puzzel",
+          "link": "https://www.callcentrehelper.com/case-study-help-puzzel-278120.htm",
+          "published": "Thu, 15 Oct 2026 07:30:00 +0000",
+          "summary": "HELP Forsikring is a Nordic pioneer in legal expenses insurance, helping customers get expert legal support during disputes. Its customer service team is the first point of contact for people in complex, emotionally difficult situations, bridging the gap to HELP&#8217;s...\nThe post Case Study: HELP Dropped Customer Contacts by 23% With Puzzel appeared first on Call Centre Helper."
+        }
+      ]
     },
     {
       "name": "Light Reading",
@@ -896,10 +798,28 @@
       "name": "CXM Customer Experience Magazine",
       "items": [
         {
+          "title": "What It Takes to Win: The UKCXA 2026 Champions Reveal Their Secrets at Wembley",
+          "link": "https://cxm.world/customer-experience/what-it-takes-to-win-the-ukcxa-2026-champions-reveal-their-secrets-at-wembley/",
+          "published": "Fri, 16 Oct 2026 14:44:46 +0000",
+          "summary": "On 14 October, Wembley Stadium was full of sequins, sharp suits and the sound of whole teams cheering for each other, at what was a record turnout for the event. The UK&#8217;s CX community is clearly busier and more ambitious than ever. Between the applause and the photos, the CXM team caught some of the...\nThe post What It Takes to Win: The UKCXA 2026 Champions Reveal Their Secrets at Wembley appeared first on Customer Experience Magazine."
+        },
+        {
+          "title": "Five Great Pieces of Advice From UKCXA 2026 Winners to Enrich Your CX Leadership",
+          "link": "https://cxm.world/customer-experience/cx-leadership-advice-ukcxa-2026-winners/",
+          "published": "Fri, 16 Oct 2026 13:32:35 +0000",
+          "summary": "On 14 October, the UK&#8217;s customer experience community gathered at Wembley Stadium for the UK Customer Experience Awards 2026. Octopus Energy succeeded 2025 champion Standard Life as Overall Winner. Gold, Silver, and Bronze trophies went to organisations across the likes of energy, law, housing, healthcare, aviation, hospitality, travel, banking, and retail. CXM spent the night...\nThe post Five Great Pieces of Advice From UKCXA 2026 Winners to Enrich Your CX Leadership appeared first on Cus"
+        },
+        {
           "title": "Sky UK, Bupa, Legal & General, and London Luton Airport Show the EX–CX Link at the UK Customer Experience Awards 2026",
           "link": "https://cxm.world/employee-experience/sky-uk-bupa-legal-general-and-london-luton-airport-show-the-ex-cx-link-at-the-uk-customer-experience-awards-2026/",
           "published": "Fri, 16 Oct 2026 09:41:06 +0000",
           "summary": "At the UK Customer Experience Awards (UK CXAs) 2026 in London, four of the night’s winners showed that great customer experience starts with the people who deliver it. Employee experience has become central to how leading organisations think about CX. At the UK CXAs 2026, that link was hard to miss. The winners ranged from a...\nThe post Sky UK, Bupa, Legal &amp; General, and London Luton Airport Show the EX–CX Link at the UK Customer Experience Awards 2026 appeared first on Customer Experience M"
+        },
+        {
+          "title": "Your CX News Roundup: Octopus Energy Wins Big at UKCXA as AI Agents Get Some Rulebooks",
+          "link": "https://cxm.world/customer-experience/customer-experience-news-roundup-october-16-2026/",
+          "published": "Fri, 16 Oct 2026 09:30:00 +0000",
+          "summary": "This week in your customer experience news roundup, Octopus Energy was crowned Overall Winner at the UK Customer Experience Awards 2026; Meta and Sierra published a draft standard for how AI agents deal with businesses; Zendesk launched a directory to steer those agents to genuine support desks, and ServiceNow gave agents a passport. OpenAI, Microsoft,...\nThe post Your CX News Roundup: Octopus Energy Wins Big at UKCXA as AI Agents Get Some Rulebooks appeared first on Customer Experience Magazine"
         },
         {
           "title": "Zendesk Launches Open Directory to Steer AI Assistants to Real Support Desks",
@@ -942,12 +862,6 @@
           "link": "https://cxm.world/customer-experience/octopus-energy-takes-top-honours-at-the-uk-customer-experience-awards-2026/",
           "published": "Thu, 15 Oct 2026 08:00:00 +0000",
           "summary": "Wembley Stadium hosted the UK Customer Experience Awards 2026 on 14 October, and the evening’s top prize went to Octopus Energy, crowned Overall Winner for the care it gives customers in vulnerable circumstances. Organised by Awards International, the programme celebrates UK organisations that put customers at the heart of everything they do. Finalists earned their...\nThe post Octopus Energy Takes Top Honours at the UK Customer Experience Awards 2026 appeared first on Customer Experience Magazin"
-        },
-        {
-          "title": "Gulf Healthcare Proves Patient Experience Pays for Itself",
-          "link": "https://cxm.world/customer-experience/gulf-healthcare-proves-patient-experience-pays-for-itself/",
-          "published": "Wed, 14 Oct 2026 15:35:08 +0000",
-          "summary": "Healthcare leaders have long accepted that better patient experience is worth pursuing, yet many still struggle to show their boards what it earns. Across the Gulf, where Saudi Arabia and Dubai are both investing heavily to attract patients from abroad, that question now carries commercial weight as well as clinical importance. Entries to this year&#8217;s...\nThe post Gulf Healthcare Proves Patient Experience Pays for Itself appeared first on Customer Experience Magazine."
         }
       ]
     },
