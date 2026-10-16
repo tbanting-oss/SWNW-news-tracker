@@ -1,6 +1,73 @@
 {
   "days": [
     {
+      "iso": "2026-10-16",
+      "label": "Fri 16 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Zendesk launches Open Service Directory for AI assistants",
+          "sowhat": "A public spec to route personal AI agents to legitimate support desks, not scam sites—important if consumer AI agents actually proliferate.",
+          "url": "https://cxm.world/customer-experience/zendesk-open-service-directory-agentic-ai-customer-service/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "ServiceNow launches AI Passport for agent permission verification",
+          "sowhat": "Cryptographic credentials verify what AI agents can do at runtime—governance before an agent acts, not after it breaks something.",
+          "url": "https://cxm.world/customer-experience/ai-agent-permissions-servicenow-ai-passport/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Kustomer unveils Conversation Intelligence and AI QA scoring",
+          "sowhat": "Every conversation gets an AI quality score—gives CX leaders visibility but still another metric to tune, not a root-cause fix.",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORktSZnFiVS1kTEtTRF9seFVTUGJCYkZJSUYtNnRZMGJRLUktSkprcGFTNXlNZDB3M1pQOFNkMXp5VWRxOHlkQ0tqcE9TRU5abTBlZFdkLXpsWEpDY2hsZGlVV3Q4Nng0TU54VXlFQnVxQUJacnphUlp3aFZfWjhwVFpVWk9fczJ5MlVETUdNYi1ONU5XQUVPOGRscHdZLTJ3WjZzYUhZdHFhTWRoZVNxaFc3RFExZ3h2SkYteEVxbXkwU1lQNW1XeUNhMnZ5anRuVC1ONUYzS0c?oc=5",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CustomerThink"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "IAA transforms contact centre with Five9 AI-driven automation",
+          "sowhat": "Digital engagement rose, case backlogs fell, NPS improved—standard AI contact-centre win, no standout technical move disclosed.",
+          "url": "https://cxtoday.com/how-iaa-transformed-its-contact-centre-with-five9-ai",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "SCSK launches CELF AI Development Agent for Japan's Excel-dependent enterprises",
+          "sowhat": "Claude-powered agent targeting Japan's workflow digitisation, alpha tests show 300–800% productivity gains—large, underserved market if it ships.",
+          "url": "https://futurumgroup.com/insights/scsk-bets-on-agentic-ai-to-digitize-japans-excel-dependent-enterprises/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Five9 survey: customers give AI chatbots 10 minutes before switching",
+          "sowhat": "Consumers want quick resolution, fast response, polite service, knowledgeable staff—AI's window is narrower than vendors assume.",
+          "url": "https://www.cmswire.com/contact-center/contact-center-leaders-you-have-10-minutes/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CMSWire"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-15",
       "label": "Thu 15 Oct 2026",
       "rows": [
@@ -888,144 +955,7 @@
         }
       ],
       "pattern_watch": "Multiple vendors (Cisco, Google, Microsoft) embedding AI agents and CRM into collaboration tools, testing whether AI delegation belongs in the flow of work or in standalone apps."
-    },
-    {
-      "iso": "2026-10-08",
-      "label": "Thu 08 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "Cisco launches Dialog for persistent AI agents",
-          "sowhat": "Webex AI agents can now keep working after conversations end, moving enterprise agentic collaboration beyond turn-by-turn chat into continuous workflows — a clear shift in how vendors define agent scope.",
-          "url": "https://cxtoday.com/webexone-2026-cisco-dialog-turns-ai-agents-into-advocates",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Twilio says voice will reshape customer journeys",
-          "sowhat": "Vendor positioning for voice+AI in CX, but no discrete move beyond commentary — so buyers should wait for real integration proof points, not marketing narrative.",
-          "url": "https://cxtoday.com/why-twilio-says-voice-will-reshape-customer-journeys",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Five9 reports poor AI handoff experience persists",
-          "sowhat": "Context loss and forced customer repetition remain widespread post-deflection, exposing the operational gap between AI containment targets and agent-ready context handoff.",
-          "url": "https://cxtoday.com/ai-handoffs-should-feel-seamless-why-arent-they-five9",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Gamma launches FibreXchange portal for UK partners",
-          "sowhat": "Aggregates BT Wholesale, PXC and CityFibre into one partner interface, simplifying fibre choice for UK MSPs but adding complexity to multi-supplier commercial negotiation.",
-          "url": "https://uctoday.com/why-fibre-choice-is-becoming-more-complex-for-partners-gamma-cs-0219",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HubSpot cuts 660 staff, restructures around AI",
-          "sowhat": "CRM vendor eliminates 7% of headcount to realign around AI-driven customer outcomes — a sign that enterprise AI is forcing platform vendors to cut costs while rebuilding go-to-market.",
-          "url": "https://cxm.world/customer-experience/hubspot-layoffs-ai-restructure",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "SAP launches autonomous enterprise solution, acquires TechWolf",
-          "sowhat": "Joule AI agents move from answering questions to autonomous task execution; TechWolf buy adds skills intelligence, signalling SAP's push into agentic workflow beyond ERP navigation.",
-          "url": "https://cxm.world/customer-experience/sap-ai-agents-joule-work-techwolf",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "SKYBOXE adds Verizon plans to 5G offering",
-          "sowhat": "Reseller partnership expands fixed wireless portfolio for small business — incremental carrier choice, no material differentiation in a crowded 5G resale market.",
-          "url": "https://telecomreseller.com/2026/10/06/skyboxe-adds-verizon-business-plans-to-5g-fixed-wireless-offering/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CCaaS",
-          "headline": "Automation Anywhere acquires Boost.ai for voice AI",
-          "sowhat": "Automation Anywhere is betting that voice AI in customer service will differentiate its agentic automation platform from competitors racing to add conversational interfaces.",
-          "url": "https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "SiliconANGLE"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "Cisco Webex adds Dialog for persistent agent memory",
-          "sowhat": "Cisco is trying to make AI agents stateful across interactions—giving them context beyond a single session—which could reduce handoffs but raises governance questions around data retention.",
-          "url": "https://cxm.world/customer-experience/cisco-dialog-agentic-ai-customer-service/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Google Gemini now queries Asana, Jira, Salesforce directly",
-          "sowhat": "Google is embedding Gemini into third-party stacks to reduce context-switching, competing with Microsoft's own cross-app agent ambitions.",
-          "url": "https://uctoday.com/google-just-wired-gemini-into-everyone-elses-stack",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco unveils Claude Managed Agents within Webex App",
-          "sowhat": "Cisco is embedding Anthropic's Claude into Webex as a managed agent, signalling a preference for external LLMs over purely proprietary AI—governance will be the test.",
-          "url": "https://uctoday.com/webexone-2026-amit-barave-on-claude-agents-the-new-webex",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Microsoft embeds Dynamics 365 CRM skills into Copilot workflows",
-          "sowhat": "Microsoft is positioning Copilot as a CRM orchestration layer, making agents executable inside Dynamics rather than separate bots—reducing workflow fragmentation.",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzM1TlpJdjhQZnpTN19VUWRKWkoybFhRSXJxUjEzYnVTM2M4N2l6ZHg4ZE9xN09ieWtVZDhZazBrMkFjMnlWVWFZR0R0dkplTFVtV00wZ0RSNldHQWExUFpsUnRIWGJKZVh2SHlKMWVKSUU3ZGxNVW9ndENLbEJnUVdVZ3F2TlpfOUVXaVZYSXZNa3lvc3N4cDFOVWgwelNEV1d3RHB1OTVIdjZUZWJFeHJqZE1QT3pFLWUwUlZacURSZ0ItdE1WNWFDZmpKODdxbnBsTWIwTUdiUWZpVXJUVHVoMDFPZw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Microsoft"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "8x8 appoints Jamie Snaddon Chief Strategy Officer",
-          "sowhat": "8x8 is adding a dedicated strategy chief, potentially signalling a refocus or repositioning as it competes in a CCaaS market consolidating around AI-native platforms.",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xa0Rmcjd3Q2Y4M1VJVmxRc0xoelRIMVJUaG5UU0p1bHhya01wazVhbzJoaV8yMUhoZmRvQTFfeUpBWlppeDd4NGJlN09PeDVWSl9qVFU5MEs0cDE4VkY5RFVlYw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Foundation"
-        }
-      ],
-      "pattern_watch": "Multiple vendors embedding third-party LLMs (Claude, Gemini) into collaboration and CRM workflows—platform vendors becoming orchestration layers rather than AI owners."
     }
   ],
-  "updated": "2026-10-15T18:53:33.890486+00:00"
+  "updated": "2026-10-16T11:00:31.056523+00:00"
 }
