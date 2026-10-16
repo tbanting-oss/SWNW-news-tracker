@@ -63,9 +63,79 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Five9 flags AI handoff context gaps",
+          "sowhat": "Repeat contacts and lost context show AI-to-human handoffs remain broken, requiring better agent desktop and CRM integration.",
+          "url": "https://cxtoday.com/ai-to-human-handoffs-should-feel-like-one-conversation-so-why-are-han",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "8x8 flags WFM replacing spreadsheet planning",
+          "sowhat": "Manual contact-center scheduling remains a drag on efficiency, creating runway for integrated WFM tools with AI and quality insight.",
+          "url": "https://cxtoday.com/8x8-flagship-wfm-fran",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "TELUS Digital partners with Parloa on AI",
+          "sowhat": "BPO integration with conversational-AI platforms signals broader distribution of enterprise AI through outsourcer channels.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2Z0WnJwRVpMUnU3V05LYXNIOUFEdS1sOWk4SlVjQld6ZTlWeDIwN0VzanBDMF9kTU5DMjJnQk5PX1Q3a2RNWjh3empkVkFEWmhKVWtWeU5UWWYtR1JXS29JR0dPZnBYOWFkVXN3c2VFNU5hY2xrR1pvR2xzYTd4M1QwWDN6VjI1MC1GaGJadW92VW1ELUVKQ0JGUXFjQQ?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "MarTech Cube"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Kustomer scores every conversation with AI QA",
+          "sowhat": "Automated QA scoring across 100% of interactions shifts quality management from sampling to full-coverage intelligence.",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHNTanV2Sjk0VjVJdHFTS1BpX1F4ay0zdUF5ZUxCMW9Rb1o4bnUyLThfQ1JTX3BlNWp2VjVJNWJZc1hGY2VocDhLX3VwT2RjZlZ2aFp0V0s5QUJXQ2tqemNkSE5VOVVlWmdwdURMaDZIMzdZdjJHTVRPNnBFY1V0bjdKRm1XRW9rUW1fM3I5c29sa05TQUI1aWF0SWxTeWczaW55aFdVX24?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "ServiceNow launches AI Passport for agent governance",
+          "sowhat": "Cryptographic credentials verify AI agents' authorized scope, addressing the gap where 100% of banks use AI but only 24% have governance.",
+          "url": "https://futurumgroup.com/insights/servicenows-ai-passport-closes-the-agentic-governance-gap/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Zendesk launches Open Service Directory for AI assistants",
+          "sowhat": "A directory designed to route consumer AI agents to genuine support desks tests whether rivals and assistant makers will adopt it.",
+          "url": "https://futurumgroup.com/insights/will-ai-assistants-use-zendesks-open-service-directory/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Centrical debuts workforce orchestration platform",
+          "sowhat": "Performance management expands to orchestration layer, signaling contact-center software moving beyond metrics to real-time task direction.",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjlmdGNEQ1BOX0xJM2FnTFFqZWVvd3hYeG9QLXAxRnhGMjctUFcwX0tqRnZQcmJYSmpEcEROSm0waEl3ZXFqVWVrS0NORmdrbDVrVkVDUldjSDV5RnFqb0VubEhQbEFPZnpjZGRjeHp0RGVXQ3VKSEF5bkxpNHR0UXRCbw?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Foundation"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "AI agent governance becomes a product category: ServiceNow, Zendesk, and Centrical launch platforms to control, credential, and route autonomous AI."
     },
     {
       "iso": "2026-10-15",
@@ -957,5 +1027,5 @@
       "pattern_watch": "Multiple vendors (Cisco, Google, Microsoft) embedding AI agents and CRM into collaboration tools, testing whether AI delegation belongs in the flow of work or in standalone apps."
     }
   ],
-  "updated": "2026-10-16T11:00:31.056523+00:00"
+  "updated": "2026-10-16T18:38:15.402742+00:00"
 }
