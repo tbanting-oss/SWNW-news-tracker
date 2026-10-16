@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T18:31:17.072146+00:00",
+  "generated_at": "2026-10-16T10:03:58.348343+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
-  "feeds_with_errors": 4,
+  "feeds_with_errors": 5,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
@@ -23,6 +23,11 @@
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications"
+    },
+    {
+      "name": "Call Centre Helper",
+      "url": "https://www.callcentrehelper.com/feed/",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "feeds": [
@@ -60,6 +65,12 @@
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Will Consumer AI Agents Force Businesses to Rethink CRM?",
+          "link": "https://cxtoday.com/will-consumer-ai-agents-force-businesses-to-rethink-crm",
+          "published": "Fri, 16 Oct 2026 08:01:00 GMT",
+          "summary": "Consumer AI agents are reshaping CRM, customer data and service, says CX Today, as Colgate-Palmolive and ArvatoConnect flag new buyer behaviour."
+        },
         {
           "title": "How IAA Transformed Its Contact Centre with Five9 AI",
           "link": "https://cxtoday.com/how-iaa-transformed-its-contact-centre-with-five9-ai",
@@ -113,24 +124,6 @@
           "link": "https://cxtoday.com/ai-agent-observability-just-changed-again",
           "published": "Wed, 14 Oct 2026 11:01:00 GMT",
           "summary": "Why AI agent failures now matter for CX: Elastic nightshift AI SRE, Grafana IRM, OpenTelemetry and ServiceNow aim to link incidents to customer impact."
-        },
-        {
-          "title": "Can Enterprises Trust AI to Do the Work, Not Just the Demo?",
-          "link": "https://cxtoday.com/can-enterprises-trust-ai-to-deliver-outcomes-not-just-pilots-tatacommunications",
-          "published": "Wed, 14 Oct 2026 09:31:00 GMT",
-          "summary": "Enterprises need AI that finishes work, not just demos. Tata Communications explains touchless resolution, AI handoffs and production-ready CX pilots in CX Toda"
-        },
-        {
-          "title": "Why Martech Alignment Matters More Than Features",
-          "link": "https://cxtoday.com/why-martech-alignment-matters-more-than-features",
-          "published": "Wed, 14 Oct 2026 08:01:00 GMT",
-          "summary": "Tom Kaneshige explains why martech investments underperform and how CMOs can align technology, skills, and workflows for value."
-        },
-        {
-          "title": "CCW Nashville 2026: Key AI and Customer Experience Takeaways",
-          "link": "https://cxtoday.com/ccw-nashville-2026-key-ai-and-customer-experience-takeaways",
-          "published": "Wed, 14 Oct 2026 07:36:55 GMT",
-          "summary": "Sanas Supervised AI lets one person oversee four AI-led customer calls, aiming to scale voice automation without losing human accountability."
         }
       ]
     },
@@ -149,22 +142,70 @@
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
       "items": [
         {
+          "title": "OneDrive: PDF annotation for sensitivity-label protected PDFs in OneDrive/SharePoint web viewer",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576276",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "We're enabling PDF annotation for sensitivity-label protected PDFs in OneDrive and SharePoint on the web. With this update, users who have the appropriate usage rights can annotate these protected PDFs in place in their browser while preserving the file's sensitivity label, encryption, and usage rights when changes are saved.GA date: January CY2027"
+        },
+        {
+          "title": "Microsoft Teams: Pinch to zoom in on shared screens",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576193",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "Get a closer look at shared content in Teams calls and meetings with pinch-to-zoom using your touchpad. Quickly zoom in to make small text and detailed visuals easier to see, then zoom back out for the full view. Existing zoom controls remain available.GA date: November CY2026"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Full-screen mode on task grid",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575291",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "Task grid full-screen mode enables project managers and team members to expand the task grid to use the available screen space. By minimizing surrounding page elements, users gain a larger workspace for viewing and managing task hierarchies, schedules, assignments, dependencies, and other task details.\nUsers can enter full-screen mode when they need a focused planning experience and return to the standard project view when they need access to other project information.GA date: November CY2026"
+        },
+        {
+          "title": "SharePoint: Copilot Search in SharePoint and OneDrive",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573696",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "Copilot Search brings AI-powered, natural-language search to SharePoint and OneDrive, combining relevant results, AI-generated summaries with source references, intuitive filters, and a seamless handoff to Copilot.GA date: January CY2027Preview date: October CY2026"
+        },
+        {
+          "title": "Microsoft Teams: Facilitator's enhanced protection skill can alert you to potential scams",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573450",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "Facilitator can help you spot suspected attempts by people outside your organization to trick you into sharing sensitive information during a meeting. When Facilitator is in your meeting, its Protection skill uses AI to check the meeting transcript for signs of possible social engineering. If it detects a suspected attempt, you'll see a warning in the meeting, with options to end or to temporarily restrict information sharing.GA date: November CY2027"
+        },
+        {
+          "title": "Power Apps: Prompt Columns - multiple lines of text output",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573279",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "Prompt columns can now store multilple lines of text as prompt output, enabling longer and detailed AI-generated insights to be stored in your tables.GA date: November CY2026"
+        },
+        {
+          "title": "Microsoft Dataverse: Prompt column values in bulk for existing records (backfill)",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570865",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "Prompt columns can now generate AI values for records that already exist in your table, not just new or updated ones. Makers can choose to apply a prompt to existing records in bulk, optionally filtered to just the rows they need, so historical data gets the same AI-generated insights as incoming data, without touching each record one at a time.GA date: November CY2026"
+        },
+        {
           "title": "Microsoft Teams: Near-real-time detection of malicious QR codes in messages",
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576198",
           "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Microsoft Teams will introduce near-real-time detection of malicious QR codes shared in messages. By analyzing destinations embedded in QR codes, Teams can identify potential phishing and fraud threats and apply additional protections to malicious content, extending existing URL protection to QR-based attacks.GA date: December CY2026"
-        },
-        {
-          "title": "Microsoft Teams: PowerPoint Live support for webinars and structured meetings on Teams Rooms on Android",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576195",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Participants joining webinars and structured meetings from Teams Rooms on Android can view and interact with PowerPoint Live presentations. This provides greater flexibility and accessibility while keeping room participants aligned with the active presentation.GA date: November CY2026"
+          "summary": "Microsoft Teams will introduce near-real-time detection of malicious QR codes shared in messages. By analyzing destinations embedded in QR codes, Teams can identify potential phishing and fraud threats and apply additional protections to malicious content, extending existing URL protection to QR-based attacks.GA date: November CY2026"
         },
         {
           "title": "Microsoft Teams: Loop meeting notes stored in the meeting organizer's OneDrive",
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576194",
           "published": "Wed, 14 Oct 2026 23:01:02 Z",
           "summary": "For non-channel Microsoft Teams meetings, collaborative meeting notes, including Loop-powered meeting notes and Facilitator notes, will be stored in the meeting organizer's OneDrive for Business instead of the OneDrive of the person who starts the notes. This update provides more consistent ownership and management of meeting content while preserving the existing note-taking and collaboration experience for meeting participants.GA date: November CY2026"
+        },
+        {
+          "title": "Microsoft Teams: Admin center - Intelligent insights for meeting quality",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574108",
+          "published": "Wed, 14 Oct 2026 23:01:02 Z",
+          "summary": "Gain proactive visibility into meeting quality across your organization with AI-powered insights in the Teams admin center that identify emerging patterns, highlight impacted users and locations, and surface likely causes with recommended actions. This helps IT administrators detect and address issues earlier, improve meeting quality, and stay ahead of potential disruptions.GA date: November CY2026"
+        },
+        {
+          "title": "Microsoft Teams: PowerPoint Live support for webinars and structured meetings on Teams Rooms on Android",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576195",
+          "published": "Wed, 14 Oct 2026 23:01:02 Z",
+          "summary": "Participants joining webinars and structured meetings from Teams Rooms on Android can view and interact with PowerPoint Live presentations. This provides greater flexibility and accessibility while keeping room participants aligned with the active presentation.GA date: November CY2026"
         },
         {
           "title": "Microsoft Teams: Phishing Detection in Teams Messaging",
@@ -177,12 +218,6 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574111",
           "published": "Wed, 14 Oct 2026 23:01:02 Z",
           "summary": "When Copilot Chat uses memory to personalize a response, users can now see what informed the answer. Select Sources beneath the response, then open the Personalization tab to view the custom instructions, saved memories, memories learned from conversations, and past chats that shaped the response. From there, users can return to a cited chat to pick up where they left off or review and delete saved memories. Memory citations appear only when memory is turned on.GA date: October CY2026"
-        },
-        {
-          "title": "Microsoft Teams: Admin center - Intelligent insights for meeting quality",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574108",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Gain proactive visibility into meeting quality across your organization with AI-powered insights in the Teams admin center that identify emerging patterns, highlight impacted users and locations, and surface likely causes with recommended actions. This helps IT administrators detect and address issues earlier, improve meeting quality, and stay ahead of potential disruptions.GA date: November CY2026Preview date: September CY2026"
         },
         {
           "title": "Dynamics 365 Contact Center: Quality evaluation - One-Time Evaluation Frequency",
@@ -207,108 +242,6 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576395",
           "published": "Wed, 14 Oct 2026 22:53:09 Z",
           "summary": "This feature adds support for token-level encryption during authentication, allowing Power Pages to accept encrypted ID tokens in addition to signed tokens. It ensures secure claim transmission, improves compatibility with advanced identity providers, and strengthens overall authentication security without changing existing sign-in flows.\nBusiness Value:\nYou can integrate with more secure identity providers to meet stricter security and compliance requirements. This helps you expand into high-tr"
-        },
-        {
-          "title": "SharePoint: Agent chat web part",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575298",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "This is a new web part available for modern page editors in SharePoint. The web part can be configured to use any M365 Copilot agent.GA date: January CY2027Preview date: November CY2026"
-        },
-        {
-          "title": "Microsoft Purview: Data Loss Prevention-Admin Units Support for Copilot & Cowork DLP",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575287",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Microsoft Purview Data Loss Prevention is extending Administrative Units support to Microsoft 365 Copilot, Copilot Chat, and Cowork. This enables organizations to delegate management of supported Copilot DLP policies to administrators within their assigned Administrative Units, supporting regional, departmental, and regulatory boundaries without granting tenant-wide policy-management permissions. Existing tenant-wide policies continue to apply, and configuration is optional for organizations cho"
-        },
-        {
-          "title": "Microsoft Purview: Information Protection-Auto-labeling for legacy Office files",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574363",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Microsoft Purview server-side auto-labeling will support legacy Microsoft Office file formats, including Word (.doc), Excel (.xls), and PowerPoint (.ppt). Organizations can automatically evaluate and apply sensitivity labels to these files in SharePoint and OneDrive.GA date: November CY2026Preview date: November CY2026"
-        },
-        {
-          "title": "Visio: Desktop Model Context Protocol (MCP) Server",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574125",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "The Microsoft Visio Desktop MCP Server enables compatible AI clients to connect with the Visio Desktop application to create, read, and update Visio diagrams using natural language. It runs locally on Windows and requires a licensed Visio Desktop application.GA date: June CY2027Preview date: November CY2026"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Enable MCP tools for POS returns",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574124",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "This feature provides reusable MCP tools for Store Commerce POS returns. These tools expose Commerce return capabilities as structured actions that customers, partners, and agent developers can use to build conversational or agentic return experiences.\nThe tools enable agentic experiences to look up the original purchase using supported identifiers such as receipt, order, invoice, or confirmation number; retrieve matching transactions and returnable lines; identify items that are returnable, par"
-        },
-        {
-          "title": "Dynamics 365 Finance: Improved planning writeback performance and flexibility",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574118",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Business performance planning improves the performance and flexibility of writeback from the Matrix visual.\nWriteback processing has been optimized to improve performance for planning adjustments, particularly for larger splash and multi-update operations. The improvements also optimize writeback for users with dimension security, where additional security validation is required.\nIn addition, report designers no longer need to include a field from every cube dimension in the Matrix visual to ena"
-        },
-        {
-          "title": "Dynamics 365 Finance: Manage dimension security with Microsoft Entra groups",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574117",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Administrators can now assign Microsoft Dataverse group teams backed by Microsoft Entra groups to Business performance planning dimension security groups. Previously, dimension security assignments were limited to individual users. The updated experience allows administrators to view and add eligible Entra group-backed teams alongside users, with separate membership information for each assignment type.\nTo use this capability, the Dataverse group team must first be configured correctly and assig"
-        },
-        {
-          "title": "Dynamics 365 Finance: Collaborative comments for planning cubes and dimensions",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574116",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Create and manage contextual discussion threads directly on planning cubes and dimensions. Users can comment on dimension cells, detailed or aggregate cube cells, and reporting rows; reply to and mention colleagues; receive email notifications; and resolve or reactivate discussions. Public and private visibility options, together with an All Comments view, filters, export, and role-based management actions, support collaboration throughout the planning cycle.GA date: October CY2026"
-        },
-        {
-          "title": "Power Apps: Manage model-driven app AI features from consolidated settings",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574104",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Consolidated AI settings make it easier for makers and admins to find and manage AI capabilities for model-driven apps across two complementary surfaces.\nIn Maker Studio, the Settings dialog in the model app form designer adds a new top-level Copilot and AI tab. Makers can see and adjust all available AI options for the app in one place instead of finding them scattered among all the other settings.\nIn the Power Platform admin center, model-driven app AI settings are consolidated from Environmen"
-        },
-        {
-          "title": "Dynamics 365 Supply Chain Management: Procurement Agent - Define custom scenarios for agent-generated supplier emails",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573705",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Business end-users and buyers can define and maintain their own outbound follow-up scenarios and use them wherever built-in scenarios are used today:\n\nScenario maintenance — a dedicated setup page where users create, edit, and maintain custom follow-up scenarios. Each scenario carries its own name, the instructions that shape the email the agent writes, and the business entity it applies to.\nScenario-driven configuration — follow-up configurations are built around the chosen scenario, so criteri"
-        },
-        {
-          "title": "Outlook: Copilot Chat available in shared and delegate mailboxes",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573698",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Shared mailbox users and delegates with read and manage (full access) and/or mail folder-level permission will now be able to access Copilot Chat directly from their shared and delegate mailboxes in classic Outlook, when added as a resource.GA date: November CY2026"
-        },
-        {
-          "title": "Power Pages: Create Power Pages SPA site from the Power Pages studio",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573277",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Quickly get started with modern single-page application (SPA) development by creating a site directly from Power Pages Studio. Continue building and customizing your experience using your preferred development tools and frameworks.GA date: November CY2026"
-        },
-        {
-          "title": "Work IQ: Microsoft IQ",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570870",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Provide a unified intelligence layer that helps agents discover, reason over, and use organizational knowledge.GA date: January CY2027Preview date: November CY2026"
-        },
-        {
-          "title": "Work IQ: REST endpoint tools",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570868",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Enable agents to use supported REST endpoints as tools through governed Work IQ integrations.GA date: November CY2026Preview date: October CY2026"
-        },
-        {
-          "title": "Work IQ: A2A and MCP elicitation",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570852",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Enable A2A and MCP tasks to request missing information or authorization and then resume.GA date: November CY2026Preview date: October CY2026"
-        },
-        {
-          "title": "Work IQ: A2A and MCP long running tasks",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570851",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Enable durable long-running A2A and MCP tasks with progress tracking, later result retrieval, and cancellation.GA date: November CY2026Preview date: October CY2026"
-        },
-        {
-          "title": "Work IQ: Retrieve",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570673",
-          "published": "Tue, 13 Oct 2026 23:01:05 Z",
-          "summary": "Enable agents to retrieve relevant Microsoft 365 content and context through Work IQ.GA date: November CY2026Preview date: October CY2026"
         }
       ]
     },
@@ -341,6 +274,12 @@
     {
       "name": "UC Today",
       "items": [
+        {
+          "title": "Microsoft’s Record Patch, Meta Breach and OpenAI’s Cyber Bid",
+          "link": "https://uctoday.com/microsofts-record-patch-meta-breach-and-openais-cyber-bid",
+          "published": "Fri, 16 Oct 2026 08:01:00 GMT",
+          "summary": "Microsoft patches a record 1,413 vulnerabilities, Meta discloses a GitHub breach, and OpenAI reportedly explores a cybersecurity acquisition"
+        },
         {
           "title": "UC Awards 2026 Finalists Revealed: See The Full Shortlist",
           "link": "https://uctoday.com/uc-awards-2026-finalists-announced",
@@ -394,25 +333,12 @@
           "link": "https://uctoday.com/atlassians-ai-plan-puts-employee-engagement-first",
           "published": "Wed, 14 Oct 2026 11:01:00 GMT",
           "summary": "Atlassian AMP brings AI agents into shared workflows with clear identity, governed context, and human oversight across teams."
-        },
-        {
-          "title": "The Context Graph Fight: Who Owns Your Agent’s Memory?",
-          "link": "https://uctoday.com/the-context-graph-fight-who-owns-your-agents-memory",
-          "published": "Wed, 14 Oct 2026 08:01:00 GMT",
-          "summary": "Why context graphs now matter: Atlassian AMP, Wrike Work Intelligence Graph, Google Gemini, SAP TechWolf, Asana and OpenAI battle for agent memory."
         }
       ]
     },
     {
       "name": "Webex Blog",
-      "items": [
-        {
-          "title": "Celebrating the 2026 Webex Customer Awards Winners",
-          "link": "https://blog.webex.com/innovation-ai/webex-champion-awards-2026-winners/",
-          "published": "Tue, 13 Oct 2026 19:01:14 +0000",
-          "summary": "Meet the 2026 Webex Customer Awards winners — real organizations turning AI-powered collaboration, customer experience, and workplace transformation into measurable results.\nThe post Celebrating the 2026 Webex Customer Awards Winners appeared first on Webex Blog."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Zoom Video Communications, Inc.",
@@ -425,6 +351,18 @@
     {
       "name": "CMSWire.com - All News",
       "items": [
+        {
+          "title": "Is CMS Modernization Now an Answer Engine Visibility Decision?",
+          "link": "https://www.cmswire.com/digital-experience/is-cms-modernization-now-an-answer-engine-visibility-decision/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Thu, 15 Oct 2026 15:38:21 -0500",
+          "summary": "Legacy CMS platforms were built to rank pages of links. Answer engines lift passages, and content they cannot parse leaves your brand out of buyer answers.\nContinue reading..."
+        },
+        {
+          "title": "What Did the DAM Industry’s Benchmarks Miss?",
+          "link": "https://www.cmswire.com/digital-asset-management/what-did-the-dam-industrys-benchmarks-miss-mine-missed-it-too/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Thu, 15 Oct 2026 15:16:06 -0500",
+          "summary": "Answer engines already read your PDFs and stale spec sheets. DAM benchmarks never asked whether they get you right. Now one does.\nContinue reading..."
+        },
         {
           "title": "What Is Net Promoter Score, and Why Do CX Leaders Still Disagree?",
           "link": "https://www.cmswire.com/customer-experience/what-is-the-net-promoter-score/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
@@ -496,18 +434,6 @@
           "link": "https://www.cmswire.com/contact-center/contact-center-leaders-you-have-10-minutes/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Wed, 14 Oct 2026 09:50:49 -0500",
           "summary": "Asked by Five9 what makes for good customer service, consumers named quick resolution, fast response times, polite service and knowledgeable staff.\nContinue reading..."
-        },
-        {
-          "title": "Are You Automating Away the Apprenticeship That Builds Service Experts?",
-          "link": "https://www.cmswire.com/customer-experience/are-you-automating-away-the-apprenticeship-that-builds-service-experts/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 13 Oct 2026 14:52:32 -0500",
-          "summary": "Your veteran engineers are retiring. The junior roles that once produced their replacements are disappearing.\nContinue reading..."
-        },
-        {
-          "title": "Is the Era of Martech Absolutes Over? Buyers Are Going Hybrid",
-          "link": "https://www.cmswire.com/digital-marketing/is-the-era-of-martech-absolutes-over-buyers-are-going-hybrid/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 13 Oct 2026 14:13:26 -0500",
-          "summary": "Real-time everything was always an expensive myth. Martech teams are matching streaming, agents and attribution to the outcomes that justify them.\nContinue reading..."
         }
       ]
     },
@@ -544,14 +470,7 @@
     },
     {
       "name": "Twilio Blog",
-      "items": [
-        {
-          "title": "How to Retrieve a Phone Number's SMS Pumping Score in Rust",
-          "link": "https://www.twilio.com/en-us/blog/developers/tutorials/retrieve-phone-number-sms-pumping-risk-score-rust",
-          "published": "Tue, 13 Oct 2026 20:00:00 -0400",
-          "summary": "In this tutorial, you'll learn how to retrieve a phone number's SMS Pumping Risk Score — along with other helpful information — in Rust."
-        }
-      ]
+      "items": []
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -560,6 +479,12 @@
     {
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
+        {
+          "title": "Kustomer Unveils Conversation Intelligence and AI QA, Giving CX Leaders Greater Visibility Into Their Conversations - CustomerThink",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORktSZnFiVS1kTEtTRF9seFVTUGJCYkZJSUYtNnRZMGJRLUktSkprcGFTNXlNZDB3M1pQOFNkMXp5VWRxOHlkQ0tqcE9TRU5abTBlZFdkLXpsWEpDY2hsZGlVV3Q4Nng0TU54VXlFQnVxQUJacnphUlp3aFZfWjhwVFpVWk9fczJ5MlVETUdNYi1ONU5XQUVPOGRscHdZLTJ3WjZzYUhZdHFhTWRoZVNxaFc3RFExZ3h2SkYteEVxbXkwU1lQNW1XeUNhMnZ5anRuVC1ONUYzS0c?oc=5",
+          "published": "Fri, 16 Oct 2026 05:57:19 GMT",
+          "summary": "Kustomer Unveils Conversation Intelligence and AI QA, Giving CX Leaders Greater Visibility Into Their Conversations&nbsp;&nbsp;CustomerThink"
+        },
         {
           "title": "Can Enterprises Trust AI to Do the Work, Not Just the Demo? - CX Today",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQem9nRFdFLW5Nel9uM0lmcFRYaktfTXd2UWwxNy0zaHNXbXd6dHlMNmpiRXhkZ1pCOHpQOXVtSDRLb1NFT190cXpYMldfd2RFZnpfNUdhR01uT2JlWDd6bW1VVXl4S1IwcldPYlM1c0h6SHlXR0ZsSWZpT3RuOWZUc0V2My1RVnQwam5NSGg5cmpfSTMyTGh3ZXZaQUFUUHlz?oc=5",
@@ -597,16 +522,16 @@
           "summary": "Target’s operations app updates let associates spend more time with customers&nbsp;&nbsp;CX Dive"
         },
         {
-          "title": "Level AI Appoints Cardinal Health SVP Shane Abeyratne to CX Advisory Board - citybiz",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzJEbU5iS3ExWGpYYWstTnI5VnhYRVFDQTdCNUpDbUxKcndUcXVWMFh2WDJlaGE0X21MNVY1ZHdGN2dZSGZ0S0szZWNGS0ZyWEYtWUVQQWlIYnlocTBqWTBRbGNLV3dpa0ZFR295LVkzQVJBVlhDRF9PdWpMc2Zpdl82UnhyVW8tMVE3UGRWb2d5YlJkMkJ0VGdfNGVqNEgyZXJYZnBwS01UTVQzZXNqSkozdw?oc=5",
-          "published": "Wed, 14 Oct 2026 19:18:15 GMT",
-          "summary": "Level AI Appoints Cardinal Health SVP Shane Abeyratne to CX Advisory Board&nbsp;&nbsp;citybiz"
-        },
-        {
           "title": "Why customers are fed up with AI chatbots - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUpBRkFrd3ctbVJQLV83Zk42V3U5TE1VNFUwV05iM3RhVWlucnd3VHFrWUw3QzFhR3RLSlV2UDN0RzRySGtNSWFlZnlPMU10MnlDeVZyNXJoTVRtZS1uanRzbGdMT0czb1hlTzd4N29CUldsZ2RnUkdCdkJQdVdNOWN6U1M0MThFLTJTRA?oc=5",
           "published": "Wed, 14 Oct 2026 19:09:34 GMT",
           "summary": "Why customers are fed up with AI chatbots&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "From Heathrow to the Bundesliga, CRM Gets Closer to the Customer - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUjk0Mmp4SkFldXloaGh2OWxaRk45dFNRZHRHdUZ6dWg3Um1kdm9nSzVJakduX0hyN3dXX25zOEpvVl83Qk5NWjc2dkQ4VjZ6RDhEUkdQSHF4T3FCQzVmZnJ1dTZVYWo2TUJ3VjRiR2lISVFHaTZMajJwTUlLd2o2N1hoUVA4N1FMM0lj?oc=5",
+          "published": "Wed, 14 Oct 2026 17:59:30 GMT",
+          "summary": "From Heathrow to the Bundesliga, CRM Gets Closer to the Customer&nbsp;&nbsp;CX Today"
         },
         {
           "title": "When Stolen Identity Data Turns Your Next Customer Into a Fraudster - CX Today",
@@ -615,40 +540,10 @@
           "summary": "When Stolen Identity Data Turns Your Next Customer Into a Fraudster&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "Behind the scenes of DSW’s loyalty program relaunch - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0wyUXNfR0tsb2VFY2hyR2xIdVFVZ0g4TFJsVHB6cDlUS184LWJZcVZKUlZGMW1DTkp6R1dCYmJIeUtwcFRHVmZ6Vk5FSml5dS1XSWhOOG1iQ1VYVmMtQ0lNZkljUlptLUxKaldaUVFoRkxwZUZHSXotWlk5MVhkX3FTTEhlNzlpYmYwWkhsSFBNWTdmQUlaVkJtSkc5Q0w5UkZkXw?oc=5",
-          "published": "Wed, 14 Oct 2026 13:29:34 GMT",
-          "summary": "Behind the scenes of DSW’s loyalty program relaunch&nbsp;&nbsp;CX Dive"
-        },
-        {
           "title": "CallMiner Advances CX Intelligence and Agent Augmentation with New AI-Powered Capabilities - Business Wire",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamlNU0k3SDVGeHROMXBfXzdHV1ZyTExTSkRoajZrUmxPODhEb0c3Rkp4WEp0eW1xODVFU3ItczFZMl9ZcEs4RWdOcmN3TFRCTFJmVGNISGgydEV0VTc0WW1RMVQ5ZlRBeUc5Nlg5RHhZaXczcmxNODVNelZfaFVQeEpSMVYyWGI2SUxEbnJpcmZwMG9nU2FoVk52WkdNRnQzblZQbUszZjE3NWl1c2xBd1RBSEZKenhvbEwwUzd2Ukc2SUU2ZThOTlZwd2NJdEwxejVLRFp5NDZtc2hNY2NKTg?oc=5",
           "published": "Wed, 14 Oct 2026 13:00:00 GMT",
           "summary": "CallMiner Advances CX Intelligence and Agent Augmentation with New AI-Powered Capabilities&nbsp;&nbsp;Business Wire"
-        },
-        {
-          "title": "Kustomer Unveils Conversation Intelligence and AI QA, Giving CX Leaders Greater Visibility Into Their Conversations - Business Wire",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM1h5QTZ5RDZORGFuRTdGMDZtRVVOSWZMRDBLQWw1YWFPVF83OFdCUV9EOWpLc2VjdWZEYld5Y0xCSDVPS2JQMHBkanUtWkttQjRUQXRfZS11XzluSGt3SlhvNDZmX1B2WkpiLUUwRVdIbzJib3pTZFdzbEZ0N3VPUHp2SWg4T2c5cTNOLXl1SzdGN1QtNDhoU2hUUDRNcERiM0IyQjdZZUxPVU51dUIzM3VDQlVscDZGeWV0eTRIeUticFpXbzZvQklGeTU5RTEtU09SQUNkclJYZzcyVDdWaFF0S28yM0sxNmR1MHVob2JYeFc1ZWlRVDhIaTRtaV9h?oc=5",
-          "published": "Wed, 14 Oct 2026 12:00:00 GMT",
-          "summary": "Kustomer Unveils Conversation Intelligence and AI QA, Giving CX Leaders Greater Visibility Into Their Conversations&nbsp;&nbsp;Business Wire"
-        },
-        {
-          "title": "CCW Nashville 2026: Key AI and Customer Experience Takeaways - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdHNBcllpZFFrbGlBd25HeHotbUh3cEItM0tGdlY0bnRQV3dONEZLZDJ1eUgyTG40X3pHeWg2c1Y5TmtsUmhOYXBHWnFMUERYdnM4dWRfZlhxTGNpczZVLWdoT3RxMkNDalFvZWxxYWRSRnFnblBGVU1uWVJWU1ctLVZ4Z1M1dw?oc=5",
-          "published": "Wed, 14 Oct 2026 07:45:32 GMT",
-          "summary": "CCW Nashville 2026: Key AI and Customer Experience Takeaways&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "Redesign Not Replace: How to Prepare Your Frontline Team Successfully - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZT251a0hMa2VXUXd6UmlmOFJJMTd6eWt3U0NYLWlXR3hWSmUzSmIzeWkxaHgtR3JYYVFfa3VSRUtCX242RTlxektfZExranFSSFNWV0lfV1hLTE0?oc=5",
-          "published": "Tue, 13 Oct 2026 21:14:11 GMT",
-          "summary": "Redesign Not Replace: How to Prepare Your Frontline Team Successfully&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "Domino’s new CEO plans on ‘getting closer to the customer’ - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWNJR21iUlR6R2U2VFJZOVBwbTBVRGoyd2tNQVlhRVRxYl9RRTVUb2RmZ3M3bEF0QXJVaXBKYmgwZi1tZUJiNzctT1NrY05iMktyNkl5RWVzYjBKQUNzaXFzVjNZRTN3S0pKSlNuQ2t4QUhjRnRiYWF1bTB2cjdXRFJZQU9Eb0FQOUdnUHFjNVlNYmZJWEwweEhLZGo2aF8yanpUUE5B?oc=5",
-          "published": "Tue, 13 Oct 2026 19:06:39 GMT",
-          "summary": "Domino’s new CEO plans on ‘getting closer to the customer’&nbsp;&nbsp;CX Dive"
         }
       ]
     },
@@ -656,16 +551,46 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
+          "title": "Call Center CRM Systems & CRM Integration Services - AnswerNet",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fVDMwQXpFUHFKM0ZIYk5laTZySE5lMUgwN3ZnZWpRbHh6cThxZ3RmM0Nlak5tMWJVbzI5ZWo0YlF5aDdMR1M5OUJheG5qaFJEVGV4cXF0WkNaSzZpZVVzYUdqOFozdEFuOW1wRVNrMXY3NzdPdWd3Ulkyblk2UQ?oc=5",
+          "published": "Fri, 16 Oct 2026 09:57:37 GMT",
+          "summary": "Call Center CRM Systems & CRM Integration Services&nbsp;&nbsp;AnswerNet"
+        },
+        {
+          "title": "CRM Integration - CRM Contact Centre Software - CRM Software Integration - Five9",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEhlS29lYnhTMVNzeWZGMmEwNk5yTTdTRnUtLU1QZGFjdDFfcTlaY0x1OS1MVDVtWjAxZlFnMHRlTFpiZkV1cFdHMGFoTzhPQ1FpOElsVEVxUGI0ZS1Xb29SdFZmXzMxc3hMY2FnR2h3WDVPS2czVXRHZVpON3NXSC1wMi01Z1k?oc=5",
+          "published": "Fri, 16 Oct 2026 06:00:24 GMT",
+          "summary": "CRM Integration - CRM Contact Centre Software - CRM Software Integration&nbsp;&nbsp;Five9"
+        },
+        {
+          "title": "Representative, Support Center II - Remote - Molina Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkdtWDlQa0FJMVg2emJVMEEzeDdCeXVXZzJlZ1l6SGdtV2VSMWVCaGVJeVg4T2I1dVZFUXQ1WEw3LUhaOXBnSDE1a2dXbnFsNXRPVTRtaGRWNFRFemhBV3VuSTJCS1I1MHJCTXhXM241U0RFbW5TMDFnQnJSSlFtaW5pLUdtMkRTX21XUW5rcmlJcm9JZF9ZT052UGNHSXRiU0pQRkRlanJkeVlGZ1B3bTZKVQ?oc=5",
+          "published": "Thu, 15 Oct 2026 22:33:28 GMT",
+          "summary": "Representative, Support Center II - Remote&nbsp;&nbsp;Molina Healthcare"
+        },
+        {
+          "title": "Experience Manager-Data Centers & AI Factories - Siemens",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUlZRVDcxbmZVa0NmcTNVXzJTNkJtWG1mbEtnZGVwV3Q1cWRQbTcxek5MNnRvaGlNM2t3elBPYV95NHhCNXR1OFFMUVFQWi1xTFNrVnlwYVlsU29JRll5TS1HTVNJTmliWjBfdw?oc=5",
+          "published": "Thu, 15 Oct 2026 17:49:39 GMT",
+          "summary": "Experience Manager-Data Centers & AI Factories&nbsp;&nbsp;Siemens"
+        },
+        {
+          "title": "Microsoft named a Leader in the 2026 IDC MarketScape for AI-Enabled Operational ERP - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ043Z3MtVDA3d3owTV9UOThlUzEtZHo3ZXdkOXU4S29TRHJIM1VzMTd4TGhLNGF5a1ZKeC1Hb0dnODlmb1Y0SndZSkg0QWtYZTRaaVZiQVZSUlBFQVZoTWxyUFBYRXpHNFlGdV95N2hKcVpRVjRuQmVHQ0NsbVdta0N5cDJsRXJSVkhrSmlBZDgzQTl0ZVlHSjd0aTczUU8wazloVzYyNlc1aEY2dW01bWRJbFNTTVpaZEJvV0F4emVMeDNWV0RXdl9kazNkdnZuVE1BZGIwemlYejlGbjNBMVdFVkFOcFR3aTRpczBwSmZCRU0?oc=5",
+          "published": "Thu, 15 Oct 2026 15:00:00 GMT",
+          "summary": "Microsoft named a Leader in the 2026 IDC MarketScape for AI-Enabled Operational ERP&nbsp;&nbsp;Microsoft"
+        },
+        {
           "title": "ServiceNow advances its operational harness for enterprise AI with AI Passport and expanded governance capabilities - ServiceNow",
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZEhlV1VaN1ZfNmUxWWtVdGlVeDYtRWRuVkJXclBDMXlhZy1GVXNqVC1JMDFLVEZGRE1yM1FXOWZFNHE4UmpBWUU3Qy1sbWFkOWFENDBQdTZBV1diQ1kxQVdTWW80c0RwOGVCVDRyN3lNUDNZeVFfNS1IWXRId2V3MnQxdnNOenpOVkpzQkNPb2wtZGZ6T1RPQi1zRi1Hc2k5VFJfMEhjanlYaWE4UnpZOExkd3ZwdHI3YVlDTkdUY1ctV1FvSWpNSVdhNGVMcGxhUk5LN0xRaTRHVUdoVzB3bkRkNWV2XzNIWW05WTA5dnZwYlFjdW9kUDJTaWhuQ1ZLWm1NY2dQRDZPVGVnRHh0Rmh4ang4Rm8?oc=5",
           "published": "Thu, 15 Oct 2026 13:07:27 GMT",
           "summary": "ServiceNow advances its operational harness for enterprise AI with AI Passport and expanded governance capabilities&nbsp;&nbsp;ServiceNow"
         },
         {
-          "title": "Associate Customer Care Representative in United States Virtual - Assurant",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORU8xb0oxRTFwdjY1cTIybVB2ZkNQVTczSURIcjdrRzZmV2RKWFhsVTM4YXp6ZmhIR2I1bWsyUXhBdFdzVncwX2RSTWNTdlNrWEw3aHFBRnptV285THpaMFRmSDlSNG5kNWNoSTBoYllIdDloM2QtTjdKWmJiUVNjRUdmaWkzVW1zaGowYW91ZkF3c0N3RHNocTJtUnlXaTE0ZXhfVDQ4dElDVG9L?oc=5",
-          "published": "Thu, 15 Oct 2026 01:15:31 GMT",
-          "summary": "Associate Customer Care Representative in United States Virtual&nbsp;&nbsp;Assurant"
+          "title": "Customer Service Chatbots Get Only One Chance - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOajNaODZaQkxpUElNUnFWV3pYLVpmbFgwM24zbWRuNnVaRHhRTFNpdW1vcUwzN25hMXZZdkZHTnNjR0lCU0hNblluNG5Ca1NyWVR2eHZGcjRhLWFYTkFrWHpqbndXUGVNU1RQRXROMV85QkhLYjBGeE9hU1NwanhWVVlVdDc4ak82Q29DSklwUTNuclh6YzZ3TzZZVGJJcFh1aUhaT2YzVm9XMVR2UF9ZT2VGY1lBYTJuRUE?oc=5",
+          "published": "Thu, 15 Oct 2026 04:00:24 GMT",
+          "summary": "Customer Service Chatbots Get Only One Chance&nbsp;&nbsp;Destination CRM"
         },
         {
           "title": "The architecture for agentic revenue - Attio",
@@ -674,40 +599,10 @@
           "summary": "The architecture for agentic revenue&nbsp;&nbsp;Attio"
         },
         {
-          "title": "Software Engineer, Growth at AIOS — Hybrid, €60k-€120k/yr inc equity @ AIOS (YC W20/S21) - Ashby",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOVVLMExsSW0zaWoxYXdHTUhHV0VRcUFDenhEbUx2VG5QQ0drdFRwWDQ0aGNBazZPd2JmTFJjRko5UlZmQnA1Y0U1QWV0WmFtSmZBU2lnWVVQVTVERy1NLXREVW1VUzhRY3lFemdQd0hOalND?oc=5",
-          "published": "Wed, 14 Oct 2026 16:28:09 GMT",
-          "summary": "Software Engineer, Growth at AIOS — Hybrid, €60k-€120k/yr inc equity @ AIOS (YC W20/S21)&nbsp;&nbsp;Ashby"
-        },
-        {
           "title": "Data Analyst - Careers | RATP Dev USA",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVZJSlFaVm4yVU40RHU5YXJ4eU9MVmN2R19Ld3k0amo4RjdVNUFRQUVIQ01IS1YyUWM0Q3R5bzVOSFQ2WEpUTkc1Z2U5UFZBR2VBZzVwYTNaWkM5bjE2Y3VLVmQ4Yi1xekd0bUNGbk5vamdlUkpvTW1mb1RyVjVpWVpLOW4?oc=5",
           "published": "Wed, 14 Oct 2026 16:11:10 GMT",
           "summary": "Data Analyst&nbsp;&nbsp;Careers | RATP Dev USA"
-        },
-        {
-          "title": "Director, Service - Crimson Brand Partners (Utah) - TeamWork Online",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmVuVjhFOTJEa3ZKWE5zcjlWQUlWUTVPbXhJSUhBei01bm4zZDFrM3hGQldkUmxTN3VOUW1Ganhhc0Q0TlRXVU1oc0Z6SVRMQ2VHLXF6RnUyZUVLWU42SjZhY0JlVjNESHBiZWxucS1zU1lxOEk3WkdQcGRaSGg2Ui04dVEzRFVwU1FRUk1PblZwMHRRb0JMQ3hwb19YRHNOQnI3R1pLTTRQcmlCZzlxRVBGd3lLcVh4YWhGVkhYbEFKd05wMTV0NFpmMUtWeHZCWU1uNXgyRQ?oc=5",
-          "published": "Wed, 14 Oct 2026 15:31:10 GMT",
-          "summary": "Director, Service - Crimson Brand Partners (Utah)&nbsp;&nbsp;TeamWork Online"
-        },
-        {
-          "title": "Customer Service Representative - careers-page.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BVG5Ta2xxZlc3M19UQl9rRGw5REs1Y0hzZS1QeUdjRG44Y2M2WS1kVTdCNXRMWHBuaTN1MUtRSHNNcFdodm1UQ1laaVpLTjAzaENRSFhvTU9nbGJXYzBsY3RmTUF3bUlV?oc=5",
-          "published": "Wed, 14 Oct 2026 12:09:09 GMT",
-          "summary": "Customer Service Representative&nbsp;&nbsp;careers-page.com"
-        },
-        {
-          "title": "Crocs - Careers - Crocs - Careers",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fNUpKTmtjaU5DejIxSG9Ya0RVUy1RTkZFOUdDRnZudGNIN3I1SVJLZzZrQVNZdHdXVkJEZjQxMVBRWTJIUmlPRUdBNFBUVDA2TVROcmRn?oc=5",
-          "published": "Wed, 14 Oct 2026 08:34:31 GMT",
-          "summary": "Crocs - Careers&nbsp;&nbsp;Crocs - Careers"
-        },
-        {
-          "title": "Data Scientist - CRM Intelligence AI Orchestration - ThinkNorth LLC - Hybrid in New York, NY, US - Dice",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNcVN6TV85Tk9RQy1EaTBLaUU1ZFl1eFhSV1FheTBrWDg2Qk1Ob1pxTGx6OEw2ZFV0dEFiNEtfQnFPYTNEZWF2U0NsS25ReUhDOURlSzZmUzNVWW02MC1LZ09ab2pOMGN5YnlEUTdjWldVdTBZcmZV?oc=5",
-          "published": "Tue, 13 Oct 2026 20:14:20 GMT",
-          "summary": "Data Scientist - CRM Intelligence AI Orchestration - ThinkNorth LLC - Hybrid in New York, NY, US&nbsp;&nbsp;Dice"
         }
       ]
     },
@@ -886,18 +781,6 @@
           "link": "https://futurumgroup.com/insights/hacketts-ai-supply-chain-benchmarks-quantify-the-cost-of-falling-behind/?utm_source=rss&utm_medium=rss&utm_campaign=hacketts-ai-supply-chain-benchmarks-quantify-the-cost-of-falling-behind",
           "published": "Wed, 14 Oct 2026 12:04:46 +0000",
           "summary": "The post Hackett&#039;s AI Supply Chain Benchmarks Quantify the Cost of Falling Behind appeared first on Futurum.\nThe Hackett Group's AI benchmarks show AI-native supply chain operators achieve forecast error reductions up to 52% and cost declines of 12-17% across 16 enterprise workflows.\nThe post Hackett&#039;s AI Supply Chain Benchmarks Quantify the Cost of Falling Behind appeared first on Futurum."
-        },
-        {
-          "title": "Ethernet Won’t Collapse the Four Enterprise Networks Into One",
-          "link": "https://futurumgroup.com/insights/ethernet-wont-collapse-the-four-enterprise-networks-into-one/?utm_source=rss&utm_medium=rss&utm_campaign=ethernet-wont-collapse-the-four-enterprise-networks-into-one",
-          "published": "Tue, 13 Oct 2026 21:30:47 +0000",
-          "summary": "The post Ethernet Won&#8217;t Collapse the Four Enterprise Networks Into One appeared first on Futurum.\nFuturum's Tom Hollingsworth argues that Ethernet's spread into AI back-end and scale-up fabrics won't merge the enterprise network into one. Network teams fully own only two of four networks and must manage the handoffs to the rest.\nThe post Ethernet Won&#8217;t Collapse the Four Enterprise Networks Into One appeared first on Futurum."
-        },
-        {
-          "title": "Lightmatter and Flex Bring 204.8 Tbps Co-Packaged Optics Into Open Racks",
-          "link": "https://futurumgroup.com/insights/lightmatter-and-flex-bring-2048-tbps-co-packaged-optics-into-open-racks/?utm_source=rss&utm_medium=rss&utm_campaign=lightmatter-and-flex-bring-2048-tbps-co-packaged-optics-into-open-racks",
-          "published": "Tue, 13 Oct 2026 20:39:45 +0000",
-          "summary": "The post Lightmatter and Flex Bring 204.8 Tbps Co-Packaged Optics Into Open Racks appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, examines Lightmatter's 204.8T CPO switch tray with Flex and 102.4T XPU tray at OCP 2026, the first open rack photonic systems, and whether open standards can beat proprietary CPO to volume.\nThe post Lightmatter and Flex Bring 204.8 Tbps Co-Packaged Optics Into Open Racks appeared first on Futurum."
         }
       ]
     },
@@ -908,6 +791,12 @@
     {
       "name": "Constellation Research",
       "items": [
+        {
+          "title": "Meta launches Muse Spark Open, may appeal to enterprises",
+          "link": "https://www.constellationr.com/insights/news/meta-launches-muse-spark-open-may-appeal-enterprises",
+          "published": "Thu, 15 Oct 2026 20:24:36 +0000",
+          "summary": "Meta launches Muse Spark Open, may appeal to enterprises\nLarry Dignan\nThu, 15 Oct 2026 - 13:24\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transf"
+        },
         {
           "title": "Q3 2026 Board Webinar: Enterprise Technology Moves Toward Adaptability",
           "link": "https://www.constellationr.com/video/board/q3-2026-board-webinar-enterprise-technology-moves-toward-adaptability",
@@ -937,12 +826,6 @@
           "link": "https://www.constellationr.com/insights/news/jpmorgan-chase-aims-avoid-ai-lock-have-nuanced-view-ai-agents",
           "published": "Wed, 14 Oct 2026 10:30:00 +0000",
           "summary": "JPMorgan Chase aims to avoid AI lock-in, have nuanced view of AI agents\nLarry Dignan\nWed, 14 Oct 2026 - 03:30\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology,"
-        },
-        {
-          "title": "How aviation maintenance looks at AI systems",
-          "link": "https://www.constellationr.com/insights/news/how-aviation-maintenance-looks-ai-systems",
-          "published": "Wed, 14 Oct 2026 10:00:00 +0000",
-          "summary": "How aviation maintenance looks at AI systems\nLarry Dignan\nWed, 14 Oct 2026 - 03:00\n\n  \n  \n\n\n          \n\n\n\n\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, di"
         }
       ]
     },
@@ -970,6 +853,12 @@
       "name": "CX Dive",
       "items": [
         {
+          "title": "Delta overhauls its most luxury flight experience",
+          "link": "https://www.customerexperiencedive.com/news/delta-overhauls-its-most-luxury-flight-experience/833159/",
+          "published": "Thu, 15 Oct 2026 16:26:00 -0400",
+          "summary": "The airline&rsquo;s refresh of Delta One is its latest effort to court customers with premium experiences."
+        },
+        {
           "title": "Target’s operations app updates let associates spend more time with customers",
           "link": "https://www.customerexperiencedive.com/news/targets-operations-app-updates-let-associates-spend-more-time-with-custome/833038/",
           "published": "Wed, 14 Oct 2026 15:38:07 -0400",
@@ -992,49 +881,12 @@
           "link": "https://www.customerexperiencedive.com/news/behind-the-scenes-of-dsws-loyalty-program-relaunch/832885/",
           "published": "Wed, 14 Oct 2026 07:00:00 -0400",
           "summary": "The &ldquo;Rewards at the Ready&rdquo; revamp emphasizes putting more control in customer&rsquo;s hands and helps the DSW VIP program stand out from the competition, DSW&rsquo;s Paige Sheedy said."
-        },
-        {
-          "title": "Domino’s new CEO plans on ‘getting closer to the customer’",
-          "link": "https://www.customerexperiencedive.com/news/dominos-ceo-plans-on-getting-closer-to-the-customer/832889/",
-          "published": "Tue, 13 Oct 2026 14:40:51 -0400",
-          "summary": "The company will sharpen promotions through its loyalty app and improve consistency in an effort to drive greater frequency, CEO Joe Jordan said."
         }
       ]
     },
     {
       "name": "Call Centre Helper",
-      "items": [
-        {
-          "title": "What is Agentic Experience Orchestration (AXO)?",
-          "link": "https://www.callcentrehelper.com/what-is-agentic-experience-orchestration-278127.htm",
-          "published": "Thu, 15 Oct 2026 10:00:00 +0000",
-          "summary": "UJET explores what agentic AI means for contact centres, how AXO works during live customer interactions, and how it differs from traditional agent assist and workflow automation. What Does &#8220;Agentic&#8221; Mean in a Contact Centre? An agentic system can look...\nThe post What is Agentic Experience Orchestration (AXO)? appeared first on Call Centre Helper."
-        },
-        {
-          "title": "How to Send a Document For Signature in 5 Easy Steps",
-          "link": "https://www.callcentrehelper.com/send-document-signature-easy-steps-278132.htm",
-          "published": "Thu, 15 Oct 2026 08:30:00 +0000",
-          "summary": "Zoom shares five clear steps on how to send a document for signature, from prepping your file to storing the completed copy, so proposals, contracts, and agreements get signed without the usual friction. Chasing down a client&#8217;s signature used to...\nThe post How to Send a Document For Signature in 5 Easy Steps appeared first on Call Centre Helper."
-        },
-        {
-          "title": "Case Study: HELP Dropped Customer Contacts by 23% With Puzzel",
-          "link": "https://www.callcentrehelper.com/case-study-help-puzzel-278120.htm",
-          "published": "Thu, 15 Oct 2026 07:30:00 +0000",
-          "summary": "HELP Forsikring is a Nordic pioneer in legal expenses insurance, helping customers get expert legal support during disputes. Its customer service team is the first point of contact for people in complex, emotionally difficult situations, bridging the gap to HELP&#8217;s...\nThe post Case Study: HELP Dropped Customer Contacts by 23% With Puzzel appeared first on Call Centre Helper."
-        },
-        {
-          "title": "How to Keep Your Promises to Customers",
-          "link": "https://www.callcentrehelper.com/keep-promises-to-customers-274670.htm",
-          "published": "Wed, 14 Oct 2026 07:00:00 +0000",
-          "summary": "Find out how top contact centre customer service experts identify hidden customer promises, prevent expectation gaps and strengthen long-term customer trust.\nThe post How to Keep Your Promises to Customers appeared first on Call Centre Helper."
-        },
-        {
-          "title": "8×8 Names Jamie Snaddon and Nerea Gandarias in New Roles",
-          "link": "https://www.callcentrehelper.com/8x8-snaddon-chief-strategy-officer-277995.htm",
-          "published": "Wed, 14 Oct 2026 07:00:00 +0000",
-          "summary": "8x8 appoints Nerea Gandarias as EMEA Managing Director, replacing Jamie Snaddon as he takes on the new Chief Strategy Officer role.\nThe post 8&#215;8 Names Jamie Snaddon and Nerea Gandarias in New Roles appeared first on Call Centre Helper."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Light Reading",
@@ -1043,6 +895,18 @@
     {
       "name": "CXM Customer Experience Magazine",
       "items": [
+        {
+          "title": "Sky UK, Bupa, Legal & General, and London Luton Airport Show the EX–CX Link at the UK Customer Experience Awards 2026",
+          "link": "https://cxm.world/employee-experience/sky-uk-bupa-legal-general-and-london-luton-airport-show-the-ex-cx-link-at-the-uk-customer-experience-awards-2026/",
+          "published": "Fri, 16 Oct 2026 09:41:06 +0000",
+          "summary": "At the UK Customer Experience Awards (UK CXAs) 2026 in London, four of the night’s winners showed that great customer experience starts with the people who deliver it. Employee experience has become central to how leading organisations think about CX. At the UK CXAs 2026, that link was hard to miss. The winners ranged from a...\nThe post Sky UK, Bupa, Legal &amp; General, and London Luton Airport Show the EX–CX Link at the UK Customer Experience Awards 2026 appeared first on Customer Experience M"
+        },
+        {
+          "title": "Zendesk Launches Open Directory to Steer AI Assistants to Real Support Desks",
+          "link": "https://cxm.world/customer-experience/zendesk-open-service-directory-agentic-ai-customer-service/",
+          "published": "Fri, 16 Oct 2026 06:30:00 +0000",
+          "summary": "Zendesk has announced the Open Service Directory (OSD), a draft specification and public directory that helps personal AI assistants find a company&#8217;s official customer support rather than a lookalike site or a scam helpline. It aims to tackle an inherent problem in agentic AI customer service, namely, making sure a customer&#8217;s agent reaches the right...\nThe post Zendesk Launches Open Directory to Steer AI Assistants to Real Support Desks appeared first on Customer Experience Magazine."
+        },
         {
           "title": "KPMG Tech Boss Announces Promotion as 200 of His Team Face Redundancy: “The Optics Are Appalling”",
           "link": "https://cxm.world/employee-experience/kpmg-redundancies-tech-data-promotion-henninger/",
@@ -1084,18 +948,24 @@
           "link": "https://cxm.world/customer-experience/gulf-healthcare-proves-patient-experience-pays-for-itself/",
           "published": "Wed, 14 Oct 2026 15:35:08 +0000",
           "summary": "Healthcare leaders have long accepted that better patient experience is worth pursuing, yet many still struggle to show their boards what it earns. Across the Gulf, where Saudi Arabia and Dubai are both investing heavily to attract patients from abroad, that question now carries commercial weight as well as clinical importance. Entries to this year&#8217;s...\nThe post Gulf Healthcare Proves Patient Experience Pays for Itself appeared first on Customer Experience Magazine."
-        },
-        {
-          "title": "Salesforce Buys Loops to Bring Root-Cause AI to Tableau",
-          "link": "https://cxm.world/customer-experience/agentic-analytics-salesforce-loops-tableau/",
-          "published": "Wed, 14 Oct 2026 08:06:17 +0000",
-          "summary": "Salesforce has agreed to buy Loops, a small Israeli company whose software premise is to explain why a business&#8217;s numbers have moved, not just report that they have. The deal, confirmed this week, is the latest step in what Salesforce calls its agentic analytics strategy. Loops&#8217; tech and staff will be folded into Tableau, Salesforce&#8217;s...\nThe post Salesforce Buys Loops to Bring Root-Cause AI to Tableau appeared first on Customer Experience Magazine."
         }
       ]
     },
     {
       "name": "CX Foundation - Google News",
       "items": [
+        {
+          "title": "The Contact Center Knows Why Customers Leave. Why Doesn't the Rest of the Company? - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41Tnh2YU5JSjVPWlo0aHVORUVuX0hnTFo3eEVVcm9GdFNwQmFhNXduYUhlcXVTWGpHV2tZb3FKY1pZLWdUZ29pUFA0NWFVUTFIdF9CVERNN2VZMWJvMTJTNksybTlnbDB3bl9TQkFxZWhMcHVfSUowSHdDTlg?oc=5",
+          "published": "Thu, 15 Oct 2026 18:43:11 GMT",
+          "summary": "The Contact Center Knows Why Customers Leave. Why Doesn't the Rest of the Company?&nbsp;&nbsp;CX Foundation"
+        },
+        {
+          "title": "The Truth About AI Governance: Why We Are Losing Control - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XWExMLWJraTJWYTVMQ2NoQjA0RUVVbm8wSVRCcmlfQzlKYXBtMENHYWV5SThkNzlzNzBPSWZFTFBwTW8wM0hKUXI4el9jTHBZSHZTTXBwSzdiUU1mUUJsbHl6WFNNNm8?oc=5",
+          "published": "Thu, 15 Oct 2026 16:56:25 GMT",
+          "summary": "The Truth About AI Governance: Why We Are Losing Control&nbsp;&nbsp;CX Foundation"
+        },
         {
           "title": "Centrical Debuts a Workforce Orchestration System, Reimagines Contact Center Performance Management - CX Foundation",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjlmdGNEQ1BOX0xJM2FnTFFqZWVvd3hYeG9QLXAxRnhGMjctUFcwX0tqRnZQcmJYSmpEcEROSm0waEl3ZXFqVWVrS0NORmdrbDVrVkVDUldjSDV5RnFqb0VubEhQbEFPZnpjZGRjeHp0RGVXQ3VKSEF5bkxpNHR0UXRCbw?oc=5",
