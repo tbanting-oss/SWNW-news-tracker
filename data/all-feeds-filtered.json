@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-10-16T18:17:27.672501+00:00",
+  "generated_at": "2026-10-17T09:37:01.913968+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
-  "feeds_with_errors": 3,
+  "feeds_with_errors": 4,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw=="
+    },
+    {
+      "name": "Telecom Reseller / Technology Reseller News",
+      "url": "https://telecomreseller.com/feed/",
+      "error": "403 Client Error: Forbidden for url: https://telecomreseller.com/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -90,40 +95,1023 @@
           "link": "https://cxtoday.com/muse-shows-why-ai-may-grow-the-contact-center-again",
           "published": "Thu, 15 Oct 2026 11:01:00 GMT",
           "summary": "Meta Muse shows personal AI agents entering CX channels, raising new questions on demand, context, authentication, and service governance."
-        },
-        {
-          "title": "Why Fragmented Retail Media Data Damages Customer Intelligence",
-          "link": "https://cxtoday.com/why-fragmented-retail-media-data-damages-customer-intelligence",
-          "published": "Thu, 15 Oct 2026 08:01:00 GMT",
-          "summary": "Learn why fragmented retail media data is limiting customer insight and what CX leaders can do to improve measurement."
         }
       ]
     },
     {
       "name": "Directions on Microsoft",
-      "items": [
-        {
-          "title": "Microsoft 365 G7 Is Here. Mostly. Sort Of.",
-          "link": "https://www.directionsonmicrosoft.com/microsoft-365-g7-is-here-mostly-sort-of/",
-          "published": "Wed, 14 Oct 2026 20:02:25 +0000",
-          "summary": "Microsoft 365 G7, the equivalent of the AI-centric Microsoft 365 E7 suite, but for government community cloud (GCC) customers in the U.S., became available on Oct. 1. But it has only arrived for the lowest tier of GCC, which is intended for state governments or smaller organizations. Federal government (GCC High) and Department of Defense...\nThe post Microsoft 365 G7 Is Here. Mostly. Sort Of. appeared first on Directions on Microsoft."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
       "items": [
         {
-          "title": "OneDrive: PDF annotation for sensitivity-label protected PDFs in OneDrive/SharePoint web viewer",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576276",
-          "published": "Thu, 15 Oct 2026 22:47:30 Z",
-          "summary": "We're enabling PDF annotation for sensitivity-label protected PDFs in OneDrive and SharePoint on the web. With this update, users who have the appropriate usage rights can annotate these protected PDFs in place in their browser while preserving the file's sensitivity label, encryption, and usage rights when changes are saved.GA date: January CY2027"
+          "title": "Dynamics 365 Project Operations: Import task - Import at a given hierarchy in the task grid",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576298",
+          "published": "Fri, 16 Oct 2026 22:00:35 Z",
+          "summary": "This feature gives project managers greater control over where imported tasks are placed within a project plan. From the task grid, a project manager can open the context menu for an existing task and select Insert task below. The standard Import Tasks pane then opens and confirms the selected insertion point.\nImported tasks are placed immediately after the selected task and at the same level in the task hierarchy. If the selected task has subtasks, the imported tasks are inserted after the enti"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Import task - Assign generic resources to task",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576297",
+          "published": "Fri, 16 Oct 2026 22:00:35 Z",
+          "summary": "This feature gives project managers control over how resource assignments are handled when importing tasks from one project to another. For each import, project managers can choose to:\nNot import the team members - Each imported task will lose the assignment information.\nUse a generic placeholder: Create and assign a generic resource for each assignment in the imported task just like copy project functionality.\nTasks without assignments continue to be imported without resources. This ensures tha"
+        },
+        {
+          "title": "Power Apps: Access updated visuals for row summaries across forms and views",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576178",
+          "published": "Fri, 16 Oct 2026 22:00:35 Z",
+          "summary": "The row summaries experience has a refreshed layout that makes AI-generated insights more prominent and easier to consume. Improved visual hierarchy (including clearer spacing, background and border treatments, status indicators, and generation labels) helps summaries stand apart from surrounding form sections so users can quickly identify key information.\nThe visual treatment takes inspiration from similar AI-powered experiences in Microsoft 365 apps, creating a more recognizable and consistent"
+        },
+        {
+          "title": "Microsoft Viva:  Copilot Analytics - Agent 365 reporting availability for Microsoft platform agents",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575292",
+          "published": "Fri, 16 Oct 2026 22:00:35 Z",
+          "summary": "Customers can now view agent insights in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics) without an Agent 365 license. Customers will be able to view reporting on their Microsoft platform-built agents in one consolidated picture, along with context on who built each agent and why.GA date: October CY2026"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Boost technician productivity - Disable clickthrough on lookup values in forms",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576886",
+          "published": "Fri, 16 Oct 2026 19:10:12 Z",
+          "summary": "A new option in the lookup control lets you disable clickthrough on the displayed lookup value. When disabled, the lookup value renders as plain text (not a hyperlink), preventing users from unintentionally opening the related record. This applies to forms across web and mobile.\nHow to use\n\nIn Power Apps, edit the table form containing the lookup.\nSelect the lookup field, and then select Disable click-through of lookup value.\nSelect Save and publish the form. The mobile app reflects the change a"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable flexibility when determining financial dimension defaults",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576885",
+          "published": "Fri, 16 Oct 2026 19:10:11 Z",
+          "summary": "Previously, you had limited options for how financial dimensions default. This feature adds functionality and flexibility to default financial dimension values. With this feature, you can:\n\nCreate a configuration to determine how financial dimensions default based on criteria like contract, project, or cost and revenue profile.\nSet criteria to determine whether dimensions default from contract lines or projects.\nImprove reliability when you save financial dimensions and value defaults on the pro"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Optimize resource scheduling - Optimize multiple resources with Scheduling Operations Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576884",
+          "published": "Fri, 16 Oct 2026 19:10:11 Z",
+          "summary": "This release expands the optimization capabilities of the Scheduling Operations Agent to include multiple resources. The agent considers the availability of the resources, their current schedules, and unscheduled requirements. It suggests a schedule that honors configured constraints and optimizes it according to the selected goal. Dispatchers can review and compare the proposed schedules with the current schedules before applying changes.\nNew capabilities include:\n\nOptimize schedules for up to "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - View budget details in left navigation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576883",
+          "published": "Fri, 16 Oct 2026 19:10:10 Z",
+          "summary": "This feature enhances the Project Budget management experience by improving visibility, usability, and contextual clarity when working with project budgets and budget versions. It addresses limitations of the existing Project form Budget tab and reduces ambiguity around budget version actions.\nSince this is a navigation addition, the Budget section is available by default.\nImproved budget visibility\n\nBudget information is presented in a dedicated, optimized experience that overcomes space constr"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable project resources on general journal entries",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576882",
+          "published": "Fri, 16 Oct 2026 19:10:09 Z",
+          "summary": "This feature expands the existing general journal functionality for modern projects.\nA new capability is added so general journal lines can have an associated project resource.\n\nSpecifying the project resource on a journal line allows for increased tracking and auditability for where organizations want to track expense journals on a detailed per-resource basis instead of in a summary.\nTracking expenses on a per-resource basis is especially helpful for scenarios around accruals where all expenses"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Financial Management - Use self-billed invoices",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576881",
+          "published": "Fri, 16 Oct 2026 19:10:09 Z",
+          "summary": "Business Central offers full support for self‑billed invoices in the purchase process. Buyers can now generate invoices on behalf of a vendor when a self‑billing agreement is in place. A new Boolean field on the Vendor Card page enables this agreement, and all Purchase Invoices created for that vendor, whether from Purchase Orders or directly, are automatically marked as self‑billed. Vendors can also be assigned a dedicated No. Series for self‑billed invoices, ensuring correct document sequencin"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Update correction journal usability",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576880",
+          "published": "Fri, 16 Oct 2026 19:10:08 Z",
+          "summary": "Correcting transactions after they’ve been processed can be a complicated and difficult process. Currently in Project Operations, you must select all the transactions you want to correct at the same time to create the journal, and all transactions added to the journal must be corrected in the same way. This leads to significant repeat work, where you need to create multiple journals to be able to make different corrections on different transactions. This feature updates that process with the fol"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Show accounting currency with the correct label",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576879",
+          "published": "Fri, 16 Oct 2026 19:10:07 Z",
+          "summary": "This feature lets different currency units show the actual record for the accounting currency when the unit differs from the base currency. Today the correct value is shown, but the units are incorrectly shown as the base currency, regardless of the actual accounting currency unit. In this feature, accounting currency fields are stored in a child record with the correct currency unit and appears with the correct label on the actual form.\nBusiness Value:\nCurrently in Project Operations, when an a"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Use what-if analysis on estimates",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576878",
+          "published": "Fri, 16 Oct 2026 19:10:06 Z",
+          "summary": "This feature introduces a robust what-if analysis capability for estimates that enables you to model scenarios and evaluate their impact on key financial goals.\n\nScenario modeling: Use existing quotes to simulate scenarios and assess their effects on goals like profitability and gross margins.\nGoal-oriented analysis: Select specific goals and target values to model pricing changes effectively.\nDynamic pricing dimensions: Adjust key pricing dimensions to explore how changes influence the selected"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Customize the task details pane",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576877",
+          "published": "Fri, 16 Oct 2026 19:10:06 Z",
+          "summary": "In the task grid, when you select the i icon next to a task name, the Task details pane opens so you can enter more information. This pane is part of Microsoft Project for the web and is embedded in an iframe that makes it non-customizable.\nWith this feature, you get a customizable task form. The form shows essential task attributes and lets you bring customization to the task pane. You can manage and track project tasks more easily in one place. This feature is managed through a feature flag in"
+        },
+        {
+          "title": "Microsoft Dataverse: Build your low code hyperscale backend on Dataverse - Build your agentic flows with Dataverse SDK for Python",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576876",
+          "published": "Fri, 16 Oct 2026 19:10:05 Z",
+          "summary": "The Microsoft Dataverse SDK for Python empowers data scientists and developers to build intelligent, compliant, and scalable agentic flows that integrate seamlessly with Dataverse. In the agentic age, where autonomous agents orchestrate workflows and act on behalf of users, the SDK provides the essential tools to interact programmatically with enterprise data platforms. The SDK supports structured data access, composable APIs, and governance features that are critical for building trustworthy an"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Service representative experiences - Use pinned contacts and queues during consult and transfer",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576875",
+          "published": "Fri, 16 Oct 2026 19:10:04 Z",
+          "summary": "In the Copilot Service admin center, administrators configure and manage pinned contacts and queues for representatives as follows:\n\nEnable pins in the Customer settings &gt; Manage pins &gt; Admin pins page so that representatives pin their contacts and queues.\nPin specific contacts and queues for representatives.\nDisplay pinned items to representatives based on business units.\n\nBusiness Value:\nThis feature streamlines your team’s workflow by removing the hassle of tracking multiple consult and"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Sustainability Management - Use new APIs in Sustainability for better integration",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576874",
+          "published": "Fri, 16 Oct 2026 19:10:04 Z",
+          "summary": "The feature introduces four new APIs in the Sustainability area to improve interoperability and enable automated data flows between Business Central and external applications.\nThe new APIs are:\n\nGoals: Provides read, insert, and modify operations for sustainability goals.\nESG Reporting Staging: Read-only API for accessing staged ESG reporting data.\nEmission Value Entry: Read-only API for retrieving emission value entries calculated in Business Central.\nPurchase Lines with Sustainability Detail: "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable subcontractor vendor invoice matching to actuals",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576873",
+          "published": "Fri, 16 Oct 2026 19:10:03 Z",
+          "summary": "When you enable the Enable subcontractor vendor invoice matching to actuals for Project Operations integrated with ERP setting, you activate this feature.\nKey capabilities:\n\nThis feature enables procurement managers, project accountants, and accounts payable users in finance and operations apps to efficiently identify, review, and match project actuals generated from subcontracting activities against incoming vendor invoices. By providing visibility into the underlying actual cost transactions, "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Supply chain management - Use subcontracting capabilities in production processes",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576872",
+          "published": "Fri, 16 Oct 2026 19:10:02 Z",
+          "summary": "The standard Dynamics 365 Business Central solution already meets many global needs. We expand that solution to meet local needs by adding capabilities that include:\n\nLogistics flows that manage subcontractor transfers for raw materials and components, along with warehouse handling and item tracking.\nFlexible pricing that considers the work center, item, dates, and quantity.\nFinished goods receipts with item tracking and warehouse handling from purchase orders.\nLogistics flows that manage subcon"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Sales and marketing - Calculate prices for external systems through API",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576871",
+          "published": "Fri, 16 Oct 2026 19:10:01 Z",
+          "summary": "The new pricing calculation API allows external systems to programmatically retrieve active prices or price quotes directly from Supply Chain Management. Based on key input data provided by the external system—such as product and customer details—Supply Chain Management provides real-time pricing and discount calculation results.\nThe API returns a product’s calculated price, including simple discounts. It doesn't calculate multiline discounts and assumes that each product in a request has a quan"
+        },
+        {
+          "title": "Power Automate: Process mining - Analyze processes using object-centric process mining",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576870",
+          "published": "Fri, 16 Oct 2026 19:10:01 Z",
+          "summary": "Real business processes rarely flow as a single, linear instance. Events routinely touch several objects of different types at the same time (for example, creating an invoice for a specific order, or shipping a package that contains items from multiple orders). Object-centric process mining captures that reality by recording events that relate to many objects and object types in one process, preserving their relationships end‑to‑end.\nHere's the key idea: Instead of “one case → one sequence of ac"
+        },
+        {
+          "title": "Power Automate: Process mining - Analyze your processes in the process intelligence experience",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576869",
+          "published": "Fri, 16 Oct 2026 19:10:00 Z",
+          "summary": "The process intelligence experience is a modern, flexible workspace designed for comprehensive process analysis. It provides a fully customizable analysis environment that combines multiple visualization and analysis components into cohesive, purpose-built workspaces. The platform empowers users to construct exactly the analytical view they need without technical complexity.\nCore capabilities include:\n\nTab-based navigation: Organize related analyses into separate tabs within a single workspace, "
+        },
+        {
+          "title": "Power Automate: Process mining - Create and visualize custom KPIs in the process intelligence experience",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576868",
+          "published": "Fri, 16 Oct 2026 19:09:59 Z",
+          "summary": "The process intelligence experience allows flexible metric creation with seamless visualization integration. This feature enables you to define custom KPIs and metrics tailored to specific business requirements within the process intelligence experience. You can create custom metrics using configurable formulas that can incorporate existing process data, standard KPIs, and mathematical operations.\nKey capabilities include:\n\nCustom metric creation: Build new KPIs using an intuitive formula editor"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Warehouse management - Enable precise serial and batch capture in cluster picking",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576867",
+          "published": "Fri, 16 Oct 2026 19:09:59 Z",
+          "summary": "This feature lets you control how serial and batch numbers are captured during cluster picking for items tracked below the location level in the reservation hierarchy. You get two new strategies in the cluster setup: capture serial and batch numbers once before distributing items or capture them separately for each cluster position. The new Enum in the cluster setup UI makes it easy to choose your preferred mode, so you can ensure every serial or batch number is matched to the right order.\nBusin"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Warehouse management - Streamline transfer order receiving in WOM with ASNs",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576866",
+          "published": "Fri, 16 Oct 2026 19:09:58 Z",
+          "summary": "Receive transfer orders in warehouse-only mode with a single license plate scan. This feature uses ASN-based packing structures to speed up inbound shipment processing and improve accuracy. The packing structure is defined within the ASN, so you can streamline your receiving workflow and reduce manual steps.\nBusiness Value:\nStreamline your warehouse receiving process in warehouse-only mode (WOM). With advance shipping notice (ASN) packing structures, you can process transfer orders using a singl"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Warehouse management - Automate dynamic work classification with Power FX",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576865",
+          "published": "Fri, 16 Oct 2026 19:09:57 Z",
+          "summary": "Dynamic work classification powered by Power FX formulas lets you evaluate warehouse queries in real time, so you can prioritize work based on load priority or any operational data. This removes the need for multiple location directives or work templates, reducing configuration complexity and making your warehouse more responsive. You use familiar Power FX capabilities from Microsoft Dynamics 365 Finance and the Power Platform to define and adjust operational logic with a flexible, low-code appr"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Use new APIs for analyzing approval workflows for auditors and IT staff",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576864",
+          "published": "Fri, 16 Oct 2026 19:09:56 Z",
+          "summary": "In this release wave, we're introducing read-only APIs on the (workflow) approval system. This allows for establishing security and auditing analytics and reporting outside Business Central—for example, creating reports with Power BI or agents with Microsoft Copilot Studio and MCP Server for Business Central.\nThe APIs are read-only and allow querying for:\n\nWorkflow\nWorkflow and User mappings\nWorkflow, User, and Action history\n\nWe're also introducing a new permission set that allows a user to use"
+        },
+        {
+          "title": "Microsoft Power Platform governance and administration: Security and compliance - Prevent sending sensitive data to Purview audit logs",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576863",
+          "published": "Fri, 16 Oct 2026 19:09:56 Z",
+          "summary": "To help prevent leaking sensitive customer data from Dataverse audit logs, all customer data is removed before these audit events are sent to Purview activity logging. Examples of sensitive customer data include financial information, medical and health data, and personally identifiable information.\nIn Dataverse audit logs, create and update events—including a column’s before-and-after values—are captured. These values remain in Dataverse audit logs, but aren’t sent to Purview activity logging.\n"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Update key project fields using Copy project",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576861",
+          "published": "Fri, 16 Oct 2026 19:09:55 Z",
+          "summary": "Today, when you select Copy Project, the system creates a project and copies everything from the source project to the newly created project. In this flow, you aren't allowed to update fields like contracting unit, owning company, and other key fields for the new project.\nWhen this feature is enabled in the feature control settings, you can:\n\nUse the new unified copy project experience.\nCopy a project to a new project and to an existing empty project. Select the project as the target during the "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Copy externally scheduled projects",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576862",
+          "published": "Fri, 16 Oct 2026 19:09:55 Z",
+          "summary": "Project Operations supports Externally scheduled projects, where organizations use their own scheduling engine and manage project schedules outside of Project Operations. Previously, the Copy Project capability was available only for Project for the Web scheduled projects. Customers using externally scheduled projects had to manually recreate project structures, configurations, and related data when starting similar projects or creating project templates.\nWith this feature, Copy Project is now s"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Post project invoice proposals using multithreaded batch tasks",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576860",
+          "published": "Fri, 16 Oct 2026 19:09:53 Z",
+          "summary": "For organizations delivering complex projects, a single invoice proposal can include thousands of invoice lines. Similarly, thousands of customers might need to invoice every billing cycle. In both cases, the window is often short between the time users submit all transactions for the period, review them, and generate invoices. This feature significantly improves performance when posting the project invoice proposal and makes the final invoice document available.\nThis feature provides the follow"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Configure maximum daily time entry duration",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576859",
+          "published": "Fri, 16 Oct 2026 19:09:53 Z",
+          "summary": "Project Operations sets a 24-hour limit on daily time entry hours that can be logged (including vacation hours). Administrators can modify this out-of-the-box validation in the Parameters section to meet their organization’s needs. Administrators can set a preferred maximum duration (in minutes) and provide a more realistic limit (for example, 9 hours) for time entry users. This configuration is checked each time a new time entry is created or modified.\nBusiness Value:\nYou can now set a limit on"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Configure minimum interval of time entry duration",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576858",
+          "published": "Fri, 16 Oct 2026 19:09:52 Z",
+          "summary": "Customers can now configure the allowable increment for time entry durations to ensure that all logged time adheres to their organization’s time-tracking policies. When enabled, you can only create or modify time entries whose duration is a multiple of the configured value (for example, 15 minutes, or 1 hour), helping prevent erroneous or non-compliant time entries from being recorded.\nBusiness Value:\nCustomers can now ensure that time entry duration is always a multiple of a value set by them, "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable time-zone-independent behavior in the time entry grid",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576857",
+          "published": "Fri, 16 Oct 2026 19:09:51 Z",
+          "summary": "Administrators can now enable time-zone-independent behavior for the Time Entry Grid so that time entries appear on the same calendar date, regardless of a user's time zone. This helps organizations with globally distributed teams maintain a consistent view of reported time and eliminates issues where entries appear on different dates due to time zone conversions.\nThe enhancement improves accuracy, simplifies reconciliation and approvals, and ensures users see and manage time entries based on th"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Filter the adherence tracker by planning group",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576855",
+          "published": "Fri, 16 Oct 2026 19:09:50 Z",
+          "summary": "This feature provides the following capabilities:\n\nThe adherence tracker includes a planning group filter that supervisors can use to scope the view to a specific planning group.\nThe planning group filter works with the existing shift plan and service representative filters, so supervisors can combine filters to refine a single view.\nThe tracker displays representatives based on the planning groups associated with their scheduled shifts. This behavior keeps the tracker aligned with the shift pla"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Filter adherence historical analytics by planning group",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576854",
+          "published": "Fri, 16 Oct 2026 19:09:50 Z",
+          "summary": "This feature provides the following capabilities:\n\nThe adherence historical analytics report includes a planning group filter that workforce managers can use to scope results to one or more planning groups.\nThe planning group filter works with the report’s existing filters, allowing managers to combine planning groups, date ranges, and other report parameters in a single view.\nThe report recalculates adherence metrics for the filtered scope, providing a group-level view of adherence performance "
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Associate forecast scenarios with planning groups",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576853",
+          "published": "Fri, 16 Oct 2026 19:09:49 Z",
+          "summary": "This feature provides the following capabilities:\n\nWhen creating or editing a forecast scenario, forecasters can optionally select a planning group.\nWhen a planning group is selected, the Timezone, Channel, and Queue values are populated from the planning group definition and become read-only. This behavior keeps the scenario aligned with its planning group.\nWhen no planning group is selected, forecasters can manually edit the Timezone, Channel, and Queue values. Existing scenario creation workf"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Create capacity plans for planning groups",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576852",
+          "published": "Fri, 16 Oct 2026 19:09:48 Z",
+          "summary": "This feature provides the following capabilities:\n\nWhen creating or editing a capacity plan, planners can select a Planning group.\nA capacity plan created from a forecast scenario automatically inherits the scenario’s planning group. This behavior keeps the forecast scenario and capacity plan aligned without requiring additional input.\nFor a capacity plan created from an uploaded forecast file, planners can select the planning group manually.\nThe capacity plan calculates staffing requirements fr"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Use Copilot Cowork to orchestrate insights and actions for representatives",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576851",
+          "published": "Fri, 16 Oct 2026 19:09:47 Z",
+          "summary": "The plugin in Copilot Cowork is available out of the box for service representatives. They can use the Customer Service skills after the administrator enables the plugin for them in Cowork settings. The key capabilities are as follows:\n\nPrioritizes and enriches cases: Surfaces highest-attention cases with suggested next actions.\nReviews for criticality and severity: Flags cases where severity mismatches actual urgency signals.\nBriefs case at intake: One-screen customer, history, prior cases, and"
+        },
+        {
+          "title": "Dynamics 365 Sales: Copilot and AI innovation - Use Dynamics 365 Sales skills in Microsoft 365 Copilot Cowork",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576850",
+          "published": "Fri, 16 Oct 2026 19:09:47 Z",
+          "summary": "As an admin, you can control who can access Copilot Cowork in your organization. The Dynamics 365 Sales plugin is installed by default in Copilot Cowork and available to all users who have access to Cowork.\nAs a seller, you can use the sales skills in Copilot Cowork to:\n\nUnderstand customer, opportunity, and pipeline context without manually gathering information from multiple systems.\nIdentify changes, risks, engagement patterns, and areas that require attention.\nPrioritize work across customer"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Store Commerce - Enable contextual switching with external apps in POS",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576845",
+          "published": "Fri, 16 Oct 2026 19:09:46 Z",
+          "summary": "How it works:\n\nPOS to external application: A sales associate is working in POS and needs to use an external system (for example, a specialized parts-search tool). They trigger the Open URL POS operation, which opens the external application.\nExternal application back to POS: After the associate completes their task in the external system (for example, selects a part), the external application calls POS back with the relevant context—for example, a product ID and quantity. POS receives this cont"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Financial Management - Calculate taxes for plastic and sugar",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576844",
+          "published": "Fri, 16 Oct 2026 19:09:45 Z",
+          "summary": "Business Central introduces new capabilities in excise journals to calculate tax amounts for plastic and sugar based on legislation requirements that use weight, content, and transaction quantities as the basis for excise taxes. The new Excise Tax Type, Qty. for Excise Tax, and Excise UOM fields on the Item Card and Fixed Asset Card pages let you define material composition and the relevant quantity basis for each product or fixed asset.\nFor tax on plastic, Business Central calculates excise qua"
+        },
+        {
+          "title": "Microsoft Dataverse: Activate Enterprise Data in Copilot - Create Dataverse agent users with Microsoft Entra agent identity",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576843",
+          "published": "Fri, 16 Oct 2026 19:09:45 Z",
+          "summary": "Organizations can securely deploy AI agents to access and interact with Dataverse data by using enterprise‑managed Microsoft Entra agent identities. This feature enables agents to be provisioned as Dataverse agent users with dedicated, least‑privileged security roles based on their intended capabilities. This feature ensures agents have only the access required to perform tasks autonomously or on behalf of users.\nBy using identity‑based role assignment and full auditing of agent‑driven actions, "
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Supervisor experiences - Provide real-time coaching with Quality Assurance Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576842",
+          "published": "Fri, 16 Oct 2026 19:09:44 Z",
+          "summary": "The quality evaluation skill of the Quality Assurance Agent now includes real-time coaching, enabling organizations to shift from post-interaction monitoring to in-the-moment guidance during live conversations. Service representatives receive contextual coaching nudges during live conversations based on configured quality criteria and guardrails, allowing immediate course correction and improved interaction quality.\nOrganizations can:\n\nDefine policy-driven coaching triggers: Configure which qual"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Use new APIs for analyzing permissions for auditors and IT staff",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576841",
+          "published": "Fri, 16 Oct 2026 19:09:43 Z",
+          "summary": "In this release wave, we're introducing read-only APIs on the permission system. This allows for establishing security and auditing analytics and reporting outside Business Central—for example, creating reports with Power BI or agents with Microsoft Copilot Studio and MCP Server for Business Central.\nThe APIs are read-only and allow querying for:\n\nPermission Set\nObject, Scope, Extension info, and Permission Set\nPermission Set and Security Group mappings\nPermission Set and User mappings\n\nWe're al"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Boost technician productivity - Add simplified lookup control",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576840",
+          "published": "Fri, 16 Oct 2026 19:09:43 Z",
+          "summary": "A new Power Apps component framework control, Drawer Lookup, is now available for lookup fields on forms. This control provides a streamlined mobile UI, reducing visible clutter and minimizing taps compared to the standard lookup. It's available exclusively for mobile experiences.\nHow to use:\n\nIn Power Apps, open the table form containing the lookup field.\nSelect the lookup field and choose + to add the new control.\nSelect Drawer Lookup Control and set it for the phone and tablet client.\nSave an"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Country and regional - Use Payment Practices in the UK localization",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576839",
+          "published": "Fri, 16 Oct 2026 19:09:42 Z",
+          "summary": "Business Central extends UK localization to support the updated Reporting on Payment Practices and Performance (Amendment) Regulations 2024. The system introduces new data points to the existing Payment Practices page, including the total value of payments made during the period, late payments relative to agreed terms, and the percentage of late payments caused by disputes. A dispute mechanism is added to purchase invoices to link delayed payments directly to dispute status.\nThe report can be ex"
+        },
+        {
+          "title": "Dynamics 365 Finance and Operations cross-app: Boost productivity with Copilot - Use Copilot Cowork to orchestrate insights and actions across Dynamics 365 ERP",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576838",
+          "published": "Fri, 16 Oct 2026 19:09:41 Z",
+          "summary": "The Copilot Cowork plugin for finance and operations apps enables users to move from business intent to insight to execution in a single experience. Copilot orchestrates work across ERP data, emails, documents, spreadsheets, collaboration tools, and downstream business processes.\nKey capabilities\n\nOrchestrate workflows across ERP and Microsoft 365 data sources.\nAnalyze business data and generate contextual insights.\nReason across finance, operations, and supply chain domains.\nGenerate recommenda"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Unified routing - Use pick-based assignment method for work items",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576837",
+          "published": "Fri, 16 Oct 2026 19:09:41 Z",
+          "summary": "Use the No auto assignment method for queues in Copilot Service admin center when you want routed conversations to remain unassigned after they enter a queue. Instead of being assigned automatically, conversations stay in the queue until a service representative picks them up from their Inbox or a supervisor assigns them manually.\nThis assignment method supports a pick-based work distribution model, giving supervisors and service representatives greater control over how work is handled. Unlike t"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Ecommerce - Sell to business customers on more Shopify plans with B2B company sync",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576836",
+          "published": "Fri, 16 Oct 2026 19:09:40 Z",
+          "summary": "Shopify expanded its B2B capabilities to all plans, and the Shopify Connector for Business Central is updated accordingly. Core B2B features that previously required a Shopify Plus subscription now work on Basic, Grow, and Advanced plans.\nThe following capabilities are available on all Shopify plans:\n\nCompany sync: Import Shopify B2B companies and company locations and map them to customers in Business Central.\nB2B order processing: When a B2B order arrives, the connector identifies the company "
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Data: Elevate customer experiences - Use Microsoft Fabric OneLake as a data source",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576835",
+          "published": "Fri, 16 Oct 2026 19:09:39 Z",
+          "summary": "Easily explore and select customer data stored in OneLake for processing in Customer Insights - Data. The OneLake connector reads directly from your OneLake data, eliminating the need to copy or stage data.\n\nIntegrate external sources quickly: Use Fabric shortcuts and mirroring to bring data from external systems into Customer Insights - Data.\nIngest data quickly: OneLake-managed tables use the Delta data format, which enables incremental data ingestion, reducing the time required to ingest larg"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Omnichannel commerce - Streamline mass price updates using attribute-based pricing",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576834",
+          "published": "Fri, 16 Oct 2026 19:09:39 Z",
+          "summary": "This feature enhancement introduces mass price update capabilities that use price attribute combinations and rule-based markups to provide an efficient way to manage large-scale pricing changes.\nCreate trade agreement prices using attribute combinations\nPricing managers can now define pricing updates based on price attribute combinations such as product attributes, customer segments, package types, and warranty types. This functionality allows a single rule to update pricing for a wide range of "
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Inquire about purchase orders processed during purchase order year-end",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576833",
+          "published": "Fri, 16 Oct 2026 19:09:38 Z",
+          "summary": "The purchase order year-end process can update purchase order accounting dates and carry purchasing commitments into the next fiscal year. Finance users need a simple way to confirm which purchase orders were included in that process, understand how accounting dates changed, and see the resulting document status after year-end processing.\nWith this feature, Dynamics 365 Finance adds a dedicated inquiry for purchase orders processed through Purchase order year-end. The inquiry is designed to help"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Country and regional - Enable electronic invoicing in France",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576832",
+          "published": "Fri, 16 Oct 2026 19:09:37 Z",
+          "summary": "Business Central adds support for e-invoicing and e‑reporting in France, following the DGFiP five‑corner model. Microsoft doesn't operate as a certified Partner Dematerialization Platform (PDP); instead, companies can use existing E‑Document connectors to exchange invoices and lifecycle messages through certified PDP providers. The localization app enables two compliant formats: Peppol BIS3 (XML) and Factur‑X (PDF/A‑3 with embedded XML).\nThe feature supports sending and receiving structured e‑in"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Workforce engagement management - Analyze adherence history to optimize workforce planning",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576831",
+          "published": "Fri, 16 Oct 2026 19:09:36 Z",
+          "summary": "The Adherence History Report provides a complete view of customer service representatives’ historical adherence to scheduled tasks and activities. It helps supervisors analyze patterns, identify gaps, and improve workforce efficiency.\nKey capabilities\nTrend chart: Visualize adherence patterns for individual service representatives or the entire team over time.\nMetrics dashboard: Track adherence percentage, total scheduled time, and time spent out of adherence.\nActivity summary view: Access detai"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Omnichannel commerce - Enable credit management support for Commerce orders",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576830",
+          "published": "Fri, 16 Oct 2026 19:09:36 Z",
+          "summary": "This feature enhancement extends the standard credit management framework to all Commerce orders across channels, ensuring the consistent application of credit policies between Commerce and Supply Chain Management. During order fulfillment, Commerce channels including call center and POS adhere to defined credit management blocking rules to determine whether an order should be placed on credit hold for review. For order capture scenarios, POS and Commerce e-commerce continue to rely on the exist"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Store Commerce - Prevent the return of specific items in point of sale",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576829",
+          "published": "Fri, 16 Oct 2026 19:09:35 Z",
+          "summary": "This feature enables merchandising managers to define specific products or entire product hierarchies as non-returnable. This can be done by enabling a new property on released products either individually, or in bulk via the category view. Once configured, POS blocks the return of such items to enforce compliance and reduce unauthorized returns. This capability also enhances operational efficiency by clearly signaling return restrictions to cashiers and customers during the original sale, reduc"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Store Commerce - Set payment method display order and visibility in POS",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576828",
+          "published": "Fri, 16 Oct 2026 19:09:34 Z",
+          "summary": "The feature introduces payment profiles that can be associated with POS registers. These payment profiles provide retailers with a flexible and centralized way to manage how payment methods appear across their POS registers. Store administrators can create reusable profiles and assign them to individual registers or groups of registers, ensuring that each station only displays relevant payment methods. Within each profile, administrators can control visibility by choosing which payment methods a"
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Data: Turbocharge your pipeline to drive growth - Target right audience based on signals from earlier campaigns",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576827",
+          "published": "Fri, 16 Oct 2026 19:09:34 Z",
+          "summary": "You can now access behavioral data captured by Customer Insights - Journeys, such as emails opened and links clicked, and use it in Customer Insights - Data. The behavioral data from Customer Insights - Journeys is now automatically available in Customer Insights - Data.\nKey capabilities include:\n\nGet data quickly by eliminating the need to build and wait for special data flows to export behavioral data from Dataverse to Fabric, and then into Customer Insights - Data.\nUse the behavioral data to "
+        },
+        {
+          "title": "Dynamics 365 Finance and Operations cross-app: Boost productivity with Copilot - Enable agents to work with attachments through Dynamics 365 ERP MCP server",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576826",
+          "published": "Fri, 16 Oct 2026 19:09:33 Z",
+          "summary": "Document attachments provide valuable context and detail about ERP records. With this release, the Dynamics 365 ERP MCP server will provide access for agents to work with the attachments by creating, deleting, or reading and reasoning over the content of the attachments in agentic flows.\nBusiness Value:\nDocument attachments provide valuable context and detail about ERP records. Enabling agents to access the attachments opens many opportunities for powerful agentic experiences.\nEnabled for:\nEnabl"
+        },
+        {
+          "title": "Dynamics 365 Finance and Operations cross-app: Boost productivity with Copilot - Open records in Dynamics 365 ERP applications with deep links from copilot responses",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576825",
+          "published": "Fri, 16 Oct 2026 19:09:32 Z",
+          "summary": "The Dynamics 365 ERP MCP server enables copilots to respond to prompts related to data across the Dynamics 365 ERP suite of applications. Users expect visibility into how copilot responses relate to the underlying business data and system records. With this release, copilot responses generated from the Dynamics 365 ERP MCP server will include deep links to the data used to generate the response, improving transparency, traceability, and trust in the AI-generated responses.\nBusiness Value:\nUsers "
+        },
+        {
+          "title": "Power Automate: Cloud flows - Share Process license capacity across workflows",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576824",
+          "published": "Fri, 16 Oct 2026 19:09:32 Z",
+          "summary": "With flow groups, you can share Process license capacity across up to 25 cloud flows, optimizing license allocation and reducing costs for organizations operating higher-volume workflows that don't need their own dedicated capacity.\nPrerequisites:\n\nPower Automate Process licenses available to the environment\nCloud flows stored in solutions\nPower Automate maker permissions\n\nBusiness Value:\nSave costs, reduce management effort, and improve resource utilization by efficiently sharing capacity acros"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Optimize resource scheduling - Move multiple bookings at once by a set offset",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576823",
+          "published": "Fri, 16 Oct 2026 19:09:31 Z",
+          "summary": "Bulk move enables schedulers to shift multiple bookings forward or backward by a consistent time offset in a single action. Instead of adjusting each booking manually, users can select bookings across one or more resources and apply changes, such as moving all affected work by a day or a week. This feature is especially valuable when plans change due to factors like weather delays, customer reschedules, or operational disruptions. It is automatically enabled for users.\nBy preserving each booking"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Optimize resource scheduling - Move multiple bookings at once to new resource",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576822",
+          "published": "Fri, 16 Oct 2026 19:09:30 Z",
+          "summary": "Bulk reassign simplifies large-scale staffing changes by allowing schedulers to move multiple bookings to a different resource in a single step. Instead of reassigning work one booking at a time, users can multi-select bookings and quickly redirect them to another qualified resource using a new feature in the right-click menu. This feature supports common scenarios such as covering for unexpected absences, rebalancing workloads, or shifting work between teams. It is automatically enabled for use"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Optimize resource scheduling - View full screen map mode on schedule board",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576821",
+          "published": "Fri, 16 Oct 2026 19:09:30 Z",
+          "summary": "Full screen map mode allows dispatchers to expand the schedule board map to fill the entire workspace, removing visual constraints that limit situational awareness. With more space, users can easily analyze resource locations, view booking distribution, and evaluate geographic coverage without distractions from other panels. This capability is particularly useful for dispatchers who rely on spatial context when assigning or adjusting work, such as route planning, proximity-based scheduling, or i"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Optimize resource scheduling - Cancel segments of a booking in aggregate views",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576820",
+          "published": "Fri, 16 Oct 2026 19:09:29 Z",
+          "summary": "Cancel booking actions in aggregate views give schedulers precise control over long-running or multiday bookings directly within their current view. Users can cancel bookings with the same time granularity as the selected view. For example, canceling a week in a weekly view, canceling a day in a daily view. To cancel a segment, open the Edit Details panel and set the desired interval's duration to 0 minutes.\nInstead of canceling an entire booking to address partial changes—such as a delayed week"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Omnichannel customer experiences - Use data masking to protect customer data",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576819",
+          "published": "Fri, 16 Oct 2026 19:09:28 Z",
+          "summary": "Customer service representative data masking is a new opt-in feature for Dynamics 365 Contact Center.\nWhen enabled, service representatives can select individual messages from the customer and redact them, so the customer's PII isn't stored in your repository. This feature complements the existing automatic data masking rules with both automatic and manual masking. You can be confident that your brand is protecting your customers' valuable information.\nBusiness Value:\nProtect your customers' sen"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Improve customer outcomes with Service Agent in Microsoft 365 Copilot",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576818",
+          "published": "Fri, 16 Oct 2026 19:09:27 Z",
+          "summary": "Microsoft 365 Copilot Chat is becoming a consistent way that users interact with AI across Microsoft experiences. With this update, that same chat experience is available in Dynamics 365 Customer Service, with service-aware grounding and workflows.\nService users can start in Microsoft 365 Copilot Chat and then:\n\nSee and prioritize work (for example, top cases and what needs attention).\nDraft customer communications and prepare next steps with Microsoft 365 context when relevant.\nIdentify trends "
+        },
+        {
+          "title": "Microsoft Dataverse: Finance and operations cross application integration - Monitor data management framework with Azure Monitor Application Insights",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576817",
+          "published": "Fri, 16 Oct 2026 19:09:27 Z",
+          "summary": "By integrating data management framework telemetry for Dynamics 365 finance and operations apps, organizations can gain deeper visibility into data management executions, such as import and export jobs. This integration streams telemetry directly into the customer's own Azure Application Insights instance.\nBy using this integration, customers can:\n\nMonitor import and export data management functions with start and end times.\nMonitor job status from source to staging and staging to target.\nMonito"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Store Commerce - Configure inline actions on transaction line items in Store Commerce",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576816",
+          "published": "Fri, 16 Oct 2026 19:09:26 Z",
+          "summary": "Inline actions extensibility enables retailers and implementation partners to configure the set of actions displayed per line item in the modern transaction grid in Store Commerce, using Screen Layout Designer in Dynamics 365 Commerce headquarters.\nWhat retailers can configure\n\nWhich actions appear: Select any eligible out-of-the-box POS operation or custom operation registered in headquarters to include as an inline action on transaction line items.\nDisplay order: Control the sequence in which "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Governance and administration - Upload, install, and manage PTEs in the admin center",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576815",
+          "published": "Fri, 16 Oct 2026 19:09:25 Z",
+          "summary": "Business Central offers full management of per-tenant extensions (PTEs) in the admin center and through admin center API endpoints. In addition to viewing and uninstalling extensions, administrators can upload PTE packages, install them immediately or schedule installations, and view upcoming extension versions.\nThe API accepts extension package uploads directly, making it easier to integrate with build pipelines and deployment automation. This removes previous limitations that required using th"
+        },
+        {
+          "title": "Dynamics 365 Sales: Opportunity acceleration - Chat about sales opportunity agent insights from inside Sales agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576814",
+          "published": "Fri, 16 Oct 2026 19:09:24 Z",
+          "summary": "As a seller, you can:\n\nAsk questions in context: Ask about opportunity research from Sales agent.\nStart concise, go deeper on demand: Begin with action-oriented insights, then request deeper analysis only when needed.\n\nBusiness Value:\nYou need guidance that adapts to the moment you’re in a meeting preparation, a stage move, or a specific risk you want to validate. With the ability to ask about opportunity research from inside Sales agent, you get right-sized, action-first insights. You can quick"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Electronic documents - Use payments with the E-Document framework",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576813",
+          "published": "Fri, 16 Oct 2026 19:09:24 Z",
+          "summary": "You can mark an e-document as fully paid, partially paid, or unpaid. The system sends this information through accounts payable access points or receives it through accounts receivable access points, based on your e-document configuration. The payment tracking feature in e-documents includes details such as:\n\nDate of payment collection\nAmount collected, including VAT\nBase amount and VAT amount at the time of payment\n\nBusiness Value:\nBoost productivity with enhanced tracking of e-documents by qui"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Resolve invoice proposal blocked in workflow",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576812",
+          "published": "Fri, 16 Oct 2026 19:09:23 Z",
+          "summary": "For organizations using a structured and formal invoice workflow as part of their revenue collection, it's critical that invoices can be created and worked through to completion in a timely manner. When a configuration change causes an error, it's vital that these errors get resolved quickly so as not delay revenue generation. In support of timely invoicing, this new feature enables customers to unblock failed invoices on their own without complicated troubleshooting or the need to raise a suppo"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Store Commerce - Enable associates to use the nearest store payment terminal",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576811",
+          "published": "Fri, 16 Oct 2026 19:09:22 Z",
+          "summary": "Application: Point of sale (Store Commerce)\nWhen a sales associate selects a dedicated hardware station (HWS) from the POS, the system correctly pairs with the payment terminal physically attached to that hardware station and not the terminal attached to the register. While printer pairing from the selected HWS already works as expected, this change aligns payment terminal behavior to match.\nHow to use the feature:\n\nThe store administrator configures dedicated hardware stations in Headquarters, "
+        },
+        {
+          "title": "Microsoft Dataverse: Improved enterprise experiences in Power Platform - Improve bulk delete user experience",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576810",
+          "published": "Fri, 16 Oct 2026 19:09:22 Z",
+          "summary": "As you scale your data management operations, bulk delete must be predictable, transparent, and safe to operate across environments. In this release, Microsoft enhances bulk delete with an improved error handling experience and solution aware configuration support, delivering a more consistent, reliable, and enterprise‑ready data cleanup workflow.\nThis release focuses on two core improvements that directly address admin pain points around visibility, consistency, and operational risk when managi"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable the Investment project feature",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576809",
+          "published": "Fri, 16 Oct 2026 19:09:21 Z",
+          "summary": "When you enable the Enable investment project for Project Operations integrated with ERP setting, you activate this feature.\n\nProject Classification: The project manager uses this classification to mark a project as an investment project. Use this classification for internal projects. Don't link investment projects to customer-facing contracts.\n\nTransaction Estimates: The project manager adds estimates and budgets for each transaction type. This feature supports better planning and cost tracking"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Assign task level schedule mode for precise planning",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576808",
+          "published": "Fri, 16 Oct 2026 19:09:20 Z",
+          "summary": "This feature provides an experience to change the task schedule mode on the Customizable task details pane. To enable this feature, from project parameters select Enable Customize Task Pane.\nWhen enabled through feature control, this functionality lets you:\n\nSet a task level schedule mode on the Customizable task details pane.\nManage the task level schedule modes.\nSchedule API support.\n\nBusiness Value:\nWith traditional scheduling, you’re stuck using one mode for the entire project, even when tas"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Assign task level calendar for precise planning",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576807",
+          "published": "Fri, 16 Oct 2026 19:09:19 Z",
+          "summary": "This feature provides an experience to change the task calendar on the Customizable task details pane. To enable this feature, from project parameters select Enable Customize Task Pane.\nWhen enabled through feature control, this functionality lets you:\n\nSet a task-level calendar on the Customizable task details pane.\nManage task-level calendars.\nSchedule API support.\n\nBusiness Value:\nWith project-level calendars, every task follows the same schedule, even when timing needs differ. That often mea"
+        },
+        {
+          "title": "Dynamics 365 Sales: Seller experiences - Copy opportunities for repeat deals",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576806",
+          "published": "Fri, 16 Oct 2026 19:09:18 Z",
+          "summary": "Administrators can control whether the Copy Opportunity feature is available. When enabled, sellers can duplicate an existing opportunity to quickly create a new one.\nThe new opportunity retains key customer, deal, product, stakeholder, and custom-field information from the source opportunity, including hidden custom fields. Product line items are copied with their quantities and pricing; inactive products are excluded and recorded in the audit summary.\nTo ensure the copied opportunity starts as"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Import projects in MPP files into existing projects",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576805",
+          "published": "Fri, 16 Oct 2026 19:09:17 Z",
+          "summary": "Previously, importing an .mpp file always created a new project. The import process copied the work breakdown structure from the .mpp file into the new project. You couldn't import a .mpp file into an existing project. This limitation made it difficult to manage projects when overall planning happens in Project Operations and individual planning happened offline in Microsoft Project for desktop.\nWith this feature, you can:\n\nChoose to import the .mpp file into either a new project or an existing "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Implement access restrictions on the task grid",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576804",
+          "published": "Fri, 16 Oct 2026 19:09:16 Z",
+          "summary": "This feature adds a security system that lets administrators restrict what users can access inside the Project for the web iFrame on projects they access but don't join as team members. Project managers can use the same system to set restrictions for team members on their projects.\nWhen this feature is enabled in the feature control settings, the following changes occur:\n\nAccess restrictions are updated on user level and project team member levels.\nAt user level, \"Read only\" and \"Full Access\" ar"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Support currency data type in custom columns",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576803",
+          "published": "Fri, 16 Oct 2026 19:09:16 Z",
+          "summary": "As part of our commitment to continuously improve Project Operations, we plan to expand the Enterprise Task Custom Columns capability in an upcoming release. This enhancement builds on the existing functionality that allows you to add Date, Text, Number, and Choice fields to the task grid.\nWith this enhancement, you gain the ability to add currency data type fields as enterprise task custom columns. This change makes it easier to surface financial data directly in the task grid, eliminating the "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Country and regional - Comply with Australian Payment Times Reporting bill",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576802",
+          "published": "Fri, 16 Oct 2026 19:09:15 Z",
+          "summary": "Every six months, Australian companies with more than AUD100 million in annual turnover must report how and when they pay small business suppliers (suppliers with annual turnover under AUD10 million).\nThis feature organizes vendors by size or payment terms and creates reports that meet local authority requirements.\n\nThe average agreed payment period.\nThe average actual payment term.\nThe proportion of invoices paid after the agreed payment period.\n\nSelect the period for the calculation and choose"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable time phasing of quote and contract lines",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576801",
+          "published": "Fri, 16 Oct 2026 19:09:15 Z",
+          "summary": "With this feature, the system automatically updates the correct sales and cost prices in quotes and contracts based on the effective date. The system calculates prices using weighted average prices for both quote line details and contract line details, so pricing calculations are precise and reliable. This automation greatly reduces the manual work needed to track and update prices. It also lowers the risk of errors and discrepancies in pricing.\nThe feature also lets you keep a detailed audit tr"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Support lookup data type in custom columns",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576800",
+          "published": "Fri, 16 Oct 2026 19:09:14 Z",
+          "summary": "As part of our commitment to continuously improve Project Operations, we plan to expand the Enterprise Task Custom Columns capability. This enhancement builds on the existing functionality that allows you to add Date, Text, Number, and Choice fields to the task grid.\nWith this enhancement, you gain the ability to add Lookup data type fields as enterprise task custom columns. This change makes it easier to surface relational data directly in the task grid, eliminating the need for task form custo"
+        },
+        {
+          "title": "Dynamics 365 Finance: Globalization Studio - Create faster XAF audit files for Netherlands",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576799",
+          "published": "Fri, 16 Oct 2026 19:09:13 Z",
+          "summary": "In the current release wave, we are introducing the following regulatory reporting enhancements:\nPerformance improvements for Audit File Financial (XAF) – Netherlands\nDutch customers can generate the mandatory XAF export significantly faster, even for large data volumes.\nThis enhancement uses optimized data storage and the latest XAF 4.0 format to reduce processing time and system load when producing audit files. It ensures compliance with the Dutch Tax Administration’s newest digital audit requ"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Track real project progress from field execution",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576798",
+          "published": "Fri, 16 Oct 2026 19:09:12 Z",
+          "summary": "This feature enhances Dynamics 365 Project Operations by extending its native work breakdown structure effort tracking to include approved time captured in Field Service when the Field Service and Project Operations integration is enabled and time flows in at the project task level.\nApproved Field Service time now contributes directly to task-level WBS execution metrics in Project Operations when time is captured against a project task. Task metrics such as effort completed, effort remaining, pe"
+        },
+        {
+          "title": "Dynamics 365 Finance: Business performance - Try the new financial planning and analysis planning experience in Power BI",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576797",
+          "published": "Fri, 16 Oct 2026 19:09:12 Z",
+          "summary": "The financial planning and analysis planning experience is a downloadable Power BI app and report template that enables users to explore, analyze, and interact with financial planning and analysis plans directly in Power BI.\nThe app is preconfigured to connect to Business performance planning cubes and dimensions deployed in Dataverse and provides a ready‑to‑use planning and analysis experience across core financial planning and analysis use cases, including:\n\nDriver-based revenue planning and s"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Track branch-level registration IDs on invoices in a single legal entity",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576796",
+          "published": "Fri, 16 Oct 2026 19:09:11 Z",
+          "summary": "This feature introduces the concept of an Establishment within a legal entity, allowing organizations to manage and apply establishment-specific registration identifiers such as branch IDs and local registration numbers across invoices.\nThe feature provides the following key capabilities:\n\nEstablishment modeling: Establishments of the legal entity are modeled using Operating units, with a new organization hierarchy purpose called Enterprise establishment structure. Each establishment can be assi"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Use stocked products on projects",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576795",
+          "published": "Fri, 16 Oct 2026 19:09:10 Z",
+          "summary": "The experiences for using inventoried products in Project Operations use the Inventory and Warehouse modules of Dynamics 365 Supply Chain Management. To accurately estimate the availability of stocked items and their costs, the system uses Pricing and Inventory visibility services. Use the Inventory close process in Supply Chain Management to update the project cost and show accurate consumption of project budgets. Providing all the capabilities needed to manage stocked items on projects takes m"
+        },
+        {
+          "title": "Power Automate: Desktop flows - Configure notifications for desktop flow checker in admin portal",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576794",
+          "published": "Fri, 16 Oct 2026 19:09:10 Z",
+          "summary": "The desktop flow checker in the Power Automate portal extends rule‑based static analysis to provide configurable notifications for violations detected across all desktop flows in an environment. Administrators can select the notification type (error, warning, or informational), adjust severity levels, and define parameters such as thresholds, recurrence, and scope. The checker uses the same rule engine that runs during initialization and analysis of flows, loading default and custom rules to eva"
+        },
+        {
+          "title": "Power Pages: Design studio - Support Power BI embed token v2 for Power Pages",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576793",
+          "published": "Fri, 16 Oct 2026 19:09:09 Z",
+          "summary": "Power Pages now supports Power BI Embed Token v2, unlocking modern Power BI embedding scenarios that weren't supported with Embed Token v1. This enhancement enables richer, more scalable analytics experiences within Power Pages sites.\nWith Embed Token v2, Power Pages can embed:\n\nPaginated (RDL) reports, including reports that use Power BI datasets as a data source or require multi-resource tokens.\nReports backed by data lake–based semantic models, where v2 tokens are required to include dataset "
+        },
+        {
+          "title": "Dynamics 365 Business Central: Reporting and data analysis - Use new APIs for getting the PDF of a document report",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576792",
+          "published": "Fri, 16 Oct 2026 19:09:08 Z",
+          "summary": "We're introducing read-only APIs in the document report system. The APIs help establish automation on document reporting outside Business Central. For example, to create agents with Microsoft Copilot Studio and MCP Server for Business Central to automate business processes that involve document PDFs. The APIs are read-only and allow you to query the following types of documents:\nSales documents\n\nBlanket sales orders\nSales return orders\nSales shipments\nReturn receipts\nSales archive quotes\nSales a"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Enable cash discounts for settling customer invoice matching rules for bank reconciliation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576791",
+          "published": "Fri, 16 Oct 2026 19:09:08 Z",
+          "summary": "Implement cash discounts on customer settlement when the payment is recorded through advanced bank reconciliation. The feature ensures that advanced bank reconciliation supports applying customer cash discounts when customer invoices are automatically settled through reconciliation matching rules. The process evaluates eligible cash discounts during automated settlement performed when running Settle customer invoices reconciliation rules, and applies them consistently, aligning behavior with man"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Boost technician productivity - Capture and review notes with mobile notes control",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576790",
+          "published": "Fri, 16 Oct 2026 19:09:07 Z",
+          "summary": "The mobile notes control introduces a unified, mobile-first experience for creating and consuming notes directly within entity forms. Makers add this Power Apps component framework control to a form to replace the default note experience with a streamlined interface that supports:\n\nIn-form note creation with text, images, and videos.\nRich note consumption with optimized rendering for media and text.\nClean, touch-friendly layout designed for fast interaction in field conditions.\n\nNotes created us"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Unlock more Business Central data with MCP server enhancements",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576789",
+          "published": "Fri, 16 Oct 2026 19:09:06 Z",
+          "summary": "With this update of the MCP server for Business Central, customers and developers can expose a broader set of Business Central APIs as tools, making it easier to build solutions that interact deeply and consistently with Business Central data and processes.\nKey improvements include:\nAccess to all Microsoft APIs\nThe MCP server can now surface the full set of standard Microsoft APIs in Business Central. This enables agents and integrations to work with a wider range of entities and actions out of "
+        },
+        {
+          "title": "Microsoft Dataverse: Improved enterprise experiences in Power Platform - Enhance Dataverse record descriptions for Copilot /mention",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576788",
+          "published": "Fri, 16 Oct 2026 19:09:06 Z",
+          "summary": "End users of Microsoft 365 Copilot will see improved Microsoft Dataverse, Dynamics 365, and Power Apps record references in Context IQ with richer, more descriptive labels that include environment, app, and table information. This makes it easier to identify and select the correct records during Copilot interactions.\nBusiness Value:\nEnables Microsoft 365 Copilot to surface business data with meaningful context, reducing confusion from generic labels and helping users quickly identify the right r"
+        },
+        {
+          "title": "Dynamics 365 Sales: Opportunity acceleration - Accelerate Sales Opportunity Agent deployment with simplified admin configuration",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576787",
+          "published": "Fri, 16 Oct 2026 19:09:05 Z",
+          "summary": "As an admin, you gain access to:\n\nSimple configuration experience: Navigate an intuitive, guided setup interface designed for the Sales Opportunity Agent, eliminating complexity and reducing configuration time significantly.\n\nSmart defaults: Leverage preoptimized settings for advanced configurations that are automatically applied, enabling rapid testing and deployment while maintaining best-practice standards.\n\nSegregation of basic and advanced settings: Enable the agent quickly with essential s"
+        },
+        {
+          "title": "Power Automate: Desktop flows - Encrypt and decrypt data with PGP",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576786",
+          "published": "Fri, 16 Oct 2026 19:09:04 Z",
+          "summary": "This feature introduces PGP-specific encryption and decryption actions that use OpenPGP compatible public and private keys. You can encrypt files or data payloads using a recipient public key and decrypt incoming PGP-encrypted content using a corresponding private key and passphrase. The actions support standard PGP formats, making them suitable for interoperability with third-party systems that rely on PGP for secure data exchange. The actions appear in the action picker with no additional UI c"
+        },
+        {
+          "title": "Power Automate: Desktop flows - Measure time and cost savings for desktop flows",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576785",
+          "published": "Fri, 16 Oct 2026 19:09:03 Z",
+          "summary": "This feature introduces built-in rules that calculate time and cost savings for desktop flows based on successful runs. You can define how long a task previously took when performed manually and let the platform compute time saved using flow run data. Cost savings can be estimated by applying hourly rates or custom monetary baselines that scale with run volume. Savings accumulate automatically as flows run, making the impact of automation measurable over time.\nThe feature is not enabled automati"
+        },
+        {
+          "title": "Power Automate: Desktop flows - Debug flows using variable default values",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576784",
+          "published": "Fri, 16 Oct 2026 19:09:02 Z",
+          "summary": "This feature introduces advanced debugging support by allowing you to assign default values to variables directly within the desktop flow designer. During debugging sessions, when you are starting the execution from a specific step of the automation, the assigned default values are automatically applied, enabling you to test specific scenarios without modifying actions or rerunning the flow from the beginning. This is especially useful when working with complex logic, conditions, or branches tha"
+        },
+        {
+          "title": "Dynamics 365 Sustainability: Streamline ESG internal data collection",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576783",
+          "published": "Fri, 16 Oct 2026 19:09:01 Z",
+          "summary": "Under the streamlining data import, collection, and management product area, the data collection feature provides a structured and guided way for organizations to gather ESG information from internal teams and departments, ensuring that required data flows consistently from the people who own it. Practitioners can configure data owners, create targeted requests, assign reporting periods, set due dates, and optionally apply approval workflows to ensure data is validated before use.\nThis feature i"
+        },
+        {
+          "title": "PowerApps: Building modern apps - Use CLI to discover, create, and wire connectors in code apps",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576782",
+          "published": "Fri, 16 Oct 2026 19:09:00 Z",
+          "summary": "Power Apps CLI connector commands\nThe Power Apps CLI adds new commands that let developers discover available connectors and create connections directly from the command line. This enables developers to wire connectors into code apps as part of their normal development workflow, without switching tools or manually configuring connections in the maker portal.\nAgent and how-to guidance for prompt-to-app workflows\nNew code app agent.md files and code app how-to documentation show how coding agents "
+        },
+        {
+          "title": "PowerApps: Building modern apps - Modernize model-driven apps with the header and navigation refresh feature",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576781",
+          "published": "Fri, 16 Oct 2026 19:08:59 Z",
+          "summary": "The header and navigation refresh feature delivers a modern, intuitive, and efficient model app experience across the app shell, form pages, and view pages. This update improves visual clarity, reduces vertical space usage, and aligns with modern Microsoft 365 design patterns.\nAs the feature transitions to general availability (GA), the refreshed experience remains opt-in, allowing makers to control adoption and validate the experience at their own pace. Makers can switch between the classic and"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Administrator experiences - Support average wait time in messaging API channels",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576780",
+          "published": "Fri, 16 Oct 2026 19:08:59 Z",
+          "summary": "Average wait time (AWT) is now supported for custom messaging channels built using the messaging APIs, apart from live chat and voice channels.\nThe system computes the average wait time using an exponential moving average algorithm, giving more weight to recently connected conversations and automatically excluding abandoned ones.\nAdministrators and supervisors can retrieve the wait-time metric through the representative availability APIs, enabling Copilot Studio agents or custom logic to decide "
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Unified routing - Use average wait-time diagnostics for wait-time predictions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576779",
+          "published": "Fri, 16 Oct 2026 19:08:58 Z",
+          "summary": "This feature introduces comprehensive event logging in Application Insights that captures exactly how average wait time is computed, evaluated, and shown to customers.\nEnd-to-end average wait-time diagnostic events\nThe system logs detailed AWT diagnostic events in Application Insights at two key moments:\n\nWhen a conversation begins and the system evaluates whether average wait time should be shown.\nWhen the availability APIs return the average wait-time value (if applicable).\n\nEach event include"
+        },
+        {
+          "title": "Dynamics 365 Finance and Operations cross-app: One Dynamics One Platform - Build custom scenarios with Archive Framework",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576778",
+          "published": "Fri, 16 Oct 2026 19:08:57 Z",
+          "summary": "This feature allows customers to implement and run custom archive scenarios that natively leverage the Archive Framework’s orchestration and data management capabilities.\nCustom scenarios integrate with existing archive job creation, scheduling, and execution flows, ensuring consistency with first-party archive behavior. Validation enforces framework standards for configuration, execution, and retention policies, while providing flexibility to model customer-specific data domains. As a result, c"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Speed up processing with Known Senders in Payables Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576777",
+          "published": "Fri, 16 Oct 2026 19:08:57 Z",
+          "summary": "This feature introduces email review policy and a Known Senders list page to give accounts payable teams more control over which incoming emails require human approval before the Payables Agent processes them.\nA new Email review field in the Payables Agent setup lets administrators choose when incoming emails require human approval. The following options are available:\n\nAlways: Every email requires approval, regardless of the sender.\nNever: No emails require approval.\nOnly if untrusted (recommen"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Try Payables Agent for free without setting up email",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576776",
+          "published": "Fri, 16 Oct 2026 19:08:56 Z",
+          "summary": "Payables Agent introduces a free trial mode that any user can start without help from an administrator or having paid credits.\nYou can start the trial directly from the agent setup card or from the Purchase Invoices page. You don't need to have an administrator role or configure an email account. You upload invoice PDFs manually to start processing, bypassing the email-based sourcing flow entirely. The trial activates immediately the first time you upload an invoice. The trial includes 50 free i"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Store Commerce - Display distance in kilometers on the Store Commerce app",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576774",
+          "published": "Fri, 16 Oct 2026 19:08:56 Z",
+          "summary": "Retailers operating across multiple regions often face challenges with distance unit consistency in Dynamics 365 Commerce. By default, distances in points of sale are hard-coded to miles, regardless of the store's locale. This limitation can cause confusion for customers in metric-based countries and lead to operational miscommunication across international teams.\nThis feature introduces automatic distance unit display in Store Commerce, ensuring values are presented in the correct format for ea"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Classify emails by category and subcategory with Case Management Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576775",
+          "published": "Fri, 16 Oct 2026 19:08:55 Z",
+          "summary": "With email classification, administrators can define a custom taxonomy of categories and subcategories to automatically classify inbound emails in Dynamics 365 Customer Service. AI analyzes the email subject and body, then stores the assigned category or subcategory on the email activity record. Case Management Agent, automatic record creation rules, Power Automate flows, reporting, and other downstream processes can use this value to determine how to handle the email.\nAdministrators can enable "
+        },
+        {
+          "title": "Dynamics 365 Finance and Operations cross-app: One Dynamics One Platform - Enable parallel processing for Archive long‑term retention job execution",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576773",
+          "published": "Fri, 16 Oct 2026 19:08:54 Z",
+          "summary": "The parallel execution for Archive long‑term retention jobs feature delivers a major scalability upgrade to the archival framework by enabling parallel processing across job creation, marking, and scheduling. Each archive job remains aligned to the existing architectural principle of being defined per legal entity and per contract type (for example, General Ledger, Tax Transactions, or Sales Order), but the execution pipeline is now partitioned and processed concurrently to reduce total archive "
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Omnichannel customer experiences - Handle duplicate callback requests in overflowing queues",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576772",
+          "published": "Fri, 16 Oct 2026 19:08:53 Z",
+          "summary": "In the in-queue and pre-queue overflow settings within the Copilot Service admin center, administrators can define the following settings:\n\nPrevent duplicate callback requests from the same phone number.\nDefine deduplication logic using combinations of caller phone number, channel phone number, and queue ID.\nConfigure caller experiences when a duplicate is detected. An option to end the call or play a custom message in a loop is available. For example: “You are already in queue to receive a call"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Supervisor experiences - Track segment‑level metrics across queues",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576771",
+          "published": "Fri, 16 Oct 2026 19:08:52 Z",
+          "summary": "This capability directly impacts metric calculations, improving accuracy and delivering the following benefits:\n\nTracks when interactions enter and exit queues, providing clearer operational visibility.\nCalculates wait time, service level, and abandonment for each queue segment, enabling more precise performance evaluation.\nPreserves metric accuracy during cross-queue transfers, minimizing errors and inconsistencies.\nSurfaces customer wait times after transfers, offering deeper insights than ses"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Omnichannel commerce - Support cross-legal entity order fulfillment for Dynamics 365 Commerce",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576770",
+          "published": "Fri, 16 Oct 2026 19:08:52 Z",
+          "summary": "This feature includes:\n\nCross-legal entity fulfillment groups: Define fulfillment groups that include warehouses and stores from multiple legal entities, enabling distributed order management (DOM) to select the best fulfillment location across the enterprise.\nInventory visibility: DOM can access inventory data from warehouses in different legal entities, ensuring accurate sourcing decisions.\nIntercompany order automation: When you select a cross-legal entity warehouse, the system automatically "
+        },
+        {
+          "title": "Dynamics 365 Finance: Globalization Studio - Support customer prepayment invoices in e-invoicing",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576769",
+          "published": "Fri, 16 Oct 2026 19:08:52 Z",
+          "summary": "In the current release wave, we are introducing the following e-invoicing capabilities.\nHandling of customer prepayment invoices in E-invoicing\nGlobal and local customers using Customer prepayment invoices in Microsoft Dynamics 365 Finance can now process a dedicated electronic invoice type specifically for customer prepayments.\nFor customer prepayment invoices created from sales orders, the system supports generation of electronic invoices as follows:\n\nPEPPOL-based electronic invoices of type 3"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Set a default booking method for the schedule board",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576768",
+          "published": "Fri, 16 Oct 2026 19:08:50 Z",
+          "summary": "When enabled through feature control, this feature lets you configure a default booking method in the Schedule Board settings. The selected default booking method is automatically applied during booking. You can override the default by changing the booking method at the time of booking.\nBusiness Value:\nThe Configurable booking method feature ensures consistent and predictable resource bookings by allowing organizations to set a default booking allocation method across the Schedule Board and Sche"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Perform bulk reconciliation of bookings from UI",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576767",
+          "published": "Fri, 16 Oct 2026 19:08:50 Z",
+          "summary": "When enabled through feature control, this capability enables multiple selections on the Resource Reconciliation grid. This feature lets you:\n\nSelect multiple time durations on the grid.\nSelect multiple users on the grid.\nExtend the bookings for selections done on the grid.\n\nBusiness Value:\nBulk reconciliation streamlines the process of aligning bookings and assignments in Dynamics 365 Project Operations by enabling users to reconcile multiple resources and date ranges in a single action. This e"
+        },
+        {
+          "title": "Power Automate: Process mining - Enable Process Intelligence Studio in object-centric process mining",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576765",
+          "published": "Fri, 16 Oct 2026 19:08:49 Z",
+          "summary": "Process Intelligence Studio is a modern, flexible workspace designed for comprehensive process analysis. It provides a fully customizable analysis environment that combines multiple visualization and analysis components into cohesive, purpose-built workspaces. The platform supports both traditional and object-centric process mining methodologies, enabling analysis across simple linear processes and complex, multi-object scenarios.\nCore capabilities include:\n\nTab-based navigation: Organize relate"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Use time-zone-agnostic fields in project planning",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576766",
+          "published": "Fri, 16 Oct 2026 19:08:49 Z",
+          "summary": "Project and project task start, and end times are saved in a date-time format. The system converts these times to GMT before saving them. When the product displays these times, it converts them back to the user's time zone. However, some integrations and customizations pull only the date from this field. This approach causes problems when the conversion to GMT changes the date. The problem happens when an integration pulls only that date from the field without converting it back to GMT.\nTo preve"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - View current and upcoming staffing in a timeline",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576764",
+          "published": "Fri, 16 Oct 2026 19:08:47 Z",
+          "summary": "The new timeline view augments the experience for team members in Project Operations by giving them visibility into current and upcoming staffing (both task and project level).\nThe feature includes:\n\nWeekly view of task-level assignments.\nWeekly view of project-level bookings.\nClear highlighting of periods without staffing (bench time).\n\nBusiness Value:\nA lack of visibility into current and upcoming project staffing leads to suboptimal planning and inefficient onboarding. This also creates uncer"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Create time entries from assignment and booking views",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576763",
+          "published": "Fri, 16 Oct 2026 19:08:46 Z",
+          "summary": "Team members can now begin their time entry process from their assigned or booked projects and tasks, making their time entries more aligned with staffing and reducing manual effort overall. When you select time entry creation from the new Projects and Tasks view, you're redirected to the time entry grid where your entries are prepopulated based on assigned or booked hours.\nBusiness Value:\nThis feature saves you time by eliminating manual entry. It prepopulates details with your current staffing"
+        },
+        {
+          "title": "Dynamics 365 Finance: Business performance - MCP for ERP Analytics",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576762",
+          "published": "Fri, 16 Oct 2026 19:08:46 Z",
+          "summary": "MCP for Analytics provides AI agents with structured access to ERP analytics data and tools. It ensures agents use the same definitions and models as users.\nKey benefits:\n\nData Access: Gives agents access to ERP analytics data for analysis and insights.\nMetrics and Dimensions: Provides access to key metrics, dimensions, and relationships used in reporting.\nSemantic Model: Exposes the full semantic model to support consistent interpretation of data.\nTool Access: Enables agents to connect with too"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Detect intraday volume spikes with workforce alerts",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576761",
+          "published": "Fri, 16 Oct 2026 19:08:45 Z",
+          "summary": "Supervisors can create volume spike alerts that compare real-time conversation volume with the forecast linked to a shift plan. When volume remains above forecast for the configured number of intervals, selected recipients receive an in-app notification.\nThe capability includes the following features:\n\nAdministrators can enable workforce alerts in Copilot Service admin center by going to Workforce management &gt; Intraday management &gt; Workforce alerts.\nSupervisors can create and manage alerts"
+        },
+        {
+          "title": "Dynamics 365 Sustainability: Capture snapshot‑based data trails",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576760",
+          "published": "Fri, 16 Oct 2026 19:08:44 Z",
+          "summary": "This feature introduces snapshot‑based data trail support that captures a complete, point‑in‑time record for every calculated metric. Each snapshot includes source activity data, applied emission factors (including factor values and GWP versions), reference data, filters, and the calculation logic used. This ensures that aggregates can be reliably traced back to original inputs.\nA new visual data‑lineage view provides an end‑to‑end representation of how data flows from source records through cal"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Unified routing - Handle waiting conversations when queues close or become unstaffed",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576759",
+          "published": "Fri, 16 Oct 2026 19:08:43 Z",
+          "summary": "This capability enhances queue handling by intelligently detecting two key scenarios where conversations would otherwise remain unserved:\n\nQueue transitions to out-of-operating hours: The system continuously monitors active conversations that entered a queue before closing time. If the queue transitions to out-of-operating hours while conversations are still waiting, it automatically applies admin-defined overflow actions. Customers can be guided to leave a voicemail, request a callback, or be t"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Procurement - Manage supplier relationships with Supplier Engagement",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576758",
+          "published": "Fri, 16 Oct 2026 19:08:42 Z",
+          "summary": "The new Supplier Engagement application gives you a Microsoft Power Apps experience that integrates with Dynamics 365 Supply Chain Management and Dynamics 365 Finance. With this app, you can manage both strategic and tactical areas of your supplier relationships. You can schedule appointments, track performance, schedule supplier reviews, and manage prospective suppliers who aren't registered yet.\nThe experience also includes a supplier-facing portal based on Microsoft Power Pages. The new suppl"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Omnichannel customer experiences - Use ML-based sensitive data redaction for human interactions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576756",
+          "published": "Fri, 16 Oct 2026 19:08:40 Z",
+          "summary": "Dynamics 365 Contact Center introduces large language model (LLM)‑based sensitive data redaction for human‑to‑human interactions, allowing administrators to automatically redact PCI data shared during live conversations between customers and customer service representatives.\nThe system uses LLMs to identify sensitive data based on conversational context, not just patterns, across both voice and digital channels. When sensitive data such as a credit card number, PIN, or account number is detected"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Cancel bookings partially from the schedule board",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576743",
+          "published": "Fri, 16 Oct 2026 19:08:40 Z",
+          "summary": "This feature lets you:\n\nView continuous, multiday booking as blocks of booking for the daily/weekly/monthly view set on the schedule board.\nSelect partial booking on the schedule board.\nGet cancel and delete options for complete booking and partial booking.\n\nBusiness Value:\nThe partial booking modification feature lets resource managers cancel specific portions of a resource booking without deleting and recreating it. This reduces manual effort, improves scheduling accuracy, preserves audit hist"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Use the new calendar interface for time entry",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576757",
+          "published": "Fri, 16 Oct 2026 19:08:40 Z",
+          "summary": "The web experience for time entry in Dynamics 365 Project Operations is getting a series of improvements that make time entry faster and more accurate. The improvements give team members better tracking capabilities.\nThese upgrades include:\n\nA new calendar interface to view, create, and change time entries.\nThe ability to track time across different timelines, such as weekly or monthly.\nTighter integration of the work breakdown structure for assigned tasks and projects within the time entry crea"
+        },
+        {
+          "title": "Dynamics 365 Finance and Operations cross-app: Boost productivity with Copilot - Boost agent performance with optimal tool execution paths in Dynamics 365 ERP MCP",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576755",
+          "published": "Fri, 16 Oct 2026 19:08:39 Z",
+          "summary": "With the dynamic tools of the Dynamics 365 ERP MCP server, large language models often have multiple options for tool-calling sequences to perform an operation or retrieve data. The orchestration can select the tool execution sequence and can include more tool calls than are required. This enhancement to the MCP server improves performance and accuracy of the server response by enabling the server to use optimal tool execution sequences to perform operations with a single point of entry for MCP "
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Copilot and AI innovation - Understand forecast accuracy with AI explanations",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576754",
+          "published": "Fri, 16 Oct 2026 19:08:38 Z",
+          "summary": "By combining forecast results with contextual insights, planners can gain a detailed understanding of the key factors influencing each forecast rather than simply viewing the numbers. This increased transparency builds confidence and supports more informed planning decisions.\nKey benefits include:\n\nSee symmetric mean absolute percentage error (SMAPE) values.\nView historical data and forecast results in one place.\nUnderstand forecast drivers through AI-generated explanations.\nGain greater confide"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Store Commerce - Modernize customer detail page for assisted selling in Store Commerce",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576753",
+          "published": "Fri, 16 Oct 2026 19:08:37 Z",
+          "summary": "The Customer Data Platform panel in Store Commerce has been rebuilt using React, replacing the legacy implementation with a modern, responsive layout optimized for both desktop and mobile form factors.\nWhat's new in the modernized CDP panel\n\nMobile-optimized layout: The panel uses a vertical scroll pattern that works naturally on tablets and handheld devices used by store associates on the floor.\nCustomer summary at a glance: Loyalty points, purchase frequency, average spend, and contact details"
+        },
+        {
+          "title": "Microsoft Dataverse: Microsoft 365 collaboration - Discover, build, customize, and extend with management MCP server",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576752",
+          "published": "Fri, 16 Oct 2026 19:08:36 Z",
+          "summary": "The management MCP server is a build surface and registry for agent-ready tools available within a customer's environment. It exposes an addressable endpoint where developers and agents can discover, assemble, and deploy MCP servers made from trusted components including connector actions, tools from other MCP servers, and custom APIs.\nDiscover available tools and servers\n\nFind MCP servers authored, hosted, or certified by Microsoft\nQuery and explore over 1,470 connectors and their individual ac"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Country and regional - Start using the new non-deductible VAT framework in Belgium",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576751",
+          "published": "Fri, 16 Oct 2026 19:08:36 Z",
+          "summary": "Belgian users will experience an improved non-deductible VAT process with the introduction of a new global feature. A preconfigured Non-deductible VAT Type field will be available specifically for Belgium. Previously, users selected a general ledger expense account in the Chart of Accounts and manually entered the partial deduction amount in the % Non-deductible VAT field. With the new approach, users will follow the standard global method, and setup will be managed through the VAT Posting Group"
+        },
+        {
+          "title": "Power Pages: Design studio - Unify Power Pages authorization by merging web role with Dataverse security role",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576750",
+          "published": "Fri, 16 Oct 2026 19:08:35 Z",
+          "summary": "This feature merges Power Pages web roles and site users with Dataverse security roles and system users, creating a unified authorization model.\n\nUser Mapping:\n\nEach Power Pages user is stored in both the System User table and the Contact table.\nThe System Managed User Type column in the User table identifies Power Pages users as C2 User.\n\n\nRole Mapping: Each Power Pages web role is represented in both the Security Role table and the Web Role table.\n\nNo Migration Required: Existing contact and w"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Use the new Time Entry mobile app",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576749",
+          "published": "Fri, 16 Oct 2026 19:08:34 Z",
+          "summary": "Project team members on Lite and resource-based and nonstocked deployments of Project Operations now have a new mobile application based on Microsoft Power Apps. The new mobile app helps them log time, keep track of submitted entries, and view the work assigned to them.\nThe application provides users with the following capabilities:\n\nA view that summarizes all Microsoft Outlook meetings and Microsoft to-do items for the day. Use these meetings and to-do items to log time entries.\nThe ability to "
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Monitor intraday performance against the forecast",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576748",
+          "published": "Fri, 16 Oct 2026 19:08:32 Z",
+          "summary": "The intraday performance report provides supervisors with an interval-level view of performance against the forecast. In Copilot Service workspace, go to Workforce management to access the report.\n\nCompare forecast and actual contact volume and average handle time. Variances appear as values and percentages, making outliers easier to identify.\nCompare forecast, required, and scheduled staffing levels to identify understaffed and overstaffed intervals.\nReview service level, occupancy, and schedul"
+        },
+        {
+          "title": "Dynamics 365 Finance: Business performance - Accelerate planning with quick-start templates",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576747",
+          "published": "Fri, 16 Oct 2026 19:08:32 Z",
+          "summary": "Quick-start planning templates provide a guided, business-first experience for setting up planning in Business performance planning. Instead of selecting technical objects like fact tables, users simply choose a planning area—starting with OPEX, with Revenue, Workforce, and CAPEX to follow.\nWhen a planning area is selected, Business performance planning automatically generates the required data model, including cubes and dimensions, using recommended fact tables from Business performance analyti"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Unified routing - Assign conversation to expert who engaged with the customer previously",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576746",
+          "published": "Fri, 16 Oct 2026 19:08:30 Z",
+          "summary": "Assign to a previously engaged or preferred expert leverages historical interaction context, queue membership alignment, and expert availability, to ensure customers are reconnected with experts who already understand their issue. When the previous or preferred expert is unavailable, assignments seamlessly fall back to the next best qualified expert, preserving service levels and reliability. This capability reduces repeat explanations, accelerates resolution times, and improves customer satisfa"
+        },
+        {
+          "title": "Dynamics 365 Sales: Seller experiences - Streamline Quick Campaigns for confident, one-time bulk email outreach",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576745",
+          "published": "Fri, 16 Oct 2026 19:08:29 Z",
+          "summary": "Quick Campaigns support multiple bulk activity types (email, tasks, appointments, phone calls). This release focuses on improving the end-to-end experience for bulk email creation, with foundational improvements that benefit the overall Quick Campaigns flow.\nKey capabilities include:\n\nStreamlined quick campaign flow: The existing multistep wizard is simplified for Quick Campaigns creation, including one-time bulk email sends. Sellers can create, review, and send bulk emails with fewer steps and "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Manage exchange rate variances on cash advances",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576744",
+          "published": "Fri, 16 Oct 2026 19:08:28 Z",
+          "summary": "When employees receive cash advances in one currency and settle expenses in another (or on different dates), foreign exchange rate differences arise. This feature detects, calculates, and posts realized exchange rate variances between the advance issue rate and the settlement or report rate, ensuring accurate reimbursement amounts, GL impact, and auditability without manual adjustments.\nThis feature ensures that:\n\nCash advances are based on transaction currency, not just accounting currency.\nYou"
+        },
+        {
+          "title": "Dynamics 365 Sustainability: Configure granular reporting‑period locking",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576742",
+          "published": "Fri, 16 Oct 2026 19:08:27 Z",
+          "summary": "This feature provides granular and configurable reporting‑period locking within sustainability data management. Customers can independently lock data ingestion, calculations, and external reporting, enabling scenarios such as restatements or recalculations in closed periods without requiring a full unlock of all data and processes. The locking model allows organizations to define how locks apply across organizational units, facilities, scopes, and categories, including Scope 1, Scope 2, and Scop"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Enable import of customer payment remittance advice for processing and settlement",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576741",
+          "published": "Fri, 16 Oct 2026 19:08:26 Z",
+          "summary": "This feature includes the following functionalities:\n\nAutomated customer payment and remittance advice import, scanning, and mapping using AI processing in the integrated Power Platform environment.\nMatching remittance advice data with data in Dynamics 365 Finance.\nSeamless integration of remittance advice details into Dynamics 365 Finance customer payment journals and the settlement process.\nReports that provide insights into payment and settlement statuses, outstanding invoices, and overall ca"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Delay settlement from journal posting",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576740",
+          "published": "Fri, 16 Oct 2026 19:08:25 Z",
+          "summary": "The Delay settlement from journal posting feature addresses a critical pain point in payment processing. Traditionally, payment journal posting and settlement are tightly coupled, meaning any settlement error blocks the entire payment posting. This can cause operational delays, increased manual intervention, and business risk.\nWith this feature:\n\nPayments are no longer blocked by settlement errors. Valid payments post successfully, even if settlement fails.\nOperational efficiency improves by red"
+        },
+        {
+          "title": "Dynamics 365 Sales: Opportunity acceleration - Enable custom source onboarding in Recommended Action",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576739",
+          "published": "Fri, 16 Oct 2026 19:08:25 Z",
+          "summary": "This feature enables admins to register custom external insight sources through a step-by-step guided onboarding wizard. Once onboarded, the custom source appears alongside out-of-the-box agents in the Recommended Action Sources list and is governed by the same enable/disable controls. Actions from custom sources are normalized into action cards, ranked alongside built-in actions, and follow consistent UI patterns, execution flows, and prioritization models, ensuring a seamless and unified selle"
+        },
+        {
+          "title": "Dynamics 365 Sustainability: Use up‑to‑date regulatory templates",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576738",
+          "published": "Fri, 16 Oct 2026 19:08:24 Z",
+          "summary": "This feature introduces updated regulatory standard and framework templates, refreshed on a bimonthly cadence. The updates include revised template structures, concepts, and mappings that reflect the latest changes, helping ensure assessments remain aligned with current disclosure expectations.\nAfter the updated regulatory templates are installed from the Power Platform admin center, customers can use these refreshed templates as a reliable starting point when configuring assessments and externa"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Support subscription billing for Project Operations",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576737",
+          "published": "Fri, 16 Oct 2026 19:08:22 Z",
+          "summary": "Core capabilities include:\n\nRecurring billing: Create and manage subscription contracts with flexible billing schedules (monthly, quarterly, annually).\nAutomated invoice generation: Automatically create invoices based on predefined schedules; supports batch processing.\nFlexible pricing models: Standard, tiered-based pricing; consolidate multiple billing lines into one invoice.\nIntegration: Seamless flow between CE and finance and operations for invoicing and accounting; supports Dataverse-based "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Improve NTE reliability and validation coverage",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576736",
+          "published": "Fri, 16 Oct 2026 19:08:21 Z",
+          "summary": "Core capabilities include:\n\nExtends NTE validation beyond time entries to include expense, material, and fixed-price components.\nEnhances the Invoice Confirmation Service to block confirmation when Total Billed + Unbilled Committed &gt; NTE Amount.\nFixes bugs where NTE status fails to update on approval records due to custom plugin conflicts, ensuring deterministic results.\n\nBusiness Value:\nYou get consistent control over Not-To-Exceed (NTE) limits across every billable type, so you avoid over-b"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Enable support for KSeF UUID in vendor payment journals (Poland)",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576732",
+          "published": "Fri, 16 Oct 2026 19:08:19 Z",
+          "summary": "This feature extends the vendor payment journal framework in Dynamics 365 Finance to capture, store, validate, and process KSeF UUIDs associated with vendor invoices issued through Poland’s National e-Invoicing System.\nIt ensures that vendor payments can be linked explicitly to KSeF-registered invoices, supporting compliance, traceability, and downstream reconciliation processes.\nBusiness Value:\nThis feature enables organizations operating in Poland to capture and process KSeF UUIDs directly wit"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Define the accounting date at invoice level",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576735",
+          "published": "Fri, 16 Oct 2026 19:08:19 Z",
+          "summary": "This feature:\n\nIntroduces an accounting date field on the invoice that you can define.\nSets a user-defined accounting date on the billed sales actuals, which is passed to finance and operations apps so the transaction is aligned to the same date.\nLets the accounting date differ from the transaction or document date to give you control over period alignment.\nLets the system fall back to the invoice confirmation date if the accounting date is not defined (existing default behavior).\n\nBusiness Valu"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable on-account category in Dataverse",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576734",
+          "published": "Fri, 16 Oct 2026 19:08:19 Z",
+          "summary": "This feature is applicable only for Project Operations integrated with ERP environments.\nCore capabilities include:\n\nExpose Transaction Category field: Add the Transaction Category field to Retainer and Milestone entities in Microsoft Dataverse.\nData synchronization:\n\nSync selected categories from Dataverse to finance and operations apps via Data Integrator (DW maps).\nAlign with project category in finance and operations apps for consistency.\n\n\n\nThis feature is enabled using a feature flag.\nBusi"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable Change Order Management",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576733",
+          "published": "Fri, 16 Oct 2026 19:08:18 Z",
+          "summary": "This capability provides a structured, auditable process for creating, evaluating, and approving change orders on active project contracts.\nYou can capture updates to scope, pricing, resources, or timelines and apply those approved changes directly to the contract with full traceability. The system records the rationale, financial impact, and approval history for each change order, supports version comparison between original and updated contract details, and updates downstream elements such as "
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable purchase orders with item requirements",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576731",
+          "published": "Fri, 16 Oct 2026 19:08:16 Z",
+          "summary": "Activate this feature by turning on the Enable purchase orders and item reservations for stocked items in Project Operations integrated with ERP feature within the Feature management workspace on the finance and operations architecture. When you enable this feature, you get the following capabilities:\n\nPurchase order creation: Project managers can create purchase orders directly from item requirements. This capability enables procurement of stocked materials that align with project needs.\nOption"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Speed up time phasing of estimates",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576730",
+          "published": "Fri, 16 Oct 2026 19:08:14 Z",
+          "summary": "This update enhances the Time Phasing of Estimates experience by delivering significant performance improvements across loading, recalculation, and user interactions. You can now work more efficiently with large estimates, complex distributions, and multiline quotes without experiencing delays. These improvements ensure smoother navigation when adjusting phased values, faster response times when recalculating totals, and a more reliable experience when viewing historical and future estimate peri"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Improve the project quote experience",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576642",
+          "published": "Fri, 16 Oct 2026 17:39:56 Z",
+          "summary": "The improvements to project quote provide usability enhancements designed to modernize and streamline the experience. The goal is to reduce unnecessary complexity, improve clarity, and enable users to work more efficiently when creating and managing quotes.\nThe updated interface features an optimized layout and improved use of screen space, providing a cleaner, more efficient workspace for viewing and editing both project and product lines. You can access more relevant information at once with l"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Warehouse management - Integrate the Warehouse management module with external labor management systems",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576641",
+          "published": "Fri, 16 Oct 2026 17:39:55 Z",
+          "summary": "This feature provides a standard framework for integrating the Warehouse management module in Dynamics 365 Supply Chain Management with external labor management systems. With this framework, you can connect warehouse execution data to a third-party LMS. This connection gives you advanced capabilities for labor planning, scheduling, and performance tracking. The integration supports warehouse execution with or without warehouse management processes. It also supports warehouse-only mode.\nLabor ma"
+        },
+        {
+          "title": "Dynamics 365 Sales: Lead management - Prioritize your hottest leads first with next best actions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576640",
+          "published": "Fri, 16 Oct 2026 17:39:54 Z",
+          "summary": "Get the next best actions for leads right on your Dynamics 365 leads grid, and navigate to see Sales Qualification Agent's research and pregenerated email suggestions. The actions show a preview of the lead, a summary of why it's a hot or high-intent lead, and the topic that the lead is interested in.\nBusiness Value:\nSales Qualification Agent meticulously researches every lead and identifies which ones are hot, warm or cold. When configured to autonomously engage, it identifies the ones that exp"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Enhancements to Invoice capture",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576639",
+          "published": "Fri, 16 Oct 2026 17:39:52 Z",
+          "summary": "This release consolidates multiple Invoice capture enhancements into a single, cohesive capability update with a public preview in 10.0.49. Updates include:\n\nAI‑based invoice header level derivation: Improves matching of invoice header level to purchase orders and procurement categories using vendor data. Continuous learning applies user corrections to future invoices, increasing touchless processing and reducing repeated manual effort.\n\nSide‑by‑side invoice and purchase order view: Allows finan"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Enhancements to subscription billing",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576638",
+          "published": "Fri, 16 Oct 2026 17:39:51 Z",
+          "summary": "Performance improvements for subscription billing unbilled revenue\nPerformance is a common request within subscription billing, and we have focused on that request. This feature enhances the subscription billing unbilled revenue mass processing by introducing multithreaded execution. Multithreaded processing reduces batch execution time, minimizes system contention, and improves reliability during peak billing and close cycles. This enables customers to process large volumes of unbilled revenue "
+        },
+        {
+          "title": "Dynamics 365 Sales: Seller experiences - Clone and share Sales Development agent configuration across teams",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576637",
+          "published": "Fri, 16 Oct 2026 17:39:50 Z",
+          "summary": "As a sales leader, you can configure a Sales Development agent once, then share or clone its configuration across your organization. Distribute the agent’s playbook, guidelines, guardrails, and settings to other business units to provide a consistent experience across sales teams.\nThe feature supports these capabilities:\n\nExport a configuration: In Teams, ask the source agent to package its configuration into a file. For example, enter Export your configuration.\nImport a configuration: Attach th"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Copilot and AI innovation - Use agentic simulations to evaluate contact center setup",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576636",
+          "published": "Fri, 16 Oct 2026 17:39:48 Z",
+          "summary": "Agentic simulations are an AI-driven capability of Service Operations Agent that enable organizations to evaluate how their contact center behaves under realistic customer conditions before those conditions occur in production.\nAdministrators define simulation scenarios using natural-language prompts. Agentic simulations then generate realistic synthetic conversations, runs them end-to-end through the configured contact center, and calculates the contact center KPIs.\nWhat problems it helps solve"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Preview automatic bank reconciliation matching results",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576635",
+          "published": "Fri, 16 Oct 2026 17:39:47 Z",
+          "summary": "This feature includes the following capabilities:\n\nMatching preview with an option to approve or reject bank reconciliation matching rule results.\nAbility to select matching rules for manual review before posting results during the reconciliation process.\nPending review screen for users to investigate matching results.\n\nBusiness Value:\nThe Preview automatic bank reconciliation matching results feature enables users to preview matching results during an automatic bank reconciliation matching proc"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Administrator experiences - Use industry templates to set up autonomous contact centers",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576634",
+          "published": "Fri, 16 Oct 2026 17:39:44 Z",
+          "summary": "This release introduces industry-specific templates that simplify the creation and deployment of autonomous contact centers. Organizations can start with a preconfigured template in Copilot Service admin center &gt; Service Operations Agent and deploy an autonomous customer service experience in just a few clicks, significantly reducing the setup effort required to design agents, workflows, and service journeys from the ground up.\nThe templates are built around common industry scenarios and best"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Create multiple budget drafts for what-if analysis",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576633",
+          "published": "Fri, 16 Oct 2026 17:39:42 Z",
+          "summary": "How to enable the feature\nThis feature is applicable to Project Operations Core and Project Operations Integrated with ERP. In feature management, enable the feature Enable Multiple Project Budget Drafts.\nProblem\nProject managers were limited to maintaining a single draft version of a budget that had to be submitted for approval.\nIn real-world planning scenarios, project managers often need to evaluate multiple budget alternatives based on different assumptions such as resource mix, pricing, tim"
         },
         {
           "title": "Microsoft Teams: Pinch to zoom in on shared screens",
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576193",
           "published": "Thu, 15 Oct 2026 22:47:30 Z",
           "summary": "Get a closer look at shared content in Teams calls and meetings with pinch-to-zoom using your touchpad. Quickly zoom in to make small text and detailed visuals easier to see, then zoom back out for the full view. Existing zoom controls remain available.GA date: November CY2026"
+        },
+        {
+          "title": "OneDrive: PDF annotation for sensitivity-label protected PDFs in OneDrive/SharePoint web viewer",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576276",
+          "published": "Thu, 15 Oct 2026 22:47:30 Z",
+          "summary": "We're enabling PDF annotation for sensitivity-label protected PDFs in OneDrive and SharePoint on the web. With this update, users who have the appropriate usage rights can annotate these protected PDFs in place in their browser while preserving the file's sensitivity label, encryption, and usage rights when changes are saved.GA date: January CY2027"
         },
         {
           "title": "Dynamics 365 Project Operations: Full-screen mode on task grid",
@@ -154,66 +1142,6 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570865",
           "published": "Thu, 15 Oct 2026 22:47:30 Z",
           "summary": "Prompt columns can now generate AI values for records that already exist in your table, not just new or updated ones. Makers can choose to apply a prompt to existing records in bulk, optionally filtered to just the rows they need, so historical data gets the same AI-generated insights as incoming data, without touching each record one at a time.GA date: November CY2026"
-        },
-        {
-          "title": "Microsoft Teams: Near-real-time detection of malicious QR codes in messages",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576198",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Microsoft Teams will introduce near-real-time detection of malicious QR codes shared in messages. By analyzing destinations embedded in QR codes, Teams can identify potential phishing and fraud threats and apply additional protections to malicious content, extending existing URL protection to QR-based attacks.GA date: November CY2026"
-        },
-        {
-          "title": "Microsoft Teams: Loop meeting notes stored in the meeting organizer's OneDrive",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576194",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "For non-channel Microsoft Teams meetings, collaborative meeting notes, including Loop-powered meeting notes and Facilitator notes, will be stored in the meeting organizer's OneDrive for Business instead of the OneDrive of the person who starts the notes. This update provides more consistent ownership and management of meeting content while preserving the existing note-taking and collaboration experience for meeting participants.GA date: November CY2026"
-        },
-        {
-          "title": "Microsoft Teams: Admin center - Intelligent insights for meeting quality",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574108",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Gain proactive visibility into meeting quality across your organization with AI-powered insights in the Teams admin center that identify emerging patterns, highlight impacted users and locations, and surface likely causes with recommended actions. This helps IT administrators detect and address issues earlier, improve meeting quality, and stay ahead of potential disruptions.GA date: November CY2026"
-        },
-        {
-          "title": "Microsoft Teams: PowerPoint Live support for webinars and structured meetings on Teams Rooms on Android",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576195",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Participants joining webinars and structured meetings from Teams Rooms on Android can view and interact with PowerPoint Live presentations. This provides greater flexibility and accessibility while keeping room participants aligned with the active presentation.GA date: November CY2026"
-        },
-        {
-          "title": "Microsoft Teams: Phishing Detection in Teams Messaging",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575288",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Microsoft Teams is introducing AI-powered phishing detection that uses conversation context to identify phishing and social engineering in higher-risk messaging scenarios, primarily external first-contact chats. Additional protection may apply in certain regions or scenarios. The capability is used only for security protection, and users may see warnings when suspicious activity is detected.GA date: November CY2026"
-        },
-        {
-          "title": "Microsoft Copilot (Microsoft 365): Copilot response personalization - Memory citations",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574111",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "When Copilot Chat uses memory to personalize a response, users can now see what informed the answer. Select Sources beneath the response, then open the Personalization tab to view the custom instructions, saved memories, memories learned from conversations, and past chats that shaped the response. From there, users can return to a cited chat to pick up where they left off or review and delete saved memories. Memory citations appear only when memory is turned on.GA date: October CY2026"
-        },
-        {
-          "title": "Dynamics 365 Contact Center: Quality evaluation - One-Time Evaluation Frequency",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573266",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Quality evaluation plans now support a Once frequency type for both case evaluations and conversation evaluations. When creating an evaluation plan, users can select Once from the Frequency type dropdown to run the evaluation a single time instead of on a recurring schedule or trigger-based cadence.\nThis option is useful for one-time evaluation runs where ongoing recurrence is not needed. Once selected, the plan is configured to execute only one time based on the specified plan start date.GA dat"
-        },
-        {
-          "title": "Planner: Planner Agent in Copilot V2 Improvements",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573168",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Planner Agent brings Planner’s intelligent work management directly into Copilot Chat, enabling users to create, update, and manage personal tasks and shared basic plans without switching context. Integrated across Microsoft 365, it provides insights into priorities, deadlines, and at-risk work, along with interactive task cards to help users stay organized and keep work moving.\nBuilding on the initial launch, planned improvements include:\n\nImproved context handling and support for larger plans."
-        },
-        {
-          "title": "Microsoft Purview: Adaptive Scope evaluation control with recipient and site owner lifecycle status",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572676",
-          "published": "Wed, 14 Oct 2026 23:01:02 Z",
-          "summary": "Microsoft Purview Adaptive Scopes will provide administrators with explicit control over lifecycle-state evaluation for recipients and site owners, helping ensure policy targeting and scope membership remain aligned with organizational requirements.GA date: January CY2027"
-        },
-        {
-          "title": "Power Pages: Design studio - Enhance OpenID Connect with encrypted token support",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576395",
-          "published": "Wed, 14 Oct 2026 22:53:09 Z",
-          "summary": "This feature adds support for token-level encryption during authentication, allowing Power Pages to accept encrypted ID tokens in addition to signed tokens. It ensures secure claim transmission, improves compatibility with advanced identity providers, and strengthens overall authentication security without changing existing sign-in flows.\nBusiness Value:\nYou can integrate with more secure identity providers to meet stricter security and compliance requirements. This helps you expand into high-tr"
         }
       ]
     },
@@ -221,10 +1149,10 @@
       "name": "My Business Wire News",
       "items": [
         {
-          "title": "FourNet Expands £65m Customer Experience and AI Business With SVL Acquisition",
-          "link": "http://www.businesswire.com/news/home/20261014521855/en/FourNet-Expands-%C2%A365m-Customer-Experience-and-AI-Business-With-SVL-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
-          "published": "Thu, 15 Oct 2026 06:00:00 UT",
-          "summary": "MANCHESTER, England--(BUSINESS WIRE)--FourNet, the customer experience and AI transformation partner, has acquired SVL Business Solutions, creating a combined business with more than 230 people, over 450 customers and revenues of around £65m. The deal brings together two businesses that have worked alongside each other for nearly a decade. Glasgow-headquartered SVL has a highly experienced team of 41 employees and specialises in contact centre and customer experience transformation. The acquisi"
+          "title": "8x8, Inc. Schedules Second Quarter Fiscal 2027 Earnings Release and Conference Call",
+          "link": "http://www.businesswire.com/news/home/20261016258621/en/8x8-Inc.-Schedules-Second-Quarter-Fiscal-2027-Earnings-Release-and-Conference-Call/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
+          "published": "Fri, 16 Oct 2026 20:05:00 UT",
+          "summary": "CAMPBELL, Calif.--(BUSINESS WIRE)--8x8, Inc. (NASDAQ: EGHT) schedules second quarter fiscal year 2027 earnings release and conference call."
         }
       ]
     },
@@ -246,6 +1174,12 @@
     {
       "name": "UC Today",
       "items": [
+        {
+          "title": "Workday Rising Verdict: The Latest Promises Tested",
+          "link": "https://uctoday.com/workday-rising-verdict-the-latest-promises-tested",
+          "published": "Sat, 17 Oct 2026 08:01:00 GMT",
+          "summary": "Workday Rising 2026 shows why HR buyers should watch agentic AI closely, as Sana, Work Intelligence, Agent Harness and Data Cloud reach GA."
+        },
         {
           "title": "This Week: Apple Puts AI at the Heart of Shared Spaces",
           "link": "https://uctoday.com/this-week-apple-puts-ai-at-the-heart-of-shared-spaces",
@@ -281,18 +1215,19 @@
           "link": "https://uctoday.com/webexone-2026-why-cisco-is-putting-ai-agents-to-work",
           "published": "Thu, 15 Oct 2026 09:48:24 GMT",
           "summary": "Cisco's Snorre Kjesbu explains how AI agents tie together the new Webex, the contact centre and devices, and why trust is built in"
-        },
-        {
-          "title": "Gammaverse 2026: The Channel Shift Beyond Legacy Revenue",
-          "link": "https://uctoday.com/gammaverse-2026-the-channel-shift-beyond-legacy-revenue-gamma-cs-0220",
-          "published": "Thu, 15 Oct 2026 09:31:00 GMT",
-          "summary": "Gamma’s Gammaverse 2026 shows why partner growth now hinges on Sky Business Wholesale, FibreXchange, Webex Wholesale, AI, CX and security, UC Today."
         }
       ]
     },
     {
       "name": "Webex Blog",
-      "items": []
+      "items": [
+        {
+          "title": "Announcing Media Intelligence",
+          "link": "https://blog.webex.com/collaboration/announcing-media-intelligence/",
+          "published": "Fri, 16 Oct 2026 22:28:40 +0000",
+          "summary": "Learn how Webex Media Intelligence helps developers stream live audio and video into AI, analytics, and workflow applications with RTMS.\nThe post Announcing Media Intelligence appeared first on Webex Blog."
+        }
+      ]
     },
     {
       "name": "Zoom Video Communications, Inc.",
@@ -305,6 +1240,24 @@
     {
       "name": "CMSWire.com - All News",
       "items": [
+        {
+          "title": "Your Marketing Dashboard Is Measuring Traffic Google Already Took",
+          "link": "https://www.cmswire.com/digital-experience/your-marketing-dashboard-is-measuring-traffic-google-already-took/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Fri, 16 Oct 2026 14:51:48 -0500",
+          "summary": "Google answers the question before anyone clicks. Marketers still leading with traffic and open rates are reporting on a shrinking slice of the journey.\nContinue reading..."
+        },
+        {
+          "title": "How Should Marketers Rebuild Their Work Identity as Expertise Gets Cheaper?",
+          "link": "https://www.cmswire.com/digital-marketing/how-should-marketers-rebuild-their-work-identity-as-expertise-gets-cheaper/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Fri, 16 Oct 2026 14:08:53 -0500",
+          "summary": "Knowing the most no longer pays. Four mindsets from investors, navigators, statisticians and ecologists show marketers how to rebuild before their role changes.\nContinue reading..."
+        },
+        {
+          "title": "Digital Asset Management Was Plumbing. It's Now a System of Influence.",
+          "link": "https://www.cmswire.com/digital-asset-management/digital-asset-management-was-plumbing-its-now-a-system-of-influence/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Fri, 16 Oct 2026 13:38:47 -0500",
+          "summary": "Nobody put DAM in a keynote. AI now reads its metadata to judge whether your brand deserves a citation.\nContinue reading..."
+        },
         {
           "title": "How Do Multi-Location Brands Keep Local Chatbots From Going Rogue?",
           "link": "https://www.cmswire.com/customer-experience/how-do-multi-location-brands-keep-local-chatbots-from-going-rogue/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
@@ -352,36 +1305,6 @@
           "link": "https://www.cmswire.com/contact-center/the-cloud-based-call-center-boom-features-benefits-and-top-solutions/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Thu, 15 Oct 2026 11:30:00 -0500",
           "summary": "A low per-agent price can hide costly agent effort. Evaluate cloud call center software on integration depth, AI add-ons and handoff design instead.\nContinue reading..."
-        },
-        {
-          "title": "Kustomer Adds AI QA & Conversation Intelligence to CX Platform",
-          "link": "https://www.cmswire.com/customer-experience/kustomer-adds-ai-qa-conversation-intelligence-to-cx-platform/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 18:28:02 -0500",
-          "summary": "The new tools score every customer conversation automatically, replacing sample-based QA with full-coverage AI analysis.\nContinue reading..."
-        },
-        {
-          "title": "From Single-Player to Multiplayer: Building a Marketing Operating System",
-          "link": "https://www.cmswire.com/digital-marketing/from-single-player-to-multiplayer-building-a-marketing-operating-system/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 18:19:13 -0500",
-          "summary": "Your AI briefing knows what changed. It has no idea what you did about it. Durable tasks and a promotion path give marketing teams the missing layer.\nContinue reading..."
-        },
-        {
-          "title": "The Rising Floor: Who Sets the Ceiling When Vendors Standardize CX?",
-          "link": "https://www.cmswire.com/digital-experience/the-rising-floor-who-sets-the-ceiling-when-vendors-standardize-cx/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 17:16:59 -0500",
-          "summary": "Your vendor’s defaults are running your CX, and courts now hold you liable for them. Here’s what to decide before planning season locks in the middle.\nContinue reading..."
-        },
-        {
-          "title": "Who Protects the Account When Autonomous Service Agents Make Commitments?",
-          "link": "https://www.cmswire.com/customer-experience/who-protects-the-account-when-autonomous-service-agents-make-commitments/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 16:47:18 -0500",
-          "summary": "An AI agent that promises a refund or a timeline speaks for your company. If governance never defines what it can commit to without sign-off, you own the risk.\nContinue reading..."
-        },
-        {
-          "title": "Can Starbucks' Bet on Baristas Rewrite the Customer Experience Playbook?",
-          "link": "https://www.cmswire.com/digital-marketing/can-starbucks-bet-on-baristas-rewrite-the-customer-experience-playbook/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Wed, 14 Oct 2026 15:01:46 -0500",
-          "summary": "Starbucks stopped buying visits with discounts and started funding baristas. Here is what that shift means for marketers chasing loyalty.\nContinue reading..."
         }
       ]
     },
@@ -424,7 +1347,7 @@
         {
           "title": "As Albertsons embarks on a turnaround, what role will CX play? - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbU9IQzRlTm5sUjAteEtOOFpXTTRibWdxd3ZXYXlydHBJOXVPOVhHVEd1MEtZcmxJTFZnQ1JLUVZjbE13MF9OdHhlRUdTWDBVdUdNbDR1YXpWcThvNUtpRXBUdjI1dzB6bHlINlhRU1NleWxHN3RTZG1YTVJ4Y0tzR0kwN29ka2VSNjc4TVNRalB2dTRlTDZJYl80ZkJpU3h3bWtnV21raw?oc=5",
-          "published": "Fri, 16 Oct 2026 15:00:00 GMT",
+          "published": "Fri, 16 Oct 2026 17:44:04 GMT",
           "summary": "As Albertsons embarks on a turnaround, what role will CX play?&nbsp;&nbsp;CX Dive"
         },
         {
@@ -446,40 +1369,10 @@
           "summary": "Can Enterprises Trust AI to Do the Work, Not Just the Demo?&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "Why Resolution Is No Longer Enough for Customer Experience Leaders - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVTlTbjFkTnJrRkZzd3M3UnVuT2pNcG1nS0lkMXFsZGd6RnEyWjMtTEZLSmZoTUpXOF9ZZllPV0JwQThzMjNiNUVHMjlVMTY5YjRIVFMwSDRsNTNRZkNIOW9kZ1VEY1U5NHdZQ1lWSXdlLXFDYzZadFF2Vm53WHZsMHloUC1SVVh5U1ktOU0wUHhyYkxzN0d0TjQzOXRJQ2s?oc=5",
-          "published": "Thu, 15 Oct 2026 12:32:12 GMT",
-          "summary": "Why Resolution Is No Longer Enough for Customer Experience Leaders&nbsp;&nbsp;CX Today"
-        },
-        {
           "title": "TELUS Digital Partners With Parloa to Enhance AI Customer Experience - MarTech Cube",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2Z0WnJwRVpMUnU3V05LYXNIOUFEdS1sOWk4SlVjQld6ZTlWeDIwN0VzanBDMF9kTU5DMjJnQk5PX1Q3a2RNWjh3empkVkFEWmhKVWtWeU5UWWYtR1JXS29JR0dPZnBYOWFkVXN3c2VFNU5hY2xrR1pvR2xzYTd4M1QwWDN6VjI1MC1GaGJadW92VW1ELUVKQ0JGUXFjQQ?oc=5",
           "published": "Thu, 15 Oct 2026 10:34:52 GMT",
           "summary": "TELUS Digital Partners With Parloa to Enhance AI Customer Experience&nbsp;&nbsp;MarTech Cube"
-        },
-        {
-          "title": "Why Fragmented Retail Media Data Damages Customer Intelligence - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeklXM19OMXB1R2tIU1NXTzhRMkRUc2dCYV9XZmlhWFprelhOaGVsanNJdHRQbjlMSHEySnR5ckZTNjI1WWUyUkY1MHNPbjktLVdPb2J1MW85bDJZTklaU0JRZzBUa01oWU96Tm9BVDR4OGttZWMxNUxobjFUNlFpYjlqRVdSams5S1E?oc=5",
-          "published": "Thu, 15 Oct 2026 08:01:00 GMT",
-          "summary": "Why Fragmented Retail Media Data Damages Customer Intelligence&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "Kustomer Scores Every Conversation With AI QA - CMSWire",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHNTanV2Sjk0VjVJdHFTS1BpX1F4ay0zdUF5ZUxCMW9Rb1o4bnUyLThfQ1JTX3BlNWp2VjVJNWJZc1hGY2VocDhLX3VwT2RjZlZ2aFp0V0s5QUJXQ2tqemNkSE5VOVVlWmdwdURMaDZIMzdZdjJHTVRPNnBFY1V0bjdKRm1XRW9rUW1fM3I5c29sa05TQUI1aWF0SWxTeWczaW55aFdVX24?oc=5",
-          "published": "Wed, 14 Oct 2026 22:29:14 GMT",
-          "summary": "Kustomer Scores Every Conversation With AI QA&nbsp;&nbsp;CMSWire"
-        },
-        {
-          "title": "Target’s operations app updates let associates spend more time with customers - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFQ2cFVPMGdkUTFNWGRreFF0UFZnZHc2WUVNa3YyZlc0b1Z3UHl6TTQxdW9aalpRVlJRbm1Ud3FHZmttZUlYTVdDMjhxMDZpN1RiaWgwV1VGTWRBQWJpckt4OEdHaWFxWGVDc0gyU3hMYVhfU29hU1NCb1NiX1JQM2RHZXhtMzliV01YLW0wTXpDUE90NkU1bDNZeE1TM1FZZTNLQ0tPQ0RpVUcwSm13dnJPN2dfNXFfeEJrVVp2UFBFZUtr?oc=5",
-          "published": "Wed, 14 Oct 2026 20:09:34 GMT",
-          "summary": "Target’s operations app updates let associates spend more time with customers&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "Level AI Appoints Cardinal Health SVP Shane Abeyratne to CX Advisory Board - citybiz",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzJEbU5iS3ExWGpYYWstTnI5VnhYRVFDQTdCNUpDbUxKcndUcXVWMFh2WDJlaGE0X21MNVY1ZHdGN2dZSGZ0S0szZWNGS0ZyWEYtWUVQQWlIYnlocTBqWTBRbGNLV3dpa0ZFR295LVkzQVJBVlhDRF9PdWpMc2Zpdl82UnhyVW8tMVE3UGRWb2d5YlJkMkJ0VGdfNGVqNEgyZXJYZnBwS01UTVQzZXNqSkozdw?oc=5",
-          "published": "Wed, 14 Oct 2026 19:18:15 GMT",
-          "summary": "Level AI Appoints Cardinal Health SVP Shane Abeyratne to CX Advisory Board&nbsp;&nbsp;citybiz"
         }
       ]
     },
@@ -487,28 +1380,34 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
-          "title": "Call Center CRM Systems & CRM Integration Services - AnswerNet",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fVDMwQXpFUHFKM0ZIYk5laTZySE5lMUgwN3ZnZWpRbHh6cThxZ3RmM0Nlak5tMWJVbzI5ZWo0YlF5aDdMR1M5OUJheG5qaFJEVGV4cXF0WkNaSzZpZVVzYUdqOFozdEFuOW1wRVNrMXY3NzdPdWd3Ulkyblk2UQ?oc=5",
-          "published": "Fri, 16 Oct 2026 09:57:37 GMT",
-          "summary": "Call Center CRM Systems & CRM Integration Services&nbsp;&nbsp;AnswerNet"
+          "title": "Job Application for Customer Experience Associate at Natera - Greenhouse",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RWTBVTktJYy1oYXl6ZnBPUjRoUUhTQ3k3RnVyeFdaWnhINDFjV0tBWXp3b0diYTBGenhtcDBkd2FUajFMSzlSMjVFZkZpdldzdm1aZTcxanFITVNXMV9DcHlyTmtVUQ?oc=5",
+          "published": "Fri, 16 Oct 2026 23:56:33 GMT",
+          "summary": "Job Application for Customer Experience Associate at Natera&nbsp;&nbsp;Greenhouse"
         },
         {
-          "title": "CRM Integration - CRM Contact Centre Software - CRM Software Integration - Five9",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEhlS29lYnhTMVNzeWZGMmEwNk5yTTdTRnUtLU1QZGFjdDFfcTlaY0x1OS1MVDVtWjAxZlFnMHRlTFpiZkV1cFdHMGFoTzhPQ1FpOElsVEVxUGI0ZS1Xb29SdFZmXzMxc3hMY2FnR2h3WDVPS2czVXRHZVpON3NXSC1wMi01Z1k?oc=5",
-          "published": "Fri, 16 Oct 2026 06:00:24 GMT",
-          "summary": "CRM Integration - CRM Contact Centre Software - CRM Software Integration&nbsp;&nbsp;Five9"
+          "title": "ServiceNow Sr Manager, Product Marketing - CRM - SmartRecruiters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0lOZDBhajF5RjBncHdpb2pWbU1RV0JrVXViZDdTSnAyQVRBaU5meW1wR2tKU3UybG5BclNBWXRLaFZZVUltaVJlT3FoS21udUt1aVRCZldCUjRCdWhtVTdVQTVYVlUxRWtEWTNncGdxbDMxRVI4WjVYM0d6VUEwcUtnUC02TFB5aFU0WjJhbFR0b0U4dEdz?oc=5",
+          "published": "Fri, 16 Oct 2026 20:33:08 GMT",
+          "summary": "ServiceNow Sr Manager, Product Marketing - CRM&nbsp;&nbsp;SmartRecruiters"
         },
         {
-          "title": "Representative, Support Center II - Remote - Molina Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkdtWDlQa0FJMVg2emJVMEEzeDdCeXVXZzJlZ1l6SGdtV2VSMWVCaGVJeVg4T2I1dVZFUXQ1WEw3LUhaOXBnSDE1a2dXbnFsNXRPVTRtaGRWNFRFemhBV3VuSTJCS1I1MHJCTXhXM241U0RFbW5TMDFnQnJSSlFtaW5pLUdtMkRTX21XUW5rcmlJcm9JZF9ZT052UGNHSXRiU0pQRkRlanJkeVlGZ1B3bTZKVQ?oc=5",
-          "published": "Thu, 15 Oct 2026 22:33:28 GMT",
-          "summary": "Representative, Support Center II - Remote&nbsp;&nbsp;Molina Healthcare"
+          "title": "Job Application for Customer Service Representative + Accounting Assistant at Toradex - Greenhouse",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZdVdudHlvSVpldHBDNTJkWTBVSWNSNHE1eDBhdGt0Q3I2OUI0cHh4em00bDE3YmhfekF2ZU56RXZaZUx3ZnB1dS1JMDRiaU1ZaXB5NmhTV005YzJ4UWxoay01WHdTc0E?oc=5",
+          "published": "Fri, 16 Oct 2026 12:30:51 GMT",
+          "summary": "Job Application for Customer Service Representative + Accounting Assistant at Toradex&nbsp;&nbsp;Greenhouse"
         },
         {
-          "title": "Experience Manager-Data Centers & AI Factories - Siemens",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUlZRVDcxbmZVa0NmcTNVXzJTNkJtWG1mbEtnZGVwV3Q1cWRQbTcxek5MNnRvaGlNM2t3elBPYV95NHhCNXR1OFFMUVFQWi1xTFNrVnlwYVlsU29JRll5TS1HTVNJTmliWjBfdw?oc=5",
-          "published": "Thu, 15 Oct 2026 17:49:39 GMT",
-          "summary": "Experience Manager-Data Centers & AI Factories&nbsp;&nbsp;Siemens"
+          "title": "Client Success Specialist @ Ascend Learning - Edtech.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LUEhWdy1wQzlXc3ZSTzF4NlVNdHcyeTY2eDBnMkViRUJHVEhkcHFGMzEwV1pPSzVLWTZZa1BuNzU1REFCSmpobFBtemZPVUxrclJPcDlkNGlvZ1dvLWZDbURpMURjb2FYXzJV?oc=5",
+          "published": "Fri, 16 Oct 2026 03:07:56 GMT",
+          "summary": "Client Success Specialist @ Ascend Learning&nbsp;&nbsp;Edtech.com"
+        },
+        {
+          "title": "ServiceNow Climbs 5% After Denying Decagon Acquisition Interest; Salesforce Rises 4%, Palantir Dips - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlhfVVc1RDZSbnBxWUlOT2RrQ1B5MVhoVlczam4wS1AxN0RHTXFPT0h4LWc1ak9LWEpURm9mZmhZQ0V2ek5oNGtEeWxscmIxMnFtUGpjZEN5Z2dxNWNWcEhhbWVwenMyWmtUWXBBVUJ0eVlSZjd0cEw5Z2ZCOWpaMXZWZmQyamNPOWczaUhIZ1hubF8zQWJpYmR0NERsb3AtY18tazZaZDhYWHJ6ZDkxYXlRdHM1X1U5c3NJUXd4UjBLLVNidXZ6cWZBN1VZaWdEbGtRLWxR?oc=5",
+          "published": "Thu, 15 Oct 2026 16:58:00 GMT",
+          "summary": "ServiceNow Climbs 5% After Denying Decagon Acquisition Interest; Salesforce Rises 4%, Palantir Dips&nbsp;&nbsp;24/7 Wall St."
         },
         {
           "title": "Microsoft named a Leader in the 2026 IDC MarketScape for AI-Enabled Operational ERP - Microsoft",
@@ -521,12 +1420,6 @@
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZEhlV1VaN1ZfNmUxWWtVdGlVeDYtRWRuVkJXclBDMXlhZy1GVXNqVC1JMDFLVEZGRE1yM1FXOWZFNHE4UmpBWUU3Qy1sbWFkOWFENDBQdTZBV1diQ1kxQVdTWW80c0RwOGVCVDRyN3lNUDNZeVFfNS1IWXRId2V3MnQxdnNOenpOVkpzQkNPb2wtZGZ6T1RPQi1zRi1Hc2k5VFJfMEhjanlYaWE4UnpZOExkd3ZwdHI3YVlDTkdUY1ctV1FvSWpNSVdhNGVMcGxhUk5LN0xRaTRHVUdoVzB3bkRkNWV2XzNIWW05WTA5dnZwYlFjdW9kUDJTaWhuQ1ZLWm1NY2dQRDZPVGVnRHh0Rmh4ang4Rm8?oc=5",
           "published": "Thu, 15 Oct 2026 13:07:27 GMT",
           "summary": "ServiceNow advances its operational harness for enterprise AI with AI Passport and expanded governance capabilities&nbsp;&nbsp;ServiceNow"
-        },
-        {
-          "title": "Customer Service Chatbots Get Only One Chance - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOajNaODZaQkxpUElNUnFWV3pYLVpmbFgwM24zbWRuNnVaRHhRTFNpdW1vcUwzN25hMXZZdkZHTnNjR0lCU0hNblluNG5Ca1NyWVR2eHZGcjRhLWFYTkFrWHpqbndXUGVNU1RQRXROMV85QkhLYjBGeE9hU1NwanhWVVlVdDc4ak82Q29DSklwUTNuclh6YzZ3TzZZVGJJcFh1aUhaT2YzVm9XMVR2UF9ZT2VGY1lBYTJuRUE?oc=5",
-          "published": "Thu, 15 Oct 2026 04:00:24 GMT",
-          "summary": "Customer Service Chatbots Get Only One Chance&nbsp;&nbsp;Destination CRM"
         }
       ]
     },
@@ -545,6 +1438,24 @@
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
       "items": [
+        {
+          "title": "Pax8’s next AI push challenges MSPs to rethink how they deliver value - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHZPcDUxS0hsRDdDTHk0aEl4UTFjZmY2V0JNTTl0NkF1ZlVGRnBjNWNBbjZfa01DV2J3RVViZHhxMkxXTmprbm5ZT3FHSzBSZVZIcE1zT2Ztc28xaWExeWp3RVJUS3pzZU1KTWprME9yeWZiNWMydWNSbEJlY2lRYzRkZGE5YTBId1BOSlFWN1JzNVVFRld1MA?oc=5",
+          "published": "Fri, 16 Oct 2026 21:02:16 GMT",
+          "summary": "Pax8’s next AI push challenges MSPs to rethink how they deliver value&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "Rewst launches AI-native automation platform and more - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVhDQzNXbThXM0VDR0NFaDFnLWdDSjBudnJqcWZNa2RkdE9YNHliTDZJazlIb1hscUZMQVA1R0cxT2JVLVVrWmdtYTZiQWRIUVBKdi14OE5XYlc3T0lnUlJ6NHNRRS1yZV9HanF6aEF4dWNtblZCRExjQVBTYnJwLUNGa1poLXpqVDFXa3pQVWlPaWF6TkU2dWlPbnJTWENOOFg2enp0NlZpaVMwcUE?oc=5",
+          "published": "Fri, 16 Oct 2026 20:54:58 GMT",
+          "summary": "Rewst launches AI-native automation platform and more&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "5 ways Ingram Micro says MSPs can build a more profitable services business - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2RLNU1hb3ZmZ1JycnFXMkdwTVZTTHFVTDZZU3BJN1owSWR5QjQ1UjdjaXJxajNyQjdLN0RtbEhDeDFnRnY1bkw1ZVZwT1daTHNROEViUzFrQXdKNURGY1R2WVByVmVtdnUwd0pKYU5lMXQtemxjSGllVkhXTWV1TnJndXpRZTJvRmppMUo3SU1yMnN3OVZyS1B3?oc=5",
+          "published": "Fri, 16 Oct 2026 18:50:36 GMT",
+          "summary": "5 ways Ingram Micro says MSPs can build a more profitable services business&nbsp;&nbsp;The ChannelPro Network"
+        },
         {
           "title": "ChannelPro LIVE: Dallas puts innovation in the spotlight for local MSPs - The ChannelPro Network",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVVhwdU1lQ3FBcUc4RkFkTVNnRXIyejJIbWw5R0NPeXYySnR1SDQzSXZ1Z2ZFemU0VDNieWRaOTREblJnMWZFa3lvUDlxZENNS2dyYmhWTFMyQ0Z3Q3l4SXRtMUV0RG5WdlJwNzQtYWswNzEzSU92cUMxeDhwdw?oc=5",
@@ -645,12 +1556,6 @@
           "link": "https://futurumgroup.com/insights/logicmonitor-makes-agent-governance-a-first-class-itops-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=logicmonitor-makes-agent-governance-a-first-class-itops-discipline",
           "published": "Thu, 15 Oct 2026 12:20:17 +0000",
           "summary": "The post LogicMonitor Makes Agent Governance a First-Class ITOps Discipline appeared first on Futurum.\nLogicMonitor launched Agent Studio for Edwin AI, addressing enterprise governance gaps in AI agent deployment. The platform gives IT administrators centralized inventory, access control, and reliability management for production AI agents.\nThe post LogicMonitor Makes Agent Governance a First-Class ITOps Discipline appeared first on Futurum."
-        },
-        {
-          "title": "NVIDIA's cuPotential Takes the CUDA Moat Down to the Atom in the AI-Defined Fab",
-          "link": "https://futurumgroup.com/insights/nvidias-cupotential-takes-the-cuda-moat-down-to-the-atom-in-the-ai-defined-fab/?utm_source=rss&utm_medium=rss&utm_campaign=nvidias-cupotential-takes-the-cuda-moat-down-to-the-atom-in-the-ai-defined-fab",
-          "published": "Wed, 14 Oct 2026 20:33:37 +0000",
-          "summary": "The post NVIDIA&#039;s cuPotential Takes the CUDA Moat Down to the Atom in the AI-Defined Fab appeared first on Futurum.\nBurke, Research Director at Futurum, examines NVIDIA's SEMICON West 2026 launch of cuPotential and the AI-defined fab, weighing 30x vendor speedups against the absence of fab output data.\nThe post NVIDIA&#039;s cuPotential Takes the CUDA Moat Down to the Atom in the AI-Defined Fab appeared first on Futurum."
         }
       ]
     },
@@ -661,6 +1566,12 @@
     {
       "name": "Constellation Research",
       "items": [
+        {
+          "title": "From AI vs. Humans to AI + Humans: Turning AI Into Better Outcomes | DisrupTV Episode 453",
+          "link": "https://www.constellationr.com/video/disruptv/ai-vs-humans-ai-humans-turning-ai-better-outcomes-disruptv-episode-453",
+          "published": "Fri, 16 Oct 2026 19:10:20 +0000",
+          "summary": "From AI vs. Humans to AI + Humans: Turning AI Into Better Outcomes | DisrupTV Episode 453\nElle DeRosa\nFri, 16 Oct 2026 - 12:10\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  R \"Ray\"\n   Wang\n\n                  Principal Analyst and Founder\n  Constellation Research\n\n            \n            \n                R “Ray” Wang is the CEO of Silicon Valley-based Constellation Research Inc. He co-hosts DisrupTV, a weekly enterprise tech and leadership webcast t"
+        },
         {
           "title": "Microsoft's releases MAI-Base-2 aimed at open models with a twist",
           "link": "https://www.constellationr.com/insights/news/microsofts-releases-mai-base-2-aimed-open-models-twist",
@@ -730,6 +1641,12 @@
       "name": "CX Dive",
       "items": [
         {
+          "title": "Southwest overhauls loyalty program, adds premium tier",
+          "link": "https://www.customerexperiencedive.com/news/southwest-overhauls-loyalty-program-adds-premium-tier/833272/",
+          "published": "Fri, 16 Oct 2026 16:02:00 -0400",
+          "summary": "The airline's Rapid Rewards program has seen massive growth this year. Southwest's latest changes aim to reward members throughout their journey."
+        },
+        {
           "title": "As Albertsons embarks on a turnaround, what role will CX play?",
           "link": "https://www.customerexperiencedive.com/news/albertsons-embarks-turnaround-what-role-will-cx-play/833173/",
           "published": "Fri, 16 Oct 2026 07:00:00 -0400",
@@ -740,18 +1657,6 @@
           "link": "https://www.customerexperiencedive.com/news/delta-overhauls-its-most-luxurious-flight-experience/833159/",
           "published": "Thu, 15 Oct 2026 16:26:00 -0400",
           "summary": "The airline&rsquo;s refresh of Delta One is its latest effort to court customers with premium experiences."
-        },
-        {
-          "title": "Target’s operations app updates let associates spend more time with customers",
-          "link": "https://www.customerexperiencedive.com/news/targets-operations-app-updates-let-associates-spend-more-time-with-custome/833038/",
-          "published": "Wed, 14 Oct 2026 15:38:07 -0400",
-          "summary": "The myDay store app aims to put tasks into a single place where workers can determine which will have the biggest and most immediate impact on the shopping experience."
-        },
-        {
-          "title": "JPMorgan CEO warns customers of risks of third-party AI agents",
-          "link": "https://www.customerexperiencedive.com/news/jpmorgan-ceo-warns-customers-risks-third-party-ai-agents/832974/",
-          "published": "Wed, 14 Oct 2026 15:17:00 -0400",
-          "summary": "As Meta&rsquo;s Muse reignites fears over AI-driven deposit flight, Jamie Dimon cautioned customers Tuesday that if they&rsquo;re giving AI agents access to their bank accounts, they&rsquo;re owning that decision."
         }
       ]
     },
@@ -775,18 +1680,6 @@
           "link": "https://www.callcentrehelper.com/what-is-agentic-experience-orchestration-278127.htm",
           "published": "Thu, 15 Oct 2026 10:00:00 +0000",
           "summary": "UJET explores what agentic AI means for contact centres, how AXO works during live customer interactions, and how it differs from traditional agent assist and workflow automation. What Does &#8220;Agentic&#8221; Mean in a Contact Centre? An agentic system can look...\nThe post What is Agentic Experience Orchestration (AXO)? appeared first on Call Centre Helper."
-        },
-        {
-          "title": "How to Send a Document For Signature in 5 Easy Steps",
-          "link": "https://www.callcentrehelper.com/send-document-signature-easy-steps-278132.htm",
-          "published": "Thu, 15 Oct 2026 08:30:00 +0000",
-          "summary": "Zoom shares five clear steps on how to send a document for signature, from prepping your file to storing the completed copy, so proposals, contracts, and agreements get signed without the usual friction. Chasing down a client&#8217;s signature used to...\nThe post How to Send a Document For Signature in 5 Easy Steps appeared first on Call Centre Helper."
-        },
-        {
-          "title": "Case Study: HELP Dropped Customer Contacts by 23% With Puzzel",
-          "link": "https://www.callcentrehelper.com/case-study-help-puzzel-278120.htm",
-          "published": "Thu, 15 Oct 2026 07:30:00 +0000",
-          "summary": "HELP Forsikring is a Nordic pioneer in legal expenses insurance, helping customers get expert legal support during disputes. Its customer service team is the first point of contact for people in complex, emotionally difficult situations, bridging the gap to HELP&#8217;s...\nThe post Case Study: HELP Dropped Customer Contacts by 23% With Puzzel appeared first on Call Centre Helper."
         }
       ]
     },
@@ -856,12 +1749,6 @@
           "link": "https://cxm.world/employee-experience/employee-survey-fatigue-howard-krais-ex-lore/",
           "published": "Thu, 15 Oct 2026 11:27:00 +0000",
           "summary": "There is a scene in the 1980 film Airplane! where a man walks through an airport and is stopped at every turn by someone trying to sell him something. Howard Krais thinks modern life feels much the same, except that now everyone wants you to fill in a survey. The airport, the airline and the...\nThe post Is Survey Fatigue Really About Surveys? Howard Krais on EX Lore appeared first on Customer Experience Magazine."
-        },
-        {
-          "title": "Octopus Energy Takes Top Honours at the UK Customer Experience Awards 2026",
-          "link": "https://cxm.world/customer-experience/octopus-energy-takes-top-honours-at-the-uk-customer-experience-awards-2026/",
-          "published": "Thu, 15 Oct 2026 08:00:00 +0000",
-          "summary": "Wembley Stadium hosted the UK Customer Experience Awards 2026 on 14 October, and the evening’s top prize went to Octopus Energy, crowned Overall Winner for the care it gives customers in vulnerable circumstances. Organised by Awards International, the programme celebrates UK organisations that put customers at the heart of everything they do. Finalists earned their...\nThe post Octopus Energy Takes Top Honours at the UK Customer Experience Awards 2026 appeared first on Customer Experience Magazin"
         }
       ]
     },
@@ -885,12 +1772,6 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjlmdGNEQ1BOX0xJM2FnTFFqZWVvd3hYeG9QLXAxRnhGMjctUFcwX0tqRnZQcmJYSmpEcEROSm0waEl3ZXFqVWVrS0NORmdrbDVrVkVDUldjSDV5RnFqb0VubEhQbEFPZnpjZGRjeHp0RGVXQ3VKSEF5bkxpNHR0UXRCbw?oc=5",
           "published": "Thu, 15 Oct 2026 16:09:51 GMT",
           "summary": "Centrical Debuts a Workforce Orchestration System, Reimagines Contact Center Performance Management&nbsp;&nbsp;CX Foundation"
-        },
-        {
-          "title": "The BPO Industry Is Becoming AI's Biggest Distribution Channel - CX Foundation",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zZk5GUTQ3UzJYdFUwS3Nub3Q2S3l2TkVBUUs1MkJZczB6eE1zVUM4a0h0Y0lldTlqSkIwYjVVNGtqU0VUZXpXVWtQajNCWHdsUk5VMzhuQzlsUjRvTXl5TWdRTmMzcldkTGFvd0ZMa25MQUp5?oc=5",
-          "published": "Wed, 14 Oct 2026 20:46:38 GMT",
-          "summary": "The BPO Industry Is Becoming AI's Biggest Distribution Channel&nbsp;&nbsp;CX Foundation"
         }
       ]
     }
