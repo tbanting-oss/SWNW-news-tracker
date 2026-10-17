@@ -83,6 +83,76 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "IFS pairs industrial AI with governance layer",
+          "sowhat": "An industrial-software player concedes its AI claims need containment architecture before they can stand alone.",
+          "url": "https://futurumgroup.com/insights/ifs-ties-its-industrial-ai-platform-to-a-governance-layer-built-to-contain-it/?utm_source=rss&utm_medium=rss&utm_campaign=ifs-ties-its-industrial-ai-platform-to-a-governance-layer-built-to-contain-it",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Oracle offers NetSuite QuickStart free for startups",
+          "sowhat": "Oracle trades upfront revenue for early stickiness, betting free AI-first finance locks in founders before they scale.",
+          "url": "https://futurumgroup.com/insights/netsuite-quickstart-makes-ai-first-finance-free-to-win-startups-early/?utm_source=rss&utm_medium=rss&utm_campaign=netsuite-quickstart-makes-ai-first-finance-free-to-win-startups-early",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio advises incremental modernisation over rip-and-replace",
+          "sowhat": "Twilio's pitch to CIOs is continuity — but no discrete product or integration announcement backs the claim.",
+          "url": "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "Twilio (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Pax8 challenges MSPs to move beyond resale",
+          "sowhat": "Pax8's AI rollout tests whether MSPs can add strategic value or remain margin-squeezed resellers.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHZPcDUxS0hsRDdDTHk0aEl4UTFjZmY2V0JNTTl0NkF1ZlVGRnBjNWNBbjZfa01DV2J3RVViZHhxMkxXTmprbm5ZT3FHSzBSZVZIcE1zT2Ztc28xaWExeWp3RVJUS3pzZU1KTWprME9yeWZiNWMydWNSbEJlY2lRYzRkZGE5YTBId1BOSlFWN1JzNVVFRld1MA?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "The ChannelPro Network"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Rewst ships AI-native automation platform for MSPs",
+          "sowhat": "Another RMM/PSA automation tool claims AI-first architecture; validation hinges on actual agentic workflow proof.",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVhDQzNXbThXM0VDR0NFaDFnLWdDSjBudnJqcWZNa2RkdE9YNHliTDZJazlIb1hscUZMQVA1R0cxT2JVLVVrWmdtYTZiQWRIUVBKdi14OE5XYlc3T0lnUlJ6NHNRRS1yZV9HanF6aEF4dWNtblZCRExjQVBTYnJwLUNGa1poLXpqVDFXa3pQVWlPaWF6TkU2dWlPbnJTWENOOFg2enp0NlZpaVMwcUE?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "The ChannelPro Network"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Southwest adds premium tier to Rapid Rewards",
+          "sowhat": "Southwest's loyalty overhaul chases higher-yield travelers, testing whether operational simplicity still differentiates.",
+          "url": "https://www.customerexperiencedive.com/news/southwest-overhauls-loyalty-program-adds-premium-tier/833272/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Albertsons pivots turnaround strategy to in-store CX",
+          "sowhat": "Struggling grocer bets experience can fix value perception — a hard claim when pricing still drives defection.",
+          "url": "https://www.customerexperiencedive.com/news/albertsons-embarks-turnaround-what-role-will-cx-play/833173/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
         }
       ],
       "pattern_watch": "Agent governance—five vendors ship inventory, control, or authentication frameworks for production AI agents this week"
@@ -957,5 +1027,5 @@
       "pattern_watch": "Outages and security breaches converging on integration layer and AI agent attack surface"
     }
   ],
-  "updated": "2026-10-17T10:22:12.492769+00:00"
+  "updated": "2026-10-17T17:46:16.635594+00:00"
 }
