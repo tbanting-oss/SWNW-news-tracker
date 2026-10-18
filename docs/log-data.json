@@ -1,6 +1,63 @@
 {
   "days": [
     {
+      "iso": "2026-10-18",
+      "label": "Sun 18 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "JPMorgan and NVIDIA address AI agent security",
+          "sowhat": "Enterprise AI agent deployment now hinges on external-access security and retail-breach prevention, not just model performance.",
+          "url": "https://cxtoday.com/who-controls-the-agents-jpmorgan-and-nvidia-tackle-ai-security-risks",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Teradata frames context gap blocking autonomous agents",
+          "sowhat": "Futurum/Teradata research confirms AI agents stall at pilot stage without governed enterprise context architecture.",
+          "url": "https://futurumgroup.com/research-reports/closing-the-enterprise-context-gap/",
+          "vendor_flag": true,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Apple embeds AI into shared workspace hardware",
+          "sowhat": "Apple's HomeView and partner ecosystem push intelligence into meeting rooms, challenging UC hardware incumbents on shared-space control.",
+          "url": "https://uctoday.com/this-week-apple-puts-ai-at-the-heart-of-shared-spaces",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft releases MAI-Base-2 open model variant",
+          "sowhat": "Microsoft's new open model adds a twist to the open-weights landscape but lacks detail on what differentiates it commercially.",
+          "url": "https://www.constellationr.com/insights/news/microsofts-releases-mai-base-2-aimed-open-models-twist",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Octopus Energy wins UK Customer Experience Awards",
+          "sowhat": "Octopus Energy's UKCXA Overall Winner status signals continued CX investment in regulated utilities despite margin pressure.",
+          "url": "https://cxm.world/customer-experience/what-it-takes-to-win-the-ukcxa-2026-champions-reveal-their-secrets-at-wembley/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        }
+      ],
+      "pattern_watch": "AI agent security and context governance emerging as production-deployment bottleneck"
+    },
+    {
       "iso": "2026-10-17",
       "label": "Sat 17 Oct 2026",
       "rows": [
@@ -868,164 +925,7 @@
         }
       ],
       "pattern_watch": "AI deployment caution: voice brittleness and control requirements surface"
-    },
-    {
-      "iso": "2026-10-10",
-      "label": "Sat 10 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "8×8 names Jamie Snaddon chief strategy officer",
-          "sowhat": "Leadership reshuffle places EMEA under new lead, signalling a sharpened focus on strategic execution and growth markets for the UCaaS vendor.",
-          "url": "https://telecomreseller.com/2026/10/09/8x8-names-jamie-snaddon-chief-strategy-officer/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Gamma selected as UK Carrier Link partner for Google Voice",
-          "sowhat": "Google's new Carrier Link programme now includes a UK PSTN partner, making it easier for Workspace customers to integrate business calling.",
-          "url": "https://telecomreseller.com/2026/10/09/gamma-selected-as-a-key-partner-for-carrier-link-for-google-voice/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Ribbon completes MTA modernisation milestone with NUSO contact centre",
-          "sowhat": "Ribbon's work for North America's largest transport network shows it can replace legacy infrastructure without operational disruption, a critical CCaaS migration proof-point.",
-          "url": "https://telecomreseller.com/2026/10/09/ribbons-mta-modernization-milestone-includes-a-new-nuso-contact-center/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco positions Webex as an operating system for AI and work",
-          "sowhat": "Cisco is expanding Webex from meetings into an AI-agent collaboration hub, betting that the future of work requires people and agents working side-by-side.",
-          "url": "https://www.crn.com/news/networking/2026/cisco-wants-webex-to-be-the-operating-system-for-ai-and-work",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "crn.com"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Google Cloud launches Gemini agent across enterprise systems",
-          "sowhat": "Google's Gemini agent separates the agent from the model, making it system-agnostic and potentially more durable than tightly coupled AI stacks.",
-          "url": "https://www.constellationr.com/insights/news/google-cloud-launches-gemini-agent-work-across-enterprise-systems",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Constellation Research"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HSBC reportedly to cut 70% of UK financial advisers as AI rolls out",
-          "sowhat": "If confirmed, this marks one of the largest AI-driven headcount reductions in wealth management, raising questions about the pace and scope of AI displacement in advisory roles.",
-          "url": "https://cxm.world/employee-experience/hsbc-wealth-management-job-cuts-ai-advisers/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "US freezes green card applications at Microsoft, Adobe, Capgemini",
-          "sowhat": "The PERM freeze on eight IT firms, including major CX platform vendors, signals tighter immigration enforcement that could disrupt hiring and service delivery in enterprise software.",
-          "url": "https://cxm.world/customer-experience/green-card-freeze-microsoft-it-outsourcers/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco launches agentic AI for Webex workplace",
-          "sowhat": "Cisco extends Webex AI with enterprise-grade agents and shared context, signaling UC's shift from copilot to autonomous action.",
-          "url": "https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/tech/nasdaq-csco/cisco-systems/news/cisco-csco-rolls-out-agentic-ai-across-webex-and-workplace-t&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0IBAGffM-5KrSI7qFjk6Zi",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Yahoo Finance"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft expands local AI processing on Windows",
-          "sowhat": "Microsoft pushes local AI inference beyond developers, betting cost and latency will sway buyers despite uncertain ROI.",
-          "url": "https://www.directionsonmicrosoft.com/microsoft-makes-its-case-again-for-running-ai-workloads-on-windows-pcs/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Directions on Microsoft"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft adds scheduling agent to Copilot chat",
-          "sowhat": "Users can now book meetings, find times, and draft agendas in Copilot chat—proof agentic moves from demo to desk.",
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=573220",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Microsoft (vendor blog)"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "CX",
-          "headline": "Outages now fail between systems, not inside them",
-          "sowhat": "CX Today flags Cloudflare, Fastly, Twilio outages—integration layer is becoming the new single point of failure.",
-          "url": "https://cxtoday.com/the-reliability-stories-cx-leaders-cant-afford-to-miss",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "CX",
-          "headline": "ASOS hack exposes app-layer attack surface for CX",
-          "sowhat": "Extortion note pushed via ASOS app shows AI agents and 400+ vulnerabilities create new enterprise exposure.",
-          "url": "https://cxtoday.com/what-asos-ai-agents-and-400-vulnerabilities-reveal-about-cx-risk",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Just 5% of CX programs prove revenue impact",
-          "sowhat": "Most CX initiatives still lack hard ROI evidence, underscoring the gap between deployment and measurable business value.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHkteFdOZHNmdnRHeG5XNnA2Tm9pM05ybWY0ZGNpbExjT2JkY1RweFJJT092aHZqa2h4S3B3dDdWLXY5UDRvZ2xUOVRPSnVwMVAxMlViZno1QkdPV3NyV1l3NWJTT011RHlZbDBTRU9NV3JrNDlLOEZDekM1SjFSaFdrVUltalhuYnpLNGZiYmNJcndsLTBqYzI0M1ZqZw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Dive"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "SAP embeds workforce context in SuccessFactors via TechWolf",
-          "sowhat": "SAP's TechWolf buy adds skills intelligence to Joule, making work context central to SuccessFactors AI decisions.",
-          "url": "https://futurumgroup.com/insights/sap-makes-work-intelligence-central-to-successfactors/?utm_source=rss&utm_medium=rss&utm_campaign=sap-makes-work-intelligence-central-to-successfactors",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "SailPoint extends identity governance to AI agents",
-          "sowhat": "SailPoint's Navigate 2026 launches JIT access and discovery for AI agents, showing identity as the new agent control plane.",
-          "url": "https://futurumgroup.com/insights/sailpoint-bets-on-identity-to-govern-ai-agents-at-navigate-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sailpoint-bets-on-identity-to-govern-ai-agents-at-navigate-2026",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "Outages and security breaches converging on integration layer and AI agent attack surface"
     }
   ],
-  "updated": "2026-10-17T17:46:16.635594+00:00"
+  "updated": "2026-10-18T10:39:01.085759+00:00"
 }
