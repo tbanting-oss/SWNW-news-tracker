@@ -53,9 +53,29 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Microsoft adds Agent 365 reporting without license requirement",
+          "sowhat": "Microsoft Viva Insights now shows agent usage for Microsoft-built agents without an Agent 365 license, lowering the visibility bar for adoption tracking.",
+          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=575292",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Microsoft (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Albertsons begins operational turnaround with CX focus under scrutiny",
+          "sowhat": "Albertsons' turnaround after merger collapse puts customer experience strategy in spotlight, testing whether CX-led recovery can shift unit economics at scale.",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbU9IQzRlTm5sUjAteEtOOFpXTTRibWdxd3ZXYXlydHBJOXVPOVhHVEd1MEtZcmxJTFZnQ1JLUVZjbE13MF9OdHhlRUdTWDBVdUdNbDR1YXpWcThvNUtpRXBUdjI1dzB6bHlINlhRU1NleWxHN3RTZG1YTVJ4Y0tzR0kwN29ka2VSNjc4TVNRalB2dTRlTDZJYl80ZkJpU3h3bWtnV21raw?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
         }
       ],
-      "pattern_watch": "AI agent security and context governance emerging as production-deployment bottleneck"
+      "pattern_watch": "Microsoft agent-platform buildout — M365 Copilot, Contact Center, Sales, and Service Operations Agent all ship agent-conversation, simulation, or inline-chat features in one roadmap drop"
     },
     {
       "iso": "2026-10-17",
@@ -927,5 +947,5 @@
       "pattern_watch": "AI deployment caution: voice brittleness and control requirements surface"
     }
   ],
-  "updated": "2026-10-18T10:39:01.085759+00:00"
+  "updated": "2026-10-18T17:51:31.820208+00:00"
 }
