@@ -33,9 +33,79 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Cisco Webex ships agentic AI framework for meetings",
+          "sowhat": "Claude Managed Agents can now join Webex meetings as participants, marking the first major collaboration platform to treat AI agents as meeting attendees rather than post-call tools.",
+          "url": "https://forkast.news/cisco-webex-ships-agentic-ai-framework-and-agents-just-entered-the-meeting-room/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": ""
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "monday.com launches Harmony voice AI sales platform",
+          "sowhat": "monday.com enters voice AI for sales qualification and follow-up, extending its workflow platform into conversational AI but not yet showing enterprise CCaaS traction.",
+          "url": "https://cxtoday.com/introducing-harmony-the-new-voice-ai-sales-platform-from-monday-com",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "8x8, Intradiem, Totalmobile enhance workforce management offerings",
+          "sowhat": "Three established WFM vendors release scheduling and capacity planning updates, reflecting continued investment in traditional workforce optimisation rather than agentic automation.",
+          "url": "https://cxtoday.com/how-8x8-intradiem-and-totalmobile-are-planning-to",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft's release pace forces Teams partner strategy reset",
+          "sowhat": "TTEC Digital confirms Microsoft's rapid Teams and AI agent releases are forcing partners to rethink go-to-market, particularly for Teams-integrated contact centre routes.",
+          "url": "https://uctoday.com/microsofts-pace-of-change-is-rewriting-the-partner-playbook",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Veeam adds AI agent undo for Microsoft 365",
+          "sowhat": "Veeam's Intelligent ResOps brings agent discovery, sensitive data mapping, and file-level rollback to M365, addressing a governance gap as agentic workflows spread.",
+          "url": "https://futurumgroup.com/insights/veeam-brings-ai-agent-undo-to-microsoft-365-with-intelligent-resops/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Workday launches Autopilot Agents for HR and finance",
+          "sowhat": "Workday extends automation into autonomous HR and finance tasks, but commercial questions remain around who pays when agents complete work traditionally billed by role.",
+          "url": "https://futurumgroup.com/insights/workday-autopilot-agents-extend-automation-across-core-workflows/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "NICE shifts center of gravity to AI, Cognigy",
+          "sowhat": "A year after acquiring Cognigy, NICE's analyst summit revealed AI and agentic CX now drive strategy, with the legacy CCaaS business buying time for the pivot.",
+          "url": "https://siliconangle.com/2026/10/19/nice-bets-the-company-on-ai-data-and-accountability-and-the-legacy-business-buys-it-time/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "SiliconANGLE"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "Agentic AI platforms entering operational systems (Webex meetings, Workday HR, Veeam M365 governance) signal shift from pilots to production workflows with new commercial and control questions."
     },
     {
       "iso": "2026-10-18",
@@ -907,5 +977,5 @@
       "pattern_watch": "Microsoft and Salesforce both pushing agentic CRM surfaces into production within weeks"
     }
   ],
-  "updated": "2026-10-19T12:37:15.638824+00:00"
+  "updated": "2026-10-19T20:23:27.737544+00:00"
 }
