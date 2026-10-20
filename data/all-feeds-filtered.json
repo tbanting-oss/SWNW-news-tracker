@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T10:19:07.834588+00:00",
+  "generated_at": "2026-10-20T18:37:07.733562+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
-  "feeds_with_errors": 5,
+  "feeds_with_errors": 4,
   "fetch_errors": [
     {
       "name": "Zoom Video Communications, Inc.",
@@ -23,11 +23,6 @@
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications"
-    },
-    {
-      "name": "Call Centre Helper",
-      "url": "https://www.callcentrehelper.com/feed/",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "feeds": [
@@ -42,6 +37,24 @@
     {
       "name": "Google Alert - Cisco Webex",
       "items": [
+        {
+          "title": "The Agent Governance Tax: Enterprises Are Buying Four Layers of Control Before Proving ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://forkast.news/the-agent-governance-tax-enterprises-are-buying-four-layers-of-control-before-proving-one-layer-of-value/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3MQLLLE_YfhrfcyTxej0Z8",
+          "published": "2026-10-20T10:30:27Z",
+          "summary": "But the measurement layer still does… More from Agents at Work All Agents at Work → &middot; Cisco Webex Ships Agentic AI Framework – and Agents Just&nbsp;..."
+        },
+        {
+          "title": "58% Research With AI. 17% Trust It to Finish. - Forkast.News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://forkast.news/58-research-with-ai-17-trust-it-to-finish-2/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2EXVw3YCmHSQGJtqT8-ILA",
+          "published": "2026-10-20T10:30:26Z",
+          "summary": "October saw a rapid succession of infrastructure launches: Cequence shipped its Agent Trust registry on October 7, the same day Cisco Webex announced&nbsp;..."
+        },
+        {
+          "title": "Only 14 Percent of People Pick Up an Unknown Call Right Away. +Trusted Asks Why It ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://telecomreseller.com/2026/10/19/only-14-percent-of-people-pick-up-an-unknown-call-right-away-trusted-asks-why-it-should-ring-at-all/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw31M9oStK_yTiyQYFuZi0id",
+          "published": "2026-10-20T03:33:17Z",
+          "summary": "... Cisco Tribune &middot; Teams Report &middot; Subscribe &middot; Michels &middot; Dave Michels ... Aisera Announces New Integration With Cisco Webex to Drive World-Class&nbsp;..."
+        },
         {
           "title": "AI-assisted development: PubHub rewrite ships early - <b>Cisco</b> Blogs",
           "link": "https://www.google.com/url?rct=j&sa=t&url=https://blogs.cisco.com/cisco-devnet/ai-assisted-development-rebuilding-pubhub-part-1&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3sfYmeaBGS4QvLK3F4NGeU",
@@ -59,30 +72,48 @@
           "link": "https://www.google.com/url?rct=j&sa=t&url=https://forkast.news/microsoft-treats-ai-agents-as-insiders-and-the-containment-layer-just-arrived/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2veKJkPxFDGk38BaAqyOeY",
           "published": "2026-10-19T18:38:04Z",
           "summary": "4h ago Cisco Webex Ships Agentic AI Framework – and Agents Just Entered the Meeting Room Cisco Webex is the first major collaboration platform to&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco Webex</b> Ships Agentic AI Framework – and Agents Just Entered the Meeting Room",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://forkast.news/cisco-webex-ships-agentic-ai-framework-and-agents-just-entered-the-meeting-room/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2hxCzsPvXx7cSVCVii_epP",
-          "published": "2026-10-19T16:03:04Z",
-          "summary": "Cisco Webex is the first major collaboration platform to ship an agentic AI framework for meetings. Claude Managed Agents join as team members,&nbsp;..."
-        },
-        {
-          "title": "The Agent Identity Stack Is Forming — and Enterprises Are Choosing the Perimeter Before ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://forkast.news/the-agent-identity-stack-is-forming-and-enterprises-are-choosing-the-perimeter-before-the-measurement-layer-exists/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3DzAY-pQi-1TV2yipsuwgq",
-          "published": "2026-10-19T15:33:11Z",
-          "summary": "1h ago Cisco Webex Ships Agentic AI Framework – and Agents Just Entered the Meeting Room Cisco Webex is the first major collaboration platform to&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco Webex</b> Ships Agentic AI Framework – and Agents Just Entered the Meeting Room",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.yahoo.com/ai/copilot/articles/cisco-webex-ships-agentic-ai-133711432.html&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw3txMb0fz2VAFmZ9ZhT5Gnp",
-          "published": "2026-10-19T13:45:38Z",
-          "summary": "Cisco Webex announced an agentic AI framework at WebexOne 2026 on October 7, marking the first major collaboration platform to ship purpose-built&nbsp;..."
         }
       ]
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Zoom Targets CX’s Broken Context With Its New AI Layer",
+          "link": "https://cxtoday.com/zoom-targets-cxs-broken-context-with-its-new-ai-layer",
+          "published": "Tue, 20 Oct 2026 16:31:00 GMT",
+          "summary": "Zoom unveils its Unified Context Layer, linking customer data across AI and human interactions to improve contact center service."
+        },
+        {
+          "title": "Google Cloud Power Outage Disrupts U.K. Banks and Essential Services",
+          "link": "https://cxtoday.com/google-cloud-power-outage-disrupts-uk-banks-and-essential-services",
+          "published": "Tue, 20 Oct 2026 16:03:09 GMT",
+          "summary": "Google Cloud’s London outage hit Revolut, Lloyds and HSBC, showing why CX leaders need stronger cloud resilience, testing and supplier dependency plans."
+        },
+        {
+          "title": "AI Can Spot the Signal, Who Decides What Happens Next?",
+          "link": "https://cxtoday.com/ai-can-spot-the-signal-who-decides-what-happens-next",
+          "published": "Tue, 20 Oct 2026 15:20:31 GMT",
+          "summary": "Amperity, Treasure AI, and Adobe show how AI customer engagement is speeding up journey decisions, personalization, and customer action."
+        },
+        {
+          "title": "Salesforce Contact Center is Global: How to Get Connected",
+          "link": "https://cxtoday.com/salesforce-contact-center-is-global-how-to-get-connected",
+          "published": "Tue, 20 Oct 2026 13:31:00 GMT",
+          "summary": "Why Salesforce Contact Center’s UK, Europe and APAC rollout matters: BYOC, Bandwidth, telephony, AI voice and call quality for CX teams."
+        },
+        {
+          "title": "Touchless Resolution: 5 Steps to Turn AI Pilots into Outcomes",
+          "link": "https://cxtoday.com/touchless-resolution-5-steps-to-turn-ai-pilots-into-outcomes-tatacommunications-cs-0243",
+          "published": "Tue, 20 Oct 2026 12:31:00 GMT",
+          "summary": "Touchless resolution only scales with repeatable models. CX Today outlines Tata Communications’ five steps for AI, data, governance and handoffs."
+        },
+        {
+          "title": "Salesforce and Accenture Lead a Busy Week for Analytical Acquisitions",
+          "link": "https://cxtoday.com/draft-52d74fa5-0304-495a-b6e3-38fd1e76b068",
+          "published": "Tue, 20 Oct 2026 11:01:00 GMT",
+          "summary": "Salesforce, Accenture and Kustomer show how connected data is reshaping customer AI, analytics, service operations and CX decision-making."
+        },
         {
           "title": "CRM Vendors Tackle AI Costs and Customer Data Access",
           "link": "https://cxtoday.com/crm-vendors-tackle-ai-costs-sales-intelligence-and-customer-data-acce",
@@ -112,12 +143,6 @@
           "link": "https://cxtoday.com/how-8x8-intradiem-and-totalmobile-are-planning-to",
           "published": "Mon, 19 Oct 2026 08:01:00 GMT",
           "summary": "Explore how 8x8, Intradiem and Totalmobile are helping organizations modernize workforce management, scheduling, capacity planning, and workforce data."
-        },
-        {
-          "title": "Community This Week: Rulings, Releases and the Upcoming Sprint",
-          "link": "https://cxtoday.com/community-this-week-rulings-releases-and-the-upcoming-sprint",
-          "published": "Sun, 18 Oct 2026 11:01:00 GMT",
-          "summary": "Why CX teams should care: Discord, Reddit and Khoros show moderation now needs proof, with ANPD, Ofcom and Gainsight linking communities to support systems."
         }
       ]
     },
@@ -222,7 +247,14 @@
     },
     {
       "name": "My Business Wire News",
-      "items": []
+      "items": [
+        {
+          "title": "Salesforce Signs Definitive Agreement to Acquire Braze",
+          "link": "http://www.businesswire.com/news/home/20261020157470/en/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
+          "published": "Tue, 20 Oct 2026 12:00:00 UT",
+          "summary": "SAN FRANCISCO & NEW YORK--(BUSINESS WIRE)--Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced it has entered into a definitive agreement to acquire Braze (NASDAQ: BRZE), a leading customer engagement platform, for approximately $5.66 billion in enterprise value. Under the terms of the agreement, holders of Braze Class A common stock will receive $47.50 in cash per share. Braze helps marketers build deeper customer relationships by responding to customer behavior in real time, coordi"
+        }
+      ]
     },
     {
       "name": "No Jitter",
@@ -242,6 +274,18 @@
     {
       "name": "UC Today",
       "items": [
+        {
+          "title": "This Week: AI Spend, Private Data and Service Agents",
+          "link": "https://uctoday.com/this-week-ai-spend-private-data-and-service-agents",
+          "published": "Tue, 20 Oct 2026 14:01:00 GMT",
+          "summary": "Buyer concern is shifting to AI governance as Freshworks, Lumen, Snowflake and USU add controls for spend, data and service agents. UC Today"
+        },
+        {
+          "title": "Can Enterprise XR Prove it Belongs in Day-to-Day Work?",
+          "link": "https://uctoday.com/can-enterprise-xr-prove-it-belongs-in-day-to-day-work",
+          "published": "Tue, 20 Oct 2026 13:20:30 GMT",
+          "summary": "Enterprise XR is shifting to managed workflows, with AstraZeneca AR wayfinding, Hitachi AI Assist Pro, Android XR and UCIT attention in UC Today."
+        },
         {
           "title": "Why the Office Is an Increasing Cybersecurity Risk",
           "link": "https://uctoday.com/why-the-office-is-an-increasing-cybersecurity-risk",
@@ -296,6 +340,24 @@
       "name": "CMSWire.com - All News",
       "items": [
         {
+          "title": "Databricks CustomerLake Enters Beta as Enterprises Go Live With Agentic CDP",
+          "link": "https://www.cmswire.com/customer-data-platforms/databricks-customerlake-enters-beta-as-enterprises-go-live-with-agentic-cdp/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Tue, 20 Oct 2026 13:45:39 -0500",
+          "summary": "Databricks opened CustomerLake Campaign Agents to more customers in Beta and put Profile Agents, its Customer 360 builder, into private preview.\nContinue reading..."
+        },
+        {
+          "title": "Zoom Launches Unified Context Layer for CX Agents",
+          "link": "https://www.cmswire.com/contact-center/zoom-launches-unified-context-layer-for-cx-agents/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Tue, 20 Oct 2026 12:32:50 -0500",
+          "summary": "At Zoomtopia, Zoom debuted a shared memory layer that lets human and AI agents act on complete customer context across every interaction.\nContinue reading..."
+        },
+        {
+          "title": "Why Is Salesforce Buying Braze, and What Happens to Marketing Cloud?",
+          "link": "https://www.cmswire.com/customer-experience/why-is-salesforce-buying-braze-and-what-happens-to-marketing-cloud/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Tue, 20 Oct 2026 11:39:56 -0500",
+          "summary": "Salesforce just agreed to pay more than twice its ExactTarget price for Braze. What does overlap, pricing and roadmap look like?\nContinue reading..."
+        },
+        {
           "title": "Can Lifecycle Marketers Stop Agents From Corrupting Customer Data?",
           "link": "https://www.cmswire.com/digital-marketing/can-lifecycle-marketers-stop-agents-from-corrupting-customer-data/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Mon, 19 Oct 2026 16:16:32 -0500",
@@ -343,7 +405,14 @@
     },
     {
       "name": "RingCentral Blog",
-      "items": []
+      "items": [
+        {
+          "title": "Auto attendant vs. virtual receptionist: What’s the difference?",
+          "link": "https://www.ringcentral.com/us/en/blog/auto-attendant-vs-virtual-receptionist/",
+          "published": "Tue, 20 Oct 2026 14:00:27 +0000",
+          "summary": "A guide for small business owners deciding how to answer, route, and capture every inbound call without adding front-desk headcount. The calls you miss are rarely the ones you can afford to. A customer calls while everyone&#8217;s already on the phone or with someone in person, hits a menu, and hangs up instead of leaving ...\nThe post Auto attendant vs. virtual receptionist: What&#8217;s the difference? appeared first on RingCentral Blog."
+        }
+      ]
     },
     {
       "name": "Twilio Blog",
@@ -353,6 +422,12 @@
           "link": "https://www.twilio.com/en-us/blog/developers/tutorials/detect-sim-swaps-rust-twilio-lookup-api",
           "published": "Sun, 18 Oct 2026 20:00:00 -0400",
           "summary": "In this tutorial, you'll learn how to integrate SIM swap detection into your Rust applications."
+        },
+        {
+          "title": "What is an email blast? (how to do it right)",
+          "link": "https://www.twilio.com/en-us/blog/insights/what-is-an-email-blast",
+          "published": "Sun, 18 Oct 2026 20:00:00 -0400",
+          "summary": "An email blast sends one email to a large list at once. Learn how to send one that reaches the inbox, plus tips and examples."
         }
       ]
     },
@@ -363,6 +438,18 @@
     {
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
+        {
+          "title": "What JetBlue first-class fares say about airlines’ premium push - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM28zM252UmtzM05jTEJ0endfMVZHYU5NZDVITmxPaFFlRzNUUGZGX1M2MHhhbFc1TnJabzcyYkpoRmJMb19WVHhLVkNESnJVZjlMUldkV3NhU3ZtWVRYcHZrczgyS1FlNldodkFXTDZvQ3NPMDZPZFlkMVZSUk1hcFdQQ1VkWmFyUUw4NHhVU0c3R0ZJSGdoeE9qUUpTZnFzenJWVGVjM01sUGlIZi13el9GSmQ?oc=5",
+          "published": "Tue, 20 Oct 2026 13:32:07 GMT",
+          "summary": "What JetBlue first-class fares say about airlines’ premium push&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "Travelers want flexibility, experiences over ‘perfection’: Hilton - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTF5el9XcGg3OE1hcXY2RnhsejQtSnEtRkpsZi1YeENvd0p2eURmbWJIVEpQeUFmNFYzelp4d0FiM19sT29rdEJITVZqNVJ5V3lIbjM0emFyZ0o0SF8zUEQ2U3lLMXEzcHEzSi1PT3VQcnVHUEo1cE5qTVFORFdTbHA2WW9yRHdqN0MwNGtnR2djQ0ZGanpLcXhMRUtkeVRnbm0tdDhQdmJXMEtMVEI4?oc=5",
+          "published": "Tue, 20 Oct 2026 02:52:07 GMT",
+          "summary": "Travelers want flexibility, experiences over ‘perfection’: Hilton&nbsp;&nbsp;CX Dive"
+        },
         {
           "title": "Customer patience for bad service is wearing thin - CX Dive",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGJNRlg2VkVnOHZNY3F5SjRxdTkwYl9UNmU5N3dRc0JpUTlLZUZhaGd1Q2Zwblc3UUlNVGJTUXZyUmJ5WmZHbW93NlN0RjhfOVlNakVsejN5VDdEczNuOHZiRVZUeW1aMW4tT2tyRi1tYkNOemtnOTV0NmdVQ2ZvWGlEV1FYbkhheWdfYVdUOUdHaTVJb0FqTEhiTW1OUXBxNC0w?oc=5",
@@ -387,10 +474,34 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
+          "title": "Salesforce Signs Definitive Agreement to Acquire Braze - Salesforce",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNXhmdXRROEJ5N1RhZGJZU2t1WG52UWRYSmZ0VDNmZmFmNWtDRHlqcC1Ha2RNbW1RVkdQb2w3eFhQcXRIcXVxaUs2bHZOVzhEeWZZNWNsNEEtdUZJb29fODllOTQ4S1RiSThzOEN2a2VuUGQ3dTJFOUlycUpwNWpjWExYRVhSN2tXUHNmbG5QVF81MWNYVHJ3cTRfYjRCRmhzam1lM0lwYkhQMnJBZkFRNk1qYw?oc=5",
+          "published": "Tue, 20 Oct 2026 12:03:58 GMT",
+          "summary": "Salesforce Signs Definitive Agreement to Acquire Braze&nbsp;&nbsp;Salesforce"
+        },
+        {
+          "title": "Customer Relationship Executive: Customer Service / Call Centre Jobs | dubizzle Dubai - dubizzle",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZGI3bDZWV2I3eko2ekFseVRJWXl2ZHc1NWtZVzNCTjg4QVFuSjM4S04ySFlxZmcxaG9aVkN4U2hxMkpqN0F2QXI4MzUtWkpRNUVfbzQwYTdGTjMxc2FMd1N4bjZmSDdoTnlINXFnZ3FlQ0N6RGdCM3BYUXRxOWJYR0FYbC1pSDBSN2F3cU1GY2ZxcDBZUVU2UHBGRkZ1b1EwaUIwTEFsRTFRdi0yUUhiWVNHUUFlTHBpbmd6dUItc0kzSW9FbW81S0pURjkyUmZVd3BZUzJZNGxPa0d1NGc?oc=5",
+          "published": "Tue, 20 Oct 2026 11:33:16 GMT",
+          "summary": "Customer Relationship Executive: Customer Service / Call Centre Jobs | dubizzle Dubai&nbsp;&nbsp;dubizzle"
+        },
+        {
           "title": "CRM Vendors Tackle AI Costs and Customer Data Access - CX Today",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHNRSk1IMEhBWF80RGd6LThCUGxJVW0xcmRXUF9DWk9QcHNndmo1RkFVbV84b1dDUUZmd1NtcEoxMmVsb3pOV0NFM0V2NkpsY2JtMkg4Z0xFN3NxU0lNR3ZxY3FQVmpkX1lFSmF4VTRnNGVoSDVzQ2ZqX2tLMU8wYUhDZUFoTzFPYWtMMXpMeVF4YU0?oc=5",
           "published": "Tue, 20 Oct 2026 08:04:50 GMT",
           "summary": "CRM Vendors Tackle AI Costs and Customer Data Access&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "Customer Service Technical Support Problem Solving Multitasking CRM Software Data Analysis - Ethiopian Reporter Jobs",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSVdUUWNrWkRUOTI2Y05LQmd0NElHM1BRbW5objAySGMweXE1QnRfZnY0dDQ2WmpMSGtYbmtZR25HQ3M3eUROMkQxdmJILTJNZ2VUVHhPWV9WNlFmUUVrWDE4UVR6Q2F6ZDNOLUN3Ni1WLUNXa2FoTTItX3lJWlowRnRQVmt5eG1RY1A4dHhrV1huX2RiWnp6Q1VvaUV0aXBHbTIxQkZVazNJQVAzZnV2U3JKbkljWnJMZ3hxTHJKSHJWN21mZWZ1cU92eERnaHQ2?oc=5",
+          "published": "Tue, 20 Oct 2026 05:03:03 GMT",
+          "summary": "Customer Service Technical Support Problem Solving Multitasking CRM Software Data Analysis&nbsp;&nbsp;Ethiopian Reporter Jobs"
+        },
+        {
+          "title": "Upstream Works Launches Totalix Contact Center - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2ozazdZVHVuekRxMVpwVVJ6a2JfQjhnMkJlQVBBZ0xfOEdsRUN3QnpDREhZX1htV1JXZXBCd0tkTXRHODlqc1J6UnVvN2R5eVYyTHlBdDVKanpzdnduQkdOa2Z5VEVYOTZfcG5VdnNubHRrT0x6SklSMlQ0UmRrS0J3STFYcmNkTlNseW5FRWpRckMwY1l1ak1fSGwzdXQydkFUc3N1amRaMVRQY3ZLUGdENEIzLV9BblgzdVVYbU5MUVUxT3c?oc=5",
+          "published": "Tue, 20 Oct 2026 04:00:56 GMT",
+          "summary": "Upstream Works Launches Totalix Contact Center&nbsp;&nbsp;Destination CRM"
         },
         {
           "title": "Proactive Customer Service: Solve the Problem Before the Customer Calls - Destination CRM",
@@ -399,10 +510,10 @@
           "summary": "Proactive Customer Service: Solve the Problem Before the Customer Calls&nbsp;&nbsp;Destination CRM"
         },
         {
-          "title": "Customer experience & CRM are key. Your entire front-end business process starts and ends here. Essential for digital transformation. #CustomerExperience #CRM #DigitalTransformation #BusinessProcess #FrontOffice #CustomerService #BusinessStrategy - Instagram",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZDAwX3FBSFlpSnYtcjlkNFpEdzBDTlRuOEZRcVhuS092Tkdyd0pGOXhuaEVBbkhaZW1NeGhTN19yMmJ4UUxwZ2h5QkdCOFhLTGlick53NzNtdw?oc=5",
-          "published": "Mon, 19 Oct 2026 18:26:48 GMT",
-          "summary": "Customer experience & CRM are key. Your entire front-end business process starts and ends here. Essential for digital transformation. #CustomerExperience #CRM #DigitalTransformation #BusinessProcess #FrontOffice #CustomerService #BusinessStrategy&nbsp;&nbsp;Instagram"
+          "title": "Security Update: Incident Affecting Certain Genesys Internal Business Systems - Genesys",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS01mSDJCNGdjcHJyUE1yWWF5aFhEVWpvQlI2djhHemZrMFlDclJnNWNTY0FqbElmTGpILXhvUDNwMlk0bHRQMlNkLW9KVTlLQ3NLZ3hrT3plOTQxVGFFU0txRXpSTEJIMkNDTkV5Zm9BeWNVMUo2RVNPUEhCeFFLMU9yOWxUNHF5VmdMMWNURFR5dGJuNFlNbUhPdkZSa1VFcFZDLXhiNUhvdlU2LXVJ?oc=5",
+          "published": "Tue, 20 Oct 2026 00:00:02 GMT",
+          "summary": "Security Update: Incident Affecting Certain Genesys Internal Business Systems&nbsp;&nbsp;Genesys"
         },
         {
           "title": "How realistic is it to build a small custom CRM/ERP with AI? - Reddit",
@@ -428,6 +539,12 @@
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
       "items": [
         {
+          "title": "How EnTelegent’s Global Private Cloud Network gives MSPs a new infrastructure option - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHFKUm9yQzZleXhkZFpTZEFTWFBqcWRKVjEybC01WUhlS0pxTW9MaW9uVWlleThpbHRVcGkyZ041enlZM1FSS2NwSWZ1Uy1BYlBmaG50MGYzMkFnV2UtMjcyX2xsLWJOMkRzLWhBWTlQdVhiVUhKRUhYY3lNRzQteTljZDlpTGtDRnVVdzk5ckdvUk5qbjhVMVp6UDBxN18wN0U0?oc=5",
+          "published": "Tue, 20 Oct 2026 17:04:10 GMT",
+          "summary": "How EnTelegent’s Global Private Cloud Network gives MSPs a new infrastructure option&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
           "title": "ConnectWise incident highlights how MSPs can strengthen Microsoft 365 application security - The ChannelPro Network",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGRQMXBBZmNPclE5VFhoZXFHdWZCbllOaDRmYlA5bTFDZjZJam9yTTNoaHN5Vm1BaVZKcHhMTG9VbmZ1eWI5Q2dNeFFmOHNQWVVLQWhmeks3V1NWblNjVmJmX09GZ0gtaGFpa1NzSEJpbFFOY3M1S1RnU2RBbXhpRWJwQ0tGdFFLel9Zd3ZieE42Z2U3Sk9VVHpoWk42UllPWWljYmtYSndQWl9SUV9vX2oxeEpURTVtM3R2M1RKSmc2eWJvTUh3Nmx2Z3JXbUl3S0E?oc=5",
           "published": "Mon, 19 Oct 2026 19:57:16 GMT",
@@ -450,6 +567,48 @@
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "Microsoft Sovereign Cloud Shifts the Focus to Customer-Run AI",
+          "link": "https://futurumgroup.com/insights/microsoft-sovereign-cloud-shifts-the-focus-to-customer-run-ai/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-sovereign-cloud-shifts-the-focus-to-customer-run-ai",
+          "published": "Tue, 20 Oct 2026 16:44:49 +0000",
+          "summary": "The post Microsoft Sovereign Cloud Shifts the Focus to Customer-Run AI appeared first on Futurum.\nNick Patience, VP and Practice Lead for AI Platforms at Futurum, shares his insights on Microsoft Sovereign Cloud's push into customer-run AI and why public cloud controls still leave Europe's jurisdiction question open.\nThe post Microsoft Sovereign Cloud Shifts the Focus to Customer-Run AI appeared first on Futurum."
+        },
+        {
+          "title": "TSMC Q3 FY 2026 Earnings Beat and Raise on AI and HPC Demand",
+          "link": "https://futurumgroup.com/insights/tsmc-q3-fy-2026-earnings-beat-and-raise-on-ai-and-hpc-demand/?utm_source=rss&utm_medium=rss&utm_campaign=tsmc-q3-fy-2026-earnings-beat-and-raise-on-ai-and-hpc-demand",
+          "published": "Tue, 20 Oct 2026 16:29:40 +0000",
+          "summary": "The post TSMC Q3 FY 2026 Earnings Beat and Raise on AI and HPC Demand appeared first on Futurum.\nMitch Ashley, VP and Practice Lead, CIO &#038; Technology Buyers and Software Lifecycle Engineering at The Futurum Group, reviews TSMC's latest earnings, where AI and HPC demand drove a beat and raise above guidance as 2-nm ramp costs trimmed gross margin.\nThe post TSMC Q3 FY 2026 Earnings Beat and Raise on AI and HPC Demand appeared first on Futurum."
+        },
+        {
+          "title": "Enterprise Software Spending Lags Behind Stated Platform Consolidation Goals",
+          "link": "https://futurumgroup.com/insights/enterprise-software-spending-lags-behind-stated-platform-consolidation-goals/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-software-spending-lags-behind-stated-platform-consolidation-goals",
+          "published": "Tue, 20 Oct 2026 16:02:38 +0000",
+          "summary": "The post Enterprise Software Spending Lags Behind Stated Platform Consolidation Goals appeared first on Futurum.\nKeith Kirkpatrick, VP, Research, Enterprise Software &#038; Digital Workflows at Futurum, shares his insights on why enterprise app budgets aren't following buyers' platform consolidation plans as in-house AI competes for the same dollars.\nThe post Enterprise Software Spending Lags Behind Stated Platform Consolidation Goals appeared first on Futurum."
+        },
+        {
+          "title": "NVIDIA DGX Spark 64GB’s Low Price-Point Aims To Accelerate Local AI Inference",
+          "link": "https://futurumgroup.com/insights/nvidia-dgx-spark-64gbs-low-price-point-aims-to-accelerate-local-ai-inference/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-dgx-spark-64gbs-low-price-point-aims-to-accelerate-local-ai-inference",
+          "published": "Tue, 20 Oct 2026 15:04:33 +0000",
+          "summary": "The post NVIDIA DGX Spark 64GB’s Low Price-Point Aims To Accelerate Local AI Inference appeared first on Futurum.\nOlivier Blanchard, Research Director at The Futurum Group shares insights on DGX Spark 64GB, its pricing and memory trade-offs, and the role of software and clustering in local AI development.\nThe post NVIDIA DGX Spark 64GB’s Low Price-Point Aims To Accelerate Local AI Inference appeared first on Futurum."
+        },
+        {
+          "title": "Alexa Tablets Reset Part Of Amazon’s Device Strategy",
+          "link": "https://futurumgroup.com/insights/alexa-tablets-reset-part-of-amazons-device-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=alexa-tablets-reset-part-of-amazons-device-strategy",
+          "published": "Tue, 20 Oct 2026 14:28:02 +0000",
+          "summary": "The post Alexa Tablets Reset Part Of Amazon’s Device Strategy appeared first on Futurum.\nOlivier Blanchard, Research Director at The Futurum Group shares insights on Amazon Alexa Tablets, their Google Play integration, higher prices, and expanded Alexa+ capabilities.\nThe post Alexa Tablets Reset Part Of Amazon’s Device Strategy appeared first on Futurum."
+        },
+        {
+          "title": "How Apple Could Break Amazon and Google’s Hold On The Smart Home Segment",
+          "link": "https://futurumgroup.com/insights/how-apple-could-break-amazon-and-googles-hold-on-the-smart-home-segment/?utm_source=rss&utm_medium=rss&utm_campaign=how-apple-could-break-amazon-and-googles-hold-on-the-smart-home-segment",
+          "published": "Tue, 20 Oct 2026 14:13:41 +0000",
+          "summary": "The post How Apple Could Break Amazon and Google’s Hold On The Smart Home Segment appeared first on Futurum.\nOlivier Blanchard, Research Director at The Futurum Group shares insights on Apple HomeView’s personalized smart-home strategy, privacy controls, and adoption hurdles.\nThe post How Apple Could Break Amazon and Google’s Hold On The Smart Home Segment appeared first on Futurum."
+        },
+        {
+          "title": "The Storage Squeeze: How Smart Organizations Are Funding Their AI Future",
+          "link": "https://futurumgroup.com/research-reports/the-storage-squeeze-how-smart-organizations-are-funding-their-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=the-storage-squeeze-how-smart-organizations-are-funding-their-ai-future",
+          "published": "Tue, 20 Oct 2026 13:36:11 +0000",
+          "summary": "The post The Storage Squeeze: How Smart Organizations Are Funding Their AI Future appeared first on Futurum.\nIn our latest Thought Leadership Brief, The Storage Squeeze: How Smart Organizations Are Funding Their AI Future, completed in partnership with CTERA, Futurum Research examines how unmanaged data growth drains AI budgets and lays out a cost-optimization playbook for funding AI through infrastructure savings.\nThe post The Storage Squeeze: How Smart Organizations Are Funding Their AI Future"
+        },
         {
           "title": "Veeam Brings AI Agent Undo to Microsoft 365 With Intelligent ResOps",
           "link": "https://futurumgroup.com/insights/veeam-brings-ai-agent-undo-to-microsoft-365-with-intelligent-resops/?utm_source=rss&utm_medium=rss&utm_campaign=veeam-brings-ai-agent-undo-to-microsoft-365-with-intelligent-resops",
@@ -514,6 +673,30 @@
       "name": "Constellation Research",
       "items": [
         {
+          "title": "Google Public Sector customers: Data foundation eases AI bottlenecks",
+          "link": "https://www.constellationr.com/insights/news/google-public-sector-customers-data-foundation-eases-ai-bottlenecks",
+          "published": "Tue, 20 Oct 2026 17:13:19 +0000",
+          "summary": "Google Public Sector customers: Data foundation eases AI bottlenecks\nLarry Dignan\nTue, 20 Oct 2026 - 10:13\n\n  \n  \n\n\n          \n\n\n\n\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on e"
+        },
+        {
+          "title": "Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator",
+          "link": "https://www.constellationr.com/insights/news/google-public-sector-launches-gemini-government-services-sees-ai-agents-integration",
+          "published": "Tue, 20 Oct 2026 13:43:00 +0000",
+          "summary": "Google Public Sector launches Gemini for Government Services, sees AI agents as integration accelerator\nLarry Dignan\nTue, 20 Oct 2026 - 06:43\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage f"
+        },
+        {
+          "title": "Salesforce buys Braze for $5.66 billion",
+          "link": "https://www.constellationr.com/insights/news/salesforce-buys-braze-566-billion",
+          "published": "Tue, 20 Oct 2026 13:01:19 +0000",
+          "summary": "Salesforce buys Braze for $5.66 billion \nLarry Dignan\nTue, 20 Oct 2026 - 06:01\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transformation, and em"
+        },
+        {
+          "title": "Couchbase updates AI platform with Amazon Bedrock integration",
+          "link": "https://www.constellationr.com/insights/news/couchbase-updates-ai-platform-amazon-bedrock-integration",
+          "published": "Tue, 20 Oct 2026 13:00:00 +0000",
+          "summary": "Couchbase updates AI platform with Amazon Bedrock integration \nLarry Dignan\nTue, 20 Oct 2026 - 06:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital "
+        },
+        {
           "title": "There is no moat for LLM giants",
           "link": "https://www.constellationr.com/insights/news/there-no-moat-llm-giants",
           "published": "Tue, 20 Oct 2026 09:22:41 +0000",
@@ -530,18 +713,18 @@
           "link": "https://www.constellationr.com/insights/news/boomi-acquires-elementary-data-adds-data-observability-quality-governance-layer",
           "published": "Mon, 19 Oct 2026 10:30:43 +0000",
           "summary": "Boomi acquires Elementary Data, adds data observability, quality, governance layer\nLarry Dignan\nMon, 19 Oct 2026 - 03:30\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise "
-        },
-        {
-          "title": "What we can learn from industrial, blue collar AI",
-          "link": "https://www.constellationr.com/insights/news/what-we-can-learn-industrial-blue-collar-ai",
-          "published": "Sun, 18 Oct 2026 11:00:00 +0000",
-          "summary": "What we can learn from industrial, blue collar AI\nLarry Dignan\nSun, 18 Oct 2026 - 04:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital transformatio"
         }
       ]
     },
     {
       "name": "SiliconANGLE",
       "items": [
+        {
+          "title": "AI is everywhere in Zoom product blitz",
+          "link": "https://siliconangle.com/2026/10/20/ai-is-everywhere-in-zoom-product-blitz/",
+          "published": "2026-10-20T16:30:01Z",
+          "summary": "Zoom Communications Inc. is expanding beyond videoconferencing with a shared intelligence layer designed to help artificial intelligence agents turn meetings, calls and customer interactions into completed work across business applications. Announced at the Zoomtopia virtual conference, the Unified Context Layer anchors updates spanning workplace collaboration, customer service, developer tools, security, events and sales. The company’s [&#8230;]\nThe post AI is everywhere in Zoom product blitz a"
+        },
         {
           "title": "NiCE bets the company on AI, data and accountability, and the legacy business buys it time",
           "link": "https://siliconangle.com/2026/10/19/nice-bets-the-company-on-ai-data-and-accountability-and-the-legacy-business-buys-it-time/",
@@ -552,7 +735,14 @@
     },
     {
       "name": "Technology News For IT Channel Partners and Solution Providers",
-      "items": []
+      "items": [
+        {
+          "title": "Zoom Channel Chief Nick Tidd On Going ‘Channel-First,’ AI Monetization And The Partner Opportunity",
+          "link": "https://www.crn.com/news/networking/2026/zoom-channel-chief-nick-tidd-on-going-channel-first-ai-monetization-and-the-partner-opportunity",
+          "published": "Tue, 20 Oct 2026 16:30:00 GMT",
+          "summary": "Zoom is putting partners at the center of its AI and platform growth strategy. Ahead of Zoom Partner Connect 2026, channel chief Nick Tidd broke down the opportunities ahead and the company’s push to become truly channel-first."
+        }
+      ]
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -569,6 +759,12 @@
     {
       "name": "CX Dive",
       "items": [
+        {
+          "title": "What JetBlue first-class fares say about airlines’ premium push",
+          "link": "https://www.customerexperiencedive.com/news/what-jetblue-first-class-fares-say-about-airlines-premium-push/833386/",
+          "published": "Tue, 20 Oct 2026 07:00:00 -0400",
+          "summary": "Carriers are investing in premium experiences to capture wealthier customers willing to pay more while diversifying revenue streams amid rising fuel costs."
+        },
         {
           "title": "Travelers want flexibility, experiences over ‘perfection’: Hilton",
           "link": "https://www.customerexperiencedive.com/news/travelers-flexibility-over-perfection-hilton-trends-report/833385/",
@@ -597,7 +793,56 @@
     },
     {
       "name": "Call Centre Helper",
-      "items": []
+      "items": [
+        {
+          "title": "‘Deflected’ Does Not Mean ‘Resolved’",
+          "link": "https://www.callcentrehelper.com/deflected-does-not-mean-resolved-278233.htm",
+          "published": "Tue, 20 Oct 2026 10:00:00 +0000",
+          "summary": "Claire Butcher at Sabio explores why contact centres should move beyond call deflection and focus on resolving customer issues rather than shifting costs elsewhere. ‘Deflection’ never saved money, it deferred it. You pay later, out of a different budget where...\nThe post ‘Deflected’ Does Not Mean ‘Resolved’ appeared first on Call Centre Helper."
+        },
+        {
+          "title": "How to Turn Training into Lasting Competence",
+          "link": "https://www.callcentrehelper.com/turn-training-lasting-competence-278216.htm",
+          "published": "Tue, 20 Oct 2026 08:30:00 +0000",
+          "summary": "Elephants Don’t Forget explores how organizations can measure learning effectiveness, reinforce knowledge and turn mandatory training into lasting workplace competence. Mandatory learning plays an important role within organisations when it comes to managing regulatory, compliance and organisational risk. But there’s...\nThe post How to Turn Training into Lasting Competence appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Live Show & Tell: What WFM Teams Are Building With AI",
+          "link": "https://www.callcentrehelper.com/what-wfm-teams-building-with-ai-278241.htm",
+          "published": "Tue, 20 Oct 2026 08:15:15 +0000",
+          "summary": "Date: 13th November 2026 &#124; 10am PST &#124; 6pm GMT Location: Virtual Register Now! WFM teams aren’t waiting for AI to show up in their tools. They’re building it themselves.Join practitioners for a live show and tell of the AI...\nThe post Live Show &amp; Tell: What WFM Teams Are Building With AI appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Tactics to Manage QA Well During Seasonal Peaks",
+          "link": "https://www.callcentrehelper.com/manage-qa-seasonal-peaks-277646.htm",
+          "published": "Tue, 20 Oct 2026 07:00:00 +0000",
+          "summary": "Learn five ways to maintain contact centre QA during seasonal peaks, including smarter coaching, risk-based checks, flexible planning, and automated QA tools.\nThe post Tactics to Manage QA Well During Seasonal Peaks appeared first on Call Centre Helper."
+        },
+        {
+          "title": "DemoNow: From Conversation to Action with Dialogue Studio",
+          "link": "https://www.callcentrehelper.com/demonow-conversation-to-action-278217.htm",
+          "published": "Mon, 19 Oct 2026 13:08:27 +0000",
+          "summary": "Date: 4th November 2026 &#124; 3pm GMT &#124; 4pm CET &#124; 11am EST Location: Virtual Register Now! Make Every Conversation Work Harder&#160; Join AnywhereNow live and see how Dialogue Studio, a powerful component of Dialogue Cloud Neo, brings together AI,...\nThe post DemoNow: From Conversation to Action with Dialogue Studio appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Xander Freeman Shares Latest Call Centre Helper Research on Zoom Podcast",
+          "link": "https://www.callcentrehelper.com/xander-freeman-on-zoom-podcast-278151.htm",
+          "published": "Mon, 19 Oct 2026 10:00:00 +0000",
+          "summary": "Call Centre Helper Director Xander Freeman joined Zoom's 'Zoom in on CX' podcast to discuss findings from Call Centre Helper’s 14th annual research.\nThe post Xander Freeman Shares Latest Call Centre Helper Research on Zoom Podcast appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Reversing the Sprawl…And Why More Isn’t Always Better",
+          "link": "https://www.callcentrehelper.com/reversing-the-sprawl-277917.htm",
+          "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+          "summary": "Sometimes transformation isn’t about adding something new. Richard Farrell from Netcall explores why organisations should simplify what they already have before layering on more technology. For years, organisations have responded to new challenges by adding new technology. Need a new...\nThe post Reversing the Sprawl…And Why More Isn’t Always Better appeared first on Call Centre Helper."
+        },
+        {
+          "title": "8 Ways AI Is Already Changing WFM for the Better",
+          "link": "https://www.callcentrehelper.com/ways-ai-already-changing-wfm-277836.htm",
+          "published": "Mon, 19 Oct 2026 07:00:00 +0000",
+          "summary": "Learn how AI is transforming contact centre WFM with smarter forecasting, skills matching, flexible scheduling, workforce insights, and better customer outcomes.\nThe post 8 Ways AI Is Already Changing WFM for the Better appeared first on Call Centre Helper."
+        }
+      ]
     },
     {
       "name": "Light Reading",
@@ -606,6 +851,36 @@
     {
       "name": "CXM Customer Experience Magazine",
       "items": [
+        {
+          "title": "Zoomtopia 2026: Zoom Gives Its Human and AI Agents a Shared Customer Memory",
+          "link": "https://cxm.world/customer-experience/zoom-customer-context-ai-shared-memory/",
+          "published": "Tue, 20 Oct 2026 16:30:00 +0000",
+          "summary": "The CX centrepiece of Zoomtopia 2026, Zoom’s annual customer conference, is what it calls a “unified context layer”. The idea is that every call, chat, and virtual agent conversation adds to one record of the customer, ready for next time. The layer pulls together “signals from customer engagements, transcripts, CRM data, and live conversations” and...\nThe post Zoomtopia 2026: Zoom Gives Its Human and AI Agents a Shared Customer Memory appeared first on Customer Experience Magazine."
+        },
+        {
+          "title": "UK Shoppers Are Ghosting Loyalty Schemes Over the Same Red Flags",
+          "link": "https://cxm.world/customer-experience/uk-shoppers-are-ghosting-loyalty-schemes-over-the-same-red-flags/",
+          "published": "Tue, 20 Oct 2026 15:53:07 +0000",
+          "summary": "Loyalty membership has become close to universal in UK retail, and most shoppers present a loyalty app or card at the till without a second thought. Behind that routine, plenty of members have lost any real attachment, and more than a 20% have already walked away from a retailer because of its programme, usually without...\nThe post UK Shoppers Are Ghosting Loyalty Schemes Over the Same Red Flags appeared first on Customer Experience Magazine."
+        },
+        {
+          "title": "Will 80% of Frontline Workers Be Assisted by Physical AI by 2030, as Gartner Predicts?",
+          "link": "https://cxm.world/employee-experience/physical-ai-frontline-work-gartner-2030-prediction/",
+          "published": "Tue, 20 Oct 2026 15:51:00 +0000",
+          "summary": "Gartner has put a bold number on physical AI in frontline work: by 2030, it predicts 80% of frontline workers will be assisted by such systems. Experts say the prediction is plausible, but preparing the people who will work alongside the technology is lagging well behind. Last month, Gartner unveiled its top strategic predictions for 2027....\nThe post Will 80% of Frontline Workers Be Assisted by Physical AI by 2030, as Gartner Predicts? appeared first on Customer Experience Magazine."
+        },
+        {
+          "title": "Plan Your CX Vision with Mitel, Foundever & Accenture",
+          "link": "https://cxm.world/customer-experience/plan-your-cx-vision-with-mitel-foundever-accenture/",
+          "published": "Tue, 20 Oct 2026 15:14:32 +0000",
+          "summary": "With just over two weeks until the doors open at Wembley for CX Vision 2035, it is time to start planning your day! Three organisations are backing CX Vision 2035 at Platinum level: Mitel, Foundever and Accenture. Here is who they are and where to find them at Wembley on 5th Nov 2026. Register for...\nThe post Plan Your CX Vision with Mitel, Foundever &#038; Accenture appeared first on Customer Experience Magazine."
+        },
+        {
+          "title": "Six UK Companies Proved That Great Customer Experience Is Built From Within",
+          "link": "https://cxm.world/customer-experience/six-uk-companies-proved-that-great-customer-experience-is-built-from-within/",
+          "published": "Tue, 20 Oct 2026 14:12:42 +0000",
+          "summary": "Wembley Stadium can rarely have been so loud on a night without a football match. The UK Customer Experience Awards 2026 brought together a record number of CX professionals and the energy stayed high from the first category to the last. Away from the stage, conversations with the winners kept coming back to the same...\nThe post Six UK Companies Proved That Great Customer Experience Is Built From Within appeared first on Customer Experience Magazine."
+        },
         {
           "title": "AI Agents Break Into SharkNinja, Deere, and 100+ More Brand Websites for $50 a Hack",
           "link": "https://cxm.world/customer-experience/ai-cyberattacks-agents-100-companies/",
@@ -647,6 +922,18 @@
     {
       "name": "CX Foundation - Google News",
       "items": [
+        {
+          "title": "ElevenLabs Wants to Take the Assembly Work Out of Voice AI - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PeG95WTdXckUzVXNuVGdFanNhNFl5NnhxZkNGZUdubjRoYXh1cmpBZE5qSmUzY25mMlUzV2hLRl9TeUthYW9SM0M0blpCRldOaUpIT3dhNW55SnRFaFhfS1ExSW82aVQ1bm5Xb0h6OEttb1k?oc=5",
+          "published": "Tue, 20 Oct 2026 17:07:21 GMT",
+          "summary": "ElevenLabs Wants to Take the Assembly Work Out of Voice AI&nbsp;&nbsp;CX Foundation"
+        },
+        {
+          "title": "Zoom Debuts a Unified Context Layer to Transform Customer and Employee Experiences - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMC1hNWRta2tWVjV3dktTenh3YjZ1UmFhNm00eUZNNzRoUzV4Q1hjLVJiWHhZYi1tckVzT2JEY0w5b2lORjdIUmVUQ3JYekdaZC1UYXRTbWxYYUEyZmhCV3dPclMxMlk?oc=5",
+          "published": "Tue, 20 Oct 2026 17:07:21 GMT",
+          "summary": "Zoom Debuts a Unified Context Layer to Transform Customer and Employee Experiences&nbsp;&nbsp;CX Foundation"
+        },
         {
           "title": "At the 2026 NiCE Analyst Summit, Trust and Accountability Emerge As Core Differentiators - CX Foundation",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YMk96MkZOUjRucUJBVWZnVUt4clNSam1oZWJ1SlVhanlnVEpBVFFBWnJsdmp0aXk5RjlIbHkxY0lNWEpBM0h6NjVQZHdRalp5RU9tcnNud0F0ZldyWFZJTkhCTno?oc=5",
