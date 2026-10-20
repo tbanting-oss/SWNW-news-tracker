@@ -1,6 +1,73 @@
 {
   "days": [
     {
+      "iso": "2026-10-20",
+      "label": "Tue 20 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Workday extends HR and finance workflows into Claude",
+          "sowhat": "Anthropic integration brings governed reasoning directly into Workday's core systems—matters for buyers who need audit-ready AI in finance and HR processes.",
+          "url": "https://futurumgroup.com/insights/workday-extends-governed-hr-and-finance-workflows-into-claude/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "HubSpot adds AI usage pricing controls for CRM",
+          "sowhat": "First major CRM vendor to give buyers per-feature cost visibility before AI consumption spirals—addresses the budgeting gap enterprise buyers flagged in Q3.",
+          "url": "https://cxtoday.com/crm-vendors-tackle-ai-costs-sales-intelligence-and-customer-data-acce",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Intel D-Series GPUs target agentic inference without HBM",
+          "sowhat": "Removes high-bandwidth memory requirement for multi-agent inference workloads—potentially lowers entry cost for enterprises deploying agentic CX or UC at scale.",
+          "url": "https://futurumgroup.com/insights/intel-d-series-gpus-make-hbm-optional-for-agentic-inference/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Adobe-NVIDIA accelerate agentic content creation, trust lags adoption",
+          "sowhat": "ETR data shows enterprise buyers prioritise trust and outcomes over speed—highlights the gap between vendor capability announcements and actual purchasing criteria.",
+          "url": "https://futurumgroup.com/insights/adobe-and-nvidia-speed-agentic-creation-but-trust-is-what-enterprises-buy/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "AI",
+          "headline": "AI agents breach 100+ brand websites for $50",
+          "sowhat": "Norwegian researcher documented AI-driven hacks of Deere, SharkNinja, Cummins and others—exposes how automated cyberattacks now bypass CX, commerce and support systems at commodity prices.",
+          "url": "https://cxm.world/customer-experience/ai-cyberattacks-agents-100-companies/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Customer patience for poor service drops sharply",
+          "sowhat": "CX Dive reports tolerance threshold falling—matters because automation and deflection strategies that don't resolve issues now trigger faster churn.",
+          "url": "https://www.customerexperiencedive.com/news/customer-patience-for-bad-service-is-wearing-thin/833256/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Dive"
+        }
+      ],
+      "pattern_watch": "Four items share one thread: enterprises now selecting AI governance and trust infrastructure before deploying agents (Workday-Claude, Adobe trust gap, Webex framework, cybersecurity breach exposure)."
+    },
+    {
       "iso": "2026-10-19",
       "label": "Mon 19 Oct 2026",
       "rows": [
@@ -878,104 +945,7 @@
         }
       ],
       "pattern_watch": "Agentic CX: Meta/Genesys protocol, Twilio live memory, Salesforce Loops buy all point to infrastructure for autonomous customer agents"
-    },
-    {
-      "iso": "2026-10-12",
-      "label": "Mon 12 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Microsoft ships 30 Dynamics CRM skills to Copilot",
-          "sowhat": "Pre-built multi-step CRM automation now generally available in Copilot Cowork, with Autopilot handoff in private preview — Microsoft's first production agentic CRM surface.",
-          "url": "https://cxm.world/customer-experience/agentic-crm-microsoft-dynamics-365-copilot-skills/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce renames AIForce 'SIForce' following White House rebrand",
-          "sowhat": "Cosmetic rebrand aligns with Trump administration 'Super Intelligence' language but changes nothing technical in the Claude/Slack integration platform launched last month.",
-          "url": "https://cxm.world/customer-experience/salesforce-super-intelligence-rebrand-siforce/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "OpenAI and Microsoft launch 'decision model' AI class",
-          "sowhat": "New models choose between options rather than generate text, potentially shifting CX automation from chat deflection toward routing and triage use cases.",
-          "url": "https://cxm.world/customer-experience/ai-decision-models-customer-experience/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Info Quest becomes Cloudflare distributor in Greece, Cyprus, Malta",
-          "sowhat": "Regional distribution deal brings Zero Trust networking to smaller enterprise markets but changes nothing for UK or global CX infrastructure strategy.",
-          "url": "https://futurumgroup.com/insights/info-quest-technologies-becomes-cloudflares-regional-distributor/?utm_source=rss&utm_medium=rss&utm_campaign=info-quest-technologies-becomes-cloudflares-regional-distributor",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco opens Webex workspace data to third-party agents",
-          "sowhat": "Cisco's MCP connector lets Microsoft, Google and Amazon agents query meeting rooms and device state — turning collaboration infrastructure into a shared data layer for enterprise AI.",
-          "url": "https://blog.webex.com/collaboration/bringing-ciscos-workspace-intelligence-every-ai-agent-already-use/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Webex (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Walmart's Sparky AI drives cost savings into CX",
-          "sowhat": "Walmart CEO confirms AI is delivering operational savings that the retailer is reinvesting in customer experience — a rare public linkage of automation ROI to front-line service budgets.",
-          "url": "https://www.customerexperiencedive.com/news/ai-walmart-sparky-CX-investment/832789/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Dive"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "HSBC reportedly cutting 70% of UK financial advisers",
-          "sowhat": "HSBC's reported adviser cull signals a wholesale shift to AI-led advisory in UK wealth management, raising questions about regulatory acceptance and customer trust in high-stakes financial conversations.",
-          "url": "https://cxm.world/employee-experience/employee-experience-news-roundup-hsbc-ai-robo-bosses/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft to ship Maia 300 inference chip in 2027",
-          "sowhat": "Microsoft's second-gen Maia accelerator targets inference workloads, signalling the hyperscaler's intent to reduce Nvidia dependence for its Copilot and Azure AI services.",
-          "url": "https://www.constellationr.com/insights/news/microsoft-launch-maia-300-inference-chip-2027",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Constellation Research"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Deepgram targets air-gapped voice AI on laptops",
-          "sowhat": "Deepgram's on-device voice model aims at regulated and offline environments, positioning speech-to-text as infrastructure that no longer requires cloud round-trips or persistent connectivity.",
-          "url": "https://siliconangle.com/2026/10/12/deepgram-targets-voice-ai-air-gapped-laptops-dellaileadershipsymposium/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "SiliconANGLE"
-        }
-      ],
-      "pattern_watch": "Microsoft and Salesforce both pushing agentic CRM surfaces into production within weeks"
     }
   ],
-  "updated": "2026-10-19T20:23:27.737544+00:00"
+  "updated": "2026-10-20T11:09:51.067239+00:00"
 }
