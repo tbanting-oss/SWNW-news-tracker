@@ -53,9 +53,69 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Microsoft CCI debuts to overlay AI on competitors' platforms",
+          "sowhat": "Microsoft is placing its conversational agents, QA and analytics directly into rival contact centres, turning CCI into a land grab that bypasses rip-and-replace economics.",
+          "url": "https://cxtoday.com/microsoft-cci-challenges-the-rip-and-replace-contact-center-model",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce acquires Braze for $5.66bn to close engagement gap",
+          "sowhat": "Braze adds the real-time B2C execution layer Marketing Cloud has long lacked, but integration, overlap with existing tools and pricing remain open questions for existing customers.",
+          "url": "https://cxtoday.com/has-salesforce-bought-its-missing-engagement-engine",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Gamma named world's largest Webex wholesale provider by Cisco",
+          "sowhat": "Cisco's recognition of Gamma at 100,000 Webex seats signals wholesale channel momentum, but scale alone tells nothing about margin or renewal rates.",
+          "url": "https://www.google.com/url?rct=j&sa=t&url=https://channellife.co.uk/story/gamma-adds-sky-fttp-to-fibrexchange-for-uk-resellers&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0Oik2_seL9RZ_Xdo2PaC10",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Google Alert"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "UK PSTN switch-off leaves 15 weeks to test analogue lines",
+          "sowhat": "Contact centres must audit every BT Openreach migration and analogue route before 2027 or risk failed failover and higher WLR charges post-deadline.",
+          "url": "https://cxtoday.com/pstn-switch-off-2027-15-weeks-left-to-find-the-analogue-line",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom unveils unified context layer for customer and agent memory",
+          "sowhat": "Zoom's shared intelligence layer aims to let AI and human agents share one customer record, but execution hinges on CRM integration quality and data governance.",
+          "url": "https://cxm.world/todays-pick/zoom-customer-context-ai-shared-memory/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Zendesk targets IT service with resolution-based AI agent pricing",
+          "sowhat": "Zendesk is pricing employee service AI by outcome, not seat, putting direct pressure on ServiceNow and Microsoft in IT workflow automation.",
+          "url": "https://futurumgroup.com/insights/can-zendesk-employee-service-ai-agents-pry-it-work-from-servicenow/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "Two items highlight fragmented data and missing context as live operational barriers, not just strategy problems."
+      "pattern_watch": "Three acquisitions this week (Salesforce/Braze, Accenture and Kustomer deals) show CRM/CX vendors consolidating engagement and analytics capabilities rather than building them."
     },
     {
       "iso": "2026-10-20",
@@ -937,5 +997,5 @@
       "pattern_watch": "Context graphs / agent memory: Atlassian AMP, Wrike, Google, SAP, Asana all launch competing semantic layers this week."
     }
   ],
-  "updated": "2026-10-21T11:25:52.795224+00:00"
+  "updated": "2026-10-21T19:07:47.064182+00:00"
 }
