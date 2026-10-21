@@ -1,6 +1,63 @@
 {
   "days": [
     {
+      "iso": "2026-10-21",
+      "label": "Wed 21 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce acquiring Braze for $5.66bn cash",
+          "sowhat": "A major consolidation move that directly challenges customer engagement specialists and puts Marketing Cloud's roadmap under immediate scrutiny for existing customers.",
+          "url": "http://www.businesswire.com/news/home/20261020157470/en/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Business Wire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Zoom launches unified context layer for interactions",
+          "sowhat": "Zoom is linking call, chat, and virtual agent data into a shared memory so agents see prior context, a basic expectation that still trips up most contact centres.",
+          "url": "https://cxtoday.com/zoom-targets-cxs-broken-context-with-its-new-ai-layer",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Zoom unveils channel-first AI monetisation strategy",
+          "sowhat": "Channel chief Nick Tidd signals Zoom is shifting to partners for AI and platform distribution, a revenue bet that hinges on partner capability to sell AI services.",
+          "url": "https://www.crn.com/news/networking/2026/zoom-channel-chief-nick-tidd-on-going-channel-first-ai-monetization-and-the-partner-opportunity",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "crn.com"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CX",
+          "headline": "Ahold Delhaize loyalty runs offline during outage",
+          "sowhat": "The grocer's use of in-store kiosks and delayed point expirations shows loyalty systems still lack offline resilience when core infrastructure fails.",
+          "url": "https://www.customerexperiencedive.com/news/ahold-delhaize-usa-cybersecurity-website-app-outage-loyalty-programs/833537/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "CX",
+          "headline": "CX Dive reports siloed data blocking experiences",
+          "sowhat": "A recurring barrier: data fragmentation still prevents unified views, undermining both human service and new AI deployments that rely on complete context.",
+          "url": "https://www.customerexperiencedive.com/news/siloed-data-remains-key-barrier-seamless-customer-experiences/833510/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Dive"
+        }
+      ],
+      "pattern_watch": "Two items highlight fragmented data and missing context as live operational barriers, not just strategy problems."
+    },
+    {
       "iso": "2026-10-20",
       "label": "Tue 20 Oct 2026",
       "rows": [
@@ -878,134 +935,7 @@
         }
       ],
       "pattern_watch": "Context graphs / agent memory: Atlassian AMP, Wrike, Google, SAP, Asana all launch competing semantic layers this week."
-    },
-    {
-      "iso": "2026-10-13",
-      "label": "Tue 13 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Twilio GA: Segment Conversation Memory syncs profiles live",
-          "sowhat": "Customer profiles now auto-populate in live channels, eliminating agent cold-start and enabling context-aware AI without manual handoff steps.",
-          "url": "https://www.twilio.com/en-us/blog/products/segment-conversation-memory-integration-ga",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Twilio (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce signs definitive agreement to acquire Loops",
-          "sowhat": "Acquisition signals Salesforce intent to embed micro-SaaS loop-building capability into core CRM, likely targeting workflow automation gaps.",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXhUb3RiY1ROQVJySi10R0dIOXBnbnZrMGVSUXIxS3c1UVBHQWlhbVY4ZHJTWmlYdGxmS2JSaDZxVzRXRk9Jcmp6ZjJFSzVEYlA5dXJlTzQ1eTNTdGRvUms3UDR3U1ZKNk5aWlZtUEtDakwwS0R4cW5Fb2xNUHNndnJxUjVIUThRQ3BFUmc0WDhIdHBPV1FsS3FoZw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Salesforce"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Mitel WX targets deskless workers over meeting-room users",
-          "sowhat": "Mitel repositions unified comms for frontline/deskless majority, betting next UC battleground is operational floor rather than Zoom-style collaboration.",
-          "url": "https://siliconangle.com/2026/10/13/mitel-wx-bets-next-phase-of-unified-communications-will-be-won-on-the-floor-not-in-the-meeting-room/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "SiliconANGLE"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Meta, Genesys, Sierra publish Personal Agent Protocol draft",
-          "sowhat": "Proposed open standard defines how consumer AI agents authenticate and transact with businesses, potentially shaping interoperability for agentic CX.",
-          "url": "https://cxm.world/customer-experience/personal-agent-protocol/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "RHB Bank rolls out BUSINESSNEXT CRM in Malaysia",
-          "sowhat": "Regional bank deployment suggests BUSINESSNEXT gaining traction in APAC financial services CRM market, where local vendors compete with Salesforce.",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUpDVkMtUnJ3eGhERlVkeW1jWjNwc1BaWGUxc0RDNkxvNVVLVE9mcWZaU0N5V1RQTGlYOS1WOTFJblo4RDdPWGNJRHhVTEFRUnhiNXUxX1BnLWtrMVFqUXhCZU5nc1lUZXFRM1NMUHNNNlVHeDZ2SEhMUGJhd0FGMS1nLU54eEM1QmZwbHRBSkcybDFnY3ZVNGxHSlpGQlFDT1Q3WUpxSUpTWXpGWVlfYUZpNmRXUQ?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "marketech apac"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "CallTower acquiring Momentum, consolidates global UCaaS footprint",
-          "sowhat": "Consolidation move expands CallTower's multi-vendor support model, targeting enterprises wanting single partner for Microsoft/Cisco/Zoom hybrid estates.",
-          "url": "https://telecomreseller.com/2026/10/12/how-calltower-builds-one-stop-cloud-communications-for-global-teams/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce acquires Loops for agentic analytics",
-          "sowhat": "Loops brings continuous KPI monitoring and root-cause analysis into Tableau, widening Salesforce's lead in predictive CX intelligence over rivals relying on static dashboards.",
-          "url": "https://cxtoday.com/salesforce-loops-deal-targets-cx-problems-before-they-hit",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Sinch adds RCS to SAP Engagement Cloud",
-          "sowhat": "Businesses on SAP can now send richer, AI-powered conversations via RCS instead of plain SMS, raising the floor for branded customer messaging.",
-          "url": "https://telecomreseller.com/2026/10/13/sinch-expands-sap-partnership-with-rcs-integration-for-sap-engagement-cloud/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Q-SYS aligns with Microsoft Device Ecosystem Platform",
-          "sowhat": "IT teams gain a clearer path for deploying Teams, Copilot, and connected workplace data without juggling separate AV and UC certification matrices.",
-          "url": "https://uctoday.com/why-q-sys-and-microsoft-go-deeper-than-av-certification-qsc-cs-0233",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Workday to acquire C1.ai for agentic identity",
-          "sowhat": "Workday adds an identity layer specifically for AI agents, signalling that enterprises must now govern non-human actors alongside employees in the same IAM stack.",
-          "url": "https://futurumgroup.com/insights/workday-makes-sana-its-interface-launches-agent-harness-decision-and-work/?utm_source=rss&utm_medium=rss&utm_campaign=workday-makes-sana-its-interface-launches-agent-harness-decision-and-work",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": ""
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Octopus Deploy ships remote MCP for agentic DevOps",
-          "sowhat": "Removing per-machine MCP installation friction lets enterprises scale AI-driven deployment workflows without manual configuration on every endpoint.",
-          "url": "https://futurumgroup.com/insights/octopus-deploys-remote-mcp-removes-the-last-excuse-not-to-go-agentic/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-deploys-remote-mcp-removes-the-last-excuse-not-to-go-agentic",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Teardown",
-          "cat": "AI",
-          "headline": "Meta's Muse Charm enters pre-failure hype cycle",
-          "sowhat": "A pocket AI agent device must avoid Humane and Rabbit's fate by proving tangible value before the market decides it is a solution hunting for a problem.",
-          "url": "https://futurumgroup.com/insights/can-metas-muse-charm-create-enough-value-to-survive-its-own-initial-hype-cycle/?utm_source=rss&utm_medium=rss&utm_campaign=can-metas-muse-charm-create-enough-value-to-survive-its-own-initial-hype-cycle",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "Agentic CX: Meta/Genesys protocol, Twilio live memory, Salesforce Loops buy all point to infrastructure for autonomous customer agents"
     }
   ],
-  "updated": "2026-10-20T18:56:40.982930+00:00"
+  "updated": "2026-10-21T11:25:52.795224+00:00"
 }
