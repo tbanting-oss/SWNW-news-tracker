@@ -73,9 +73,89 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "Business Wire"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Microsoft launches Contact Center Intelligence atop rivals",
+          "sowhat": "Microsoft is now selling Copilot agents, analytics, and biometric auth as a layer on Five9, Cisco, and Avaya platforms — CCaaS vendors must decide whether to integrate or compete with their hyperscaler.",
+          "url": "https://cxm.world/todays-pick/microsoft-contact-center-intelligence-public-preview/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce pays $5.66bn for Marketing Cloud rival Braze",
+          "sowhat": "Salesforce acquires real-time customer engagement platform Braze for $5.66bn to fill Marketing Cloud's B2C gap, signalling consolidation in customer data and orchestration stacks.",
+          "url": "https://cxm.world/customer-experience/salesforce-braze-acquisition/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Cisco named Challenger in 2026 Gartner CCaaS MQ",
+          "sowhat": "Cisco holds Challenger status in Gartner's CCaaS quadrant, reinforcing its position as a scale player but still trailing Leaders in execution.",
+          "url": "https://blog.webex.com/customer-experience/cisco-named-challenger-2026-gartner-magic-quadrant-ccaas/",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom adds unified context layer for CX agents",
+          "sowhat": "Zoom's new context layer gives human and AI agents shared memory across channels — buyers should test whether it reduces repeat contacts more than existing session history.",
+          "url": "https://cxtoday.com/from-context-to-kiosks-3-takeaways-from-zoomtopia-2026",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Slack launches Frontline for deskless workers as Enterprise+ add-on",
+          "sowhat": "Slack's frontline workspace targets retail and logistics staff but requires the top-tier Enterprise+ licence, limiting addressable market compared to Microsoft Teams or Workplace from Meta.",
+          "url": "https://futurumgroup.com/insights/slack-targets-deskless-staff-with-frontline-workspace/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "AI",
+          "headline": "CX leaders measure AI efficiency while repeat contacts climb",
+          "sowhat": "CallMiner data shows efficiency metrics mask rising repeat contacts — CX buyers must add resolution and outcome measures to AI scorecards or risk optimising the wrong thing.",
+          "url": "https://cxtoday.com/the-cost-of-measuring-cx-ai-by-efficiency-alone-callminer-cs-0222",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "ElevenLabs releases live voice translation for enterprise contact centres",
+          "sowhat": "ElevenLabs' real-time translation across 90+ languages is in alpha — contact centre buyers should test latency, accent handling, and integration cost before committing to a voice-first multilingual strategy.",
+          "url": "https://futurumgroup.com/insights/elevenlabs-targets-enterprise-contact-centers-with-live-voice-translation/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "NYC proposes rule banning AI customer service doom loops",
+          "sowhat": "New York City's proposed rule would require businesses to offer human escalation when AI fails — if adopted, it sets a compliance floor that other jurisdictions may follow.",
+          "url": "https://cxm.world/customer-experience/new-york-city-proposes-ban-on-ai-customer-service-doom-loops-what-does-it-mean-for-cx/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "Contact centre AI oversight: NYC doom loop rule, CallMiner efficiency critique, and Microsoft CCI overlay all point to tightening scrutiny of autonomous agent behaviour and buyer control."
     },
     {
       "iso": "2026-10-21",
@@ -927,5 +1007,5 @@
       "pattern_watch": "Personal AI agents (Muse) and enterprise governance (ServiceNow, Freshworks, JPMorgan) converge on the same question: who controls access and owns liability."
     }
   ],
-  "updated": "2026-10-22T11:25:52.940574+00:00"
+  "updated": "2026-10-22T19:03:32.688800+00:00"
 }
