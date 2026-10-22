@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-22",
+      "label": "Thu 22 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Deutsche Telekom moves 2,800 agents to Webex",
+          "sowhat": "A 2,800-seat win with over 30% cost reduction and 1 million monthly interactions is material proof that Webex Contact Center can displace incumbents at scale.",
+          "url": "https://blog.webex.com/customer-experience/how-deutsche-telekom-transformed-b2b-customer-service-webex-contact-center-webex-ai/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce acquires Braze for $5.66 billion",
+          "sowhat": "Salesforce is paying a 58% premium to plug a real-time B2C engagement gap in Marketing Cloud, signalling continued platform consolidation pressure.",
+          "url": "https://www.salesforce.com/news/press-releases/2026/10/20/salesforce-signs-definitive-agreement-to-acquire-braze/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": ""
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Microsoft launches Contact Center Intelligence in preview",
+          "sowhat": "Microsoft is taking its AI agents, QM, and analytics to third-party CCaaS platforms via connectors, a bid to monetise Copilot capabilities beyond Dynamics.",
+          "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/10/21/introducing-microsoft-contact-center-intelligence/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": ""
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Genesys confirms breach of internal CRM systems",
+          "sowhat": "An unauthorised access to internal CRM and learning systems raises questions about vendor data hygiene in a sector handling sensitive customer interaction records.",
+          "url": "https://twitter.com/[placeholder]/status/[placeholder]",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": ""
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Theta Lake flags UCC AI outputs for compliance",
+          "sowhat": "Regulated firms now face supervision requirements for AI prompts, outputs, and edits across UCC platforms, raising governance and cost questions for CIOs.",
+          "url": "https://uctoday.com/the-top-compliance-and-security-trends-in-the-ai-powered-ucc-workplace-thetalake-cs-0172",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Workday launches Work Intelligence to map AI-driven jobs",
+          "sowhat": "Workday is mapping AI task changes to skills and learning paths, a bet that visibility can slow employee disengagement as work fragments.",
+          "url": "https://uctoday.com/workdays-new-platform-aims-to-turn-ai-job-change-into-visible-career",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "TaskUs to report Q3 2026 results 4 November",
+          "sowhat": "BPO earnings will reveal whether outsourcers are capturing AI-driven cost-to-serve reductions or losing margin to automation pressure.",
+          "url": "http://www.businesswire.com/news/home/20261021051036/en/TaskUs-Inc.-to-Announce-Third-Quarter-2026-Financial-Results-on-November-4-2026/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Business Wire"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-21",
       "label": "Wed 21 Oct 2026",
       "rows": [
@@ -848,154 +925,7 @@
         }
       ],
       "pattern_watch": "Personal AI agents (Muse) and enterprise governance (ServiceNow, Freshworks, JPMorgan) converge on the same question: who controls access and owns liability."
-    },
-    {
-      "iso": "2026-10-14",
-      "label": "Wed 14 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Sanas ships supervised AI for four-call oversight",
-          "sowhat": "One operator monitoring four concurrent AI voice calls may signal the threshold where automation economics finally beat pure human handling—if control holds.",
-          "url": "https://cxtoday.com/ccw-nashville-2026-key-ai-and-customer-experience-takeaways",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce acquires Loops for root-cause analytics in Tableau",
-          "sowhat": "Buying an Israeli outfit to explain why KPIs moved (not just that they moved) is Salesforce's bid to turn Tableau into an agentic analytics front-end.",
-          "url": "https://cxm.world/customer-experience/agentic-analytics-salesforce-loops-tableau/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "8×8 appoints Snaddon CSO, Gandarias EMEA MD",
-          "sowhat": "Jamie Snaddon moves from EMEA MD to new Chief Strategy Officer role; Nerea Gandarias takes over the region as 8×8 refocuses go-to-market.",
-          "url": "https://www.callcentrehelper.com/8x8-snaddon-chief-strategy-officer-277995.htm",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Call Centre Helper"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Kensington Mortgages completes Amazon Connect migration with Sabio",
-          "sowhat": "Kensington's second-phase move to Connect via Sabio signals continued mortgage-sector appetite for cloud-native telephony despite tighter budgets.",
-          "url": "https://www.callcentrehelper.com/kensington-mortgages-migration-sabio-278087.htm",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Call Centre Helper"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Cablelynx signs Netcracker AI commerce and CX tools",
-          "sowhat": "A US rural broadband operator picking Netcracker's AI layer to cut calls and lift CSAT is a rare tier-two BSS deal worth tracking.",
-          "url": "https://www.lightreading.com/ai-machine-learning/cablelynx-broadband-taps-into-netcracker-s-ai-tools",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Light Reading"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Plume launches Console add-on for ISP AI agents",
-          "sowhat": "Plume's new ISP dashboard for deploying and managing Wi-Fi AI agents hints at the next battleground: which network-gear vendors own the orchestration layer.",
-          "url": "https://www.lightreading.com/oss-bss-cx/plume-s-console-enables-isps-to-deploy-ai-agents-to-detect-and-fix-home-network-issues",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Light Reading"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Sanas launches supervised AI for contact-center calls",
-          "sowhat": "One supervisor can now oversee four AI-led customer calls, a ratio that lowers cost but concentrates accountability risk if agents cannot intervene fast enough.",
-          "url": "https://cxtoday.com/sanas-launches-supervised-ai-to-keep-humans-in-control-of-ai-customer",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "GetixHealth picks Webex Contact Center for medical billing",
-          "sowhat": "A vertical win for Cisco in a regulated sector where AI must run on predictable infrastructure, not just promise convenience.",
-          "url": "https://cxtoday.com/webexone-2026-getixhealth-on-buying-into-the-webex-roadmap",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Yealink ships MP66W Teams Phone for shared spaces",
-          "sowhat": "Frontline workers still want a handset they can pick up; native Teams certification matters when softphone apps fail in high-noise environments.",
-          "url": "https://uctoday.com/untethered-yealinks-mp-portfolio-frees-the-desk-phone-yealink-cs-0227",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Atlassian launches AMP agent platform with governed context",
-          "sowhat": "Atlassian brings agents into shared workflows with clear identity and oversight, targeting the gap between pilot demos and production trust.",
-          "url": "https://uctoday.com/atlassians-ai-plan-puts-employee-engagement-first",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "Context graphs become the new agent memory battleground",
-          "sowhat": "Atlassian, Wrike, Google, SAP, and Asana are racing to own the semantic layer that tells agents what they may touch—winner writes the agentic rulebook.",
-          "url": "https://uctoday.com/the-context-graph-fight-who-owns-your-agents-memory",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Aragon coins ICX category merging UC and CCaaS",
-          "sowhat": "A new label for platform convergence that vendors already ship; the test is whether enterprises buy one system or keep two with an integration tax.",
-          "url": "https://www.ringcentral.com/us/en/blog/icx-aragon-new-category-business-communications/",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "RingCentral (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft ends Office LTSC 2021 support today",
-          "sowhat": "Enterprises still running perpetual Office lose security patches; Microsoft's leverage to push cloud subscriptions just increased materially.",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/office-ltsc-2021-support-ends-today/ba-p/4562577",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Microsoft (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce acquires Loops to embed agentic analytics in Tableau",
-          "sowhat": "Salesforce bets continuous KPI monitoring and root-cause agents will extend its analytics lead before competitors ship similar capabilities.",
-          "url": "https://futurumgroup.com/insights/salesforce-bets-on-loops-to-extend-its-analytics-lead-with-agentic-intelligence/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "Context graphs / agent memory: Atlassian AMP, Wrike, Google, SAP, Asana all launch competing semantic layers this week."
     }
   ],
-  "updated": "2026-10-21T19:07:47.064182+00:00"
+  "updated": "2026-10-22T11:25:52.940574+00:00"
 }
