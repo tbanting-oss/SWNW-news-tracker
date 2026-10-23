@@ -1,53 +1,18 @@
 {
-  "generated_at": "2026-10-22T18:46:23.902593+00:00",
+  "generated_at": "2026-10-23T10:24:19.772667+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
-  "feeds_with_errors": 12,
+  "feeds_with_errors": 4,
   "fetch_errors": [
+    {
+      "name": "B2B Marketing Blog",
+      "url": "https://blog.netline.com/feed/",
+      "error": "403 Client Error: Forbidden for url: https://blog.netline.com/feed/"
+    },
     {
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw=="
-    },
-    {
-      "name": "Telecom Reseller / Technology Reseller News",
-      "url": "https://telecomreseller.com/feed/",
-      "error": "403 Client Error: Forbidden for url: https://telecomreseller.com/feed/"
-    },
-    {
-      "name": "CPaaSAA",
-      "url": "https://cpaasaa.com/feed/",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:cpaasaa.com+when:7d&hl=en-US&gl=US&ceid=US:en"
-    },
-    {
-      "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
-      "url": "https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22unified+communications%22+or+%22UCaaS%22",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22unified+communications%22+or+%22UCaaS%22"
-    },
-    {
-      "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
-      "url": "https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22CX%22+and+%22Customer+experience%22",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22CX%22+and+%22Customer+experience%22"
-    },
-    {
-      "name": "\"CRM\" - Google News",
-      "url": "https://news.google.com/rss/search?q=CRM%20(%22customer%20experience%22%20OR%20%22customer%20service%22%20OR%20%22contact%20center%22%20OR%20%22contact%20centre%22%20OR%20CCaaS%20OR%20%22conversational%20AI%22%20OR%20%22AI%20agent%22)%20-site%3Afinance.yahoo.com%20-site%3Asimplywall.st%20-site%3Amarketbeat.com%20-site%3Aaol.com%20-site%3Atheglobeandmail.com%20-site%3Aseekingalpha.com%20-site%3Astocktitan.net%20-site%3Atradingview.com%20-site%3Aeinnews.com%20-site%3Akalkinemedia.com%20-site%3A247wallst.com%20-site%3Abebee.com%20-site%3Atotaljobs.com%20-site%3Amicro1.ai%20-site%3Aremoterocketship.com%20-site%3Alinkedin.com%20-site%3Aindeed.com%20-site%3Aglassdoor.com%20-site%3Aziprecruiter.com%20-%22NYSE%3ACRM%22%20-%22price%20target%22&ceid=US:en&gl=US&hl=en",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=CRM%20(%22customer%20experience%22%20OR%20%22customer%20service%22%20OR%20%22contact%20center%22%20OR%20%22contact%20centre%22%20OR%20CCaaS%20OR%20%22conversational%20AI%22%20OR%20%22AI%20agent%22)%20-site%3Afinance.yahoo.com%20-site%3Asimplywall.st%20-site%3Amarketbeat.com%20-site%3Aaol.com%20-site%3Atheglobeandmail.com%20-site%3Aseekingalpha.com%20-site%3Astocktitan.net%20-site%3Atradingview.com%20-site%3Aeinnews.com%20-site%3Akalkinemedia.com%20-site%3A247wallst.com%20-site%3Abebee.com%20-site%3Atotaljobs.com%20-site%3Amicro1.ai%20-site%3Aremoterocketship.com%20-site%3Alinkedin.com%20-site%3Aindeed.com%20-site%3Aglassdoor.com%20-site%3Aziprecruiter.com%20-%22NYSE%3ACRM%22%20-%22price%20target%22&ceid=US:en&gl=US&hl=en"
-    },
-    {
-      "name": "\"\"Contact Center\" or \"contact centre\" or \"CCaaS\"\" - Google News",
-      "url": "https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22Contact+Center%22+or+%22contact+centre%22+or+%22CCaaS%22",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?ceid=US:en&gl=US&hl=en&q=%22Contact+Center%22+or+%22contact+centre%22+or+%22CCaaS%22"
-    },
-    {
-      "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "url": "https://www.channelpronetwork.com/rss.xml",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:channelpronetwork.com+when:3d&hl=en-US&gl=US&ceid=US:en"
-    },
-    {
-      "name": "Verdict",
-      "url": "https://www.verdict.co.uk/feed/",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:verdict.co.uk+(%22contact+center%22+OR+CCaaS+OR+CPaaS+OR+%22unified+communications%22)+when:3d&hl=en-US&gl=US&ceid=US:en"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -58,11 +23,6 @@
       "name": "GlobeNewswire - Telecommunications Industry News",
       "url": "https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/RssFeed/industry/6000-Telecommunications/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Telecommunications"
-    },
-    {
-      "name": "CX Foundation - Google News",
-      "url": "https://news.google.com/rss/search?q=site:cxfoundation.com+when:7d&hl=en-US&gl=US&ceid=US:en",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:cxfoundation.com+when:7d&hl=en-US&gl=US&ceid=US:en"
     }
   ],
   "feeds": [
@@ -78,22 +38,46 @@
       "name": "Google Alert - Cisco Webex",
       "items": [
         {
+          "title": "Enterprises are being stung by unexpected AI bills, and it's disrupting IT budgets - ITPro",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.itpro.com/technology/artificial-intelligence/enterprises-are-being-stung-by-unexpected-ai-bills-and-its-disrupting-it-budgets&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1kcT6oVQLJwwEqHg0uWq_9",
+          "published": "2026-10-23T09:06:35Z",
+          "summary": "Cisco bolsters Webex for the hybrid workforce. News The major ... Cisco WebEx will use voice tools to exploit 'next frontier' of data insights."
+        },
+        {
+          "title": "USP, <b>Cisco</b>, and Telecom Fiji Launch Digital Skills Hub - Islands Business",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://islandsbusiness.com/partner-news/usp-cisco-and-telecom-fiji-launch-digital-skills-hub/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0lO3T6uUrXYkFPE0QtWzOL",
+          "published": "2026-10-23T07:14:43Z",
+          "summary": "The initiative also extends learning opportunities beyond Fiji, with Cisco Webex smart boards, collaboration kits and hybrid learning endpoints being&nbsp;..."
+        },
+        {
           "title": "<b>Cisco</b> EMEA Analyst Event and WebexOne 2026: Turning control, trust, and enterprise ...",
           "link": "https://www.google.com/url?rct=j&sa=t&url=https://omdia.tech.informa.com/om147774/cisco-emea-analyst-event-and-webexone-2026-turning-control-trust-and-enterprise-context-into-a-competitive-moat&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1bKDGwc4uVJUZC1O1H5puM",
           "published": "2026-10-22T13:58:32Z",
           "summary": "WebexOne showcased Cisco's product innovation and AI-driven enhancements across the Webex portfolio, e.g., agentic operations, while the EMEA&nbsp;..."
-        },
-        {
-          "title": "<b>Cisco</b> Unveils AI-Driven <b>Webex</b> Enhancements for Seamless Collaboration",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://smallbiztrends.com/cisco-unveils-ai-driven-webex-enhancements-for-seamless-collaboration/&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw29rDynyK8T8pmdsWS9ppDh",
-          "published": "2026-10-21T15:37:37Z",
-          "summary": "Discover how Cisco's latest AI-driven enhancements to Webex are transforming collaboration, making virtual meetings more efficient and intuitive."
         }
       ]
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Why The Best Contact Center AI Gets Out of the Way",
+          "link": "https://cxtoday.com/why-the-best-contact-center-ai-gets-out-of-the-way-diabolocom-cs-0192",
+          "published": "Fri, 23 Oct 2026 09:31:00 GMT",
+          "summary": "Why unobtrusive contact center AI matters: Diabolocom says Agent Assist, auto-fill and low-code design cut agent friction, not add it. CX Today"
+        },
+        {
+          "title": "NHS 24 Scotland Shows Why CX Leaders Must Design Around Outcomes",
+          "link": "https://cxtoday.com/nhs-24-scotland-shows-why-cx-leaders-must-design-around-outcomes",
+          "published": "Fri, 23 Oct 2026 08:01:00 GMT",
+          "summary": "NHS 24 Scotland shows why CX leaders should redesign CRM around patient outcomes, with Pega, AWS, NHS Inform and omnichannel care."
+        },
+        {
+          "title": "Gartner’s CCaaS MQ Still Sells Influence, Not Outcomes",
+          "link": "https://cxtoday.com/gartners-ccaas-mq-still-sells-influence-not-outcomes",
+          "published": "Thu, 22 Oct 2026 19:10:54 GMT",
+          "summary": "Gartner’s 2026 CCaaS MQ maps AWS, Genesys and NICE, but CX Today says buyers should test AI, data and workflows, not the dot."
+        },
         {
           "title": "CX Awards 2026 Finalists Revealed: See The Full Shortlist",
           "link": "https://cxtoday.com/cx-awards-2026-finalists-revealed-see-the-full-shortlist",
@@ -159,12 +143,6 @@
           "link": "https://cxtoday.com/pstn-switch-off-2027-15-weeks-left-to-find-the-analogue-line",
           "published": "Wed, 21 Oct 2026 11:01:00 GMT",
           "summary": "PSTN switch-off deadlines and higher WLR charges mean contact centres must test every BT Openreach migration, analogue line and route before 2027."
-        },
-        {
-          "title": "Salesforce's Braze Acquisition Leads Revenue Tech M&A Rush",
-          "link": "https://cxtoday.com/m-a-deals-bring-more-agentic-ai-to-revenue-workflows",
-          "published": "Wed, 21 Oct 2026 08:01:00 GMT",
-          "summary": "Intuit and Robots & Pencils use acquisitions to bring agentic AI into revenue management and marketing automation."
         }
       ]
     },
@@ -188,6 +166,366 @@
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
       "items": [
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Set message expirations to keep communication relevant",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577805",
+          "published": "Fri, 23 Oct 2026 00:00:39 Z",
+          "summary": "Set an expiration date on any message in your journeys (emails, text messages, push notifications, or custom).\nChoose from different expiration options (no expiry, expiration based on a date and time, or a trigger).\nReview analytics to understand which customers didn't receive messages due to expiration dates.\n\nScenario: Contoso specializes in hosting virtual events and webinars for their customers. They have a customer journey designed to promote upcoming events, send reminders, and offer exclu"
+        },
+        {
+          "title": "Dynamics 365 Business Central: Copilot and agents - Use AI resources for your Copilot extensions",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577820",
+          "published": "Fri, 23 Oct 2026 00:00:39 Z",
+          "summary": "Using the AI resources provides several benefits:\n\nReduced operational overhead: Avoid the need to handle infrastructure management, updates, monitoring, troubleshooting, or maintenance of custom Azure OpenAI subscriptions. This benefit frees up resources to focus on core business operations and provides value-adding intellectual property (IP) to customers.\nSimplified onboarding: Quickly integrate AI capabilities into your solutions without having to navigate the complexities of setting up and m"
+        },
+        {
+          "title": "Dynamics 365 Finance: Globalization Studio - Unified e‑invoicing integration framework",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577794",
+          "published": "Fri, 23 Oct 2026 00:00:39 Z",
+          "summary": "The unified extensible e-invoicing integration framework extends the existing Electronic Invoicing service by introducing:\n\nA unified outbound and inbound document model (based on international standards such as UBL and PEPPOL).\nA standardized submission and response pipeline and API for e-invoicing documents and related statuses.\nA clear extensibility model that allows external ASPs, ISVs, Microsoft partners, and customers to implement their own integrations without requiring Microsoft to build"
+        },
+        {
+          "title": "Power Automate: Process mining - Get support for normalized schema import for data ingestion",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577827",
+          "published": "Thu, 22 Oct 2026 23:45:51 Z",
+          "summary": "Most systems of record have data stored in data structures that allow you to easily extract information about the analyzed entity (case-level data) and historical changes on those entities (event-level data). The attributes are also stored in a normalized form. The single-table approach to event log creation requires you to do inefficient transformations. With this feature, Power Automate Process Mining supports the case-event entity-based data structure plus a normalized form of attributes. Thi"
+        },
+        {
+          "title": "Power Automate: Process mining - Export object-centric process mining data to Microsoft Fabric semantic model",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577826",
+          "published": "Thu, 22 Oct 2026 23:45:50 Z",
+          "summary": "This feature allows seamless integration with Microsoft Fabric for enterprise-wide analytics. It enables direct publishing of object-centric process mining (OCPM) results into Microsoft Fabric semantic models, making process intelligence data available throughout the Microsoft analytics ecosystem.\nKey capabilities include:\n\nSemantic model publishing: Export OCPM analysis results, including objects, events, relationships, and attributes, directly to Fabric as structured semantic models.\nMulti-obj"
+        },
+        {
+          "title": "Power Pages: Administration and governance - Enable self-service site ownership transfer",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577825",
+          "published": "Thu, 22 Oct 2026 23:45:49 Z",
+          "summary": "Power Pages now supports secure site ownership transfer for eligible sites. Existing site owners and global administrators can assign ownership to another valid user within the tenant without requiring manual intervention from support.\nThe new owner must be a valid user with appropriate access to the environment. Every ownership transfer is recorded in an auditable history, including the previous owner, new owner, initiating user, and timestamp. Notifications are sent to the previous owner, the "
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Enable advanced personalization using simple formulas to modify text, dates, and numbers",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577811",
+          "published": "Thu, 22 Oct 2026 23:45:48 Z",
+          "summary": "Apply a variety of PowerFx functions to text, numbers, and dates in messages.\nText functions include concatenation, change case, trim, substitute, and replace.\nNumber functions include arithmetic calculations, rounding, and formatting.\n\nBusiness Value:\nEnhance personalization by transforming data directly within your messages using PowerFx expressions. Standardize customer names (for example, convert to proper case), format dates and numbers for different regions, and perform simple calculations"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Planning - Enhance demand forecasts with multiple data inputs",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577824",
+          "published": "Thu, 22 Oct 2026 23:45:48 Z",
+          "summary": "Demand planning in Supply Chain Management helps you forecast demand using diverse data sources and signals. The latest updates enhance forecast accuracy, enabling you to optimize your supply chain and improve financial outcomes.\nNew capabilities include:\n\nSupport for multiple signals: Define multiple input signals such as inflation or weather-related measures and apply the XGBoost forecast algorithm. XGBoost assesses correlation, analyzes the impact of each signal against historical sales data,"
+        },
+        {
+          "title": "Dynamics 365 Finance: Globalization Studio - Enhance Electronic Reporting with new capabilities",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577818",
+          "published": "Thu, 22 Oct 2026 23:45:48 Z",
+          "summary": "Electronic Reporting (ER) is the configurable engine you use to author and run business documents—invoices, statutory reports, VAT declarations and payment files, and more. In 10.0.48 and 10.0.49 Microsoft delivered a set of general enhancements that respond directly to the most highly voted ideas on the Microsoft Idea portal and to recurring partner/customer requests. The enhancements remove long-standing workarounds, expand what ER formats can express out of the box, and modernize commonly use"
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Data: Agents and Copilot - Increase AI accuracy by grounding agents in customer insights",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577814",
+          "published": "Thu, 22 Oct 2026 23:45:47 Z",
+          "summary": "The Customer Insights MCP server allows AI agents and chat experiences to access and understand insights generated by Customer Insights - Data.\nThe Customer Insights MCP server uses the industry-standard MCP architecture to securely share unified profiles and insights with AI agents and chat experiences, providing the data context so AI agents can do their best work.\nAI tools can use the Customer Insights MCP server to:\n\nResolve Dataverse contacts and leads to their unified customer profile.\nAcc"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Manufacturing and asset management - Enforce same-batch selection for raw materials in production and batch orders",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577823",
+          "published": "Thu, 22 Oct 2026 23:45:47 Z",
+          "summary": "This feature ensures that raw materials consumed by production orders and batch orders all come from the same batch. Process and discrete manufacturers can use it together with related production-control capabilities that govern how raw materials are allocated to a production order.\nProduct designers and production engineers can set the same-batch requirement at the released-product level so that it applies by default everywhere the item is consumed. They can optionally fine-tune it for individu"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Detect corruption in source document budget control tracking",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577822",
+          "published": "Thu, 22 Oct 2026 23:45:46 Z",
+          "summary": "Budget control tracking data can become difficult to analyze when the underlying budget source is missing or when relieving relationships between commitments and relieving documents are broken. These conditions can make it harder for finance users to understand why budget control data does not reconcile as expected and where repair should begin. With this feature, Dynamics 365 Finance adds diagnostic capability to Budget control data maintenance. The diagnostic is designed to detect corrupted bu"
+        },
+        {
+          "title": "Power Pages: Professional developer experiences - Control Power Pages components using client APIs",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577821",
+          "published": "Thu, 22 Oct 2026 23:45:46 Z",
+          "summary": "Developers often depend on custom JavaScript and fragile Document Object Model (DOM) manipulation to hide fields, update values, or trigger actions, an approach that easily breaks when page structures change, drives up maintenance costs, limits scalability, and leads to inconsistent experiences. Power Pages Client APIs address these challenges by offering stable, documented, and supported methods to interact with components, reducing risk, improving maintainability, and accelerating development."
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Administrator experiences - Use enhanced customer-first direct callbacks",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577801",
+          "published": "Thu, 22 Oct 2026 23:45:45 Z",
+          "summary": "Customer-first direct callback introduces a configurable, AI-powered experience managed through \"callback profiles\" in the Copilot Service admin center.\nAdministrators define a callback profile—including greeting message, alternate number capture, callback offering window, retry logic, and AI agent selection—and associate it with queues under overflow handling.\nFor each queue where direct callback is chosen as an overflow action, the administrator also must select a callback profile to ensure a "
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Copilot and AI innovation - View next best actions with Customer Intent Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577819",
+          "published": "Thu, 22 Oct 2026 23:45:45 Z",
+          "summary": "An administrator can enable this feature for the entire organization in the Customer Service admin center. Turning on next best actions populates the Copilot pane with actions that service representatives can use. Important case attributes are consolidated in one place as the representative gathers information through back-and-forth exchanges with the customer. Knowledge articles are suggested so representatives can dig deeper and understand the reasoning behind the recommendations.\nBusiness Val"
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Boost customer confidence with branded content links",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577789",
+          "published": "Thu, 22 Oct 2026 23:45:45 Z",
+          "summary": "With branded content links, you can:\n\nSet up your vanity link (or custom link) in the domain authenticator.\nOnce authenticated, your vanity domain will be visible in:\n\nAll links in your emails.\nHosted digital assets, forms, event registration pages, and your preference center.\n\n\n\nScenario\nA retail brand launches a holiday campaign featuring special bundles and limited‑time offers. Instead of using long, generic tracking URLs, the team enables branded content links. Every email now displays clean"
+        },
+        {
+          "title": "Power Automate: Desktop flows - Export work queue items to CSV",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577791",
+          "published": "Thu, 22 Oct 2026 23:45:44 Z",
+          "summary": "You can now export work queue items directly from the Automation Center portal. A new option available in the Work Queues experience lets you download items as a CSV file.\nThis capability allows you to access work queue data in a portable format for further analysis, reporting, or integration with other tools, without needing to rely on external APIs or custom solutions.\nBusiness Value:\nThis feature lets you quickly export work queue data from Automation Center into a CSV file, so you can dig de"
+        },
+        {
+          "title": "Dynamics 365 Supply Chain Management: Copilot and AI innovation - Analyze demand using generative insights for better planning",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577817",
+          "published": "Thu, 22 Oct 2026 23:45:43 Z",
+          "summary": "Generative insights for Demand planning in Dynamics 365 Supply Chain Management help you analyze sales history and forecast data across dimensions like product and location.\nWith general availability, generative insights now include a new metric: trends. The system dynamically clusters data based on detected patterns, such as high trending, medium trending, relative flat, and declining trend.\nYou can view aggregated values by selected dimensions or drill down into detailed values for each planni"
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Data: Faster time to insights - Access unified profiles and insights in Fabric OneLake",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577816",
+          "published": "Thu, 22 Oct 2026 23:45:42 Z",
+          "summary": "Unified profiles and insights are only useful when you can act on the data. If you use Microsoft Fabric, Customer Insights - Data makes it easier to share valuable unified profiles and insights directly in OneLake. You can add those insights to your core analytics and downstream processes.\nScenario:\nContoso has multiple departments with distinct systems and data requirements. After creating shortcuts in Fabric OneLake to all their Customer Insights - Data profiles and insights, the entire Contos"
+        },
+        {
+          "title": "Microsoft Dataverse: Enable AI powered business workflows in Work IQ with Dataverse - Build Dataverse solutions with coding agents using Dataverse skills",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577815",
+          "published": "Thu, 22 Oct 2026 23:45:41 Z",
+          "summary": "Build Dataverse solutions by using coding agents with natural language prompts. For example, \"I'm building a recruiting system for Zava Construction. I need tables for Positions, Candidates, Interviewers, Interviews, and Feedback - with lookups, a many-to-many relationship between Candidates and Positions, and a self-referential interview chain. Create everything in a Zava Recruiting solution, load sample data, and show me which candidates are currently interviewing.\"\nFrom this prompt, the agent"
+        },
+        {
+          "title": "Power Pages: Power Pages Copilot - Use Power Pages MCP server capabilities",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577813",
+          "published": "Thu, 22 Oct 2026 23:45:38 Z",
+          "summary": "Power Pages MCP server enables makers to expose site data and operations through a secure, standardized interface compatible with AI clients.\nIn the public preview release, makers can enable Create, Read, Update, Delete (CRUD) operations via the site’s Web API layer without writing custom code. Makers can provision the MCP server endpoint through site settings, allowing customers to securely interact with site data or perform operations using natural language queries through popular AI chat clie"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Administrator experiences - Manage users through Microsoft Entra security groups",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577812",
+          "published": "Thu, 22 Oct 2026 23:45:38 Z",
+          "summary": "Administrators configure team-based access for representatives through Microsoft Entra ID security groups. They link an Entra security group to a Dataverse team of type Microsoft Entra ID Security Group and assign at the team level the required security roles such as:\n\nBasic user\nCustomer Service Representative\nOmnichannel agent\n\nEvery member of the linked group inherits the roles automatically with no per user role assignment, including:\n\nQueue participation\nPresence\nConversation handling\n\nWhen"
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Automatically update emails with the latest content",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577804",
+          "published": "Thu, 22 Oct 2026 23:45:35 Z",
+          "summary": "By automatically updating emails with latest content, you can:\n\nEasily create dynamic content blocks in Content gallery with new content or select existing content in email and save it as a dynamic content block.\nHave content only so it uses the layout of the email when inserted or have content with its layout preserved. You can mark the content block as “protected” to prevent content from being modified in the email.\nAllow personalized content (for example, dynamic text or conditional content)."
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Update live segments without interrupting ongoing journeys",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577810",
+          "published": "Thu, 22 Oct 2026 23:45:35 Z",
+          "summary": "For any segment, even those used in live journeys or other segments, marketers can edit and republish them to make changes. Changes won't take effect until the segments are published, giving marketers control over the timing of the changes. These changes are picked up at the next recurrence for recurring journeys and new additions are applied in real time for ongoing journeys.\nBusiness Value:\nCampaigns often require adjustments after launch, such as refining target audiences based on analytics o"
+        },
+        {
+          "title": "Power Pages: Design studio - Configure authentication with security agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577809",
+          "published": "Thu, 22 Oct 2026 23:45:34 Z",
+          "summary": "The security agent is available directly within the security workspace in Power Pages design studio. Makers can open the security agent tab to access the embedded chat panel and security tools. From there, they can interact using natural language to review risks, understand configurations, and take guided actions.\nThe agent assists with both authentication and authorization setup. It guides makers through configuring identity providers, reviewing authentication settings, and strengthening login "
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Administrator experiences - Use Service Operations Agent to accelerate setup, onboard, and verify config changes",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577808",
+          "published": "Thu, 22 Oct 2026 23:45:32 Z",
+          "summary": "Service Operations Agent in the Copilot Service admin center delivers a unified, conversational experience for configuring Dynamics 365 Contact Center.\nAdministrators use conversational setup and orchestration in Service Operations Agent to streamline setup tasks—configure channels, voice settings, Teams Phone extensibility, and knowledge sources. Through the same single guided assistant, administrators also set up route-to-queue rules and assignment strategies for queues and AI agents—automatin"
+        },
+        {
+          "title": "Dynamics 365 Field Service: Optimize resource scheduling - Optimize schedules with Scheduling Operations Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577807",
+          "published": "Thu, 22 Oct 2026 23:45:32 Z",
+          "summary": "Dispatchers often spend considerable time and energy reviewing and adjusting each technician's schedule as conditions change throughout the workday:\n\nA technician has one or more cancellations in the afternoon. To fill the open slots, what requirements optimally keep promise windows, prefer high-priority work, and locate work around the same neighborhoods that the technician is due to travel to?\nA technician is running over the planned time for the current booking. As a result, they're late for "
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Turbocharge your pipeline to drive growth - Transform customer journeys into action with record creation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577806",
+          "published": "Thu, 22 Oct 2026 23:45:30 Z",
+          "summary": "This feature gives you a single, flexible way to create downstream records and activities directly inside the journey builder.\n\nCreate records or activities from a single tile, including tasks, phone calls, leads, opportunities, or custom entity records.\nUse required and optional fields, including custom attributes, to match your exact process requirements.\nAdd dynamic content to any field, using real‑time attributes from contacts or leads.\nEliminate the need for complex workflows or custom code"
+        },
+        {
+          "title": "Power Automate: Cloud flows - View property value expanded inline in new cloud flow designer",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577803",
+          "published": "Thu, 22 Oct 2026 23:45:28 Z",
+          "summary": "When you add an action, you can view property values for multiple steps at design time, or output values for multiple steps at runtime. The inline view shows this information directly on the cards, so you can review and compare values across several steps at once.\nWithout the inline view, you select each card individually to see its value in the side pane, and you can view only one step's value at a time. This makes it harder to compare values across steps.\nYou can choose which experience you pr"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Workforce engagement management - Automate shift rotations for consistent workforce coverage",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577802",
+          "published": "Thu, 22 Oct 2026 23:45:27 Z",
+          "summary": "What the feature does\nShift rotation policies help organizations distribute customer service representatives across recurring shifts on a configurable schedule. Supervisors can create rotation policies that define how representatives move between time slots over time and apply those policies to shift plans.\nSupervisors create policies by specifying a start date, time zone, rotation cadence, and a set of recurring time slots. Representatives are assigned to each time slot, and the scheduler autom"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Automatically generate evaluation summary from final results",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577800",
+          "published": "Thu, 22 Oct 2026 23:45:24 Z",
+          "summary": "This feature ensures that evaluation summaries and recommended actions always reflect the final, validated evaluation outcomes.\nWhen a reviewer or supervisor updates evaluation answers, either to correct AI misinterpretations or refine manual assessments, the system automatically regenerates the evaluation summary upon submission. This ensures that insights remain aligned with the finalized evaluation. If no changes are made, summary regeneration is skipped to optimize performance and cost.\nAdmi"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Unified routing - Orchestrate conversation distribution with natural language playbooks",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577788",
+          "published": "Thu, 22 Oct 2026 23:45:24 Z",
+          "summary": "Conversation orchestration in Dynamics 365 Contact Center keeps every conversation actively managed throughout its lifecycle, from initiation through resolution. Instead of applying fixed rules at different stages of a conversation journey, conversation orchestration monitors each conversation as conditions evolve, like wait time increases, fast-filling queues, or service representatives going offline, and responds automatically with the right action. For example, administrators can define the i"
+        },
+        {
+          "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable question-level weighting for quality evaluation scoring",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577799",
+          "published": "Thu, 22 Oct 2026 23:45:21 Z",
+          "summary": "This feature enables supervisors to assign percentage-based weights at the individual question level, ensuring that evaluation scores reflect the relative importance of each question within a section.\nWhen scoring and question-level weight is enabled for an evaluation criterion, users can assign explicit weight percentages to each question. These weights directly influence score calculation, allowing higher-priority questions to have a greater impact on the final evaluation outcome. The system v"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Automatic clearing of centralized bridged vendor payments during bank reconciliation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577793",
+          "published": "Thu, 22 Oct 2026 23:45:20 Z",
+          "summary": "This enhancement enables automatic clearing of bridge transactions generated by centralized vendor payments when bank statements are matched with records in Dynamics 365 Finance during the bank reconciliation process. The system posts the required clearing journals in the centralized legal entity, ensuring that general ledger balances are updated accurately.\nBusiness Value:\nAutomatic clearing of centralized vendor payments streamlines the bank reconciliation process by eliminating manual clearin"
+        },
+        {
+          "title": "Dynamics 365 Finance: Core financials - Automatic clearing of centralized bridged vendor payments during bank reconciliation",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577792",
+          "published": "Thu, 22 Oct 2026 23:45:18 Z",
+          "summary": "This enhancement enables automatic clearing of bridge transactions generated by centralized vendor payments when bank statements are matched with records in Dynamics 365 Finance during the bank reconciliation process. The system posts the required clearing journals in the centralized legal entity, ensuring that general ledger balances are updated accurately.\nBusiness Value:\nAutomatic clearing of centralized vendor payments streamlines the bank reconciliation process by eliminating manual clearin"
+        },
+        {
+          "title": "Dynamics 365 Contact Center: Workforce engagement management - Enable evaluation retries and improve error handling",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577790",
+          "published": "Thu, 22 Oct 2026 23:45:13 Z",
+          "summary": "Key features include:\n\nAdded detailed error insights for failed AI evaluations, enabling supervisors and administrators to understand failure causes and take appropriate corrective actions.\nImproved bulk evaluation monitoring by introducing a Records Failed indicator in run history and displaying error details for failed records within evaluation runs.\nEnabled supervisors to retry failed evaluations directly from both the evaluation grid and bulk evaluation run lists.\n\nBusiness Value:\nThis featu"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Optimize Project Operations - Improve contract management usability",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577787",
+          "published": "Thu, 22 Oct 2026 23:45:10 Z",
+          "summary": "The enhanced Project Contract experience streamlines how you create, manage, and monitor contracts by significantly reducing the number of clicks and interactions required. This update transforms the contract into a central, intuitive workspace where all contract-related information is easier to access, understand, and act upon. The redesigned layout provides a clearer overview of contract status, financials, and performance, helping users work faster and with greater confidence.\nCore capabiliti"
+        },
+        {
+          "title": "Outlook: Mark as read improvements",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577546",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Mark as read will be updated to better match user expectations. When using the Unread filter, items will also be marked as read in coherence with the existing \"Mark as read when using the reading pane\" setting. Additionally, opening an item in a popout will now mark it as read regardless of that setting.\n#newoutlookforwindowsGA date: November CY2026"
+        },
+        {
+          "title": "Microsoft Edge: Review your PDF notes and annotations in the Notes pane",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577542",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "The built-in PDF viewer in Microsoft Edge will include a Notes pane that lists highlights, text notes, ink notes and comments in page order allowing users to quickly revisit them without finding them page by page. Users can search and filter their annotations, jump to each one in the document, and edit, delete or add comments from the pane. Available for Windows and macOS devicesGA date: January CY2027"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Extend price overrides to category and material",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577424",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Project Operations price lists support three price types — role, expense category, and product/material — but only role prices currently support date-effective overrides. This feature extends date-effective price overrides to expense category and material prices, so you can schedule a future or time-bound price change for a category or material the same way you do for a role, without creating a separate, context-specific price list. The system honors the override when it prices a transaction, so"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: Notify users when approval sets finish processing",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577423",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "When an approval set finishes processing, the person who started it receives an in-app notification built on the existing long-running-process (No More Wait) framework, and they see only notifications for the operations they triggered. On success, a brief pop-up reports that the approval set completed, shows the approval set name, and provides a deep link to the record, and the notification stays in the notifications pane until you clear it. When one or more approvals in the set fail, the notifi"
+        },
+        {
+          "title": "Dynamics 365 Project Operations: View resolved prices in a consolidated pricing view",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577421",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "A new Pricing tab appears on the contract (and later the quote) and becomes the default pricing surface, replacing the Project Price List tab. Instead of listing only the price lists apply, it displays a consolidated grid of the prices that actually default for each pricing-dimension combination and date. You switch between price types, labor/role, category, and material, with a view picker, and role-price markups appear within the role view. A Date filter defaults to today and updates the grid "
+        },
+        {
+          "title": "Power Pages: SDK (Software Development Kit)",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577419",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Build native mobile applications or kioks using Power Pages as the backend foundation with support for authentication, authorization, APIs, data access, and reusable mobile capabilities.GA date: March CY2027Preview date: January CY2027"
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Create journeys in minutes with Journey Creation Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577418",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "You simply describe in everyday words what you want to create and the Journey Creation Agent builds the journey for you.\nWith Journey Creation Agent, you can:\n\nUse an AI-powered, guided experience for optimized outcomes.\nBuild in minutes with no technical jargon, complex setup, or cold start. Use natural language to describe the journey you want to create.\nDrive results–the agent interprets your goal and asks relevant follow-up questions to refine your intent and ensure accuracy.\n\nScenario\nA cam"
+        },
+        {
+          "title": "Dynamics 365 Customer Insights - Journeys: Improve engagement and message timing with Outreach Optimization Agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577417",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Add the Outreach Optimization Agent to your journey, select the emails you want delivered, and let the agent handle timing and cadence automatically. With Outreach Optimization Agent, you can:\n\nStart with an intelligent baseline: Outreach Optimization Agent automatically creates a baseline messaging plan for your audience by analyzing overall historical engagement patterns, producing a smart, generic plan that is designed to work well for most customers before any individual optimization kicks i"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Author Commerce receipt formats with Copilot Cowork",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577405",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Use natural language in Copilot Cowork to create, update, translate, and check Commerce receipt layouts using existing formats in headquarters.\nThe Commerce receipt format designer skill lets authorized users work with receipt layouts through natural-language requests in Copilot Cowork, using receipt configuration in Dynamics 365 Commerce headquarters. It applies to receipt formats used by Store Commerce point of sale (POS).\nUsers can:\n\nCreate and adapt formats: Start from an existing format in "
+        },
+        {
+          "title": "Microsoft Teams: Enhanced Copilot and AI controls for meetings",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577399",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Teams Meetings offer enhanced AI controls for Copilot and AI experiences. Organizers manage who can enable and access AI, while IT admins get a simpler policy model for governing AI across meetings and post-meeting experiences. These updates provide more predictable administration and greater flexibility for compliance and governance scenarios.GA date: November CY2026"
+        },
+        {
+          "title": "Microsoft 365 Apps: Cloud Update - Export Improvements",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577398",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "New export improvements are coming to Cloud Update, making it easier for organizations to access and analyze device data. These enhancements will expand export capabilities across Inventory and Cloud Update device views, include additional device and update information, and allow admins to export filtered results so they can focus on the devices most relevant to their needs.GA date: November CY2026"
+        },
+        {
+          "title": "PowerPoint: Present with ease using a modernized Presenter View",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577179",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "When you present with Presenter View, the controls you need should be easy to find at a glance. Presenter View in PowerPoint for Mac has a refreshed design: presenter tools, slide navigation, and the timer now sit together in one control bar, with updated icons and slide thumbnails. You can also collapse the thumbnail pane and the Next Slide and Notes pane to focus on what matters most as you present.GA date: November CY2026"
+        },
+        {
+          "title": "PowerPoint: Present with ease using a modernized Presenter View",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577178",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "When you present with Presenter View, finding the right tool or slide shouldn't break your flow. Presenter View in PowerPoint for Windows has a refreshed design: presenter tools, slide navigation, and the timer now sit together in one control bar, and a new slide thumbnail strip lets you see what's coming and jump to any slide. You can also collapse or resize panes to focus on what matters most as you present.GA date: November CY2026"
+        },
+        {
+          "title": "Microsoft 365: [Education] Provide a Copilot starter prompt in Teams and LMS Assignments",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577173",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Educators can provide a Copilot starter prompt from Student AI Guidelines in Teams and LMS Assignments. Students open Copilot with the educator's prompt ready in their chat, helping them begin with instructions tailored to the assignment.GA date: November CY2026Preview date: October CY2026"
+        },
+        {
+          "title": "Microsoft 365: [Education] Assign Study and Learn in Teams and LMS Assignments",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577172",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Educators can assign Study and Learn from Student AI Guidelines in Teams and LMS Assignments. Students open guided learning support grounded in the assignment's title, instructions, and supported files and resources, helping them work through concepts and practice their understanding.GA date: November CY2026Preview date: October CY2026"
+        },
+        {
+          "title": "Microsoft Purview: Introducing IRM Alert classification",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576710",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Insider risk management will be introducing the ability to classify alerts as True positive, Benign (operational), and False positive. This will be available on all alerts where authorized analysts with the appropriate permissions can choose from a list of predefined classification reasons. Alert classification will help tenants to better classify risk within alerts to support reporting and tuning needs. This will replace existing dismissal reasons.GA date: January CY2027Preview date: November C"
+        },
+        {
+          "title": "Dynamics 365 Commerce: Streamline pickup order workflows in Store Commerce",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576303",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Business Value\nTrade counter pickups should be fast. When a business customer arrives to collect prepaid or pre-authorized orders, routing them through unnecessary screens and payment steps slows down the process. When customers want to add extra items during pickup, requiring a separate transaction introduces friction that can result in missed sales.\nThis feature reshapes the pickup experience to better align with trade counter operations. Associates can collect multiple orders in a single acti"
+        },
+        {
+          "title": "Dynamics 365 Sales: Create pricing rules for attribute-based and volume-based pricing",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576295",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "This feature will enable admins to define relevant pricing rules based on the following:\nfor the added list price based on product attributes\nDiscount on the list price based on tiered and absolute volume adjustment\nThis ensures the organization to associate the right pricing and discount policies  to ensure profitability on their offered products and services.GA date: March CY2027"
+        },
+        {
+          "title": "Dynamics 365 Sales: Create product rules to guide sellers to valid product configurations",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576294",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "This feature will allow admins to create the right set of compatibility, inclusion and exclusion rules, withing a single composite product to ensure the right set of products get bundled together. Based on the configured rules, the seller will receive relevant guidance while configuring a composite product for the customer to ensure an accurate product offering is provided to the customer. The scop of the rules will be at a single quote line relevant to a composite product.GA date: March CY2027"
+        },
+        {
+          "title": "Microsoft Viva: Conversation Analytics",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576271",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Conversation analytics updates are coming to Microsoft Viva Engage, giving communicators richer signals to understand how audiences engage with posts and announcements.\nWith this update, conversation analytics will include new engagement insights such as click-through rate, open rate, dwell time, and video performance signals. These enhancements help communicators better understand whether employees opened a conversation, spent time with the content, clicked through to linked resources, or engag"
+        },
+        {
+          "title": "Microsoft Copilot (Microsoft 365): Sales Development Agent - Meeting scheduling",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575289",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Sales Development Agent can turn a prospect’s interest in meeting into a booked seller meeting. The agent asks the prospect to provide preferred dates and times, evaluates those options against the appropriate seller’s calendar, and books the first valid option in the prospect’s stated preference order. The seller and prospect receive the meeting invitation, while the seller receives additional conversation context to support a warm handoff. If scheduling cannot be completed, the agent transfers"
+        },
+        {
+          "title": "Microsoft Copilot (Microsoft 365): Enable semantic model in Sales agent",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573294",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "Semantic model helps Sales Agent understand the structure and meaning of an organization’s CRM data. It creates a connected representation of CRM metadata, including tables or objects, fields, descriptions, data types, relationships, views, pick-list values, and glossary terms. Sales Agent can retrieve this context when responding to questions, improving its ability to interpret business language and answer complex questions that span related CRM records.\nDynamics 365 admins can enable and turn "
+        },
+        {
+          "title": "PowerPoint: Present with confidence on a single screen in Slide Show",
+          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573151",
+          "published": "Thu, 22 Oct 2026 22:58:40 Z",
+          "summary": "When you present in Slide Show on just one display, like a laptop with no second monitor and no Presenter View, the on-screen presenting controls can be easy to miss. PowerPoint is making single-screen presenting easier: the controls you need to move through your slides and stay in command are more discoverable and useful, helping you present smoothly and confidently without a second screen.GA date: November CY2026"
+        },
         {
           "title": "Microsoft Viva: Glint - Teams notification customization",
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577175",
@@ -277,66 +615,18 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570864",
           "published": "Wed, 21 Oct 2026 23:02:10 Z",
           "summary": "Deliver consistent scheduling outcomes across Dynamics 365 Project Operations and Field Service, regardless of where scheduling begins. When a project task includes resource assignments and planned effort, that demand is represented on the related work order with the same role, resource, duration, and scheduling window. Users can therefore schedule the same demand from either application and receive consistent availability and booking results. When multiple assignments exist, dispatchers can sel"
-        },
-        {
-          "title": "Microsoft Purview: Endpoint Data Loss Prevention-View-only access to device onboarding with the View-Only Device Management role",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577187",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "Microsoft Purview Data Loss Prevention is introducing more granular, role-based access to the Devices page under Settings → Device Onboarding. Previously, viewing or managing device onboarding required broad administrative roles (such as Compliance Administrator, Global Administrator, or Security Administrator). With this update, organizations can grant access using least-privilege Purview role-based access control (RBAC) roles scoped specifically to device operations.\nA new View-Only Device Man"
-        },
-        {
-          "title": "Microsoft Edge: Organize and merge PDF files in the built-in PDF reader",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577186",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "Users can organize and merge PDF files in the Microsoft Edge built-in PDF reader. They can select pages to extract, delete, rotate, or reorder, and save the result as a new PDF file. They can also merge the open PDF file with other PDF files that are open in Microsoft Edge tabs or stored on their device, to create a single PDF file. Files are processed on the device, and the original files aren't modified. Admins can manage this feature using the PdfOrganizeAndMergeEnabled policy.GA date: Januar"
-        },
-        {
-          "title": "Microsoft Dataverse: Enable semantic data understanding for agentic use",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577185",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "Give AI agents and Copilot a true understanding of your business data — not just raw schema — so they can answer questions accurately with less manual configuration.\n\nLearns from the systems you already run — Automatically extracts semantic knowledge from views, forms, and metadata already defined in your Dataverse environment, reducing agent deployment from days of manual setup to near-zero effort.\nFull visibility for makers — View generated semantic knowledge per entity — including name, descr"
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Manage intraday operations with AI agent",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577184",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "Intraday Agent is an autonomous AI agent that helps manage intraday operational scenarios. The following are its high‑level capabilities.\nIntraday queue tracking\n\nContinuously monitors queue volumes in real time.\nDetects anomalies when actual volume deviates significantly from forecasted demand.\nAutomatically reforecasts in real time to assess current demand.\nNotifies supervisors with proactive alerts and recommendations.\nAutomates corrective actions such as adjusting schedules, rescheduling bre"
-        },
-        {
-          "title": "Microsoft Power Platform governance and administration: Multi-grader comparison",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577183",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "Multi-grader comparison enables makers to compare the results of multiple graders applied to the same evaluation.\nThe experience highlights agreement, differences, and overall grading behavior.\nCore capabilities\nThe core capabilities include:\n\nCompare graders side-by-side.\nCompare scores.\nReview explanations from each grader.\nAnalyze grading consistency.\n\nResults experience\nResults include:\n\nComparative score view.\nPass / fail comparison.\nGrader explanations.\nEvidence supporting each evaluation."
-        },
-        {
-          "title": "Dynamics 365 Project Operations: Simplify the creation of recurring expenses",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577182",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "This feature enables employees to automatically generate expense entries for predictable, repeatable business expenses (for example, monthly mobile bills, internet charges, parking, and subscriptions) without manual re-entry each period. It reduces repetitive effort, improves compliance, and ensures timely and accurate expense submission, while respecting organizational expense policies and approval workflows.GA date: March CY2027Preview date: July CY2026"
-        },
-        {
-          "title": "Microsoft Teams: Default meeting templates",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576609",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "Default meeting templates enable IT admins to automatically apply their organization’s preferred meeting settings whenever users schedule a Teams meeting through Outlook or Teams calendar. This helps organizations apply meeting settings (including protection settings) at scale, and reduce the need for organizers to manually configure meeting options. Only organizers with a Teams Premium (T-Pre) license assigned can use Default Meeting Templates.GA date: November CY2026"
-        },
-        {
-          "title": "Outlook: Teams Meeting Options",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575293",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "When you add a Teams meeting to an event in Outlook for Mac, the join link and dial-in details now appear in the invite while you're still writing it. A new Meeting Options button lets you change the Teams meeting settings right away, before you send.GA date: November CY2026"
-        },
-        {
-          "title": "Dynamics 365 Business Central: Data mirroring to Microsoft Fabric",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574126",
-          "published": "Tue, 20 Oct 2026 23:00:34 Z",
-          "summary": "Connect Business Central to Microsoft Fabric to make business data available for analytics, reporting, and data integration.\nChoose the Business Central companies and tables to synchronise, and make the data available in OneLake for use with Fabric IQ, Power BI, Data Factory, and other analytics experiences.\nGet started quickly with ready-made sample Power BI apps, while built-in logging provides visibility into synchronisation health and helps troubleshoot issues.GA date: April CY2027Preview da"
         }
       ]
     },
     {
       "name": "My Business Wire News",
       "items": [
+        {
+          "title": "RingCentral Announces Third Quarter 2026 Financial Results",
+          "link": "http://www.businesswire.com/news/home/20261022608824/en/RingCentral-Announces-Third-Quarter-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
+          "published": "Thu, 22 Oct 2026 20:03:00 UT",
+          "summary": "BELMONT, Calif.--(BUSINESS WIRE)---- $RNG #agenticvoiceAI--RingCentral announces financial results for the third quarter ended September 30, 2026"
+        },
         {
           "title": "TaskUs, Inc. to Announce Third-Quarter 2026 Financial Results on November 4, 2026",
           "link": "http://www.businesswire.com/news/home/20261021051036/en/TaskUs-Inc.-to-Announce-Third-Quarter-2026-Financial-Results-on-November-4-2026/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
@@ -363,6 +653,12 @@
     {
       "name": "UC Today",
       "items": [
+        {
+          "title": "AI Agent Risks, Exchange Issues and a Shifting Cyber Market",
+          "link": "https://uctoday.com/ai-agent-risks-exchange-issues-and-a-shifting-cyber-market",
+          "published": "Fri, 23 Oct 2026 08:01:00 GMT",
+          "summary": "Microsoft warns AI agents can act as insider threats; Windows updates disrupt Exchange Server and CyberSN flags shifting AI security demand"
+        },
         {
           "title": "Predictions: What Gartner, Zoomtopia and the PM Changelogs Delivered",
           "link": "https://uctoday.com/predictions-what-gartner-zoomtopia-and-the-pm-changelogs-delivered",
@@ -392,12 +688,6 @@
           "link": "https://uctoday.com/workdays-new-platform-aims-to-turn-ai-job-change-into-visible-career",
           "published": "Wed, 21 Oct 2026 11:01:00 GMT",
           "summary": "Workday Work Intelligence maps AI-driven task changes to skills and learning paths. Can it help employers improve employee engagement?"
-        },
-        {
-          "title": "Gartner’s Wake-Up Call for PMO Planning: What Deserves Your Money?",
-          "link": "https://uctoday.com/gartners-wake-up-call-for-pmo-planning-what-deserves-your-money",
-          "published": "Wed, 21 Oct 2026 08:01:00 GMT",
-          "summary": "Gartner’s 2027 trends show why PMOs should fund AI, governance and capacity planning carefully as CIO AI returns lag and costs rise, UC Today reports."
         }
       ]
     },
@@ -430,6 +720,18 @@
       "name": "CMSWire.com - All News",
       "items": [
         {
+          "title": "90210 Reboot? Nah. CX Reboot? The Time Is Now in the Age of  AI",
+          "link": "https://www.cmswire.com/customer-experience/90210-reboot-nah-cx-reboot-the-time-is-now-in-the-age-of-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Thu, 22 Oct 2026 16:06:45 -0500",
+          "summary": "Unlike a Hollywood reboot, CX transformation can&apos;t rely on nostalgia. AI demands new skills, stronger teams and a renewed focus on customer trust.\nContinue reading..."
+        },
+        {
+          "title": "Unpacking the AI Governance Crisis in Contact Centers",
+          "link": "https://www.cmswire.com/contact-center/unpacking-the-ai-governance-crisis-in-contact-centers/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Thu, 22 Oct 2026 15:07:50 -0500",
+          "summary": "Contact centers are adding AI agents without the infrastructure to govern them. A new benchmark reveals the scale of the problem.\nContinue reading..."
+        },
+        {
           "title": "Think AI Visibility Is a Done Deal? Ask Reddit About Its ChatGPT Citations",
           "link": "https://www.cmswire.com/digital-marketing/think-ai-visibility-is-a-done-deal-ask-reddit-about-its-chatgpt-citations/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Wed, 21 Oct 2026 18:57:14 -0500",
@@ -446,36 +748,6 @@
           "link": "https://www.cmswire.com/digital-experience/sundar-pichai-googles-frontier-imperative-compute-scarcity-dilemmas-future-ai-products-and-busin/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Wed, 21 Oct 2026 14:47:05 -0500",
           "summary": "In a Q&amp;A with Alex Kantrowitz, Pichai tells us about compute trade-offs, safety gaps and the personal agents coming next.\nContinue reading..."
-        },
-        {
-          "title": "Why Do CX Teams Spot Customer Risk too Late?",
-          "link": "https://www.cmswire.com/customer-experience/why-do-cx-teams-spot-customer-risk-too-late/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 20 Oct 2026 18:18:16 -0500",
-          "summary": "Every system reported green while a key account walked out the door. The fix: four customer health signals, each with a threshold, an owner and a next step.\nContinue reading..."
-        },
-        {
-          "title": "Who in the C-Suite Owns Your Website's Hidden Debt?",
-          "link": "https://www.cmswire.com/digital-experience/who-in-the-c-suite-owns-your-websites-hidden-debt/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 20 Oct 2026 17:57:42 -0500",
-          "summary": "Forgotten microsites and untagged PDFs cost money and carry risk. Digital estate debt gives one leader a problem they can own and fund.\nContinue reading..."
-        },
-        {
-          "title": "Webflow Launches AI Campaign Builder for Marketers",
-          "link": "https://www.cmswire.com/digital-experience/webflow-launches-ai-campaign-builder-for-marketers/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 20 Oct 2026 17:19:12 -0500",
-          "summary": "A standalone tool that generates on-brand landing pages, ads and analytics in one connected workflow.\nContinue reading..."
-        },
-        {
-          "title": "What You Need to Deploy AI Answering Solutions",
-          "link": "https://www.cmswire.com/customer-experience/what-you-need-to-deploy-ai-answering-solutions/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 20 Oct 2026 15:23:19 -0500",
-          "summary": "Build the business case, establish a unified technical foundation and work your way up to high-stakes interactions.\nContinue reading..."
-        },
-        {
-          "title": "Databricks CustomerLake Enters Beta as Enterprises Go Live With Agentic CDP",
-          "link": "https://www.cmswire.com/customer-data-platforms/databricks-customerlake-enters-beta-as-enterprises-go-live-with-agentic-cdp/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Tue, 20 Oct 2026 13:45:39 -0500",
-          "summary": "Databricks opened CustomerLake Campaign Agents to more customers in Beta and put Profile Agents, its Customer 360 builder, into private preview.\nContinue reading..."
         }
       ]
     },
@@ -500,20 +772,7 @@
     },
     {
       "name": "Twilio Blog",
-      "items": [
-        {
-          "title": "5 ways to evaluate a customer engagement platform",
-          "link": "https://www.twilio.com/en-us/blog/insights/evaluate-customer-engagement-platform",
-          "published": "Tue, 20 Oct 2026 20:00:00 -0400",
-          "summary": "You already know the demo is going to work, but these additional checks come from CIOs and CTOs who ran the evaluation and now live with the outcome."
-        },
-        {
-          "title": "How to automate call summaries, sentiment, and CRM updates",
-          "link": "https://www.twilio.com/en-us/blog/insights/automate-call-summaries-sentiment-crm",
-          "published": "Tue, 20 Oct 2026 20:00:00 -0400",
-          "summary": "Learn how to transcribe support calls, extract summaries and sentiment, and update customer profiles and your CRM automatically."
-        }
-      ]
+      "items": []
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -521,11 +780,163 @@
     },
     {
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
-      "items": []
+      "items": [
+        {
+          "title": "Comcast touts customer service contact rates down 20% this year - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUVCUUZFWlBKSVhnLUNhYWw4dHp1MW1KRE00Tk1KdWdmd1o5ZkVZa0FLUnNqZkhoUGNaa0dwSXFHTmRlOHZLQzg1ZUwtanU1T0ZJR1hvZ1FKdXhTVFJKU1RXSDA2azJ4eUtncHJaUHUwYUVxbjdwbVNQdXV1M2J0SENka2hJZndRem8xMXBMS29PaXJLS3BhalJia0prRklUYktUTkZxNUtvaURJRFZ0ektkTk8?oc=5",
+          "published": "Thu, 22 Oct 2026 21:37:10 GMT",
+          "summary": "Comcast touts customer service contact rates down 20% this year&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "American Airlines confident in CX, premium investments despite the toll of fuel costs - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHRRVEZGUTFzcDRuekZiRGxSeE5lRWlwdnlkc0ROcjY4bkRyXzlBMkFZYUZHdzFuTW5IVnFIcmRDVmVncmZYeVlJT3RKeEVpRkh3ZHFBN2x0bXJKd1F1bHY1SkstY0RMVWRqWTg4azBNdDlCcWlwVFEtUU5NajdyTTVyQ1RjNXE0RmhleGdyYWpzTkt4ZW9ZdUt0NkRMQnpTeVRrRWpRYm5IcTlMZlIxWjR3?oc=5",
+          "published": "Thu, 22 Oct 2026 21:37:10 GMT",
+          "summary": "American Airlines confident in CX, premium investments despite the toll of fuel costs&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "Southwest sets its sights on improving loyalty revenue - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2tmS0dabmhmdTRNRmRsZ0FycFVfVmg2cjNac3ZYQVdVYkpmWXdrUlR2UzY1WWxXZHU4aEJHTzBqelA2blBxMnFJLU5rd3ZWX2Q4eGJ4VGFVMHozX1Y0dVRoSzJJdXpNTEFSeUdRMDFuQnRFcFFkN1YyRjJibDB3eGhJMDFLSmV1NmdSUS1hWnd1U20xZ0c0clpPWXQ?oc=5",
+          "published": "Thu, 22 Oct 2026 21:37:10 GMT",
+          "summary": "Southwest sets its sights on improving loyalty revenue&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "90210 Reboot? Nah. CX Reboot? The Time Is Now in the Age of AI - CMSWire",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDUwLTU5R0lZUkRuZUNLVU9OM25NaEJxa2pBVWxuUGRMYi15V3VWLXRVazRWUTN3QVU3UlpsYVJtOTF1dDRaVjdwcWNtanpJeXdxb0NkT3V1VWUzRm5tSzBVR1pZZ05oOWVEbEk3ODdIaUtVNTczZkZnUGxESlhNYk5xbDFLNTJfUl9yUWpQNlJOTUtEMXpIZDNQUzkxNTM2amFWcl9JOA?oc=5",
+          "published": "Thu, 22 Oct 2026 20:07:38 GMT",
+          "summary": "90210 Reboot? Nah. CX Reboot? The Time Is Now in the Age of AI&nbsp;&nbsp;CMSWire"
+        },
+        {
+          "title": "CX Awards 2026 Finalists Revealed: See The Full Shortlist - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQakJMZ3NvaHM5YkJ1cG1HZTcxdkNsX08tU04zakZvYzU1X0JPZmg0UGh2blBLZjc1MTdJUzRJTFlTRzI0MXd2M3dKMENzeGo3SGxtSUpWY21PMEQ4YUh3N0p3NUFGUkR4ZEJOdEo5X3RLRTlXMGFzS25tbDI5ZXVPQjFR?oc=5",
+          "published": "Thu, 22 Oct 2026 15:04:25 GMT",
+          "summary": "CX Awards 2026 Finalists Revealed: See The Full Shortlist&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "AT&T pursues ‘sticky and high lifetime value’ customers - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVpuT0JHQ0ozeWRGbXd6MWszdnc0M3k4UmlUdEgyLTVMMnczMTZFeDRxUi1CbVdiSFRsbDFLN1FWYnc0UFlzbnR1NTZPMTQtME9pS1ctRHlMcFpfR1dIZzZYcDhiZ0VCcG93Mm55a3prWEMtN2xsaV9EQUM1eHRmQ2F4WXdNSkRBVDlSb1NOU1pCcXFrSkV6eWZzYnFaaXJPNV9UTnlPUDZJZWpsZU44?oc=5",
+          "published": "Thu, 22 Oct 2026 13:21:06 GMT",
+          "summary": "AT&amp;T pursues ‘sticky and high lifetime value’ customers&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "Amazon Connect Customer Targets the CX Problem Brands Still Miss - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnB4LWV4cWVpTHZBMXlzVF85WldTYUlQOHRtX0xZQWZwZDhvSXVIbUtYTVNTN2NkZUNDcUk2V09XOWp5eXJZWkVUVGVHMmFLYTY4bmJqdFdpT2c3NlRpNEtkSkQ3ZWZDNEFZNnJEbVpZSHpqSWZncGhLUHVvWHhkYTRHZ2E0T3ZpSFZHVjZjSkFtQ3V2QjZLR2NZUk0?oc=5",
+          "published": "Thu, 22 Oct 2026 12:35:56 GMT",
+          "summary": "Amazon Connect Customer Targets the CX Problem Brands Still Miss&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "Why Managers are the Missing Link in Enterprise AI Adoption - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oM21NblZCZmIxU1NYWUw4aDN3UFFrQUd1LWhTeVdoeHVMTmdDZ0lGd1B0dFJoN3o3MnJWV0lVY1J0Mk42Nl91LU9DZFA5aGg5S3l2V2dpYmI5MDRuMkE?oc=5",
+          "published": "Thu, 22 Oct 2026 08:01:00 GMT",
+          "summary": "Why Managers are the Missing Link in Enterprise AI Adoption&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "Forrester's 2027 B2C Marketing, CX, And Digital Predictions: Rising AI Costs Will Force B2C Leaders To Scale Back A Third Of AI Initiatives - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZUFCdU5vU3FfcW1zZHZrb1k4aHJISFNsY3pzN0QxN0dIbUNNT0J4QzdCTEJycDJsZVE3WEgzN05VY1NuQUxzR0pDd2N1eVlIVzF6NlVRYU1iSnhtejVMRV9zeGwzcUhLQm5iRkRucXA2RXRFSUtZYm52VmNlOGJtMkR3TnMzTFltb2s4R3dPeGF5ckVWdURNalR4eThYb1piY2pPU2lIenlfVE5UdFBlVlJRcF9mbkZMNG5iRHZuV2FoN21yMWdMQzFyb3JUbThmZksydVo5M0d3cXJKLWFyTktwWWp2Y2Q5SHZJaVVZY2VhZ1JfLU5seDNoLXBER1JydWxGdUZLNUFqRDFfVk5WU2xfZTlmUGxJUlc3aVdyS3JzaWc?oc=5",
+          "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+          "summary": "Forrester's 2027 B2C Marketing, CX, And Digital Predictions: Rising AI Costs Will Force B2C Leaders To Scale Back A Third Of AI Initiatives&nbsp;&nbsp;TradingView"
+        },
+        {
+          "title": "United’s loyalty strategy leans on Starlink - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXlfa2FPbzdnMWU5akx3ZldiT0ctSmU4MXdicmdJejdMNEtXazB6VkFFY2h0N21CdFhUdmZza0R3QlBLU3BSZE5pczVEU2IzeGV5ZVc4QXc4WnBrR24xcjFoeVRqTHBnSkMzVzcwdzVCUEo0Q3lVVmctcXhRcEN5Z25YQmJEWXc4S0FVSjJpaUFzZHI1eXlrSldR?oc=5",
+          "published": "Wed, 21 Oct 2026 20:57:08 GMT",
+          "summary": "United’s loyalty strategy leans on Starlink&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "Introducing Service Execution Workspace: Our First Step Toward Outcome-Oriented Service - Oracle Blogs",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0VMbGF0YjRnckFIc01fRmpuRC1UVlZHTGwzRVVRSndKSi1IcjZvS0Fpd1RNWHlOa0xjWFJsX2VZU28wclNRby1EbTNLMFVyNWFaTHhuM0dzV0s2ZFNlTEhUSVd4SGc1VGVJaFFkN2V3UVdvdjdFT3pnN1AyUVRpaFJFbHhPa3RNQnpBZTZiYXM1WnJLdjNrQm45S0J4ZUZYLXNDSWJlb1RaMWh0SEZUZFZFc1I?oc=5",
+          "published": "Wed, 21 Oct 2026 20:16:53 GMT",
+          "summary": "Introducing Service Execution Workspace: Our First Step Toward Outcome-Oriented Service&nbsp;&nbsp;Oracle Blogs"
+        },
+        {
+          "title": "Has Salesforce Bought Its Missing Engagement Engine? - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CamJUS3ltSGlNelFkSDFVekdJMXhpa1pQeVMtSVBCemhXNjdnZGJTRTg3R1RpaURqcEg3M01yZFU1R1hrOGRvUE9kYTlSYWFCM0c2QVJwbDJXQ0dSMGJKUGVINnpDTXpQbENabHRkYmpJS2hlZWtrRUdKOA?oc=5",
+          "published": "Wed, 21 Oct 2026 14:01:00 GMT",
+          "summary": "Has Salesforce Bought Its Missing Engagement Engine?&nbsp;&nbsp;CX Today"
+        },
+        {
+          "title": "Falling value perception is putting a magnifying glass to store CX problems - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUtlUlMwX0JlN2FnUFp3QWkxaDRQQTFCNTM5amp5N3lsRVV5Rm14aElFZDVDM0ZLTmotcnRfR2ZLZHl1VXNSbGp0UFFOZVhuYUV3Q2dnc19NdDlQS1kzY0txOURSNnBYR01XNmw5d0JjUkhldGNTTTloS2Z3MXNQOVA5NW9oaU42YnoySjQzV25JaXE3RHI4VmhZOWxsbFA0bFFvcGd6QTNEaHF3T0Nz?oc=5",
+          "published": "Wed, 21 Oct 2026 13:37:08 GMT",
+          "summary": "Falling value perception is putting a magnifying glass to store CX problems&nbsp;&nbsp;CX Dive"
+        }
+      ]
     },
     {
       "name": "\"CRM\" - Google News",
-      "items": []
+      "items": [
+        {
+          "title": "AI agent activation & development that automates real work - Rand Group",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FRkRYYWpmb2hFUnlYcEJlZFBKRXBfUHI4Rmk3MkpEci1TcFE2WFV0LXNvRFlTWG50SlNlTEVtaFRBbGRsdDZxZTN1aGNKb2ZOMjZSQVZTbUpwSE9xd1hrR01OWTVFOTlxTnAxMWxSZ1o5MG5JVHl2MzFuSQ?oc=5",
+          "published": "Fri, 23 Oct 2026 08:29:13 GMT",
+          "summary": "AI agent activation & development that automates real work&nbsp;&nbsp;Rand Group"
+        },
+        {
+          "title": "Adobe Jumps 5% as Beaten-Down Software Names Rebound Despite Risk-Off Day; Salesforce Rises 3% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlk0cTlZd28wcHFXQnVTTlU5Tk9WNlAwc2VKVlhxTGhDSGliZWVxRlBBalVXNGh3cFBHd2pEbERlRGJvSTZJdXd5UE14VnAySm04UENUS24xcXVvVnhrV21EWGVkYk9iNUhKYkRTbVRCT2NUZ21WR3NlTHBmUE5tS3dnUldOSkQzSkg4aXRVUmMzOGh5NGc1Vk1kdVJJV1RqblYxT0xBWVNzNl9SNFRvZmNuejZ6aFJvM3J3b0lSSEJ4QlluRklhb29ZaWlJM3No?oc=5",
+          "published": "Thu, 22 Oct 2026 18:04:00 GMT",
+          "summary": "Adobe Jumps 5% as Beaten-Down Software Names Rebound Despite Risk-Off Day; Salesforce Rises 3%&nbsp;&nbsp;24/7 Wall St."
+        },
+        {
+          "title": "Career Center | Recruitment - ADP",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTDJpLV8wT2ItQnJBZFpET2E3a2IyVDFlNUcxMVZMdlRMaWYySGQ5S1FnX2xTVTdSTUVSR3V2NFFjREMxNmwwOVFVRDlHaXRWOTJFMDV5bl9Lak9WMU01NzFPM09aY2dtbE5wby1UYlQ5Wm1FQ3lub2w5WUVqUkFSMGJZZHBJQlM3ZlZsamROVTZFSzNEUmZ4eDV0M3RvR3Nfbzl0RDlVbUF6X0R3WEZ4cF9XWWRSZ0tYNW5QNGpxRkV3T01ueDF4RHo3LUl2aWtOYTN1MTdUX1dLelp4VGFmUjR5ejhsVDlxWWFrVnNrMnlTRmExOEU1OTE0Zm9zSC1HSXc?oc=5",
+          "published": "Thu, 22 Oct 2026 18:01:32 GMT",
+          "summary": "Career Center | Recruitment&nbsp;&nbsp;ADP"
+        },
+        {
+          "title": "Senior CRM Marketing Manager Job Details - Trulieve | Careers",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjd3Rk5FM1dNYzdlUTd4MWNpQ0V2YmNjVnpwMW1WMW1jYi12aFRIQVJTd05GM2gxWHMwdzJ5R1YtSlVoRFAxZGotb1FLTldTQ3dha1JHWGg4ZzJyUTBQTF9Ba1BoOHA3bnZWSERTOGRoOGlaWmNBQzUzSjBtdjM3ZWlqRGNtc1BCMzcxSUp1U1NNSm5IbmRndTBB?oc=5",
+          "published": "Thu, 22 Oct 2026 17:11:36 GMT",
+          "summary": "Senior CRM Marketing Manager Job Details&nbsp;&nbsp;Trulieve | Careers"
+        },
+        {
+          "title": "Appointment Setter at Virtustant - Virtustant",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONExTcXlNSkQzT3EwbVBub3B6QUVxRjd3TjJ0V2l3MTdCcmhCak9XYlNBaTA1THhldkZ1ZkdHeWpLNnY1aFllcGpRYW5ieEFIa1p3ZFBtdUNUTmh4VnViMDlzUERZSm9oMXFpMjBlLUtIQzNJOGhiNHRXMXk0V0tXc053?oc=5",
+          "published": "Thu, 22 Oct 2026 16:47:12 GMT",
+          "summary": "Appointment Setter at Virtustant&nbsp;&nbsp;Virtustant"
+        },
+        {
+          "title": "Software Engineer at Ford Motor Company - Ford Careers",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeUc5dG9TWFNkdWlBZnFwd0lUR09uMkpoeTVpT1NyM2hXcHJxbWJodmxWeTJEdHcxS2J0U1ZBLWNhQ1ZXNkg4X29NVF9QakoxMDJ3OFJKRFppMDlZZ2pIMU1UVGZTejZoNGFIMnp2NXcwUWlicjZoU01BRmtjQ01UQmZEVHJoSmM?oc=5",
+          "published": "Thu, 22 Oct 2026 16:00:33 GMT",
+          "summary": "Software Engineer at Ford Motor Company&nbsp;&nbsp;Ford Careers"
+        },
+        {
+          "title": "Implementation Lead @ Element451 - Ashby",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92Y1AyOXk2WWloWTd1dzljRUJMMklDNUZxYnVPbkJ5TmJzWVJ6NVRqSVpZS1NITVpjdFRkUnJjX0dBTWg0dHY5U3BnX0hfeTA1cjZJRUxGajFnWGhrS1EzbS1GOWN0cUFNY2UzRDdqU1hwY3hJZWlXblJ2Skg?oc=5",
+          "published": "Thu, 22 Oct 2026 14:36:53 GMT",
+          "summary": "Implementation Lead @ Element451&nbsp;&nbsp;Ashby"
+        },
+        {
+          "title": "AI Customer Service Should Fix the Problem or Hand It to a Human - CRM Buyer",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajVPQTlXMldXRHE4M2FFMVJEdGtRMGhSYjQ2QUxlNzViQjVmVGFSMS03cXpQZUItdF9nNXJ6NTFJT1IwS1o1MUVDWE1mZUJVeTZta0pMTTNldWpGOGhoR3lyaGVOWDNwMEpkQ1I1cjhJVmJId1VTUUVaeE5NbEpmd1ZscFhxaTRqNzBaZ0QzNVBUYzRLbTQ4c3JTbXl0LUJXLUNiRGk1a1VzNDA?oc=5",
+          "published": "Thu, 22 Oct 2026 14:00:50 GMT",
+          "summary": "AI Customer Service Should Fix the Problem or Hand It to a Human&nbsp;&nbsp;CRM Buyer"
+        },
+        {
+          "title": "From AI to ROI 2026 - Satori Analytics",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YM2RfWG84b1pkLVVaTmxlOWJCWkFmMGZ2MjV0ZjJZSHFYYzRxZXN1dEJjRXJDTU9RTjc5OGtZMlNvemRCRC0tR2w4cV9NMm9Gc09DSg?oc=5",
+          "published": "Thu, 22 Oct 2026 09:04:20 GMT",
+          "summary": "From AI to ROI 2026&nbsp;&nbsp;Satori Analytics"
+        },
+        {
+          "title": "Senior Support Specialist, Premium - Careers at Airbnb",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xOEJ1ZEU3Z25na2NCdjYtVWppaVdXMXh0Vk9xdXNycmtsUUx4SzBHdGhJbGlxYVVlTUxkQ3FTZVozVUt5OThNN3ZfLTlKc2ppOTljWmk1bFk?oc=5",
+          "published": "Thu, 22 Oct 2026 04:38:51 GMT",
+          "summary": "Senior Support Specialist, Premium&nbsp;&nbsp;Careers at Airbnb"
+        },
+        {
+          "title": "Introducing Microsoft Contact Center Intelligence - Microsoft Dynamics 365 Blog - Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa1pfSVVpTHZOcHQyeVZzVXBrcDA0aGY3aE9nMWZVWUZpdDRHNXhENTJWdjVPMEk5dFh5X09ndFN1S3lkU3NTWFZObU9tQW5RLTRZM2VIYWo2QWVBNjBLQ3lldDR2WUxvWC0zS00wUm9pRmJFT011Wllkc1Z0LVlwQXhlTDI3Y3ZkSTk0QllWaWhpanZnYkJ6V2dWMFREM1FZSnFERndHU3ZDanY4aGlrY0tFUDNqX0xMbzFBQWRGOS1fRjN4REdMbUV2V0xYWFNza0R6ek1KLU1YVThYVVlVWWQ0dDdrTVhDZHVjX25FUkRCQk4tYTI0VQ?oc=5",
+          "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+          "summary": "Introducing Microsoft Contact Center Intelligence - Microsoft Dynamics 365 Blog&nbsp;&nbsp;Microsoft"
+        },
+        {
+          "title": "ServiceNow delivers industry-first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon - ServiceNow",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQdy0yWElicDlMYTVnRVZFenJXQ2dadm9jX1BseWIwUEFMOVhHeVpXSElTNFdqbzh1UzdzQVRiSjQxN291MmlMS3lPdnVxSVBCM2dCdkdoVVVKWlBJV2F5X3hjNjJrSmx1UzBkX3pKSVRacWRSNi1oX1psS252ZllrVXk4QVdyX19xWVNySGpJdjNtZ0JKN3VPLXpNUzhtNnh6YTJlbk4zUnhzVWpfQWpyZlF6bHd0SUZDa1k1VnhGQXVMMTZaQWN1RnVrTUJPR0NwOW55SHpzN0ZQZnF1Q19nSnNaUHhCN3dzM2c4VUExb1RFWmg1VGt0YXBUbl9iZVBfcVRmbEktYU5pSXZuc3YyMHlVM2NVN1NFcnRLd2JwbzVXR0FKRVZGdG1rMkNOX085blE?oc=5",
+          "published": "Wed, 21 Oct 2026 13:19:50 GMT",
+          "summary": "ServiceNow delivers industry-first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon&nbsp;&nbsp;ServiceNow"
+        }
+      ]
     },
     {
       "name": "\"\"Contact Center\" or \"contact centre\" or \"CCaaS\"\" - Google News",
@@ -541,7 +952,26 @@
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "items": []
+      "items": [
+        {
+          "title": "5 steps to turn your Microsoft 365 security practice from a cost center into a revenue stream - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnMyUEU1TkZaMWZxQ3g5dk5YYkc3UFdSQUg1REtBdzV3T2xyTGQ5alpESGNtcEYxQmY5cFpPWVFzbGdjLUpkamlrNlRHcWlYWnVUZV9fVng5Wk5udS1kOTdKZTlMd1hmN0lwbWxXU09xeTFDWVNXbjUtZTV1aFI1ekpPTHFxeFI4X1Q0OXpUeHZVbE81Y2c?oc=5",
+          "published": "Thu, 22 Oct 2026 18:36:43 GMT",
+          "summary": "5 steps to turn your Microsoft 365 security practice from a cost center into a revenue stream&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "3 Questions with Ignacio Lopez – Work-Smart.ai - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLThnNmlLSVUtbGtKUEVEbkJHaE93YXFYekJ4UmNYYnkzbWhVUDloZUt6dnRkRzVQMWswM0szeThXaDlaMDhxTC11eTNlS09xTDJiQXNEU1dYWDFrcWtNVDlVandrQ3FCX1FySWoxbXZRclhkbDE0akJrM0NtdU1NREJqRnllbVFYNm11bWZsbDVWelFr?oc=5",
+          "published": "Thu, 22 Oct 2026 15:35:41 GMT",
+          "summary": "3 Questions with Ignacio Lopez – Work-Smart.ai&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "2027 Forecast: Channel experts predict what MSPs should expect in the year ahead - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUhUU1R5TzJ5aVNXTkVNOE5DY016Wl9oWVNWSkZaSm5FQ19UX3llanFoUVdwOWdET1VMUVhCYmJ1dFpNcllwVU44c2RjNzNaNW5PZ2JsMjJ2aTdqYng4RTlGMHZGUU1QY0tJT0g3aUZBbUxLWVc0UG92QWk1c1pneFkzdG9rR080LWlFWWxHMWJ0OTNENDRNd21vUXpjdzl2UkYtdlJUR1lfVTQ?oc=5",
+          "published": "Wed, 21 Oct 2026 20:19:49 GMT",
+          "summary": "2027 Forecast: Channel experts predict what MSPs should expect in the year ahead&nbsp;&nbsp;The ChannelPro Network"
+        }
+      ]
     },
     {
       "name": "Futurum",
@@ -728,18 +1158,19 @@
           "link": "https://www.constellationr.com/insights/news/nvidia-launches-dsx-pod-aims-modular-preintegrated-ai-factories",
           "published": "Wed, 21 Oct 2026 10:53:53 +0000",
           "summary": "Nvidia launches DSX POD, aims for modular, preintegrated AI factories\nLarry Dignan\nWed, 21 Oct 2026 - 03:53\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, d"
-        },
-        {
-          "title": "HOT TAKE: The Salesforce Glow Up Continues with $5.6 Billion Pickup of Braze",
-          "link": "https://www.constellationr.com/research/blog/hot-take-salesforce-glow-continues-56-billion-pickup-braze",
-          "published": "Wed, 21 Oct 2026 04:38:28 +0000",
-          "summary": "HOT TAKE: The Salesforce Glow Up Continues with $5.6 Billion Pickup of Braze\nLiz Miller\nTue, 20 Oct 2026 - 21:38\n\n  \n  \n\n\n          \n\n\n\n\n\n  Salesforce Agrees To Acquire Marketing Darling Braze\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Liz\n   Miller\n\n                  Vice President &amp; Principal Analyst\n  Constellation Research\n\n            \n            \n                About Liz Miller:\nLiz Miller is Vice President and Principal Analyst at Con"
         }
       ]
     },
     {
       "name": "SiliconANGLE",
-      "items": []
+      "items": [
+        {
+          "title": "Zoom&#8217;s next act: From video company to AI data platform",
+          "link": "https://siliconangle.com/2026/10/22/zooms-next-act-from-video-company-to-ai-data-platform/",
+          "published": "2026-10-23T02:01:55Z",
+          "summary": "Since its launch, Zoom has been defined by one word: video. Customers, consumers, investors and competitors have long known Zoom as the industry&#8217;s easiest-to-use and best video platform. However, even before the pandemic, the company had been evolving into something much bigger than the unified-communications-as-a-service and contact-center-as-a-service buckets that analyst firms put it in. Those [&#8230;]\nThe post Zoom&#8217;s next act: From video company to AI data platform appeared firs"
+        }
+      ]
     },
     {
       "name": "Technology News For IT Channel Partners and Solution Providers",
@@ -757,6 +1188,12 @@
       "name": "TechTarget Enterprise Software",
       "items": [
         {
+          "title": "How to fit customer experience security into your strategy",
+          "link": "https://www.techtarget.com/enterprise-software/tip/How-to-fit-customer-experience-security-into-your-strategy",
+          "published": "Thu, 22 Oct 2026 18:30:00 GMT",
+          "summary": "&lt;p&gt;Most organizations overlook security in their CX strategies. However, every customer interaction is simultaneously a business experience, an identity interaction and a potential security event.&lt;/p&gt; \n&lt;p&gt;Organizations that treat &lt;a href=\"https://www.techtarget.com/searchcustomerexperience/definition/customer-experience-management-CEM-or-CXM\"&gt;customer experience (CX)&lt;/a&gt; and security as separate priorities risk creating unnecessary friction for customers or leaving "
+        },
+        {
           "title": "Customer journey mapping tools: What they do and how to choose one",
           "link": "https://www.techtarget.com/enterprise-software/tip/9-customer-journey-mapping-tools-that-can-improve-your-CX",
           "published": "Wed, 21 Oct 2026 16:00:00 GMT",
@@ -773,6 +1210,18 @@
     {
       "name": "CX Dive",
       "items": [
+        {
+          "title": "Southwest sets its sights on improving loyalty revenue",
+          "link": "https://www.customerexperiencedive.com/news/southwest-airlines-improving-loyalty-revenue/833760/",
+          "published": "Thu, 22 Oct 2026 14:11:43 -0400",
+          "summary": "The carrier&rsquo;s bevy of loyalty advancements &mdash; from overhauling Rapid Rewards to adding international travel partners &mdash; are aimed at strengthening the airline&rsquo;s value proposition."
+        },
+        {
+          "title": "Comcast touts customer service contact rates down 20% this year",
+          "link": "https://www.customerexperiencedive.com/news/comcast-touts-customer-service-contact-rates-down-20-this-year/833786/",
+          "published": "Thu, 22 Oct 2026 14:00:00 -0400",
+          "summary": "As part of its efforts to simplify customer interactions, Comcast has eliminated more than 30 million service interactions so far in 2026, executives said on an earnings call."
+        },
         {
           "title": "American Airlines confident in CX, premium investments despite the toll of fuel costs",
           "link": "https://www.customerexperiencedive.com/news/american-airlines-confident-cx-premium-investments-toll-fuel/833744/",
@@ -796,18 +1245,24 @@
           "link": "https://www.customerexperiencedive.com/news/price-perception-in-store-cx-retailers-greater-consistency/833520/",
           "published": "Wed, 21 Oct 2026 07:00:00 -0400",
           "summary": "Higher prices can make problems like reduced product selection or checkout friction stand out, HappyOrNot found."
-        },
-        {
-          "title": "How Ahold Delhaize USA keeps loyalty programs alive during outages",
-          "link": "https://www.customerexperiencedive.com/news/ahold-delhaize-usa-cybersecurity-website-app-outage-loyalty-programs/833537/",
-          "published": "Tue, 20 Oct 2026 16:43:00 -0400",
-          "summary": "The grocer's chains are delaying point expirations and using in-store kiosks for personalized savings after their websites and apps became inoperable."
         }
       ]
     },
     {
       "name": "Call Centre Helper",
       "items": [
+        {
+          "title": "Q&A: The Role of AI When Every Second Counts",
+          "link": "https://www.callcentrehelper.com/ai-when-every-second-counts-278247.htm",
+          "published": "Fri, 23 Oct 2026 10:00:00 +0000",
+          "summary": "When someone reports a gas leak, calls an urgent healthcare line or loses power in a storm, the technology behind that conversation cannot fail. Martin Taylor, Co-Founder &#38; Deputy CEO at Content Guru explores how AI is supporting communications in...\nThe post Q&amp;A: The Role of AI When Every Second Counts appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Zoom Launches New AI Features for Customer Experience",
+          "link": "https://www.callcentrehelper.com/zoom-new-ai-automation-features-278310.htm",
+          "published": "Fri, 23 Oct 2026 09:57:11 +0000",
+          "summary": "Zoom has announced new AI agents, customer profiles and workflow automation features. The updates, announced at the company&#8217;s annual Zoomtopia conference, include a new unified context layer that brings together customer conversations, transcripts, CRM data and live interactions. The information...\nThe post Zoom Launches New AI Features for Customer Experience appeared first on Call Centre Helper."
+        },
         {
           "title": "Recorded Webinar: How to Turn Customer Feedback into Action",
           "link": "https://www.callcentrehelper.com/webinar-turn-customer-feedback-into-action-276839.htm",
@@ -843,24 +1298,6 @@
           "link": "https://www.callcentrehelper.com/peopleware-ai-native-wfm-expo-278271.htm",
           "published": "Wed, 21 Oct 2026 11:09:42 +0000",
           "summary": "Peopleware will exhibit at the Contact Centre &#38; Customer Experience Expo 2026 at ExCeL London on 18–19 November, showcasing its AI-native workforce management (WFM) platform for contact centres and BPOs on stand CC-F50. On 18 November at 11:40am, Ben Heslop,...\nThe post Peopleware to Showcase AI-Native WFM at Contact Centre Expo appeared first on Call Centre Helper."
-        },
-        {
-          "title": "AnywhereNow Wins Microsoft Global Hackathon Executive Challenge",
-          "link": "https://www.callcentrehelper.com/anywherenow-wins-microsoft-challenge-278252.htm",
-          "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-          "summary": "AnywhereNow wins the Microsoft Global Hackathon Executive Challenge, securing its second Microsoft hackathon victory in four weeks.\nThe post AnywhereNow Wins Microsoft Global Hackathon Executive Challenge appeared first on Call Centre Helper."
-        },
-        {
-          "title": "CX Vision 2035",
-          "link": "https://www.callcentrehelper.com/cx-vision-2035-278256.htm",
-          "published": "Wed, 21 Oct 2026 09:39:06 +0000",
-          "summary": "CX Vision 2035\nThe post CX Vision 2035 appeared first on Call Centre Helper."
-        },
-        {
-          "title": "Keep Your Finger on the Pulse of What Agents Think",
-          "link": "https://www.callcentrehelper.com/finger-on-pulse-agents-think-277992.htm",
-          "published": "Wed, 21 Oct 2026 07:00:00 +0000",
-          "summary": "Learn how contact centre leaders can monitor employee engagement year-round through continuous listening, team conversations, wellbeing support, and feedback.\nThe post Keep Your Finger on the Pulse of What Agents Think appeared first on Call Centre Helper."
         }
       ]
     },
@@ -878,6 +1315,18 @@
     {
       "name": "CXM Customer Experience Magazine",
       "items": [
+        {
+          "title": "Barclays, You Can’t Have Your Cake and Eat It: The Hidden Cost of AI Transformation",
+          "link": "https://cxm.world/employee-experience/barclays-hidden-cost-ai-transformation/",
+          "published": "Fri, 23 Oct 2026 08:56:10 +0000",
+          "summary": "Barclays’ plan to cut around 5,000 jobs raises a wider question about the hidden cost of AI transformation. Workplace culture expert, Deborah Hartung, asks whether businesses are mistaking a smaller workforce for a better-performing organisation, and argues you can&#8217;t have your cake and eat it. Barclays’ chief executive recently described AI as the “icing on...\nThe post Barclays, You Can’t Have Your Cake and Eat It: The Hidden Cost of AI Transformation appeared first on Customer Experience "
+        },
+        {
+          "title": "Your CX News Roundup: Microsoft Takes AI to Rival Contact Centres as Zoom Launches Unified Context Layer",
+          "link": "https://cxm.world/customer-experience/customer-experience-news-roundup-contact-centre-ai/",
+          "published": "Fri, 23 Oct 2026 08:00:00 +0000",
+          "summary": "This week in your customer experience news roundup, Microsoft took its contact centre AI to platforms it doesn&#8217;t supply; Zoom bet on shared customer memory; Salesforce agreed to buy Braze, and Walmart handed AI shopping agents a basket and a budget. AI-powered cyberattacks, Contentsquare, and UK loyalty schemes also had moments worth noting. Here is...\nThe post Your CX News Roundup: Microsoft Takes AI to Rival Contact Centres as Zoom Launches Unified Context Layer appeared first on Custome"
+        },
         {
           "title": "Why Voice of the Customer is your CX Superpower",
           "link": "https://cxm.world/todays-pick/why-voice-of-the-customer-is-your-cx-superpower/",
@@ -925,24 +1374,31 @@
           "link": "https://cxm.world/customer-experience/how-a-dialect-trained-voice-assistant-made-digital-government-work-for-elderly-citizens/",
           "published": "Wed, 21 Oct 2026 14:36:06 +0000",
           "summary": "Every government that moves its services online promises greater convenience, yet the people who need public services most are often the last to benefit. Older citizens, widows living alone and residents with disabilities can find that a portal or app replaces a familiar counter with a screen they struggle to read, menus they cannot follow...\nThe post How a Dialect-Trained Voice Assistant Made Digital Government Work for Elderly Citizens appeared first on Customer Experience Magazine."
-        },
-        {
-          "title": "NatWest’s Return to Office Mandate Is a “Kick in the Teeth”, Says Unite",
-          "link": "https://cxm.world/employee-experience/natwest-return-to-office-mandate-unite/",
-          "published": "Wed, 21 Oct 2026 09:42:13 +0000",
-          "summary": "The NatWest return to office mandate will require around 30,000 UK staff to spend more time in the office from February 2027, with office-based employees expected in at least two days a week. Unite general secretary Sharon Graham has called the move “yet another kick in the teeth” for workers, and the union wants the...\nThe post NatWest’s Return to Office Mandate Is a “Kick in the Teeth”, Says Unite   appeared first on Customer Experience Magazine."
-        },
-        {
-          "title": "Why Salesforce Is Paying $5.66bn for Marketing Cloud Rival Braze",
-          "link": "https://cxm.world/customer-experience/salesforce-braze-acquisition/",
-          "published": "Wed, 21 Oct 2026 07:58:44 +0000",
-          "summary": "Salesforce has agreed to a $5.66 billion acquisition of Braze, a long-time Marketing Cloud rival. Braze, based in New York, makes software that sends brands&#8217; app notifications, texts, and emails. Under the agreement announced on 20 October, its shareholders will get $47.50 a share in cash, roughly 58% more than Monday&#8217;s closing price. The deal...\nThe post Why Salesforce Is Paying $5.66bn for Marketing Cloud Rival Braze appeared first on Customer Experience Magazine."
         }
       ]
     },
     {
       "name": "CX Foundation - Google News",
-      "items": []
+      "items": [
+        {
+          "title": "11 Revenue Intelligence Solutions & How They Differentiate in 2026 - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JcWxHdDBQS0JBak9hVUVpV0ZGaklRMmh4SENWQlB1UU1hTTNMX1E0S2QxZ2hQcmhxZWNWS3lnb3VJMlptY0dMQ1ktVEltbkNzaXNYY2dreDV5MHd0NXRKNXZNc0UwTFE5NVRfUQ?oc=5",
+          "published": "Fri, 23 Oct 2026 03:55:33 GMT",
+          "summary": "11 Revenue Intelligence Solutions & How They Differentiate in 2026&nbsp;&nbsp;CX Foundation"
+        },
+        {
+          "title": "The Economic Risks of AI in Customer Support - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hVmZXTVVmR3R0QV9pWVhhY09hTGlwbmVRNGpZYVpBbVlhWW1DSDFQM2hmQV96d3FiOGRRYnAwYXBLR3dZSEZhZjk4X0tCWEpLWlQyMm1KVWw5VTJtcV93OGV4N0l0Ty1jYUFnUmtKQkZXUQ?oc=5",
+          "published": "Thu, 22 Oct 2026 19:44:29 GMT",
+          "summary": "The Economic Risks of AI in Customer Support&nbsp;&nbsp;CX Foundation"
+        },
+        {
+          "title": "Microsoft Announces an AI Agent Suite to Modernize Legacy Contact Centers - CX Foundation",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5TE54R2JJcjcxSm82ZW5ycGhEQUJtTy1rNV9KTjdqN1JMRDliYk5vUDlvakFYZHladHN3MHE4RHJnOTlXbHRnUlB0aWFhUmpmX3ZncDJlbFE2SEdBUEh1aFVDQmQ?oc=5",
+          "published": "Wed, 21 Oct 2026 18:16:06 GMT",
+          "summary": "Microsoft Announces an AI Agent Suite to Modernize Legacy Contact Centers&nbsp;&nbsp;CX Foundation"
+        }
+      ]
     }
   ]
 }
