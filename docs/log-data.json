@@ -83,9 +83,79 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Zoom adds unified context layer, Teams interop",
+          "sowhat": "Zoom's shared memory for human and AI agents plus 2027 Teams room interoperability could reduce vendor friction for enterprises running hybrid estates.",
+          "url": "https://uctoday.com/this-week-in-uc-c-zoomtopia-opens-the-door-to-teams",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Microsoft adds AI layer to Five9, Cisco, Avaya",
+          "sowhat": "Contact Center Intelligence lets Microsoft sell AI agents on top of rival CCaaS platforms, pressuring incumbents to prove their own AI or risk commoditisation.",
+          "url": "https://futurumgroup.com/insights/microsoft-contact-center-intelligence-takes-aim-at-ccaas-ai/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "IRONSCALES: 96% deploy agents, 52% have controls",
+          "sowhat": "Enterprises have rushed AI agents into production without matching governance, and 77% have already seen incidents as a result.",
+          "url": "https://futurumgroup.com/insights/ai-agents-are-everywhere-security-controls-are-not/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "IBM Q3 revenue up, software and deal recovery",
+          "sowhat": "IBM's software execution and infrastructure deal pipeline suggest enterprises are starting to convert sovereign-AI interest into actual bookings.",
+          "url": "https://futurumgroup.com/insights/ibm-q3-fy-2026-software-growth-and-deal-recovery-lift-execution/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "SAP Q3 cloud revenue lifts on AI migration",
+          "sowhat": "SAP's enterprise-data-integration pitch is converting on-prem workloads to cloud, validating the case that AI demand pulls infrastructure decisions forward.",
+          "url": "https://futurumgroup.com/insights/sap-q3-fy-2026-ai-and-data-integration-expand-cloud-adoption/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Forrester: rising AI costs force 33% cutbacks",
+          "sowhat": "Usage-based AI pricing is proving expensive enough to force enterprises to pull back a third of initiatives, raising questions about ROI and vendor lock-in.",
+          "url": "https://cxm.world/customer-experience/rising-ai-costs-expected-to-force-brands-to-scale-back-33-of-ai-initiatives/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Qualcomm acquires PickNik, adds motion planning layer",
+          "sowhat": "Qualcomm's acquisition of motion-planning software firm PickNik signals that the robotics stack is maturing, but keeping MoveIt open will determine adoption.",
+          "url": "https://futurumgroup.com/insights/qualcomm-picknik-acquisition-moveit-dragonwing-robotics/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "Three vendors (Microsoft, Zoom, Salesforce) made discrete platform moves this week—all betting that controlling the context/orchestration layer, not just models, will define enterprise AI differentiation."
+      "pattern_watch": "AI infrastructure economics and governance are becoming concrete blockers, not abstract risks — signal emerging in enterprise financials, incident data, and vendor pricing models."
     },
     {
       "iso": "2026-10-22",
@@ -967,5 +1037,5 @@
       "pattern_watch": "AI agent governance becomes a product category: ServiceNow, Zendesk, and Centrical launch platforms to control, credential, and route autonomous AI."
     }
   ],
-  "updated": "2026-10-23T11:15:54.099504+00:00"
+  "updated": "2026-10-23T18:53:37.171000+00:00"
 }
