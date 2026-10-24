@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-24",
+      "label": "Sat 24 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Zoom adds unified context layer for CX",
+          "sowhat": "Zoom's shared memory layer across human and AI agents at Zoomtopia signals a shift from segment-level personalisation to true individual-level continuity—if the integration holds.",
+          "url": "https://cxm.world/customer-experience/ai-customer-experience-memory-zoom-cx/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Five9 named Gartner CCaaS Leader ninth time",
+          "sowhat": "Sustained placement confirms Five9's operational credibility but reveals nothing new about product direction or buyer priorities.",
+          "url": "https://www.callcentrehelper.com/five9-leader-ninth-time-278331.htm",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Content Guru included in Gartner CCaaS MQ",
+          "sowhat": "Twelfth consecutive year in the quadrant signals steady presence but placement and direction matter more than longevity.",
+          "url": "https://www.callcentrehelper.com/content-guru-recognised-year-278359.htm",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "AI",
+          "headline": "Shadow AI risk reports lack discrete governance",
+          "sowhat": "Salt Security and EY findings on shadow AI are real, but vendor-commissioned research naming 'governance' without specifying controls or enforcement mechanisms is marketing dressed as insight.",
+          "url": "https://cxtoday.com/shadow-ai-puts-customer-data-and-cx-at-risk",
+          "vendor_flag": true,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Comcast cuts service contacts 20% this year",
+          "sowhat": "A real operational outcome from interaction deflection—worth watching for whether quality metrics or escalation rates also moved.",
+          "url": "https://www.customerexperiencedive.com/news/comcast-touts-customer-service-contact-rates-down-20-this-year/833786/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft warns AI agents act as insiders",
+          "sowhat": "An admission that agentic AI carries material privilege-escalation risk—relevant for buyers evaluating Microsoft 365 agent rollouts.",
+          "url": "https://uctoday.com/ai-agent-risks-exchange-issues-and-a-shifting-cyber-market",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Pax8 launches partner-delivered managed AI tooling",
+          "sowhat": "Channel play to help MSPs deliver agentic AI as a service—signals distributor confidence but lacks proof of partner adoption or end-customer demand.",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGxvQm1iTXVtcnc1eURhaUxIN0ZvOHplQ3RrV0pvbnpxWlFrWTV2Y3cyU2pRV0lTT1hGYU5keTVCUEhzM3dZVURyd1prUFgwcFJsWVlhRldIOW5WYzZrS1VYU1FGOUNYakp0RkM3X1B2Q19HSEhGUUM3Wk1sd1I5OFJVaWxJSk52ek1wZl93al9iWHh1S2tHM1gwNHdMcFdwOWoyTDFUcm1HMnA3ZU5mWTh2bkhpWkhYRl90eV8ySVB5Q2N0M0xNOFRpak4?oc=5",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "The ChannelPro Network"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-23",
       "label": "Fri 23 Oct 2026",
       "rows": [
@@ -898,144 +975,7 @@
         }
       ],
       "pattern_watch": "Agent governance—five vendors ship inventory, control, or authentication frameworks for production AI agents this week"
-    },
-    {
-      "iso": "2026-10-16",
-      "label": "Fri 16 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Zendesk launches Open Service Directory for AI assistants",
-          "sowhat": "A public spec to route personal AI agents to legitimate support desks, not scam sites—important if consumer AI agents actually proliferate.",
-          "url": "https://cxm.world/customer-experience/zendesk-open-service-directory-agentic-ai-customer-service/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "ServiceNow launches AI Passport for agent permission verification",
-          "sowhat": "Cryptographic credentials verify what AI agents can do at runtime—governance before an agent acts, not after it breaks something.",
-          "url": "https://cxm.world/customer-experience/ai-agent-permissions-servicenow-ai-passport/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Kustomer unveils Conversation Intelligence and AI QA scoring",
-          "sowhat": "Every conversation gets an AI quality score—gives CX leaders visibility but still another metric to tune, not a root-cause fix.",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORktSZnFiVS1kTEtTRF9seFVTUGJCYkZJSUYtNnRZMGJRLUktSkprcGFTNXlNZDB3M1pQOFNkMXp5VWRxOHlkQ0tqcE9TRU5abTBlZFdkLXpsWEpDY2hsZGlVV3Q4Nng0TU54VXlFQnVxQUJacnphUlp3aFZfWjhwVFpVWk9fczJ5MlVETUdNYi1ONU5XQUVPOGRscHdZLTJ3WjZzYUhZdHFhTWRoZVNxaFc3RFExZ3h2SkYteEVxbXkwU1lQNW1XeUNhMnZ5anRuVC1ONUYzS0c?oc=5",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CustomerThink"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "IAA transforms contact centre with Five9 AI-driven automation",
-          "sowhat": "Digital engagement rose, case backlogs fell, NPS improved—standard AI contact-centre win, no standout technical move disclosed.",
-          "url": "https://cxtoday.com/how-iaa-transformed-its-contact-centre-with-five9-ai",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "SCSK launches CELF AI Development Agent for Japan's Excel-dependent enterprises",
-          "sowhat": "Claude-powered agent targeting Japan's workflow digitisation, alpha tests show 300–800% productivity gains—large, underserved market if it ships.",
-          "url": "https://futurumgroup.com/insights/scsk-bets-on-agentic-ai-to-digitize-japans-excel-dependent-enterprises/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Five9 survey: customers give AI chatbots 10 minutes before switching",
-          "sowhat": "Consumers want quick resolution, fast response, polite service, knowledgeable staff—AI's window is narrower than vendors assume.",
-          "url": "https://www.cmswire.com/contact-center/contact-center-leaders-you-have-10-minutes/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CMSWire"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Five9 flags AI handoff context gaps",
-          "sowhat": "Repeat contacts and lost context show AI-to-human handoffs remain broken, requiring better agent desktop and CRM integration.",
-          "url": "https://cxtoday.com/ai-to-human-handoffs-should-feel-like-one-conversation-so-why-are-han",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "8x8 flags WFM replacing spreadsheet planning",
-          "sowhat": "Manual contact-center scheduling remains a drag on efficiency, creating runway for integrated WFM tools with AI and quality insight.",
-          "url": "https://cxtoday.com/8x8-flagship-wfm-fran",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "TELUS Digital partners with Parloa on AI",
-          "sowhat": "BPO integration with conversational-AI platforms signals broader distribution of enterprise AI through outsourcer channels.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2Z0WnJwRVpMUnU3V05LYXNIOUFEdS1sOWk4SlVjQld6ZTlWeDIwN0VzanBDMF9kTU5DMjJnQk5PX1Q3a2RNWjh3empkVkFEWmhKVWtWeU5UWWYtR1JXS29JR0dPZnBYOWFkVXN3c2VFNU5hY2xrR1pvR2xzYTd4M1QwWDN6VjI1MC1GaGJadW92VW1ELUVKQ0JGUXFjQQ?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "MarTech Cube"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Kustomer scores every conversation with AI QA",
-          "sowhat": "Automated QA scoring across 100% of interactions shifts quality management from sampling to full-coverage intelligence.",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHNTanV2Sjk0VjVJdHFTS1BpX1F4ay0zdUF5ZUxCMW9Rb1o4bnUyLThfQ1JTX3BlNWp2VjVJNWJZc1hGY2VocDhLX3VwT2RjZlZ2aFp0V0s5QUJXQ2tqemNkSE5VOVVlWmdwdURMaDZIMzdZdjJHTVRPNnBFY1V0bjdKRm1XRW9rUW1fM3I5c29sa05TQUI1aWF0SWxTeWczaW55aFdVX24?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CMSWire"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "ServiceNow launches AI Passport for agent governance",
-          "sowhat": "Cryptographic credentials verify AI agents' authorized scope, addressing the gap where 100% of banks use AI but only 24% have governance.",
-          "url": "https://futurumgroup.com/insights/servicenows-ai-passport-closes-the-agentic-governance-gap/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Zendesk launches Open Service Directory for AI assistants",
-          "sowhat": "A directory designed to route consumer AI agents to genuine support desks tests whether rivals and assistant makers will adopt it.",
-          "url": "https://futurumgroup.com/insights/will-ai-assistants-use-zendesks-open-service-directory/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Centrical debuts workforce orchestration platform",
-          "sowhat": "Performance management expands to orchestration layer, signaling contact-center software moving beyond metrics to real-time task direction.",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjlmdGNEQ1BOX0xJM2FnTFFqZWVvd3hYeG9QLXAxRnhGMjctUFcwX0tqRnZQcmJYSmpEcEROSm0waEl3ZXFqVWVrS0NORmdrbDVrVkVDUldjSDV5RnFqb0VubEhQbEFPZnpjZGRjeHp0RGVXQ3VKSEF5bkxpNHR0UXRCbw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Foundation"
-        }
-      ],
-      "pattern_watch": "AI agent governance becomes a product category: ServiceNow, Zendesk, and Centrical launch platforms to control, credential, and route autonomous AI."
     }
   ],
-  "updated": "2026-10-23T18:53:37.171000+00:00"
+  "updated": "2026-10-24T10:34:57.271445+00:00"
 }
