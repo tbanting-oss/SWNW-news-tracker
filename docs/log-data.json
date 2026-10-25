@@ -1,6 +1,63 @@
 {
   "days": [
     {
+      "iso": "2026-10-25",
+      "label": "Sun 25 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Shadow AI tool use risks customer data",
+          "sowhat": "Agents are bypassing approved AI systems, introducing unaudited data-handling risk that CX leaders can't currently measure or control.",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yZGROT25RSFRqNndVWWJtRzJ4Mmh3U1ptZmpvenV6UUgxV19jY2RNMWIyN2VWN3lNd0NJc1QxblVxLXJiaFNBUjJfbW9kRHhTdVM2UDlBNnNncmJiTzZBT0VnMlFPV2FUelRwNno2YUo?oc=5",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Western Digital revenue up 55% on AI storage",
+          "sowhat": "Hyperscaler AI infrastructure spending is translating into measurable storage revenue, validating one enterprise-AI supply-chain bet.",
+          "url": "https://futurumgroup.com/insights/western-digitals-55-revenue-surge-signals-ai-storage-boom/?utm_source=rss&utm_medium=rss&utm_campaign=western-digitals-55-revenue-surge-signals-ai-storage-boom",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "UK finance leaders cannot measure AI value",
+          "sowhat": "90% have cash-management AI cases, but 29% lack ROI measurement—fragmented data infrastructure blocks proof of delivery.",
+          "url": "https://futurumgroup.com/insights/uk-finance-leaders-bet-on-ai-but-cant-prove-its-working/?utm_source=rss&utm_medium=rss&utm_campaign=uk-finance-leaders-bet-on-ai-but-cant-prove-its-working",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Xbox mandates four-day office week from February",
+          "sowhat": "Adding a fourth in-office day while layoffs continue signals operational tightening that may influence wider Microsoft policy.",
+          "url": "https://cxm.world/employee-experience/xbox-return-office-mandate-four-days/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Pennsylvania signs AI deceptive advertising act",
+          "sowhat": "First US state-level law targeting AI-generated advertising signals regulatory fragmentation that will complicate multi-state campaigns.",
+          "url": "https://www.constellationr.com/research/blog/and-away-we-go-pennsylvania-signs-ai-deceptive-advertising-act-what-it-means-brands",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Constellation Research"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-24",
       "label": "Sat 24 Oct 2026",
       "rows": [
@@ -868,164 +925,7 @@
         }
       ],
       "pattern_watch": "Microsoft agent-platform buildout — M365 Copilot, Contact Center, Sales, and Service Operations Agent all ship agent-conversation, simulation, or inline-chat features in one roadmap drop"
-    },
-    {
-      "iso": "2026-10-17",
-      "label": "Sat 17 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Webex launches Media Intelligence for agent streaming",
-          "sowhat": "Developers can now pipe live Webex audio/video into AI workflows via RTMS, opening CRM and analytics integration without recording overhead.",
-          "url": "https://blog.webex.com/collaboration/announcing-media-intelligence/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Webex (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "8x8 schedules Q2 FY2027 earnings call",
-          "sowhat": "Financial result announcement, no material disclosed yet.",
-          "url": "http://www.businesswire.com/news/home/20261016258621/en/8x8-Inc.-Schedules-Second-Quarter-Fiscal-2027-Earnings-Release-and-Conference-Call/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Business Wire"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Workday ships agentic AI and Data Cloud GA",
-          "sowhat": "Sana, Work Intelligence, Agent Harness and Data Cloud reach production, signalling HR's push toward autonomous workflow beyond chat.",
-          "url": "https://uctoday.com/workday-rising-verdict-the-latest-promises-tested",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Meta and Sierra publish draft AI agent standard",
-          "sowhat": "Industry attempts to codify how consumer AI agents authenticate and transact with businesses, potentially reshaping CRM integration architecture.",
-          "url": "https://cxtoday.com/will-consumer-ai-agents-force-businesses-to-rethink-crm",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "SolarWinds launches Avior goal-driven agentic IT ops platform",
-          "sowhat": "IT teams define objectives and coordinate specialised agents with measurable outcomes, moving beyond reactive monitoring to autonomous execution.",
-          "url": "https://futurumgroup.com/insights/solarwinds-avior-goal-driven-agentic-ai-for-hybrid-it-ops/?utm_source=rss&utm_medium=rss&utm_campaign=solarwinds-avior-goal-driven-agentic-ai-for-hybrid-it-ops",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Proofpoint acquires Varonis for $6.3bn to link threat intel with data access",
-          "sowhat": "Buyer organisations gain unified people-risk and identity-based data controls, reducing breach surface for customer and employee data stores.",
-          "url": "https://futurumgroup.com/insights/proofpoint-buys-varonis-to-connect-people-risk-with-data-access/?utm_source=rss&utm_medium=rss&utm_campaign=proofpoint-buys-varonis-to-connect-people-risk-with-data-access",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Band launches desktop app for multi-agent coding collaboration",
-          "sowhat": "Software teams can now manage multiple autonomous coding agents simultaneously, addressing governance and orchestration gaps in agentic development.",
-          "url": "https://siliconangle.com/2026/10/16/band-launches-desktop-app-for-developer-collaboration-and-control-of-multiple-ai-coding-agents/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "SiliconANGLE"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "LogicMonitor adds Agent Studio governance for production AI agents",
-          "sowhat": "IT gets centralised inventory, access control and reliability management for deployed AI agents, treating agent governance as operational discipline.",
-          "url": "https://futurumgroup.com/insights/logicmonitor-makes-agent-governance-a-first-class-itops-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=logicmonitor-makes-agent-governance-a-first-class-itops-discipline",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "IFS pairs industrial AI with governance layer",
-          "sowhat": "An industrial-software player concedes its AI claims need containment architecture before they can stand alone.",
-          "url": "https://futurumgroup.com/insights/ifs-ties-its-industrial-ai-platform-to-a-governance-layer-built-to-contain-it/?utm_source=rss&utm_medium=rss&utm_campaign=ifs-ties-its-industrial-ai-platform-to-a-governance-layer-built-to-contain-it",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Oracle offers NetSuite QuickStart free for startups",
-          "sowhat": "Oracle trades upfront revenue for early stickiness, betting free AI-first finance locks in founders before they scale.",
-          "url": "https://futurumgroup.com/insights/netsuite-quickstart-makes-ai-first-finance-free-to-win-startups-early/?utm_source=rss&utm_medium=rss&utm_campaign=netsuite-quickstart-makes-ai-first-finance-free-to-win-startups-early",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Twilio advises incremental modernisation over rip-and-replace",
-          "sowhat": "Twilio's pitch to CIOs is continuity — but no discrete product or integration announcement backs the claim.",
-          "url": "https://www.twilio.com/en-us/blog/insights/modernize-cx-without-rip-and-replace",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "Twilio (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Pax8 challenges MSPs to move beyond resale",
-          "sowhat": "Pax8's AI rollout tests whether MSPs can add strategic value or remain margin-squeezed resellers.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHZPcDUxS0hsRDdDTHk0aEl4UTFjZmY2V0JNTTl0NkF1ZlVGRnBjNWNBbjZfa01DV2J3RVViZHhxMkxXTmprbm5ZT3FHSzBSZVZIcE1zT2Ztc28xaWExeWp3RVJUS3pzZU1KTWprME9yeWZiNWMydWNSbEJlY2lRYzRkZGE5YTBId1BOSlFWN1JzNVVFRld1MA?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "The ChannelPro Network"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Rewst ships AI-native automation platform for MSPs",
-          "sowhat": "Another RMM/PSA automation tool claims AI-first architecture; validation hinges on actual agentic workflow proof.",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVhDQzNXbThXM0VDR0NFaDFnLWdDSjBudnJqcWZNa2RkdE9YNHliTDZJazlIb1hscUZMQVA1R0cxT2JVLVVrWmdtYTZiQWRIUVBKdi14OE5XYlc3T0lnUlJ6NHNRRS1yZV9HanF6aEF4dWNtblZCRExjQVBTYnJwLUNGa1poLXpqVDFXa3pQVWlPaWF6TkU2dWlPbnJTWENOOFg2enp0NlZpaVMwcUE?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "The ChannelPro Network"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Southwest adds premium tier to Rapid Rewards",
-          "sowhat": "Southwest's loyalty overhaul chases higher-yield travelers, testing whether operational simplicity still differentiates.",
-          "url": "https://www.customerexperiencedive.com/news/southwest-overhauls-loyalty-program-adds-premium-tier/833272/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Dive"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Albertsons pivots turnaround strategy to in-store CX",
-          "sowhat": "Struggling grocer bets experience can fix value perception — a hard claim when pricing still drives defection.",
-          "url": "https://www.customerexperiencedive.com/news/albertsons-embarks-turnaround-what-role-will-cx-play/833173/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Dive"
-        }
-      ],
-      "pattern_watch": "Agent governance—five vendors ship inventory, control, or authentication frameworks for production AI agents this week"
     }
   ],
-  "updated": "2026-10-24T17:52:20.837950+00:00"
+  "updated": "2026-10-25T11:00:03.897214+00:00"
 }
