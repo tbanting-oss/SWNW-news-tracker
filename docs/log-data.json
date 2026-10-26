@@ -1,6 +1,43 @@
 {
   "days": [
     {
+      "iso": "2026-10-26",
+      "label": "Mon 26 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Vonage wins Merit Award for Identity Insights API",
+          "sowhat": "Recognition of fraud-prevention tooling in CPaaS, though merit awards rarely predict buyer adoption.",
+          "url": "https://www.callcentrehelper.com/vonage-wins-merit-awards-278336.htm",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "8×8 appoints Boris Grinshpun global product VP",
+          "sowhat": "Personnel move bringing 20 years' experience; signals possible product roadmap shift but no detail yet.",
+          "url": "https://www.callcentrehelper.com/8x8-grinshpun-vice-president-278343.htm",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Premier Guarantee deploys 8×8 Work and Contact Center",
+          "sowhat": "UK construction insurer consolidates UC and CCaaS with 8×8; routine deployment, not a platform shift.",
+          "url": "https://www.callcentrehelper.com/case-study-premier-guarantee-8x8-278321.htm",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Call Centre Helper"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-10-25",
       "label": "Sun 25 Oct 2026",
       "rows": [
@@ -848,84 +885,7 @@
         }
       ],
       "pattern_watch": "Agentic AI platforms entering operational systems (Webex meetings, Workday HR, Veeam M365 governance) signal shift from pilots to production workflows with new commercial and control questions."
-    },
-    {
-      "iso": "2026-10-18",
-      "label": "Sun 18 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "JPMorgan and NVIDIA address AI agent security",
-          "sowhat": "Enterprise AI agent deployment now hinges on external-access security and retail-breach prevention, not just model performance.",
-          "url": "https://cxtoday.com/who-controls-the-agents-jpmorgan-and-nvidia-tackle-ai-security-risks",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Teradata frames context gap blocking autonomous agents",
-          "sowhat": "Futurum/Teradata research confirms AI agents stall at pilot stage without governed enterprise context architecture.",
-          "url": "https://futurumgroup.com/research-reports/closing-the-enterprise-context-gap/",
-          "vendor_flag": true,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Apple embeds AI into shared workspace hardware",
-          "sowhat": "Apple's HomeView and partner ecosystem push intelligence into meeting rooms, challenging UC hardware incumbents on shared-space control.",
-          "url": "https://uctoday.com/this-week-apple-puts-ai-at-the-heart-of-shared-spaces",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft releases MAI-Base-2 open model variant",
-          "sowhat": "Microsoft's new open model adds a twist to the open-weights landscape but lacks detail on what differentiates it commercially.",
-          "url": "https://www.constellationr.com/insights/news/microsofts-releases-mai-base-2-aimed-open-models-twist",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Constellation Research"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Octopus Energy wins UK Customer Experience Awards",
-          "sowhat": "Octopus Energy's UKCXA Overall Winner status signals continued CX investment in regulated utilities despite margin pressure.",
-          "url": "https://cxm.world/customer-experience/what-it-takes-to-win-the-ukcxa-2026-champions-reveal-their-secrets-at-wembley/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Microsoft adds Agent 365 reporting without license requirement",
-          "sowhat": "Microsoft Viva Insights now shows agent usage for Microsoft-built agents without an Agent 365 license, lowering the visibility bar for adoption tracking.",
-          "url": "https://www.microsoft.com/microsoft-365/roadmap?id=575292",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Microsoft (vendor blog)"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Albertsons begins operational turnaround with CX focus under scrutiny",
-          "sowhat": "Albertsons' turnaround after merger collapse puts customer experience strategy in spotlight, testing whether CX-led recovery can shift unit economics at scale.",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbU9IQzRlTm5sUjAteEtOOFpXTTRibWdxd3ZXYXlydHBJOXVPOVhHVEd1MEtZcmxJTFZnQ1JLUVZjbE13MF9OdHhlRUdTWDBVdUdNbDR1YXpWcThvNUtpRXBUdjI1dzB6bHlINlhRU1NleWxHN3RTZG1YTVJ4Y0tzR0kwN29ka2VSNjc4TVNRalB2dTRlTDZJYl80ZkJpU3h3bWtnV21raw?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Dive"
-        }
-      ],
-      "pattern_watch": "Microsoft agent-platform buildout — M365 Copilot, Contact Center, Sales, and Service Operations Agent all ship agent-conversation, simulation, or inline-chat features in one roadmap drop"
     }
   ],
-  "updated": "2026-10-25T18:10:43.676295+00:00"
+  "updated": "2026-10-26T12:32:03.375941+00:00"
 }
