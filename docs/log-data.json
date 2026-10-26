@@ -33,9 +33,79 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Oracle ships five agentic CX apps",
+          "sowhat": "First major suite vendor to ship governed autonomous execution inside existing Fusion Cloud CX, raising the stakes for Salesforce and Microsoft.",
+          "url": "https://www.cmswire.com/customer-experience/oracle-launches-5-clawpowered-agentic-cx-apps/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Anthropic files for IPO with warning-laden prospectus",
+          "sowhat": "The filing signals Anthropic is preparing for public-market scrutiny while its S-1 language may set disclosure precedent for other foundation-model vendors.",
+          "url": "https://www.constellationr.com/insights/news/anthropics-ipo-filing-you-cant-say-you-werent-warned",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Constellation Research"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Anthropic ships OpenTelemetry trace export for Claude",
+          "sowhat": "Buyer-side observability arrives, but trace data alone won't satisfy audit or compliance without separate system-of-record integration.",
+          "url": "https://futurumgroup.com/insights/claude-agent-observability-cant-be-the-audit-record-on-its-own/?utm_source=rss&utm_medium=rss&utm_campaign=claude-agent-observability-cant-be-the-audit-record-on-its-own",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Golden State Warriors deploy RingCentral agentic voice AI",
+          "sowhat": "First named sports-franchise deployment of agentic voice for fan engagement, testing consumer tolerance for AI-handled ticket and game-day queries.",
+          "url": "https://cxm.world/customer-experience/golden-state-warriors-bring-agentic-voice-ai-into-the-fan-experience-with-ringcentral/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Kustomer survey finds CX-revenue belief outpaces proof",
+          "sowhat": "91% of execs claim CX drives revenue, but few can show attribution, exposing the measurement gap that still blocks CX budget approvals.",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXdfM3NXVzFvS3lWMWFVNk5jMmtqRC1FQjVORWNveUtlSUo5TjRfcjZmbl9EOUpYbndMSXJ5dWpKbjBXNkRFTHdXbzcxSjVvemxJNF83U0U4bDVRMW1KUVJHMjBxeDlwcnZDNjdtRHVRcE1ab3RaLWhWM2R1eUswYXBsQnFYd00tOXJrNWEyOE12SHJpYlNIUzRSbDktbWJjM3BpZU5SNjA0ZXNjUGZMeWhlMF9MSjA?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CustomerThink"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Verizon reports 820% YoY wireless net-add growth",
+          "sowhat": "CEO Dan Schulman credits customer-first transformation for lower churn and sharp subscriber gains, a rare turnaround in a saturated US wireless market.",
+          "url": "https://www.customerexperiencedive.com/news/verizon-customer-first-transformation-takes-root-ceo-says/872798/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Nokia Q3: AI network demand hits supply capacity",
+          "sowhat": "Live AI-RAN deployments and optical backhaul orders are outpacing Nokia's manufacturing capacity, a signal that telco AI infrastructure is moving from pilot to production.",
+          "url": "https://futurumgroup.com/insights/nokia-q3-fy-2026-ai-network-demand-tests-supply-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=nokia-q3-fy-2026-ai-network-demand-tests-supply-capacity",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "Three items (Oracle agentic apps, Anthropic Claude traces, RingCentral Warriors) show enterprise-grade agentic AI moving from demo to named deployment."
     },
     {
       "iso": "2026-10-25",
@@ -887,5 +957,5 @@
       "pattern_watch": "Agentic AI platforms entering operational systems (Webex meetings, Workday HR, Veeam M365 governance) signal shift from pilots to production workflows with new commercial and control questions."
     }
   ],
-  "updated": "2026-10-26T12:32:03.375941+00:00"
+  "updated": "2026-10-26T20:19:01.775949+00:00"
 }
