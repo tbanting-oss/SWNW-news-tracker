@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T17:46:51.733857+00:00",
+  "generated_at": "2026-10-26T11:24:21.429153+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
-  "feeds_with_errors": 5,
+  "feeds_with_errors": 4,
   "fetch_errors": [
     {
       "name": "B2B Marketing Blog",
@@ -13,11 +13,6 @@
       "name": "Zoom Video Communications, Inc.",
       "url": "https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw==",
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/rssfeed/organization/BKWrIH4JmF06siq4ThoLNw=="
-    },
-    {
-      "name": "Telecom Reseller / Technology Reseller News",
-      "url": "https://telecomreseller.com/feed/",
-      "error": "403 Client Error: Forbidden for url: https://telecomreseller.com/feed/"
     },
     {
       "name": "GlobeNewswire - Technology Industry News",
@@ -47,6 +42,12 @@
       "name": "CX Today",
       "items": [
         {
+          "title": "How Oracle and ServiceNow are Reshaping WFM at HR Tech 2026",
+          "link": "https://cxtoday.com/how-oracle-and-servicenow-are-reshaping-wfm-at-hr-tech-2026",
+          "published": "Mon, 26 Oct 2026 09:01:00 GMT",
+          "summary": "Explore how Oracle, ServiceNow and Deloitte are advancing AI workforce management through governed automation, connected data and manager oversight."
+        },
+        {
           "title": "Community ROI Metrics: Would You Bet Your Renewal on These Numbers?",
           "link": "https://cxtoday.com/community-roi-metrics-would-you-bet-your-renewal-on-these-numbers",
           "published": "Sun, 25 Oct 2026 12:01:00 GMT",
@@ -57,18 +58,6 @@
           "link": "https://cxtoday.com/service-management-this-week-grafanas-grades-contact-center-handoff",
           "published": "Sat, 24 Oct 2026 14:01:00 GMT",
           "summary": "Why service handoffs now need proof: CX Today on Grafana ObservabilityCON, Genesys and Zoom Contact Center, ServiceNow, Freshworks and Twilio."
-        },
-        {
-          "title": "PHPocalypse Threat Dominates a Week of Cyber Disruption",
-          "link": "https://cxtoday.com/phpocalypse-dominates-a-week-of-cyber-disruption",
-          "published": "Sat, 24 Oct 2026 11:01:00 GMT",
-          "summary": "PHP2Shell shows why CX leaders must act fast: critical PHP flaws, AWS and Cloudflare exploitation warnings, Red Hat, NGINX and GitLab risk."
-        },
-        {
-          "title": "How to Turn Contact Center Insight into Decisions That Stick",
-          "link": "https://cxtoday.com/how-to-turn-contact-center-insight-into-decisions-that-stick",
-          "published": "Sat, 24 Oct 2026 08:01:00 GMT",
-          "summary": "CX Today explains how contact-centre insight can shape billing, marketing and product decisions, with Diabolocom and customer conversation evidence."
         }
       ]
     },
@@ -78,188 +67,7 @@
     },
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
-      "items": [
-        {
-          "title": "Power Apps: Model-driven apps - Use row summaries in US Government clouds",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576279",
-          "published": "Fri, 23 Oct 2026 23:10:38 Z",
-          "summary": "Row summaries are expanding to supported US Government clouds, giving users in regulated environments access to AI-generated insights that help them understand model-driven app records at a glance. This release brings the row summary experience available to commercial customers to supported government environments while meeting their applicable compliance and data-boundary requirements.\nAdmins and makers enable and configure row summaries for users in their model-driven apps.\nAvailability\n\n\n\nFie"
-        },
-        {
-          "title": "Dynamics 365 Contact Center: Unified routing - Use overflow actions to protect customer experience for direct inward calls",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576607",
-          "published": "Fri, 23 Oct 2026 23:10:36 Z",
-          "summary": "Overflow for direct inward dialing leverages conversation orchestration to detect key direct inward dialing-related events—such as the representative being busy, offline, rejecting the call, or failing to answer—and apply administrator-defined fallback actions.\nAdministrators configure natural language playbooks using conversation orchestration at the global or inbound profile level to specify the action to run when a direct inward dialed call can't be attended to or completed. The actions inclu"
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Workforce engagement management - Enforce governance policies on email attachments",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577796",
-          "published": "Fri, 23 Oct 2026 23:10:35 Z",
-          "summary": "This feature extends governance capabilities to evaluate email attachments, closing a critical gap where sensitive or non-compliant information may exist outside the email body.\nWhen a user sends an email with attachments, the system automatically scans each document and applies configured governance policies. In the initial release, analysis is focused on plain text content within supported document types, such as Word and PDF files. Non-text elements, including images or embedded content, are "
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Workforce engagement management - Manage policy strictness to enforce governance policies",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577798",
-          "published": "Fri, 23 Oct 2026 23:10:34 Z",
-          "summary": "This feature introduces policy strictness control, enabling organizations to define how rigorously each governance policy evaluates and flags potential violations in outgoing emails. Governance policies serve as real-time guardrails, ensuring communications adhere to business, legal, and compliance standards before they are sent to customers.\nWith this enhancement, supervisors can configure the strictness level for each policy. Lower strictness settings apply more lenient enforcement, reducing f"
-        },
-        {
-          "title": "Dynamics 365 Sales: Lead management - Personalize outreach emails generated by Sales Qualification Agent",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578077",
-          "published": "Fri, 23 Oct 2026 22:46:12 Z",
-          "summary": "Define outreach scenario/goal in natural language.\nChoose desired call-to-action to drive next steps.\nProvide subject line guidance: fixed suggestion or style recommendation.\nSet message length and brevity targets.\nSpecify tone rules, including name-usage limits and preferred terminology.\nConfigure brand language and voice guardrails: approved phrases and banned words.\nSet formatting preferences: bullets, paragraph length, and maximum bullet count.\n\nBusiness Value:\nThis feature expands the Sales"
-        },
-        {
-          "title": "Dynamics 365 Sales: Lead management - Deploy multiple Sales Qualification Agents in a single environment",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578076",
-          "published": "Fri, 23 Oct 2026 22:46:11 Z",
-          "summary": "Segment-specific qualification: Each agent operates with its own ideal customer profile, knowledge sources, templates, and consent settings, ensuring qualification conversations reflect the nuances of each product, region, or team.\nIntelligent lead routing: The system evaluates incoming leads against agent selection criteria and assigns ownership based on configured priority, ensuring predictable and conflict-free lead management. A fallback agent handles leads that don't match any specialized c"
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable enhanced screen recording controls for admins",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578075",
-          "published": "Fri, 23 Oct 2026 22:46:11 Z",
-          "summary": "The enhanced screen recording capability offers greater flexibility and control, enabling organizations to manage recording behavior with more precision. Key enhancements include:\n\nAccess all recording settings and configurations from Customer Service admin center &gt; Quality Management.\nEnable or disable screen recording using a dedicated toggle.\nCapture call audio alongside screen recordings.\nTurn off the red border displayed around representative screens during active window recording.\nAllow"
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable enhanced screen recording controls for admins",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578074",
-          "published": "Fri, 23 Oct 2026 22:46:10 Z",
-          "summary": "The enhanced screen recording capability offers greater flexibility and control, enabling organizations to manage recording behavior with more precision. Key enhancements include:\n\nAccess all recording settings and configurations from Customer Service admin center &gt; Quality Management.\nEnable or disable screen recording using a dedicated toggle.\nCapture call audio alongside screen recordings.\nTurn off the red border displayed around representative screens during active window recording.\nAllow"
-        },
-        {
-          "title": "Dynamics 365 Contact Center: Workforce engagement management - Manage overnight shifts as a single continuous schedule",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578073",
-          "published": "Fri, 23 Oct 2026 22:46:09 Z",
-          "summary": "Supervisors can now create and manage overnight shifts that span across midnight while maintaining a single continuous shift experience. Shift plans support start and end times that extend into the next day, allowing organizations to accurately model overnight operations such as contact centers, support teams, healthcare services, and other 24x7 environments.\nActivities, breaks, meals, and ad-hoc work can be scheduled anywhere within the overnight shift and remain part of a single continuous iti"
-        },
-        {
-          "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Boost productivity with flexible views and search in segments",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578072",
-          "published": "Fri, 23 Oct 2026 22:46:09 Z",
-          "summary": "Customize your view: choose a Contact or Lead view from the new view picker to define which columns appear in the segment members table.\nAlign export with your view: exported member data automatically reflects your selected columns, ensuring consistency and eliminating post-export cleanup.\nQuickly find specific members: use the built-in search to locate individuals within the segment membership list instantly.\n\nBusiness Value:\nUnderstanding and acting on your audience starts with having the righ"
-        },
-        {
-          "title": "Power Pages: Administration and governance - Configure site analytics and server logging",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578071",
-          "published": "Fri, 23 Oct 2026 22:46:07 Z",
-          "summary": "Gain insights into your Power Pages site with integrated telemetry and analytics. Use Application Insights to monitor page views, form interactions, session details, and client-side analytics. Detect server-side errors, performance issues, and access logs to resolve problems and optimize your site.\nTo configure site analytics, makers must open the setup workspace and add the analytics provider script to enable traffic analytics.\nBusiness Value:\nYou can monitor your Power Pages site traffic and u"
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Workforce engagement management - Modify and override submitted evaluations",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578070",
-          "published": "Fri, 23 Oct 2026 22:46:06 Z",
-          "summary": "This feature enables Quality Managers to edit and override evaluation results even after they are marked as completed or expired. While completed evaluations remain read-only by default to preserve integrity, supervisors can initiate an Edit action when discrepancies are identified, such as incorrect AI predictions or errors in manual assessments.\nIn edit mode, supervisors can update evaluation responses, adjust scores, and refine comments to reflect an accurate assessment. This ensures that eva"
-        },
-        {
-          "title": "Dynamics 365 Contact Center: IVR capabilities - Equip voice agents with custom voice",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578069",
-          "published": "Fri, 23 Oct 2026 22:46:04 Z",
-          "summary": "Secure a voice talent that will represent the voice of your brand. After obtaining explicit consent, gaining Limited Access approval through Microsoft's Responsible AI practices, and building a custom voice model, it's time to integrate with Dynamics 365 Contact Center.\nIn the Copilot Service admin center, create a connection between Dynamics 365 and Azure. Navigate to Channels &gt; Custom AI Voices &gt; Connect custom voice. You'll be prompted through a series of cascading dropdown boxes to sel"
-        },
-        {
-          "title": "Dynamics 365 Business Central: Copilot and agents - Envision and design AI agents in Business Central",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578068",
-          "published": "Fri, 23 Oct 2026 22:46:03 Z",
-          "summary": "AI agents in Business Central\nBusiness Central introduces AI agents to help users automate repetitive tasks and make business processes more intelligent and efficient. These agents act as specialized assistants that understand context, handle structured data, and collaborate with users to complete end-to-end workflows. For example, the Sales Order Agent simplifies order creation by transforming natural language or email instructions into complete sales documents, while the Payables Agent streaml"
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Workforce engagement management - Enforce governance policy",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578067",
-          "published": "Fri, 23 Oct 2026 22:46:02 Z",
-          "summary": "Create and enforce policies that prevent risky or noncompliant customer communications.\nGovernance policy checks serve as configurable safeguards that review AI‑generated and autonomous email responses before they are sent to customers. These checks enforce business, legal, and regulatory requirements by validating responses for relevance, prohibited content, and sensitive topics. If a response fails a policy check, delivery is blocked and the violation is clearly identified, enabling supervisor"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Digital commerce - Streamline multioutlet access for B2B web storefronts",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578066",
-          "published": "Fri, 23 Oct 2026 22:46:01 Z",
-          "summary": "The multioutlet B2B web storefront introduces a unified sign-in system that allows buyers to access all their associated organizations and outlets using a single account. The storefront UI is updated to display an organization selector during sign-in and provides outlet-specific navigation and catalog views. Buyers can place, track, and manage orders for multiple outlets within a single session, with real-time visibility into order status, inventory, and account information.\nThis feature support"
-        },
-        {
-          "title": "Dynamics 365 Business Central: Copilot and agents - Run multiple Sales Order Agents per company with smarter item matching, relevance filtering, and streamlined setup",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578065",
-          "published": "Fri, 23 Oct 2026 22:45:59 Z",
-          "summary": "You can now configure and run multiple Sales Order Agent instances in a single company. Each instance operates independently with its own mailbox, folder settings, email signature, and processing rules.\nEach agent instance tracks its own KPI metrics, such as emails received, quotes created, orders created, and time saved. The setup page is restructured to support per-instance configuration, and an upgrade path migrates existing single-instance setups to the new architecture. This change allows o"
-        },
-        {
-          "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Resolve customer emails autonomously with AI",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578064",
-          "published": "Fri, 23 Oct 2026 22:45:57 Z",
-          "summary": "Autonomous email resolution delivers end-to-end handling of customer emails without manual intervention or default case creation. When an email arrives, the system analyzes the request, identifies the underlying intent, and determines whether the information and actions needed to resolve it are available.\nUsing enterprise knowledge, configured business instructions, connectors, and custom agents, the system constructs a resolution dynamically. It generates a response that's context-aware, compli"
-        },
-        {
-          "title": "Dynamics 365 Supply Chain Management: Planning - Protect confirmed CTP dates with Planning Optimization",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578063",
-          "published": "Fri, 23 Oct 2026 22:45:56 Z",
-          "summary": "Planning Optimization is the new high-performance planning engine for Dynamics 365 Supply Chain Management. With this feature, Planning Optimization now protects material and capacity allocated to sales order lines with delivery dates confirmed through capable to promise (CTP). You prevent reallocation of resources to newer orders, so your confirmed delivery dates stay reliable, and customer commitments are honored.\nBusiness Value:\nProtect your confirmed delivery dates with confidence. When you "
-        },
-        {
-          "title": "Power Pages: Administration and governance - Manage external authentication providers with granular controls",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578062",
-          "published": "Fri, 23 Oct 2026 22:45:54 Z",
-          "summary": "Power Pages now lets you manage external authentication providers with environment-level governance controls and optional site-level exceptions. You can centrally enforce which identity providers (IDPs) are allowed across all sites in an environment, while still enabling site-specific flexibility when needed. Makers will only see and select from the approved IDPs when setting up authentication, ensuring consistent governance and alignment with enterprise security policies.\nTo enable this feature"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Omnichannel commerce - Add support for multiple outlet B2B ordering via CSU",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578061",
-          "published": "Fri, 23 Oct 2026 22:45:52 Z",
-          "summary": "Available for B2B scenarios in Dynamics 365 Commerce (including headless Commerce), this feature enables retailers to configure unified sign-in in Commerce headquarters and integrate third‑party storefronts using CSU APIs. The organization selector and related capabilities are exposed via CSU endpoints so that third-party sites can consume identities, organizational context, and ordering workflows without relying on native UI components.\nFunctional enhancements\n\nContact model transition: Replace"
-        },
-        {
-          "title": "Power Pages: Plugin support for GitHub Copilot CLI and Claude Code to create and edit traditional sites",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577900",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "The Power Pages plugin for GitHub Copilot CLI and Claude Code now supports creating and editing traditional (non-SPA) Power Pages sites. Developers can use natural-language prompts in their AI coding agent to create a new traditional site or download, inspect, and update existing site metadata such as web pages, web templates, content snippets, basic and multistep forms, lists, table permissions, web roles, and site settings, then upload changes back to their environment using the Power Platform"
-        },
-        {
-          "title": "Dynamics 365 Business Central: Payables Agent - Agent can process vendor credit notes",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577878",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "Payables Agent can recognize a vendor credit note and produce a purchase credit memo and applies to the original invoice, using the same draft and task experience as invoices. Note: It does not have Return Order matching functionality.GA date: November CY2026"
-        },
-        {
-          "title": "Microsoft Edge: Extended Stable channel support for macOS",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577861",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "Organizations managing macOS devices will be able to select the Microsoft Edge Extended Stable channel, providing a slower 8-week major release cycle, compared to the two-week major release cycle for Stable.GA date: January CY2027"
-        },
-        {
-          "title": "Microsoft Teams: Explicit consent for recording & transcription in one-to-one PSTN calls",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577543",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "Microsoft Teams will support explicit consent for participants connected through the public switched telephone network (PSTN) in one-to-one calls. When explicit consent is required, PSTN participants will hear an audio prompt when recording or transcription is started. They can use their phone keypad to consent or decline. Participants who decline can remain in the call but stay muted. This capability extends the existing Teams calling policy for explicit consent to one-to-one PSTN calls.GA date"
-        },
-        {
-          "title": "Microsoft Teams: Facilitator in GCC",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577401",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "Facilitator is coming to Microsoft Teams meetings in GCC. The Facilitator agent can help capture notes in real time, answers questions about the meeting, and help keep the agenda and discussion on track. A Microsoft 365 Copilot license is required to use Facilitator.GA date: December CY2026"
-        },
-        {
-          "title": "Power Apps: Expand model access and Maker Studio availability for generative pages via GitHub",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576285",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "Connect your GitHub account to access additional model options for the built-in gen page coding agent directly in the generative page designer in Maker Studio. Makers can use the agent to create and refine generative pages without leaving the Power Apps authoring experience.\nThis integration also brings Maker Studio generative page authoring to regions without dedicated Power Apps GPU capacity.\nModel availability through GitHub may evolve over time, and requests made through this connection cons"
-        },
-        {
-          "title": "Power Apps: Use Power Platform connectors in generative pages",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576283",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "Makers can bring data from Power Platform connectors into generative pages. After creating and authenticating a connection and adding a connection reference to the environment, you select the connector data and describe how the generated page should use it. Connector data can be incorporated while working in the Maker Studio generative page designer or through the generative pages AI plugin.\nAvailability\n\n\n\nField\nValue\n\n\n\n\nRelease Channel\nNot applicable\n\n\nVersion\nGen page v302\n\n\nApplies to\nModel"
-        },
-        {
-          "title": "Power Apps: Form fill assistance using speech as input in model-driven apps",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576281",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "We’re expanding form fill assistance in Power Apps to use speech as a source, providing users a more natural way to fill forms. Users select the microphone icon, record their content, and the transcript is used as a source for the form entry. Recordings are transient and not saved.\nAvailability\n\n\n\nField\nValue\n\n\n\n\nRelease Channel\nMonthly\n\n\nVersion\n2612.1\n\n\nApplies to\nModel-driven apps\n\n\nFeature Scope\nUsers (enabled by default)\n\n\nGA date: December CY2026"
-        },
-        {
-          "title": "Planner: Custom Views for plans",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576275",
-          "published": "Fri, 23 Oct 2026 21:59:27 Z",
-          "summary": "Custom views lets users save a custom view of a plan and return to it later without re-applying filters, sorting, grouping, and other view customizations. A team can reuse saved views for triage, prioritization, work tracking, and more.GA date: December CY2026"
-        }
-      ]
+      "items": []
     },
     {
       "name": "My Business Wire News",
@@ -284,10 +92,16 @@
       "name": "UC Today",
       "items": [
         {
-          "title": "The Q4 Space Decision: What Occupiers Lock In This Month",
-          "link": "https://uctoday.com/the-q4-space-decision-what-occupiers-lock-in-this-month",
-          "published": "Sat, 24 Oct 2026 08:01:00 GMT",
-          "summary": "Why Q4 space decisions matter: CBRE, JLL and new HubStar, OfficeSpace, Robin, VergeSense tools shape 2027 budgets, meeting rooms and data."
+          "title": "What Technology Is Needed to Deliver Global CX?",
+          "link": "https://uctoday.com/what-technology-is-needed-to-deliver-global-cx-calltower-cs-0252",
+          "published": "Mon, 26 Oct 2026 10:31:00 GMT",
+          "summary": "Global CX needs a connected foundation as UC Today explores CallTower, CRM and AI for consistent service, real-time data and scalable SLAs."
+        },
+        {
+          "title": "AI Laptops: Useful Upgrade or Expensive AI Washing?",
+          "link": "https://uctoday.com/ai-laptops-useful-upgrade-or-expensive-ai-washing",
+          "published": "Mon, 26 Oct 2026 09:01:00 GMT",
+          "summary": "Why IT buyers should look beyond AI laptop labels as Egiss’ Ole Bülow weighs Microsoft AI-ready devices, NPUs, ChatGPT and Claude."
         }
       ]
     },
@@ -305,20 +119,7 @@
     },
     {
       "name": "CMSWire.com - All News",
-      "items": [
-        {
-          "title": "Your Execution Gap Is Eroding the Brand Promise Customers Trust",
-          "link": "https://www.cmswire.com/digital-marketing/your-execution-gap-is-eroding-the-brand-promise-customers-trust/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Fri, 23 Oct 2026 14:54:39 -0500",
-          "summary": "Customers measure your brand by what you deliver. Every gap between promise and execution chips away at their trust.\nContinue reading..."
-        },
-        {
-          "title": "Can Your Customers See Your Org Chart in Every Interaction?",
-          "link": "https://www.cmswire.com/customer-experience/can-your-customers-see-your-org-chart-in-every-interaction/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Fri, 23 Oct 2026 14:32:34 -0500",
-          "summary": "Three unrelated emails in one week. One problem explained to four people. Customers see your internal silos and judge your brand by them.\nContinue reading..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CPaaSAA",
@@ -344,16 +145,35 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
-          "title": "When translations don’t feel natural, customers walk away - Customer Experience Dive",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2pyUTg3bURGREJMdGlBSjhvYTU5dFY5VDA0NjFRajNfR3F6dnZ2SGd2dWRYenJYTGFxQzFiMjdyZWV5Qm9tZ0tCZ0U4VXVXVnZoYlNXZnpudUpPSkJacGREdTVnM1ZIRHpKMUEwaXhoLTJPcTRockx2cG1CN0Y3c292S3hqdzNFY0Fjb3NxRjJTR3RHNzY0QzhkaFRSb3NXUVBIa3EyWUctd0E?oc=5",
-          "published": "Fri, 23 Oct 2026 19:37:11 GMT",
-          "summary": "When translations don’t feel natural, customers walk away&nbsp;&nbsp;Customer Experience Dive"
+          "title": "Seef Properties brings AI avatars to mall customer experience - Campaign Middle East",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PRmNsQ200Sk9KTkhUN1ZGTl9OdWJXakJudTdqUE5SVURUdS1CX09yR2w0M2JhT0hzc2M0MVdxRVN3U01RdUtTYmFPbGZ2djQ2eVU1LTlEaGdlQUVORG9VNDlhMG5CLXVHZndPR3FVMkJBZw?oc=5",
+          "published": "Mon, 26 Oct 2026 06:34:57 GMT",
+          "summary": "Seef Properties brings AI avatars to mall customer experience&nbsp;&nbsp;Campaign Middle East"
         }
       ]
     },
     {
       "name": "\"CRM\" - Google News",
-      "items": []
+      "items": [
+        {
+          "title": "How to build an AI Agent in n8n connected to Altegio CRM for WhatsApp & Instagram automation? - n8n Community",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmtRWV92cGNwdGluLTJHeFpOdlZ3UEdnZlRFTGZER25aV2RNTEJCYm5mZ1FQYU9sVTZMVzI2T1hvQk93QldqRXQ0WjZ1ek5rUGVpcklfamtXaHFoaGI5ZWNxM1JWNDU5S3Q0M0txOUZpUmFkRE14TXNqMVRrV3BEdzZEWUxDLTFnUktuN1Q4REFsRkNDTVRpTEpBSTlUMXpjRFhINWVWSWV6c21BNGV4bWNtdVA2OFBLNjhHUDI1S2FFQQ?oc=5",
+          "published": "Mon, 26 Oct 2026 03:06:03 GMT",
+          "summary": "How to build an AI Agent in n8n connected to Altegio CRM for WhatsApp & Instagram automation?&nbsp;&nbsp;n8n Community"
+        },
+        {
+          "title": "From the Microsoft Dynamics 365 CE/CRM blogs; Contact Center Intelligence; Verbatim responses in Customer Service Copilot; Duplicate records; Searching records - MSDynamicsWorld.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlFZeFBIeGNjUTdxWC1XamZwNEhtdEg5Mi1WRVNkZjVadTM0NzVRNU41TlZ6TXF0YmtvZ2MxTUh4YXJ2cDNKUlpZTkJoNjZaVVVRd3I5UWFEcm5qQ3RSUW90R1Z3Q3FoV1NqVDdHdDJaQVNKV1ZtVk9zRVRWQ05QeWZZVjA2bW4yN2VWZTdWZzl1U0tOLVlLekFQdnBDZkJBU1Nlclpfczh6WHVrbEFsQ3hpaDY2NzRmOWlROGlIWTR6UQ?oc=5",
+          "published": "Sun, 25 Oct 2026 22:52:26 GMT",
+          "summary": "From the Microsoft Dynamics 365 CE/CRM blogs; Contact Center Intelligence; Verbatim responses in Customer Service Copilot; Duplicate records; Searching records&nbsp;&nbsp;MSDynamicsWorld.com"
+        },
+        {
+          "title": "Remote Customer Service Representative Job at EdgeQ Technologies Private Limited - Himalayas",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXFPVmlMQjkxMWNEbDFfSUxwajZ2VmdMUjd3eEJ0UFBpUTB2ZkZLUEJGT1pWS1JmXzc5aWRxSFFfZHZvcVoxR2FjTTlvZTlJaHBGNUtLQ2pQaGFzclRKWDlnMnZESkg1TF9aTjc2OVlsZjU4UFZPdzVFSWtPNko0YlpsaUxJOTZKdUJQejlVZkpYcWc4V2oxSG1zcUJXeWFINEVLRjlR?oc=5",
+          "published": "Sun, 25 Oct 2026 11:33:52 GMT",
+          "summary": "Remote Customer Service Representative Job at EdgeQ Technologies Private Limited&nbsp;&nbsp;Himalayas"
+        }
+      ]
     },
     {
       "name": "\"\"Contact Center\" or \"contact centre\" or \"CCaaS\"\" - Google News",
@@ -369,20 +189,7 @@
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "items": [
-        {
-          "title": "Pax8 launches tools for partner-delivered managed AI & more. - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGxvQm1iTXVtcnc1eURhaUxIN0ZvOHplQ3RrV0pvbnpxWlFrWTV2Y3cyU2pRV0lTT1hGYU5keTVCUEhzM3dZVURyd1prUFgwcFJsWVlhRldIOW5WYzZrS1VYU1FGOUNYakp0RkM3X1B2Q19HSEhGUUM3Wk1sd1I5OFJVaWxJSk52ek1wZl93al9iWHh1S2tHM1gwNHdMcFdwOWoyTDFUcm1HMnA3ZU5mWTh2bkhpWkhYRl90eV8ySVB5Q2N0M0xNOFRpak4?oc=5",
-          "published": "Fri, 23 Oct 2026 22:29:42 GMT",
-          "summary": "Pax8 launches tools for partner-delivered managed AI & more.&nbsp;&nbsp;The ChannelPro Network"
-        },
-        {
-          "title": "Too many security tools? How MSPs can simplify operations and scale - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPem1KVTVtN19tX2o4N1ljMEM2ZUlaTHNoSlo4YUNnR3F6aUlYUDd5LURHSXJFNEN2UzR4NWZvYXVZaUk5NUQwVld2eGROT3JOVGhXakhvNERnU0QwemN3NlhBcXR0WkNOVlA0b3FqNVlqQkFiT05ud0NqVEFiSXdPQUVPSU5DT1Z2bXhJQVNqdHdYRnpvWDJjWXNUQWJrUQ?oc=5",
-          "published": "Fri, 23 Oct 2026 21:59:05 GMT",
-          "summary": "Too many security tools? How MSPs can simplify operations and scale&nbsp;&nbsp;The ChannelPro Network"
-        }
-      ]
+      "items": []
     },
     {
       "name": "Futurum",
@@ -392,18 +199,6 @@
           "link": "https://futurumgroup.com/insights/conduents-447m-refinancing-clears-the-path-for-ai-led-growth/?utm_source=rss&utm_medium=rss&utm_campaign=conduents-447m-refinancing-clears-the-path-for-ai-led-growth",
           "published": "Sat, 24 Oct 2026 12:06:54 +0000",
           "summary": "The post Conduent&#039;s $447M Refinancing Clears the Path for AI-Led Growth appeared first on Futurum.\nConduent closed a $447 million refinancing deal, extending credit facilities and reducing financial risk while enabling execution of its ASCEND 2026–28 strategic plan to become a premier AI-led business process partner.\nThe post Conduent&#039;s $447M Refinancing Clears the Path for AI-Led Growth appeared first on Futurum."
-        },
-        {
-          "title": "Nokia Designs Network Hardware 5x Faster on Cadence's Agentic Supercomputer",
-          "link": "https://futurumgroup.com/insights/nokia-designs-network-hardware-5x-faster-on-cadences-agentic-supercomputer/?utm_source=rss&utm_medium=rss&utm_campaign=nokia-designs-network-hardware-5x-faster-on-cadences-agentic-supercomputer",
-          "published": "Fri, 23 Oct 2026 20:51:17 +0000",
-          "summary": "The post Nokia Designs Network Hardware 5x Faster on Cadence&#039;s Agentic Supercomputer appeared first on Futurum.\nBrendan Burke, Research Director at Futurum, shares his insights on Nokia deploying Cadence's AuraStack AI Super Agent on the Millennium M2000, why the on-premises system sale answers Synopsys Autopilot, and what a customer-reported 5x means for agen\nThe post Nokia Designs Network Hardware 5x Faster on Cadence&#039;s Agentic Supercomputer appeared first on Futurum."
-        },
-        {
-          "title": "SUSE OpenShell Agent Security: Enforcement Is Table Stakes, Proof Is Not",
-          "link": "https://futurumgroup.com/insights/suse-openshell-agent-security-enforcement-is-table-stakes-proof-is-not/?utm_source=rss&utm_medium=rss&utm_campaign=suse-openshell-agent-security-enforcement-is-table-stakes-proof-is-not",
-          "published": "Fri, 23 Oct 2026 20:45:13 +0000",
-          "summary": "The post SUSE OpenShell Agent Security: Enforcement Is Table Stakes, Proof Is Not appeared first on Futurum.\nVikram Rathnam and Mitch Ashley of The Futurum Group share insights on SUSE's OpenShell agent security news and why proof of what an agent did, not enforcement, will separate the enterprise Linux vendors.\nThe post SUSE OpenShell Agent Security: Enforcement Is Table Stakes, Proof Is Not appeared first on Futurum."
         }
       ]
     },
@@ -415,22 +210,16 @@
       "name": "Constellation Research",
       "items": [
         {
+          "title": "NOAA's huge data, cloud migration to Google Public Sector sets up AI plans",
+          "link": "https://www.constellationr.com/insights/news/noaas-huge-data-cloud-migration-google-public-sector-sets-ai-plans",
+          "published": "Mon, 26 Oct 2026 10:00:00 +0000",
+          "summary": "NOAA's huge data, cloud migration to Google Public Sector sets up AI plans\nLarry Dignan\nMon, 26 Oct 2026 - 03:00\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technolo"
+        },
+        {
           "title": "CIOs will need to navigate the nuance for enterprise AI vendors",
           "link": "https://www.constellationr.com/insights/news/cios-will-need-navigate-nuance-enterprise-ai-vendors",
           "published": "Sun, 25 Oct 2026 09:25:03 +0000",
           "summary": "CIOs will need to navigate the nuance for enterprise AI vendors\nLarry Dignan\nSun, 25 Oct 2026 - 02:25\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Larry\n   Dignan\n\n                  Editor in Chief of Constellation Insights\n  Constellation Research\n\n            \n            \n                Larry Dignan is Editor in Chief of Constellation Insights at Constellation Research, where he leads editorial coverage focused on enterprise technology, digital"
-        },
-        {
-          "title": "From Machine Identity to Disruption: What Leaders Need to Prepare For | DisrupTV Episode 454",
-          "link": "https://www.constellationr.com/video/disruptv/machine-identity-disruption-what-leaders-need-prepare-disruptv-episode-454",
-          "published": "Fri, 23 Oct 2026 19:20:55 +0000",
-          "summary": "From Machine Identity to Disruption: What Leaders Need to Prepare For | DisrupTV Episode 454\nElle DeRosa\nFri, 23 Oct 2026 - 12:20\n\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  R \"Ray\"\n   Wang\n\n                  Principal Analyst and Founder\n  Constellation Research\n\n            \n            \n                R “Ray” Wang is the CEO of Silicon Valley-based Constellation Research Inc. He co-hosts DisrupTV, a weekly enterprise tech and leadership webcas"
-        },
-        {
-          "title": "AND AWAY WE GO: Pennsylvania Signs AI Deceptive Advertising Act. What it Means for Brands",
-          "link": "https://www.constellationr.com/research/blog/and-away-we-go-pennsylvania-signs-ai-deceptive-advertising-act-what-it-means-brands",
-          "published": "Fri, 23 Oct 2026 18:37:58 +0000",
-          "summary": "AND AWAY WE GO: Pennsylvania Signs AI Deceptive Advertising Act. What it Means for Brands\nLiz Miller\nFri, 23 Oct 2026 - 11:37\n\n  \n  \n\n\n          \n\n\n\n\n\n  AI Generated Image Using Adobe Firefly Image Model 5. No dogs were forced into court service.\n  \n\n\n                \n    \n        \n            \n                    \n\n\n\n\n                  Liz\n   Miller\n\n                  Vice President &amp; Principal Analyst\n  Constellation Research\n\n            \n            \n                About Liz Miller:\nLiz"
         }
       ]
     },
@@ -458,16 +247,59 @@
       "name": "CX Dive",
       "items": [
         {
-          "title": "When translations don’t feel natural, customers walk away",
-          "link": "https://www.customerexperiencedive.com/news/when-translations-dont-feel-natural-customers-walk-away/833877/",
-          "published": "Fri, 23 Oct 2026 14:34:12 -0400",
-          "summary": "Brands usually get translation right, Liferay&rsquo;s Yotam Levy said. &ldquo;The problem is they don't necessarily do a great job of localization.&rdquo;"
+          "title": "Why 10 companies have best-in-class store experiences",
+          "link": "https://www.customerexperiencedive.com/news/costco-h-e-b-fleet-feet-best-in-class-store-experiences/833779/",
+          "published": "Mon, 26 Oct 2026 07:00:00 -0400",
+          "summary": "Top retailers, including Costco, H-E-B and Fleet Feet, offer memorable journeys, design around local interests and provide expert associate support, a ChangeUp survey found."
+        },
+        {
+          "title": "How to build a virtual agent customers want to use",
+          "link": "https://www.customerexperiencedive.com/spons/how-to-build-a-virtual-agent-customers-want-to-use/833552/",
+          "published": "Mon, 26 Oct 2026 05:00:00 -0400",
+          "summary": "Six practices for designing self-service that actually helps customers solve problems."
         }
       ]
     },
     {
       "name": "Call Centre Helper",
-      "items": []
+      "items": [
+        {
+          "title": "Vonage Wins Gold at Merit Awards for Technology",
+          "link": "https://www.callcentrehelper.com/vonage-wins-merit-awards-278336.htm",
+          "published": "Mon, 26 Oct 2026 10:00:00 +0000",
+          "summary": "Vonage has received a gold award at the 2026 Merit Awards for Technology for its Identity Insights API.\nThe post Vonage Wins Gold at Merit Awards for Technology appeared first on Call Centre Helper."
+        },
+        {
+          "title": "8×8 Appoints Boris Grinshpun as Global VP of Product Management",
+          "link": "https://www.callcentrehelper.com/8x8-grinshpun-vice-president-278343.htm",
+          "published": "Mon, 26 Oct 2026 10:00:00 +0000",
+          "summary": "Boris Grinshpun appointed as Global Vice President of Product Management, bringing more than 20 years of experience.\nThe post 8&#215;8 Appoints Boris Grinshpun as Global VP of Product Management appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Awaab’s Law Phase 2: Connecting Property and Resident Data",
+          "link": "https://www.callcentrehelper.com/awaabs-law-phase-2-278004.htm",
+          "published": "Mon, 26 Oct 2026 09:30:00 +0000",
+          "summary": "When it comes to housing hazards, the same problem can pose very different risks to different residents. Jimmy Rogers from Netcall explores why connected data is key to making better decisions. The conversation around Awaab’s Law has largely focused on...\nThe post Awaab’s Law Phase 2: Connecting Property and Resident Data appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Digital Where Possible, Human When Essential, Agentic Where Appropriate",
+          "link": "https://www.callcentrehelper.com/digital-human-agentic-278280.htm",
+          "published": "Mon, 26 Oct 2026 09:30:00 +0000",
+          "summary": "Richard Farrell at Netcall explores how organisations can balance agentic AI, digital automation and human judgement to improve processes while managing risk. Agentic AI has rapidly become one of technology’s favourite phrases. The promise is compelling. Instead of simply answering...\nThe post Digital Where Possible, Human When Essential, Agentic Where Appropriate appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Case Study: Premier Guarantee Transforms Customer Experience with 8×8",
+          "link": "https://www.callcentrehelper.com/case-study-premier-guarantee-8x8-278321.htm",
+          "published": "Mon, 26 Oct 2026 08:30:00 +0000",
+          "summary": "Premier Guarantee shines in the competitive and highly regulated UK construction insurance market by delivering proactive, efficient service that fosters trust and loyalty through a truly personal client experience. Challenges Leveraging 8&#215;8 Work and 8&#215;8 Contact Center, the team is...\nThe post Case Study: Premier Guarantee Transforms Customer Experience with 8&#215;8 appeared first on Call Centre Helper."
+        },
+        {
+          "title": "Key Things That “Make or Break” a Resource Planning Team",
+          "link": "https://www.callcentrehelper.com/make-break-resource-planning-team-277852.htm",
+          "published": "Mon, 26 Oct 2026 08:00:00 +0000",
+          "summary": "Uncover what makes a high-performing resource planning team, with advice on communication, storytelling, confidence, processes, and building stakeholder trust.\nThe post Key Things That “Make or Break” a Resource Planning Team appeared first on Call Centre Helper."
+        }
+      ]
     },
     {
       "name": "Light Reading",
@@ -475,7 +307,14 @@
     },
     {
       "name": "CXM Customer Experience Magazine",
-      "items": []
+      "items": [
+        {
+          "title": "What Employers Owe Retail Staff When Customer Abuse Happens 1,600 Times a Day",
+          "link": "https://cxm.world/employee-experience/abuse-against-retail-workers-employer-aftercare/",
+          "published": "Mon, 26 Oct 2026 11:14:39 +0000",
+          "summary": "Violence and abuse against retail workers ran at 1,600 incidents a day in the UK last year, according to the British Retail Consortium (BRC). Gethin Nadin, Chair of the Policy Liaison Group (PLG) on Workplace Wellbeing, argues that employers can do little to stop every incident. What they can control is how staff are cared...\nThe post What Employers Owe Retail Staff When Customer Abuse Happens 1,600 Times a Day appeared first on Customer Experience Magazine."
+        }
+      ]
     },
     {
       "name": "CX Foundation - Google News",
