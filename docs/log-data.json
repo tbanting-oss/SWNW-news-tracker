@@ -73,9 +73,79 @@
           "vendor_flag": false,
           "run": "AM",
           "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Oracle launches five Claw-powered agentic CX apps",
+          "sowhat": "Territory planning, service health checks and CPQ migration get discrete AI agents that work within existing user permissions – meaningful if scoped narrowly enough to avoid the usual runaway risk.",
+          "url": "https://cxm.world/customer-experience/oracle-puts-agentic-ai-to-work-on-territory-planning-service-health-and-cpq-migration/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Sprinklr ships six agentic marketing tools in beta",
+          "sowhat": "Six marketing agents aim to compress campaign cycles from weeks to days, but beta status and no pricing mean buyers wait for proof of claimed productivity gains.",
+          "url": "https://www.cmswire.com/customer-experience/sprinklr-launches-6-marketing-ai-agents-in-beta/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom acquires Onyx for enterprise AI search",
+          "sowhat": "Onyx's open-source search and knowledge management connects AI agents to 50+ data sources – a move to deepen Zoom's context layer before rivals do.",
+          "url": "https://www.callcentrehelper.com/zoom-acquires-onyx-278373.htm",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco named leader in IDC smart conference hardware",
+          "sowhat": "IDC rates Cisco a leader in AI-enabled conference rooms – relevant only if your meeting hardware budget ties directly to a broader Webex or Teams commitment.",
+          "url": "https://blog.webex.com/collaboration/cisco-named-leader-2026-2027-idc-marketscape-ai-enabled-smart-conference-room-hardware-hybrid-meetings/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Walmart in-chat checkout converts at one-third site rate",
+          "sowhat": "ChatGPT shopping converts far below owned digital channels – a warning that AI-referred traffic still lands on your own systems, which must be ready.",
+          "url": "https://www.cmswire.com/customer-experience/walmart-learned-where-chatgpt-shoppers-buy-is-your-storefront-ready/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft offers 60,000 staff voluntary exit by year-end",
+          "sowhat": "A time-limited buyout targeting US, UK, Canada and India follows prior layoffs and Microsoft hasn't ruled out more – a signal of ongoing workforce right-sizing under AI pressure.",
+          "url": "https://cxm.world/employee-experience/microsoft-voluntary-exit-offer-60000-employees-risks/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Anthropic S-1 shows compute falling, AWS/GCP reliance rising",
+          "sowhat": "Anthropic posted an adjusted profit but remains heavily dependent on hyperscaler partners who also compete – a structural tension every CX buyer relying on Claude should note.",
+          "url": "https://futurumgroup.com/insights/frenemies-in-the-cloud-anthropics-ipo-and-its-hyperscaler-reliance/?utm_source=rss&utm_medium=rss&utm_campaign=frenemies-in-the-cloud-anthropics-ipo-and-its-hyperscaler-reliance",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "AI handoff and context-loss failures cited by Twilio, Sprinklr, CMSWire"
+      "pattern_watch": "Three agentic application launches (Oracle, Sprinklr, general marketing) suggest vendors are racing to ship discrete task-based AI agents before the term loses currency."
     },
     {
       "iso": "2026-10-26",
@@ -927,5 +997,5 @@
       "pattern_watch": "Agentic AI governance: Zoom, Databricks, and multiple vendors ship agent context/control layers as buyers shift concern from capability to risk and data integrity."
     }
   ],
-  "updated": "2026-10-27T11:49:56.601236+00:00"
+  "updated": "2026-10-27T19:50:34.068401+00:00"
 }
