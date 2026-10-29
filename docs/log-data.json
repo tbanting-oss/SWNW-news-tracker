@@ -73,9 +73,79 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": ""
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "RingCentral orchestrates AI and human agents together",
+          "sowhat": "RingCX now manages AI and human agents in one WFM and quality system, raising the operational question of whether blended supervision scales or fragments accountability.",
+          "url": "https://telecomreseller.com/2026/10/29/ringcentral-orchestrates-ai-and-human-agents-as-one-workforce-in-ringcx/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "8×8 surfaces full customer history in CRM",
+          "sowhat": "The Platform for CX now keeps call records in the CRM and displays a customer's full history in one view, aiming to cut context-switching for agents handling repeat contacts.",
+          "url": "https://telecomreseller.com/2026/10/29/new-updates-to-the-8x8-platform-for-cx-help-teams-start-every-customer-conversation-with-context/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Deepgram acquires Daily to control real-time infrastructure",
+          "sowhat": "By taking Pipecat in-house, Deepgram gains the full stack from voice model to transport, letting it own latency and quality for voice AI deployments at scale.",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "TechCrunch"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "ServiceNow lands HPE and Stagwell as CRM",
+          "sowhat": "ServiceNow's 'new CRM' push beyond sales into support and IT governance now has enterprise proof points, but it still competes with incumbents who own the contact record.",
+          "url": "https://cxtoday.com/servicenow-lands-hpe-and-stagwell-as-it-pushes-new-crm-beyond-legacy",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Meeting room market recovery stalls despite AI",
+          "sowhat": "Logitech, Barco and Microsoft claimed a meeting-room renaissance, but 2026 data shows vendors sold hardware upgrades, not a return to the office at scale.",
+          "url": "https://uctoday.com/meeting-room-market-2026-did-vendors-sell-a-renaissance",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Pattern",
+          "cat": "AI",
+          "headline": "AI observability budgets eaten by AI itself",
+          "sowhat": "Futurum warns that AI inference costs are now cutting into the monitoring budgets needed to keep AI safe, forcing buyers to justify observability by full-cost transparency, not token economics.",
+          "url": "https://futurumgroup.com/insights/observability-ai-is-eating-the-budget-that-keeps-ai-safe/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Quantum computing opens $1.5tn addressable market by 2040",
+          "sowhat": "Futurum argues quantum has reached its '2012 moment' for breaking AI's science barrier, but enterprise buyers still face a decade-plus wait for production readiness.",
+          "url": "https://futurumgroup.com/insights/quantum-computing-will-break-ais-science-barrier-and-open-a-1-5-trillion-addressable-market-by-2040/",
+          "vendor_flag": true,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "Three items show platform vendors racing to integrate AI agents with live operational data (Salesforce/Braze, Zoom/Salesforce, Insightly MCP), marking a shift from static CRM to real-time context layers."
+      "pattern_watch": "Three items (RingCentral, 8×8, Futurum observability) share one thread: the operational cost of managing AI and human workforces together is now material enough to show up in WFM, CRM context and monitoring budgets."
     },
     {
       "iso": "2026-10-28",
@@ -977,5 +1047,5 @@
       "pattern_watch": "Contact centre AI oversight: NYC doom loop rule, CallMiner efficiency critique, and Microsoft CCI overlay all point to tightening scrutiny of autonomous agent behaviour and buyer control."
     }
   ],
-  "updated": "2026-10-29T12:34:00.334170+00:00"
+  "updated": "2026-10-29T20:04:56.966797+00:00"
 }
