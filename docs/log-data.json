@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-29",
+      "label": "Thu 29 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft Q1: Copilot usage rises, seat disclosure stops",
+          "sowhat": "Microsoft's shift to usage-based billing and no seat count means buyers lose the benchmark for AI spend comparison.",
+          "url": "https://uctoday.com/microsoft-q1-copilot-usage-jumps-seat-count-goes-missing",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "Anthropic S-1 reveals $16B revenue, $9B compute cost",
+          "sowhat": "Anthropic's infrastructure burn rate exposes the compute cost enterprise buyers inherit when they rely on frontier AI providers.",
+          "url": "https://uctoday.com/anthropics-16-3-billion-revenue-surge-comes-with-an-8-9-billion-co",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce acquires Braze in customer engagement consolidation",
+          "sowhat": "Salesforce's Braze deal signals platform vendors are competing to own live customer signals, not just store historical CRM data.",
+          "url": "https://cxtoday.com/salesforce-braze-and-the-battle-for-customer-signals",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom and Salesforce deepen CX integration around context",
+          "sowhat": "Zoom's Salesforce tie-up shows UC vendors must now surface customer context in real time to remain relevant in enterprise stacks.",
+          "url": "https://cxtoday.com/how-zoom-and-salesforce-target-more-connected-cx",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "CallTower wins AVANT's top UCaaS NPS for second year",
+          "sowhat": "Back-to-back NPS recognition suggests CallTower's customer service is outperforming peers in a commoditising UCaaS market.",
+          "url": "https://telecomreseller.com/2026/10/28/calltower-earns-avants-top-vendor-nps-in-ucaas-award-for-second-consecutive-year/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "AppZen builds kill-switch controls for autonomous finance agents",
+          "sowhat": "AppZen's kill-switch protocols for expense and invoice agents suggest governance is becoming a buyer requirement, not a vendor promise.",
+          "url": "https://telecomreseller.com/2026/10/28/appzen-builds-kill-switch-protocols-for-autonomous-finance-agents/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Telecom Reseller"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Insightly ships CRM MCP server for AI assistants",
+          "sowhat": "Insightly's Model Context Protocol server lets AI assistants query CRM data directly, reducing API integration overhead for buyers.",
+          "url": "https://customerthink.com/insightly-launches-crm-mcp-server-to-bring-customer-data-into-ai-assistants/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": ""
+        }
+      ],
+      "pattern_watch": "Three items show platform vendors racing to integrate AI agents with live operational data (Salesforce/Braze, Zoom/Salesforce, Insightly MCP), marking a shift from static CRM to real-time context layers."
+    },
+    {
       "iso": "2026-10-28",
       "label": "Wed 28 Oct 2026",
       "rows": [
@@ -898,124 +975,7 @@
         }
       ],
       "pattern_watch": "Contact centre AI oversight: NYC doom loop rule, CallMiner efficiency critique, and Microsoft CCI overlay all point to tightening scrutiny of autonomous agent behaviour and buyer control."
-    },
-    {
-      "iso": "2026-10-21",
-      "label": "Wed 21 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce acquiring Braze for $5.66bn cash",
-          "sowhat": "A major consolidation move that directly challenges customer engagement specialists and puts Marketing Cloud's roadmap under immediate scrutiny for existing customers.",
-          "url": "http://www.businesswire.com/news/home/20261020157470/en/Salesforce-Signs-Definitive-Agreement-to-Acquire-Braze/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Business Wire"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Zoom launches unified context layer for interactions",
-          "sowhat": "Zoom is linking call, chat, and virtual agent data into a shared memory so agents see prior context, a basic expectation that still trips up most contact centres.",
-          "url": "https://cxtoday.com/zoom-targets-cxs-broken-context-with-its-new-ai-layer",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Zoom unveils channel-first AI monetisation strategy",
-          "sowhat": "Channel chief Nick Tidd signals Zoom is shifting to partners for AI and platform distribution, a revenue bet that hinges on partner capability to sell AI services.",
-          "url": "https://www.crn.com/news/networking/2026/zoom-channel-chief-nick-tidd-on-going-channel-first-ai-monetization-and-the-partner-opportunity",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "crn.com"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "CX",
-          "headline": "Ahold Delhaize loyalty runs offline during outage",
-          "sowhat": "The grocer's use of in-store kiosks and delayed point expirations shows loyalty systems still lack offline resilience when core infrastructure fails.",
-          "url": "https://www.customerexperiencedive.com/news/ahold-delhaize-usa-cybersecurity-website-app-outage-loyalty-programs/833537/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Dive"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "CX",
-          "headline": "CX Dive reports siloed data blocking experiences",
-          "sowhat": "A recurring barrier: data fragmentation still prevents unified views, undermining both human service and new AI deployments that rely on complete context.",
-          "url": "https://www.customerexperiencedive.com/news/siloed-data-remains-key-barrier-seamless-customer-experiences/833510/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Dive"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CCaaS",
-          "headline": "Microsoft CCI debuts to overlay AI on competitors' platforms",
-          "sowhat": "Microsoft is placing its conversational agents, QA and analytics directly into rival contact centres, turning CCI into a land grab that bypasses rip-and-replace economics.",
-          "url": "https://cxtoday.com/microsoft-cci-challenges-the-rip-and-replace-contact-center-model",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce acquires Braze for $5.66bn to close engagement gap",
-          "sowhat": "Braze adds the real-time B2C execution layer Marketing Cloud has long lacked, but integration, overlap with existing tools and pricing remain open questions for existing customers.",
-          "url": "https://cxtoday.com/has-salesforce-bought-its-missing-engagement-engine",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Gamma named world's largest Webex wholesale provider by Cisco",
-          "sowhat": "Cisco's recognition of Gamma at 100,000 Webex seats signals wholesale channel momentum, but scale alone tells nothing about margin or renewal rates.",
-          "url": "https://www.google.com/url?rct=j&sa=t&url=https://channellife.co.uk/story/gamma-adds-sky-fttp-to-fibrexchange-for-uk-resellers&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0Oik2_seL9RZ_Xdo2PaC10",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Google Alert"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "UK PSTN switch-off leaves 15 weeks to test analogue lines",
-          "sowhat": "Contact centres must audit every BT Openreach migration and analogue route before 2027 or risk failed failover and higher WLR charges post-deadline.",
-          "url": "https://cxtoday.com/pstn-switch-off-2027-15-weeks-left-to-find-the-analogue-line",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Zoom unveils unified context layer for customer and agent memory",
-          "sowhat": "Zoom's shared intelligence layer aims to let AI and human agents share one customer record, but execution hinges on CRM integration quality and data governance.",
-          "url": "https://cxm.world/todays-pick/zoom-customer-context-ai-shared-memory/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Zendesk targets IT service with resolution-based AI agent pricing",
-          "sowhat": "Zendesk is pricing employee service AI by outcome, not seat, putting direct pressure on ServiceNow and Microsoft in IT workflow automation.",
-          "url": "https://futurumgroup.com/insights/can-zendesk-employee-service-ai-agents-pry-it-work-from-servicenow/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "Three acquisitions this week (Salesforce/Braze, Accenture and Kustomer deals) show CRM/CX vendors consolidating engagement and analytics capabilities rather than building them."
     }
   ],
-  "updated": "2026-10-28T20:05:35.685379+00:00"
+  "updated": "2026-10-29T12:34:00.334170+00:00"
 }
