@@ -1,6 +1,83 @@
 {
   "days": [
     {
+      "iso": "2026-10-31",
+      "label": "Sat 31 Oct 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Gartner publishes 2026 CCaaS Critical Capabilities",
+          "sowhat": "Gartner's annual capability benchmark gives buyers a standardised basis to compare CCaaS platforms on defined use cases rather than vendor claims.",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT0VlaHBKbmt6TWdzSnY4Z19LckpialFoLTNjOHVZb0lyVlowN2JaQXZGS2NnWHV5bHp6MmUwU0hnZXhKckVjMS1OV215VWpXZWtMQzJLcHZuNVB6QWxCMnItY3ZMVTRjV0VYVkhmQ0o1Q1lwbGdvekVR?oc=5",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Foundation"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Salesforce reportedly acquires Rune for $375M",
+          "sowhat": "The defence-tech acquisition signals Salesforce's continued M&A appetite outside core CRM, though buyer relevance remains unclear.",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjlYUmFUdGdUUExXR0JlYW15ZGUwRmxMaU9vVnd2VkN6eXNhZldneHp0YkF1VXlzNmlCZ0NaSm1UMjVWYU1ZTTREOVg2NGRxLUxsTEdibWpUM2R1VGdWZmtUT0I4blNObFRIbTFHNk1LczZSYjNRdHFuSExlZHJNR0FxOGFGTXRaYU1fTUU2aFpjck5sUDNUUkxsUV9JTFQzTjk1ZjBvWTd6Ri16RUZNM1YzM2RYSnpDRW9PaG5B?oc=5",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "TechCrunch"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "ServiceNow lands HPE, Stagwell customer wins",
+          "sowhat": "HPE and Stagwell deployments add reference credibility to ServiceNow's \"new CRM\" positioning beyond legacy systems.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3hDaFRfY2hhbzRfWFc5TDhzbi05MVpPemt3X3FwOTdUT3ZRdzdzbnI1bUxnRVJDVmxaX2JvRm5BR1JBS3Z0aTdyeUFVemxmUW53LWtTRDNLcDgxams5bnJyYlFHSGZlWkgzZExYQ29tTGdoYmRYTW5NQk8wek01Z1hXT3gzaWdjYmhpeFBJcmhyUQ?oc=5",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "AI",
+          "headline": "Google Agent Compute Engine launches cross-cloud",
+          "sowhat": "Google's new sandbox isolates backend credentials from agents, a governance move that sets a cross-cloud parity benchmark competitors must now match.",
+          "url": "https://futurumgroup.com/insights/google-agent-compute-engine-puts-cross-cloud-governance-to-a-parity-test/?utm_source=rss&utm_medium=rss&utm_campaign=google-agent-compute-engine-puts-cross-cloud-governance-to-a-parity-test",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco Partner Summit emphasises AI service opportunity",
+          "sowhat": "Cisco IQ, Model Foundry, and improved deal registration aim to shift partner revenue toward AI services rather than pure resale.",
+          "url": "https://futurumgroup.com/insights/cisco-partner-summit-2026-an-energized-cisco-bets-on-partner-led-ai/?utm_source=rss&utm_medium=rss&utm_campaign=cisco-partner-summit-2026-an-energized-cisco-bets-on-partner-led-ai",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Sprinklr launches Marketing AI Agents beta",
+          "sowhat": "The beta and \"Show Your Work\" research tie customer-facing AI to auditability, addressing the governance gap before buyers scale agent use.",
+          "url": "https://cxtoday.com/sprinklr-pushes-ai-agents-toward-proof-at-cxunifiers",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "US employee engagement drops to 2011 low",
+          "sowhat": "Gallup's Q3 reading shows remote and hybrid workers in AI-adopting organisations are disengaging fastest, raising CX delivery risk.",
+          "url": "https://cxm.world/employee-experience/remote-hybrid-employee-engagement-gallup-ai/",
+          "vendor_flag": false,
+          "run": "AM",
+          "outlet": "cxm.world"
+        }
+      ],
+      "pattern_watch": "Agent governance (Google sandbox, Sprinklr auditability) and partner AI service models (Cisco, ServiceNow) share a shift from seats to capabilities."
+    },
+    {
       "iso": "2026-10-30",
       "label": "Fri 30 Oct 2026",
       "rows": [
@@ -878,164 +955,7 @@
         }
       ],
       "pattern_watch": ""
-    },
-    {
-      "iso": "2026-10-23",
-      "label": "Fri 23 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "RingCentral Q3 results show actual trajectory",
-          "sowhat": "Investors and buyers now have concrete data on whether RingCentral's agentic-voice-AI pivot is generating revenue or just PowerPoint momentum.",
-          "url": "http://www.businesswire.com/news/home/20261022608824/en/RingCentral-Announces-Third-Quarter-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-bV7DTIYheT0D-1vT4_bKFzt_EW40VMdK6eG-WLfRGUE1fJraLPL1g6AeUGJlCTYs7Oafol48Kkc8KJgZoTHgMu0w8LYSbRdYOj2VdwnuKwa",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Business Wire"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CCaaS",
-          "headline": "Microsoft layers AI agents onto rival CCaaS",
-          "sowhat": "Microsoft now competes inside Five9, Cisco, and Avaya deployments—turning legacy contact centres into battlegrounds for the agent-control layer.",
-          "url": "https://www.constellationr.com/insights/news/microsoft-launches-contact-center-intelligence-public-preview",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Constellation Research"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce acquires Braze for $5.66bn real-time engine",
-          "sowhat": "This directly addresses Marketing Cloud's weakest link—B2C real-time engagement—and signals Salesforce will compete on lifecycle orchestration, not just CRM record-keeping.",
-          "url": "https://futurumgroup.com/insights/salesforce-buys-braze-to-give-marketing-cloud-a-real-time-b2c-engagement-engine/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-buys-braze-to-give-marketing-cloud-a-real-time-b2c-engagement-engine",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Zoom pivots from video to unified context layer",
-          "sowhat": "Zoom now treats every customer interaction as a shared memory problem—betting that persistent context, not just transcription, will differentiate AI-native CCaaS.",
-          "url": "https://siliconangle.com/2026/10/22/zooms-next-act-from-video-company-to-ai-data-platform/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "SiliconANGLE"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft's Project Perception governs internal AI agents",
-          "sowhat": "Microsoft now treats employee-built AI agents as insider threats, introducing identity, permissions, and supervision tools—acknowledging the governance gap enterprises actually face.",
-          "url": "https://futurumgroup.com/insights/microsoft-points-project-perception-at-the-agents-already-inside/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-points-project-perception-at-the-agents-already-inside",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Teardown",
-          "cat": "CCaaS",
-          "headline": "Gartner's 2026 CCaaS MQ still prioritises influence",
-          "sowhat": "CX Today argues the Magic Quadrant rewards vendor momentum over actual AI execution, urging buyers to ignore the dot and test workflows directly.",
-          "url": "https://cxtoday.com/gartners-ccaas-mq-still-sells-influence-not-outcomes",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Microsoft charges users while they build agents",
-          "sowhat": "Directions on Microsoft flags a shift: consumption fees now apply during agent creation, not just deployment—changing the economics of enterprise experimentation.",
-          "url": "https://www.directionsonmicrosoft.com/microsoft-wants-to-monetize-what-you-make/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Directions on Microsoft"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Walmart lets AI agents buy with spending limits",
-          "sowhat": "Customers can now delegate purchasing authority to AI agents with guardrails—a concrete test of whether consumers trust agents with real money.",
-          "url": "https://cxm.world/customer-experience/walmart-ai-shopping-agents/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "UC",
-          "headline": "Zoom adds unified context layer, Teams interop",
-          "sowhat": "Zoom's shared memory for human and AI agents plus 2027 Teams room interoperability could reduce vendor friction for enterprises running hybrid estates.",
-          "url": "https://uctoday.com/this-week-in-uc-c-zoomtopia-opens-the-door-to-teams",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "CCaaS",
-          "headline": "Microsoft adds AI layer to Five9, Cisco, Avaya",
-          "sowhat": "Contact Center Intelligence lets Microsoft sell AI agents on top of rival CCaaS platforms, pressuring incumbents to prove their own AI or risk commoditisation.",
-          "url": "https://futurumgroup.com/insights/microsoft-contact-center-intelligence-takes-aim-at-ccaas-ai/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "IRONSCALES: 96% deploy agents, 52% have controls",
-          "sowhat": "Enterprises have rushed AI agents into production without matching governance, and 77% have already seen incidents as a result.",
-          "url": "https://futurumgroup.com/insights/ai-agents-are-everywhere-security-controls-are-not/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "IBM Q3 revenue up, software and deal recovery",
-          "sowhat": "IBM's software execution and infrastructure deal pipeline suggest enterprises are starting to convert sovereign-AI interest into actual bookings.",
-          "url": "https://futurumgroup.com/insights/ibm-q3-fy-2026-software-growth-and-deal-recovery-lift-execution/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "SAP Q3 cloud revenue lifts on AI migration",
-          "sowhat": "SAP's enterprise-data-integration pitch is converting on-prem workloads to cloud, validating the case that AI demand pulls infrastructure decisions forward.",
-          "url": "https://futurumgroup.com/insights/sap-q3-fy-2026-ai-and-data-integration-expand-cloud-adoption/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Forrester: rising AI costs force 33% cutbacks",
-          "sowhat": "Usage-based AI pricing is proving expensive enough to force enterprises to pull back a third of initiatives, raising questions about ROI and vendor lock-in.",
-          "url": "https://cxm.world/customer-experience/rising-ai-costs-expected-to-force-brands-to-scale-back-33-of-ai-initiatives/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Qualcomm acquires PickNik, adds motion planning layer",
-          "sowhat": "Qualcomm's acquisition of motion-planning software firm PickNik signals that the robotics stack is maturing, but keeping MoveIt open will determine adoption.",
-          "url": "https://futurumgroup.com/insights/qualcomm-picknik-acquisition-moveit-dragonwing-robotics/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "AI infrastructure economics and governance are becoming concrete blockers, not abstract risks — signal emerging in enterprise financials, incident data, and vendor pricing models."
     }
   ],
-  "updated": "2026-10-30T19:51:12.673752+00:00"
+  "updated": "2026-10-31T11:55:16.342211+00:00"
 }
