@@ -73,9 +73,49 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "ConnectWise deploys AI agents into workflow automation",
+          "sowhat": "MSPs gain agentic AI tooling, but compliance and governance challenges risk complicating enterprise adoption.",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObl9sdms3SnpidnBTcmhqVTZPekZwa2F0VUNpV1FGa3FIUGdEQzRzb0JxRllzSkZhVEVVb090RnhzOEp6MjlmbTdUXzYycmNkV19nSXZKbFl0aTU4ZmM4cFEzWXRDRUlFOF9GN21jQmFPU21IejBzOThfMlJ2THV1V0JwYTl6cEszTUF0b1UtS2NvT1BGcUVEbmgzZEJ4MER0WTdaQlVLVDktRXRWUHF4ZE52VFkzM3hhaXZpRE4xOE1zS3dQeDBfQTJLWHdlZ1o4ZmdrOHpVaERrV3Fh?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "The ChannelPro Network"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Salesforce adds CRM Analytics query support for Agentforce",
+          "sowhat": "Agentforce coworker beta gains data access, enabling CRM-native AI to query analytics—early signal of in-app intelligence tightening.",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXRZTTlVdU5uX1FmTjhvRDl2UExhWmJNc1l1cUh4Y1pCazRvaUM4Qnoxb0EtNmliMnh4M081UUEzc2ltTk5OdFI0dGZqbWZ0dmczdjVGY29GUkljOC1sbzdmTXhLdVRGaXlta1d4c3FLTEROdHJDQkx5ZERiYWMzNUF6VDBQVGx3bFhwR2NsMnE?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Salesforce"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "AI",
+          "headline": "October LLMJacking wave exploits credential gaps in AI platforms",
+          "sowhat": "Nine AI developer platforms fell to credential abuse in one month—enterprise buyers must audit upstream AI vendor security posture now.",
+          "url": "https://futurumgroup.com/insights/black-october-llmjacking-wave-exposes-ai-infrastructures-credential-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=black-october-llmjacking-wave-exposes-ai-infrastructures-credential-crisis",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Credence wins DLA contract to modernize 15,000 legacy rules",
+          "sowhat": "AI/ML tackles federal business-rule modernization at scale, signalling public-sector appetite for AI-led legacy rationalization.",
+          "url": "https://futurumgroup.com/insights/credence-wins-dla-contract-to-untangle-15000-legacy-rules-in-daas/?utm_source=rss&utm_medium=rss&utm_campaign=credence-wins-dla-contract-to-untangle-15000-legacy-rules-in-daas",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
         }
       ],
-      "pattern_watch": "AI consumption models replacing seat licensing (ServiceNow, Microsoft Copilot)"
+      "pattern_watch": "Agentic AI adoption accelerates even as credential security and governance gaps surface across multiple enterprise platforms"
     },
     {
       "iso": "2026-10-31",
@@ -907,5 +947,5 @@
       "pattern_watch": ""
     }
   ],
-  "updated": "2026-11-01T12:54:20.504107+00:00"
+  "updated": "2026-11-01T19:22:46.459703+00:00"
 }
