@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-01T11:59:37.783106+00:00",
+  "generated_at": "2026-11-01T19:05:19.947470+00:00",
   "recency_window_hours": 48,
-  "count": 41,
+  "count": 29,
   "rejected": [
+    {
+      "feed": "TechCrunch",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "Sun, 01 Nov 2026 17:04:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "published": "Sun, 01 Nov 2026 16:20:10 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "published": "Sun, 01 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "published": "Sun, 01 Nov 2026 14:00:00 +0000"
+    },
     {
       "feed": "TechCrunch",
       "title": "Data centers are now a midterm issue, even in Brooklyn",
@@ -100,28 +124,16 @@
       "published": "Fri, 30 Oct 2026 21:17:40 +0000"
     },
     {
-      "feed": "TechCrunch",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture",
-      "published": "Fri, 30 Oct 2026 19:55:13 +0000"
+      "feed": "SiliconANGLE",
+      "title": "Project-by-project security reviews can&#8217;t keep pace with enterprise AI agents",
+      "summary": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move. But sensitive data fed into models is hard ",
+      "published": "2026-11-01T14:25:54Z"
     },
     {
-      "feed": "TechCrunch",
-      "title": "Satlyt takes another step toward turning satellites into space data centers",
-      "summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
-      "published": "Fri, 30 Oct 2026 18:01:24 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "published": "Fri, 30 Oct 2026 17:47:12 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "published": "Fri, 30 Oct 2026 17:00:00 +0000"
+      "feed": "SiliconANGLE",
+      "title": "Agent demand can&#8217;t be forecast, meaning the database has to be ready for anything",
+      "summary": "Enterprises building an agentic AI architecture are learning that the database matters as much as the model. AI agents fire off thousands of unplanned queries at once — and expect answers in milliseco",
+      "published": "2026-11-01T14:25:39Z"
     },
     {
       "feed": "SiliconANGLE",
@@ -160,94 +172,10 @@
       "published": "2026-10-30T19:53:09Z"
     },
     {
-      "feed": "SiliconANGLE",
-      "title": "Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent",
-      "summary": "Ludo Robotics Inc., a subsidiary of major South Korean video game publisher Krafton Inc., today debuted Ludi 0.2, a robotics artificial intelligence system built to understand people and interact with",
-      "published": "2026-10-30T18:00:21Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "As Anthropic finally files for IPO, rising risks aren&#8217;t slowing the AI buildout &#8211; yet",
-      "summary": "The other artificial intelligence shoe dropped this week, as Anthropic filed for what surely will be the second blockbuster AI initial public offering of stock this year. Nearly 70,000 words in the fi",
-      "published": "2026-10-30T15:30:08Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
-      "summary": "As potentially the largest IPO in history, Anthropic PBC is breaking new ground. Its prospectus lists 88 risk factors covering 93 pages alone. From artificial intelligence posing an existential threat",
-      "published": "2026-10-30T15:26:21Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "Intuit targets the mid-market ERP gap with AI",
-      "summary": "Growing companies that outgrow entry-level accounting software face a hard choice: Stay put or gamble on a mid-market ERP that promises automation but often brings cost and disruption. Artificial inte",
-      "published": "2026-10-30T14:39:29Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "Beyond the books: Real-time data is driving a small-business lending surge",
-      "summary": "Small businesses have long treated cash flow management as an afterthought, tallying expenses after the money is gone. Now, financial platforms are folding payments, payroll, credit and lending into o",
-      "published": "2026-10-30T14:25:10Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "The race to deploy AI agents finds a familiar hurdle in data access",
-      "summary": "Enterprises racing to put AI agents into production are discovering that role-based access control, not model choice, decides whether those agents can be trusted. Rising inference costs, privacy worri",
-      "published": "2026-10-30T12:03:27Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "AI’s production push puts data platforms on the hook for results",
-      "summary": "Enterprise data platforms must turn AI pilots into measurable business returns while overcoming the data access, sovereignty and cost barriers that stand between experimentation and production. The co",
-      "published": "2026-10-30T12:02:28Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "AI agents cut critical research time for humanitarian teams in conflict zones",
-      "summary": "Humanitarian groups working in conflict zones are finding that agentic AI can shorten the research cycle between a crisis and an informed response. Cloudera Inc. has built its AI strategy around deplo",
-      "published": "2026-10-30T12:02:03Z"
-    },
-    {
       "feed": "Technology News For IT Channel Partners and Solution Providers",
       "title": "DXC CEO Fernandez: AI Strategy Moves From Experimentation To Commercial Adoption",
       "summary": "DXC CEO Raul Fernandez told financial analysts that the company’s AI business is growing, but for now is still centered around small agentic AI projects that should grow.",
       "published": "Fri, 30 Oct 2026 19:26:00 GMT"
-    },
-    {
-      "feed": "Technology News For IT Channel Partners and Solution Providers",
-      "title": "Amazon Q3 Earnings: CEO Jassy Says Bedrock Could Become As Big As EC2",
-      "summary": "Amazon CEO Andy Jassy says AWS Bedrock could become as large as EC2 as AI demand drives growth in agents, custom chips and cloud infrastructure.",
-      "published": "Fri, 30 Oct 2026 14:20:00 GMT"
-    },
-    {
-      "feed": "Technology News For IT Channel Partners and Solution Providers",
-      "title": "Cisco CEO Chuck Robbins: ‘The Partners Who Can Represent The Entire Architecture’ Will Stand Out",
-      "summary": "Cisco CEO Chuck Robbins says partners are critical to Cisco’s AI strategy as the company looks to turn infrastructure refresh, recurring services, Cisco 360 and Splunk into bigger profit opportunities",
-      "published": "Fri, 30 Oct 2026 13:35:00 GMT"
-    },
-    {
-      "feed": "Light Reading",
-      "title": "UK mmWave vendor CBNG collapses after losing Verizon deal",
-      "summary": "Cambridge, UK-based CBNG has gone into administration, affecting about 75 jobs, in the wake of Verizon's decision to not use its millimeter wave product for 5G fixed wireless access.",
-      "published": "Fri, 30 Oct 2026 14:47:21 GMT"
-    },
-    {
-      "feed": "Light Reading",
-      "title": "FCC moves to knock down copper network retirement roadblocks in California",
-      "summary": "FCC Chairman Brendan Carr is circulating a proposal that aims to preempt California requirements that conflict with new FCC rules and approvals designed to accelerate the retirement of legacy copper n",
-      "published": "Fri, 30 Oct 2026 14:18:50 GMT"
-    },
-    {
-      "feed": "Light Reading",
-      "title": "Eurobites: VMO2 nears Openreach deal to expand fiber coverage – report",
-      "summary": "Also in today's EMEA regional roundup: Proximus' patchy Q3; Orange hooks up with Mistral AI; Google under fire in Finland.",
-      "published": "Fri, 30 Oct 2026 13:12:11 GMT"
-    },
-    {
-      "feed": "Light Reading",
-      "title": "The Buildout: Fidium Fiber rolls through Maine and New Hampshire",
-      "summary": "This week in broadband builds: Fidium grows reach throughout Maine and New Hampshire; Comcast completes build in Tulare County, California; WOW fiber network coming to East Tennessee; Syntrio brings f",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT"
     }
   ]
 }
