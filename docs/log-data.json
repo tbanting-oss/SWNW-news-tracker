@@ -1,6 +1,73 @@
 {
   "days": [
     {
+      "iso": "2026-11-02",
+      "label": "Mon 02 Nov 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft Teams deploys AI phishing detection",
+          "sowhat": "GA in December targets external first-contact scams, a narrow but genuine security upgrade.",
+          "url": "https://uctoday.com/microsoft-teams-turns-ai-on-phishing-in-external-chats",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "8×8 adds shared contextual memory for agents",
+          "sowhat": "Human and AI agents now share customer history to reduce repeat explanations — a usability fix, not a platform reinvention.",
+          "url": "https://cxm.world/customer-experience/ai-customer-service-8x8-contextual-memory/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "BT completes Scotland public-sector network rollout early",
+          "sowhat": "Over 5,000 sites connected via SWAN; positions BT as infrastructure partner for government digital services.",
+          "url": "https://futurumgroup.com/insights/bts-swan-completion-reframes-carriers-as-national-infrastructure-partners/?utm_source=rss&utm_medium=rss&utm_campaign=bts-swan-completion-reframes-carriers-as-national-infrastructure-partners",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Futurum"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Virgin Media O2 planning mass layoffs",
+          "sowhat": "Another carrier restructuring in EMEA; contact centres and support roles likely affected amid broader telco cost pressure.",
+          "url": "https://www.lightreading.com/business-transformation/eurobites-vmo2-planning-mass-layoffs-reports",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Light Reading"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Microsoft offers 60,000 employees voluntary buyouts",
+          "sowhat": "More than a quarter of the workforce can exit with severance by year-end — a scale and speed that signals urgent cost restructuring.",
+          "url": "https://cxm.world/employee-experience/employee-experience-news-roundup-microsoft-exit-gallup-asml/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "ASML links executive pay to employee experience scores",
+          "sowhat": "Unusual compensation structure in EX, but real behavioural change depends on whether metrics are gamed or drive genuine leadership shifts.",
+          "url": "https://cxm.world/employee-experience/linking-executive-pay-employee-experience-asml/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-11-01",
       "label": "Sun 01 Nov 2026",
       "rows": [
@@ -888,64 +955,7 @@
         }
       ],
       "pattern_watch": "Three items (Oracle agentic apps, Anthropic Claude traces, RingCentral Warriors) show enterprise-grade agentic AI moving from demo to named deployment."
-    },
-    {
-      "iso": "2026-10-25",
-      "label": "Sun 25 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Shadow AI tool use risks customer data",
-          "sowhat": "Agents are bypassing approved AI systems, introducing unaudited data-handling risk that CX leaders can't currently measure or control.",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yZGROT25RSFRqNndVWWJtRzJ4Mmh3U1ptZmpvenV6UUgxV19jY2RNMWIyN2VWN3lNd0NJc1QxblVxLXJiaFNBUjJfbW9kRHhTdVM2UDlBNnNncmJiTzZBT0VnMlFPV2FUelRwNno2YUo?oc=5",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Western Digital revenue up 55% on AI storage",
-          "sowhat": "Hyperscaler AI infrastructure spending is translating into measurable storage revenue, validating one enterprise-AI supply-chain bet.",
-          "url": "https://futurumgroup.com/insights/western-digitals-55-revenue-surge-signals-ai-storage-boom/?utm_source=rss&utm_medium=rss&utm_campaign=western-digitals-55-revenue-surge-signals-ai-storage-boom",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "UK finance leaders cannot measure AI value",
-          "sowhat": "90% have cash-management AI cases, but 29% lack ROI measurement—fragmented data infrastructure blocks proof of delivery.",
-          "url": "https://futurumgroup.com/insights/uk-finance-leaders-bet-on-ai-but-cant-prove-its-working/?utm_source=rss&utm_medium=rss&utm_campaign=uk-finance-leaders-bet-on-ai-but-cant-prove-its-working",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Xbox mandates four-day office week from February",
-          "sowhat": "Adding a fourth in-office day while layoffs continue signals operational tightening that may influence wider Microsoft policy.",
-          "url": "https://cxm.world/employee-experience/xbox-return-office-mandate-four-days/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Pennsylvania signs AI deceptive advertising act",
-          "sowhat": "First US state-level law targeting AI-generated advertising signals regulatory fragmentation that will complicate multi-state campaigns.",
-          "url": "https://www.constellationr.com/research/blog/and-away-we-go-pennsylvania-signs-ai-deceptive-advertising-act-what-it-means-brands",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Constellation Research"
-        }
-      ],
-      "pattern_watch": ""
     }
   ],
-  "updated": "2026-11-01T19:22:46.459703+00:00"
+  "updated": "2026-11-02T15:09:33.985316+00:00"
 }
