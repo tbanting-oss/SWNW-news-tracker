@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:05:19.947470+00:00",
+  "generated_at": "2026-11-02T13:46:34.531992+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 7,
@@ -51,18 +51,29 @@
     },
     {
       "name": "Google Alert - Cisco Webex",
-      "items": [
-        {
-          "title": "HACKERS STEAL BILLIONS IN HISTORIC CRYPTO HEIST (930pE) | Business | ktbs.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ktbs.com/news/business/hackers-steal-billions-in-historic-crypto-heist-930pe/video_ba5135d2-be67-53fd-a0de-d7d4d043cbcd.html&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0nCpMge44SuH35IKHsfjAn",
-          "published": "2026-10-31T13:58:34Z",
-          "summary": "CNN, CNN VIA WEBEX CISCO,X, BINANCE, RICHARD TENG, X, CNN, CNN, CNN via WebEx Cisco,X/Binance, Richard Teng/X. Unable to load video. Please try&nbsp;..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Scale and Trust: The Two Tests for AI-Powered Customer Service",
+          "link": "https://cxtoday.com/scale-and-trust-the-two-tests-for-ai-powered-customer-service-sprinklr-cs-0195",
+          "published": "Mon, 02 Nov 2026 13:31:00 GMT",
+          "summary": "Why AI customer service needs governance to scale: Sprinklr’s Karthik Suri on quality management, escalation, continuous learning and trust in CX Today."
+        },
+        {
+          "title": "Before Acting, Your AI Layoff Needs More Than Cost-Cutting Logic",
+          "link": "https://cxtoday.com/recent-ai-layoffs-need-more-than-cost-cutting-logic",
+          "published": "Mon, 02 Nov 2026 12:01:02 GMT",
+          "summary": "AI layoffs are accelerating. CX leaders must protect customer outcomes, workforce capacity, and employee experience as work is redesigned."
+        },
+        {
+          "title": "Why CX Needs to Go Back to Basics in the Age of AI",
+          "link": "https://cxtoday.com/why-cx-needs-to-go-back-to-basics-in-the-age-of-ai",
+          "published": "Mon, 02 Nov 2026 09:01:01 GMT",
+          "summary": "EY’s Laurence Buchanan explains why CX back to basics matters, how trust and empathy beat tool-chasing, and the rise of customer AI agents."
+        },
         {
           "title": "Black Friday Community Management: Four Weeks to Fix What Could Break",
           "link": "https://cxtoday.com/black-friday-community-management-four-weeks-to-fix-what-could-break",
@@ -74,12 +85,6 @@
           "link": "https://cxtoday.com/service-management-this-week-the-bills-come-in",
           "published": "Sat, 31 Oct 2026 15:01:00 GMT",
           "summary": "ServiceNow, Salesforce and carrier incidents show what AI service management really costs, as CX Today tracks UK Contact Center pricing and support terms."
-        },
-        {
-          "title": "AI Security and Customer Data Risks Feature in Big Tech Results",
-          "link": "https://cxtoday.com/ai-security-and-customer-data-risks-feature-in-big-tech-results",
-          "published": "Sat, 31 Oct 2026 12:01:00 GMT",
-          "summary": "Why enterprise AI governance now matters for CX: Microsoft, ServiceNow and Alphabet, plus Coinbase’s Amplitude incident, show data risk and control gaps."
         }
       ]
     },
@@ -89,38 +94,7 @@
     },
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
-      "items": [
-        {
-          "title": "Microsoft 365: Frontier expands to public previews in Teams, Outlook, OneDrive, and SharePoint",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578225",
-          "published": "Fri, 30 Oct 2026 22:08:34 Z",
-          "summary": "Frontier is expanding to bring eligible public preview features across Microsoft 365 into one program. Users enrolled in Frontier can get eligible previews for new Outlook for Windows, OneDrive, SharePoint, Microsoft Teams, and Copilot, managed through a single admin-controlled enrollment experience. Frontier enrollment is optional and separate from Standard and Deferred release preferences for generally available features. Existing Frontier users do not need to re-enroll.More info: https://lear"
-        },
-        {
-          "title": "Microsoft Teams: Activity in other accounts and orgs improvements",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577901",
-          "published": "Fri, 30 Oct 2026 22:08:34 Z",
-          "summary": "Stay up-to-date with what's happening in your other accounts and organizations with the 'Activity in Other Accounts and Orgs' panel. Preview and open chats, channels, and other activity in other accounts and orgs from your main Teams window, without switching tenants.More info: https://learn.microsoft.com/en-us/microsoftteams/activity-in-other-accounts-orgsGA date: January CY2027Preview date: November CY2026"
-        },
-        {
-          "title": "Microsoft Copilot (Microsoft 365): [Education] Create multi-week unit plans with Teach",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577392",
-          "published": "Fri, 30 Oct 2026 22:08:34 Z",
-          "summary": "Educators can use Teach in Microsoft 365 Copilot to create structured unit plans that span multiple lessons or weeks. They can customize the plan components to organize connected lesson plans and quizzes across a unit.\n#educationGA date: October CY2026"
-        },
-        {
-          "title": "Dynamics 365 Business Central: Sustainability Management - Add EUDR certification information",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573251",
-          "published": "Fri, 30 Oct 2026 22:08:34 Z",
-          "summary": "Record EUDR certification information for items under the EU Deforestation Regulation. Different lots of the same item can carry different certificates, origins and validity, it is stored on Lot No. Information, not on the item. An item is opted in with a single EUDR Relevant flag on the Item Card, which enforces lot tracking with lot information. Certificate data can be printed on a new EUDR Sales Invoice.\nCertificate fields: EUDR Certificate No.; Certification Scheme; Valid From; Valid To; Cou"
-        },
-        {
-          "title": "Microsoft Edge: Select Password from the context menu",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570662",
-          "published": "Fri, 30 Oct 2026 22:08:34 Z",
-          "summary": "Users can now manually access saved credentials when password suggestions don't appear automatically. When a user right-clicks a recognized username or password field, a new Select Password option appears in the context menu. This provides a reliable fallback path for sign-in scenarios where autofill suggestions are not surfaced, reducing the need for users to copy credentials manually. No configuration is required, and existing password management policies continue to apply.GA date: November CY"
-        }
-      ]
+      "items": []
     },
     {
       "name": "My Business Wire News",
@@ -138,10 +112,16 @@
       "name": "UC Today",
       "items": [
         {
-          "title": "Work Management News: October’s AI Giants Have to Show Their Work",
-          "link": "https://uctoday.com/work-management-news-octobers-ai-giants-have-to-show-their-work",
-          "published": "Sat, 31 Oct 2026 09:01:00 GMT",
-          "summary": "Microsoft, monday.com and Google show whether AI work management is delivering real project results, with Copilot, Frontier and Jira under scrutiny."
+          "title": "Microsoft Teams Turns AI on Phishing in External Chats",
+          "link": "https://uctoday.com/microsoft-teams-turns-ai-on-phishing-in-external-chats",
+          "published": "Mon, 02 Nov 2026 12:46:00 GMT",
+          "summary": "Microsoft Teams now uses AI to flag phishing in external first-contact chats as fake IT help desk scams rise. GA is due in December"
+        },
+        {
+          "title": "How to Deploy the Foundation for Global CX",
+          "link": "https://uctoday.com/how-to-deploy-the-foundation-for-global-cx-calltower-cs-0252",
+          "published": "Mon, 02 Nov 2026 10:31:00 GMT",
+          "summary": "Global CX depends on one shared foundation; CallTower unifies regional carriers, Genesys Cloud CX, Five9, Webex Contact Center, Zoom Contact Center and data."
         }
       ]
     },
@@ -159,26 +139,7 @@
     },
     {
       "name": "CMSWire.com - All News",
-      "items": [
-        {
-          "title": "Trust Is the Product: Why CX Leaders Must Own AI Governance",
-          "link": "https://www.cmswire.com/customer-experience/trust-is-the-product-why-cx-leaders-must-own-ai-governance/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Fri, 30 Oct 2026 15:38:23 -0500",
-          "summary": "The hidden cost of a bad AI moment — and who should be watching for it.\nContinue reading..."
-        },
-        {
-          "title": "Rivian CEO: Robotics Is Progressing Much Faster Than You Think",
-          "link": "https://www.cmswire.com/digital-experience/rivian-ceo-robotics-is-progressing-much-faster-than-you-think/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Fri, 30 Oct 2026 15:28:36 -0500",
-          "summary": "The same transformer technology behind your contact center chatbot now powers robots on Rivian&apos;s factory floor.\nContinue reading..."
-        },
-        {
-          "title": "When Brand Becomes 'Miscellaneous,' Your ChatGPT Visibility Goes With It",
-          "link": "https://www.cmswire.com/digital-marketing/when-brand-becomes-miscellaneous-your-chatgpt-visibility-goes-with-it/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Fri, 30 Oct 2026 15:05:34 -0500",
-          "summary": "A line called Brand still gets argued over. A line called Miscellaneous is where finance looks first for cash, and your search presence pays the price.\nContinue reading..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CPaaSAA",
@@ -204,22 +165,16 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
-          "title": "AI Security and Customer Data Risks Feature in Big Tech Results - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNzNveW4yTDctYkVTNS1QZ1dJelR0R2ZPWlRCOE1xY0dPejAxSDBMT1lKNExjclA4T0QyTXdSWmZnNTJFYWhjUjFld01BVVhqWkNjR0dJYUhyejlRRkFob0I0Zkw0SGt4Sk45UlhDX0FkT2lTY3FHTHZSbWV5U05CR3hfelZJM0k4cG9j?oc=5",
-          "published": "Sat, 31 Oct 2026 12:02:40 GMT",
-          "summary": "AI Security and Customer Data Risks Feature in Big Tech Results&nbsp;&nbsp;CX Today"
+          "title": "Why CX Needs to Go Back to Basics in the Age of AI - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FUDlCU0UxbjVGeXE1YXdHU1BwRU9ybmhqQVd1dGJ1bnFobkdqc0tWQmVyeFlJQkJreHFzS0RORzVmaVhuTndHQ2pndTdEa21KbVlPb0NoS0RoMy1NWWp5V2gxd1JVc3lDdlFIS2Zrckg0X1hVdF9CeUJ3?oc=5",
+          "published": "Mon, 02 Nov 2026 09:01:01 GMT",
+          "summary": "Why CX Needs to Go Back to Basics in the Age of AI&nbsp;&nbsp;CX Today"
         },
         {
-          "title": "Best Customer Experience Speakers 2027 | #1 Scott Steinberg - https://www.futuristsspeakers.com/",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObE12NDdQZG1iQjRweHFuZWswYmo1UWNTOHN4WDl0NUQ0OHVFYzJudUpYaktUejR2QnJ4T2owNnR5bFVDOTZoRmdCR3haam1aSkpFMnVPQjZMQW9QZF9FaVdrNENmRWR4NGdvSmhucmkyRHJlVTVEc21kS1pJQm5fcFZB?oc=5",
-          "published": "Sat, 31 Oct 2026 11:46:07 GMT",
-          "summary": "Best Customer Experience Speakers 2027 | #1 Scott Steinberg&nbsp;&nbsp;https://www.futuristsspeakers.com/"
-        },
-        {
-          "title": "Trust Is the Product: Why CX Leaders Must Own AI Governance - CMSWire",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmtsQmFLSVUxcERkek1NbzdkMDNkYTJld2oyb2lDXzZjaDNqZXhwZ3hxSzhIbVRkRlRXcm9EYk4yYWtlNWlwUHZhVG5YeV84VVZBb2w1QzhFOVJoZ3JkRkNmYUdISTdZaTBPZnIyalp5THlyT3AwUjFsYVFuYnFBa0o1a0dmTldjU3NCQ295SUZjOGJwWkxNR2hfYmJ6cXAxbE1ETGln?oc=5",
-          "published": "Fri, 30 Oct 2026 19:38:17 GMT",
-          "summary": "Trust Is the Product: Why CX Leaders Must Own AI Governance&nbsp;&nbsp;CMSWire"
+          "title": "Zoom CX enhancements for contact centers - Dynamic Business",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdC00S3VUM0RzZzRQRzlldDRTdGFDcXNtbTNjZGZQZE5Kck5fMWJVRm5IbFNpYkdyUHYyRk94THp0WDdidWFOSGJXRXZ3Vm1Od2NaeUh0TFJpMDU3TE5PcF9ZVVRjdU8zbmFmUjV3QWFHT01aR0VZSnRxQnpwNWpWR2xITkNpRzI3Wmc?oc=5",
+          "published": "Mon, 02 Nov 2026 07:16:29 GMT",
+          "summary": "Zoom CX enhancements for contact centers&nbsp;&nbsp;Dynamic Business"
         }
       ]
     },
@@ -227,232 +182,40 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
+          "title": "From the Microsoft Dynamics 365 CE/CRM blogs; Headless CRM; Boosting customer service automation; Cost of implementation; Workforce engagement management - MSDynamicsWorld.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY2I3eDZTSzZocklXd3IxRTZvX3gwbTJMNkFzcXkwVGo2MC12WlY4cjdZajFhR3gxWkIyZVE1NTV3d2w2dFVaVlFhWjMtVENGNkZ3YThFT0lwdW5QVUs5UEZTSi1NRGVzcXNUVEY2YXNFMVpBZVJlOHJ3UXFkcDlhb0I4SlpFa2JPZ1dyV2N4TWM4Nmh3WFRYbF9XMld6VWM3b2dJa3JUb05kaE5iNWREcllmbEczeG56OURVR2VSazg?oc=5",
+          "published": "Mon, 02 Nov 2026 03:45:53 GMT",
+          "summary": "From the Microsoft Dynamics 365 CE/CRM blogs; Headless CRM; Boosting customer service automation; Cost of implementation; Workforce engagement management&nbsp;&nbsp;MSDynamicsWorld.com"
+        },
+        {
           "title": "Business Analyst (CRM Next) with 7 - 10 Years of Experience at Virtusa in United Arab Emirates,Dubai - foundit Gulf Formerly Monster Gulf",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXI4eGNGdEJKQ3ZRU011WENnYnJfb3luNzBIOGx6SHFMRG9tMnBwTHZtdkpRSTlpZlFCZjd5VXRXN05OdU1lakticm15bFZDT08wZTlYcEZYblRBRnJZWHdjU25FeFVuaUVnRjZJdUducHpPZE1od0VoU1E5RDdva1U2X0VwSGt2U3dyT3hIdHltNDE4RUxrRFRDOA?oc=5",
           "published": "Sun, 01 Nov 2026 18:57:02 GMT",
           "summary": "Business Analyst (CRM Next) with 7 - 10 Years of Experience at Virtusa in United Arab Emirates,Dubai&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
         },
         {
-          "title": "Build AI Sales Automation System - Freelancer",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKQTQ3UzNDRXR2RG9aOXQtNkVDeUswajRrcENvaWJyTzExOFFfcUtRLXk3Q1BVbnlLeXhtZFNzZ3RIVTVBSDdSV2lJdmp1T1lOcmpmZU80NWdIY09KbF9VbVVnTUdSSjlab1hmWUU1UXNzUFJQbGNPaw?oc=5",
-          "published": "Sun, 01 Nov 2026 18:07:15 GMT",
-          "summary": "Build AI Sales Automation System&nbsp;&nbsp;Freelancer"
+          "title": "Remote Client Liaison & Appointment Setter - Freelancer",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXhsNkpseGdHSlY2Q25EQ3cxamFHQmdDOVAtdXB5X3VCVFRuMU9ZNTVnTW51c1JWQTlyVURQOFM4Z0x0SThqSV96VUN1cEkzbE5XamdXUms5ZVM4Sy1HdHphNl9ZS3FHd09YMWg5ZmxxWmRUNmpwd19fT0FOeEZvX0tkQnNnYmkyb0pVMnhjZ0xkTlJIdnFRMg?oc=5",
+          "published": "Sun, 01 Nov 2026 09:32:01 GMT",
+          "summary": "Remote Client Liaison & Appointment Setter&nbsp;&nbsp;Freelancer"
         },
         {
-          "title": "AGA - AI-Powered Order & RFQ Intake Automation: 7-10 Wk Implementation - Microsoft Marketplace",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKdUhnTmFKRm54QVZhVFk3TzlDc3lRWGp2NmxzamtLWXdVa1BDOHBlUUZPbVlCd0w2UHEtcEJfc190YU5tWnBRWXBVMzEtQlRiUmJJQzdSaDktbnVvY0FRQUFkWGZmVDVETWJmamdFZERLd1N3cFhUQ3Zn?oc=5",
-          "published": "Sun, 01 Nov 2026 14:36:39 GMT",
-          "summary": "AGA - AI-Powered Order & RFQ Intake Automation: 7-10 Wk Implementation&nbsp;&nbsp;Microsoft Marketplace"
+          "title": "Proactive Customer Service: Solve the Problem Before the Customer Calls - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVFNVEszcjBkeTVHUGJGekpRUXlzZjg3NlR3eUIzQlZtenNJbmMwdzhFQlVDLTUzOTB5MjhtU3JGT2dMRmxVSWppTmIyTWtSY21ybEhoR3FRT3RTT2dQX2JPYnBQcFplS2hFdkVieE15VzJka0NqdjY4a0d3YXFJd0hIeUtLLTBSUFdUTzEwUG84dXd6WXhKLTZIU2huSEdORGMweVJPNUZGNFdObWZOU3dFSjdKc0U0aW80?oc=5",
+          "published": "Sun, 01 Nov 2026 01:35:49 GMT",
+          "summary": "Proactive Customer Service: Solve the Problem Before the Customer Calls&nbsp;&nbsp;Destination CRM"
         },
         {
-          "title": "Dorcas Eneze John - Customer/Client Service Representative - Turnquest Business Solutions Ltd - Himalayas",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lcHdvWjZWbG9aRXRqUmlRNG9CT1o1TXI5QlVZZ0JMVVNhWmMxVno4c1N5cGgzNkdhdlltaGkzVTcyeXNpamZsU2Q4VEVDYTg?oc=5",
-          "published": "Sun, 01 Nov 2026 11:43:52 GMT",
-          "summary": "Dorcas Eneze John - Customer/Client Service Representative - Turnquest Business Solutions Ltd&nbsp;&nbsp;Himalayas"
-        },
-        {
-          "title": "Customer Service Advisor – Berrylands, Kingston upon Thames - jobs24",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGWWtySC0zZ1JNYl8yZHBOM3RMLUZBR0IxWFJZX0FtVHpETWZiN0c4bW5PTUV5QkV6RktOdUNzVWlZbkMtUUd4WTZQbFhWeFhaTzJ1XzE5SVRsb0NULTdHT084c2FwejR3NEhOYlFrclA?oc=5",
-          "published": "Sun, 01 Nov 2026 06:58:50 GMT",
-          "summary": "Customer Service Advisor – Berrylands, Kingston upon Thames&nbsp;&nbsp;jobs24"
-        },
-        {
-          "title": "[Hiring] CRM Product Owner @Coim Usa - Remotive",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4UE91ZWFNMWtvem9mVHJ1ajFMd1hPUDJXOUJOTWhOM2M0QUw5TFdrTDMtZEtFS2k0NnlfbC1LUl8tQ3RCOFRrZVJyV1IwUzZXMnFSWWhtcXR4UWcyRGRjTjV6R3FjTDBOdi0wOHpBc05QTlBn?oc=5",
-          "published": "Sun, 01 Nov 2026 03:49:24 GMT",
-          "summary": "[Hiring] CRM Product Owner @Coim Usa&nbsp;&nbsp;Remotive"
-        },
-        {
-          "title": "Ryanair ^^24/7 CONTACT@]] Complete List of Ryanair Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMF82eG1TMVd0NkFxVXpubUVvQ2NaRWxEUERMMTM5d2RWN2kzMWozOEF2akNBT1FWeDk1TmkyeEZndktkUzNJa0dKZW9wVXhEMFZGMDJhQjh3ejhudjJ2eE43RTJsMGtMaC1OUVczS2l5WkN4cjFSSk1tSS13cUlrak1FbjVESndSVGNEdEhpM3p3QWVxTkx4UEg1T2VvZktxZ0FaaDZMeXVvSHVaNGdVZzVwZmVhaVNGWXZ4TG9tT2M?oc=5",
-          "published": "Sun, 01 Nov 2026 00:42:08 GMT",
-          "summary": "Ryanair ^^24/7 CONTACT@]] Complete List of Ryanair Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Lufthansa Airlines ^^24/7 CONTACT@]] Complete List of Lufthansa Airlines Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSV9ZeVN3VF9SYzhyMFNUT3NPclhGR3hHQWVHRXVMZWs4RWxoNFJZeWp1QmljY3ZpT3cxbXBQTFR6aXJFRTZ4MWUxNG5NR3NRUXdDemhJUUFpOFlGd2gwQW02dzhQdjBzSE96bHVlclhkakZ1ZXBCa0NrdXBDdzNNamthUDNldnpVUVlXcDZBVG1Ndml0b3FzTGNWb09SMWJQcEVRZWlURWF2c252c3Q1Yl9VeFVGTmxTY0RyYkNRRlhKRElpRURrRm1kdTFzOTE5MUFNU3BTdlNBVVJiOWc?oc=5",
-          "published": "Sun, 01 Nov 2026 00:41:57 GMT",
-          "summary": "Lufthansa Airlines ^^24/7 CONTACT@]] Complete List of Lufthansa Airlines Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Senior Customer Experience Manager | Al-Futtaim Electric Mobility | - Naukrigulf",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeHUxek9lcC0xYTR6VW1hM05HZnEzdWNIZm5DNWxYVVZ1RUQ1YU9NdnVOOWUzWF9DQnd3ckJ3OUcwQVBDc3hjZVhWaERrTkl2dTBXc1pLUkwxTUdqMEExVFNMdlBXMVBmbFVabHZHZkRtOGlQUUZ2ZXFlU3hkaU5VWmNaOGRiS00xT01vZk1DSTEyU0dGT3FPMU8yUG9pNmF3dnBJeGJJT0VNM2VjNzBsTGdaZGZybmZSTlV4elJRS2E2V0hjdmt3NEJQQ0NlVWRlQWVrTTk1R0FIZUFXX0ZaNDMwWEw1TnVpbmRMc2NzN0gxbWpMcXNjdTVqdDZpYkkxX0dsTjNZNTJ6akdtblBv?oc=5",
-          "published": "Sun, 01 Nov 2026 00:39:15 GMT",
-          "summary": "Senior Customer Experience Manager | Al-Futtaim Electric Mobility |&nbsp;&nbsp;Naukrigulf"
-        },
-        {
-          "title": "Condor Airlines ^^24/7 CONTACT@]] Complete List of Condor Airlines Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzg4NXRkb2JGMUhndWhtXzlmRVR4d1Zzbkh3MnhKZm93N2pBREI3TzFBa0ZRV0hoc2FuWUtGQXRqODhHbk1RMnN6MzdTSE9RR1pwU01MMk55MXkzbGMzOUJxdjZjdEZYLXF3UHN5SGRJSE1GZkVpSlVWS1p4WUtTQXBSTmtfYWZudmpDeWIyM1ZvMW9uZV9qcUhpY0Jib2RBcm00TjdsUEdiOEtGNGZSUThUX1l3OHBNV2dFUnQxTHVhakl6MXppT283eS1XVVRFYi1saGJn?oc=5",
-          "published": "Sun, 01 Nov 2026 00:36:16 GMT",
-          "summary": "Condor Airlines ^^24/7 CONTACT@]] Complete List of Condor Airlines Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Emirates ^^24/7 CONTACT@]] Complete List of Emirates Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzRtWVFJUlVTSzVFSnVMcnRnS2p4VUxrQTVPRG5ydHBqc3FHZXVRYTM4ZWNCT3FsNThfYlZmSmQtLWd6TjVXVkxvVU9XckpBYW9ucGdkazRmUzJnNEllbEhubDRpX2dIUGdOa2JGTEtQOVJvOTdmM0ZZZHBwemowVmd0emhqdjV5T2hHRXMxaGREQmtwQ3NlY3NoaVlWQmJwZDIzcEFMclBjNy1jM3hvOW1NV3hFbXVVUWVTZFhPZ080ak0?oc=5",
-          "published": "Sun, 01 Nov 2026 00:34:03 GMT",
-          "summary": "Emirates ^^24/7 CONTACT@]] Complete List of Emirates Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Austrian Airlines ^^24/7 CONTACT@]] Complete List of Austrian Airlines Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0V3dUpYZldzeGVkZkFjcjNPbkU4VzVqcEcwcGR3c1M5YU5wWG1QVEhyLTJFeHYtYlVaQWJxTHl6clJVeU4wS3FLdDRZLXJVX0J3cm9GS1ZBRnh2dnB4TXY0LVUxR2JwMkR6V0xoWnlpSHJTNjJUVktxQkJ0ZnlENjVpNG1tZlY4Z01Yc0RTYXA1WURrejV1RG5zYXZIbDcteDdxU0h6X3JmV0RPYXRjOTU2UUctb2VNNEVYc0lRWkhlRXFhdTQ4T05acjBET0VqLWx4WGRiM2h5Wlk?oc=5",
-          "published": "Sun, 01 Nov 2026 00:33:08 GMT",
-          "summary": "Austrian Airlines ^^24/7 CONTACT@]] Complete List of Austrian Airlines Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "JSX Air ^^24/7 CONTACT@]] Complete List of JSX Air Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNy1zQzFzcTFVdDZOMEo5dHlraDV6NUpvNmNBS1pZRnVuTG80bkJ3TFF3UEhSOFBmQVBOck1nTU9MY3QtSjVnajFtX3hEdjdEVVV2VTQ5ZEVNMVpXeC1HcENKNFUzNFNJVF90THpwNFhma1dzSWxwbHZrYzF3aHAyM1lFVllnY1pBbUVyT3ZaZ2ZDalJlVmFMLXlHbHBSUWQ0ZVpkSEkzMndmV1dfS2c4UE01N0QtcDNuVkp6OVBnUUM?oc=5",
-          "published": "Sun, 01 Nov 2026 00:22:37 GMT",
-          "summary": "JSX Air ^^24/7 CONTACT@]] Complete List of JSX Air Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "United Airlines ^^24/7 CONTACT@]] Complete List of United Airlines Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2d4RHFBT0NiV1BaakswV3E3azVrVVV1SHp2d0RUenFMd040cDBCM1Y4YXA5dFBiX0taLU5lU25xcXBVdTNoWmNDY3hGNm5zYnpxN3RhVXVMRHFYSkZIWHQ3TnJ5Y2FsUDY3NnJYdkpmLUxyOHQ4RDlaeXZSTTRhQTR0NDVRaUhGWENEc1YxNERYT01MUlRpZXZqLUZMQ1V6VVpFbnQ3Qm11S2dkSFN5TzRxVjRZMXNsSy1YSmNQQ2V5Q05OQU9BLUhuRlM4WnJlcTg4YzhR?oc=5",
-          "published": "Sun, 01 Nov 2026 00:21:51 GMT",
-          "summary": "United Airlines ^^24/7 CONTACT@]] Complete List of United Airlines Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Kiwi.com^^24/7 CONTACT@]] Complete List of Kiwi.com Customer Service Phone Numbers in USA - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFIwM0dMOUpLQ2V5SjV3SV9pTWpRWkt4dXMyUy1uLWRJZVI1OTJHNFZUc0lwbTl5ZmVkU2U5UHdyOWtpUWxIV0xTU3lUWXVyRGtMc2V1bkg4RlZWaDQ2ZnNDRlRSZG9JRVRHbXZ5MGZXQVZXbTBCVGFPVkNTeWpwVWtRWGV0aFRVRExlNHF6Ulp3S3gyYjE4MFF0Ym9VN2ZucGRKZzhUQlVPeGZyZUt1WFQtV2M4TnZjQ3RrVE96RVFLLXM?oc=5",
-          "published": "Sun, 01 Nov 2026 00:06:45 GMT",
-          "summary": "Kiwi.com^^24/7 CONTACT@]] Complete List of Kiwi.com Customer Service Phone Numbers in USA&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "“Kiwi.com® 24/7 Contact Guide – USA” Complete Customer Service Phone Numbers and Assistance Options - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2VSZ0JWaU1UU09JVnhRMjV6TUszQWRKdFBERE9xWEEzczJfdVBYbWdpTy1fdVNVQmJuWjIwTGE3RHVqOWZVU0lZbEFZZkJlR2U0a3l4R0hlSDJFQVlGNVRZOHFUVHBWZFB5RHNDdDBJdENRSGRjQzd6a2RzMWlWRUpTdDJkdE02UGRTMW1NWm9aRWlhTlI5Y0FLMlRyNE9ldEZtdm5HVEFYOUgxVk1jbml1VDVfc21pc2xsaTNYcWQxOUxPNXlqYzdQNEpsS2M?oc=5",
-          "published": "Sun, 01 Nov 2026 00:06:43 GMT",
-          "summary": "“Kiwi.com® 24/7 Contact Guide – USA” Complete Customer Service Phone Numbers and Assistance Options&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "“Kiwi.com® 24/7 USA Contact Guide– Full List” Customer Service Phone Numbers in USA Detailed Guide– Kiwi.com SOS: 24/7 - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSEdJczB6ZVE5Y3d5ZUZINzRCVl9JRkZVZnlUc2tRUVVxRXluQ3dGMFJoOVU0WWhpdWllTzBmcll2c1lXMnYzTFZQYnNSWmMzTndsWk1pM2ZoX2laVzFXcE5BWEhFcmNLNURZaU1DbWtEMEVZcTFvcmdieHB4QXZQaldtRzAydWNFcFVad1VrVE8zTXFIcW9Kc0tyMmppZ1lyVEJDMkxSNHdHYmhBM1NWSzRzTmxDVDVIeGI2REMybkpQNUhZTGpnTkduaG5Na3dQbDBHYWpfSkVDbTNpR2I2c3Q3VjE5UE0?oc=5",
-          "published": "Sun, 01 Nov 2026 00:06:42 GMT",
-          "summary": "“Kiwi.com® 24/7 USA Contact Guide– Full List” Customer Service Phone Numbers in USA Detailed Guide– Kiwi.com SOS: 24/7&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "“Priceline® 24/7 Contact Guide – USA” Complete Customer Service Phone Numbers and Assistance Options - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON05kZktISmkzbGpMRkJheG56NXp3WFh4Um0wRWNTTF80UUlIeTNNWllwSWp1VUpFVmM1YnJyWjRQcnliWGZVSHRlLU5DYzNueW1PZVE0X3pDSGpYLTZJZVRJX3lSZXMzeXBxcXZZN3JyNjhGdzhhN2JDdUNmb0R1V1RmelF3U2xnd0hEcGhCeWw5ZmRmdGxUSC1iU1RWbVpoenp4UE85NTBxSDh5enphRmJnM0ZvcV9kbG9yNFRFZTlOX2E0RUJfTVZDRGN2Q2VR?oc=5",
-          "published": "Sat, 31 Oct 2026 23:56:05 GMT",
-          "summary": "“Priceline® 24/7 Contact Guide – USA” Complete Customer Service Phone Numbers and Assistance Options&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "“Priceline® 24/7 USA Contact Guide– Full List” Customer Service Phone Numbers in USA Detailed Guide– Priceline SOS: 24/7 - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUEVuaUF4dF9kOVY2aDBqR01relI3ZE5hSjVUdjlvZVBhUER4NzBQYlc5dnZTX1ZEUEFxNC1CS01HRHhWWVRUN0t2VWJoM3hDUEs1UWRjZlptY1JEdzdRM1paRE9JRmxXVnpTVEJaVFRSZExncTZCNnFzNWJ0bEZzN0JEaElDakM3d2NiTm5DVFZ6bE9nX1o2SnVibkUwUGFwVHFTVjBSeF9XYUtSdC1ieHd1SzAtRWo1WmRWOUU1THdXNlNidm9PSklldndka2txRWt4MEVFNkpieWVlMUdmQzRaRE9rTTFhdmc?oc=5",
-          "published": "Sat, 31 Oct 2026 23:56:04 GMT",
-          "summary": "“Priceline® 24/7 USA Contact Guide– Full List” Customer Service Phone Numbers in USA Detailed Guide– Priceline SOS: 24/7&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "“Expedia ® USA Contact Guide– Full List” Customer Service Phone Numbers in USA Detailed Guide– Expedia SOS: 24/7 - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmNCX3hxY1pvaWU3MmtNaDVrQ0x1R1d5SFo3YUoxVEFZWDBzN1hHWTRYLWN4elo2WWprcWRBdzFWZ095Y25FRlg4NEJmUlN3REZxRFl6VjdkaUxtUEMtcVczMmFDeHlURVlnWi1KTGw4aGVBUmQ0SHhiWnBTTnEycXNiUmlMZGJqUmV5OE9uR3ZhNHp1amRUcENIS01GX1puV3Y5QVA0WE96TlJMYzdoV1dzQVVLbHVORHUxWHhNLVNQY1ExMHlualBFbnNacUV0RHpFcVVqNENCWC1HeXc?oc=5",
-          "published": "Sat, 31 Oct 2026 23:51:07 GMT",
-          "summary": "“Expedia ® USA Contact Guide– Full List” Customer Service Phone Numbers in USA Detailed Guide– Expedia SOS: 24/7&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Senior AI Automation Engineer with 0 - 1 Years of Experience at York Towers in Egypt,Cairo - foundit Gulf Formerly Monster Gulf",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbW82RUtzQ2lYYUdVQnZ4X192NVhmeUtvU0VHLV9jQzJiX2RaOXMwQ1VOWjQ1U3dES2JmY192NTd1dkZSQWFfcFZ2NENzN01Ba21SNkp0R2Y5R2E5aWxWQ1dqV1pMNkV0cVg1TlZZNVJjTGxWNzhWQTBDY2tHRC1YanFkSVY0MXdWekwwc29weGZfdw?oc=5",
-          "published": "Sat, 31 Oct 2026 23:33:32 GMT",
-          "summary": "Senior AI Automation Engineer with 0 - 1 Years of Experience at York Towers in Egypt,Cairo&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
-        },
-        {
-          "title": "CRM Analytics Agent Definition for Agentforce Coworker - Salesforce",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXRZTTlVdU5uX1FmTjhvRDl2UExhWmJNc1l1cUh4Y1pCazRvaUM4Qnoxb0EtNmliMnh4M081UUEzc2ltTk5OdFI0dGZqbWZ0dmczdjVGY29GUkljOC1sbzdmTXhLdVRGaXlta1d4c3FLTEROdHJDQkx5ZERiYWMzNUF6VDBQVGx3bFhwR2NsMnE?oc=5",
-          "published": "Sat, 31 Oct 2026 23:25:45 GMT",
-          "summary": "CRM Analytics Agent Definition for Agentforce Coworker&nbsp;&nbsp;Salesforce"
-        },
-        {
-          "title": "Set Up Agentforce Coworker to Query CRM Analytics Data (Beta) - Salesforce",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWTY5QXVKYXhoVFIwbVNtNDJ5alo0MElXU3FwdUNqbnpEdE1FSFY4dWU5b0k2T0x1WjBsNW02U3pnMkpBVndmNWNOUzJHNi1SMjJxekdveFAzX2ZhRjJLUDFheXh3QmlIZFYwdVdfMWluZFNnakF0N21VelV0Y1JvQTFNZTRhN1d2alpINjRRTno?oc=5",
-          "published": "Sat, 31 Oct 2026 23:25:45 GMT",
-          "summary": "Set Up Agentforce Coworker to Query CRM Analytics Data (Beta)&nbsp;&nbsp;Salesforce"
-        },
-        {
-          "title": "Customer Service & Sales Agent Proof of Value: 6-Week Proof of Concept - Microsoft Marketplace",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFZqV1dfa05MN3c4YmZSbnh0US1sbHF5T3ktazltYlhqYXpQMndvc1VfQ0dpZ283NlRTelU0X1dsbmxOZ2h6OGMyRENvVExyS0JfNjBjYmhwUDcxMnhIdnRwZGE5WEpmdjhncm1hTkoxUTlxM2VZMzE3RUhIOHVOcWxYRUpnVmQzTnFkRDJkN1YzUmhrNmNCX0hDaw?oc=5",
-          "published": "Sat, 31 Oct 2026 23:07:25 GMT",
-          "summary": "Customer Service & Sales Agent Proof of Value: 6-Week Proof of Concept&nbsp;&nbsp;Microsoft Marketplace"
-        },
-        {
-          "title": "✈@[[{ Representative~Guide }]] Airfare.com® Customer Service™ Usa Direct Contact Numbers - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmxSSkxSUXhKRl9GekIweDJNMTdHdVFySDVKOWRIUmtJMGJ2NlQxZFF5OTlIMzJSVHB1VnNYd1BseEI3R0RIR0h5SlpSMmdwajdmbU44LUIxbW9VQXpfbldMWG9qTFdIdXNQRUZPUGh2aURqbWJjeG9vQmpwdGZwUDh2Q1ZXX0FGdEZyaVo4V2paN3BsZlliZ1NLZWRKcWRRd25OS3RhYS1YTGczTHMxcFZrcVg0a3REdEE?oc=5",
-          "published": "Sat, 31 Oct 2026 22:37:07 GMT",
-          "summary": "✈@[[{ Representative~Guide }]] Airfare.com® Customer Service™ Usa Direct Contact Numbers&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Senior Specialist, Microsoft Dynamics 365 CRM Administration - Naukrigulf",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVnBvc1pRZExxX1hjQXpwcjNscFhtU015bGNDZTVqU0FoWU5IWWJ0dVl1dk1TUURTWUdQSWw4d2NQY3Bna3Mycm9JMk5YRnBldEJVUEVpanhVdlRrNlRMUy1DdXg4VmpBanR2RVlUZzEtRWFLN2RfZjFaVFpVbUdxbFBQYVRDODkzT29pdU5OR21BNHY1bGdobHg0ZjAzcURaS2F1YmJXMkNuekc3djhsNDRCN2hsZFJwZy03OVdqMmowQnk3NUNpaEYyVkpjMmV0dnJxbjYzY2U5UXhrZ1BTZ2xkZ0czZ1FRcURCRWU0TXZDMEhFdmlZblI1VjBIdw?oc=5",
-          "published": "Sat, 31 Oct 2026 22:33:06 GMT",
-          "summary": "Senior Specialist, Microsoft Dynamics 365 CRM Administration&nbsp;&nbsp;Naukrigulf"
-        },
-        {
-          "title": "✈@[[{ Representative~Guide }]] Airfare.com® Customer Service™ Usa Direct Contact Numbers - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQU9xakM1bmpEd2lQRmY5aXNmMGtvWlFZeVJnNUZwcXhONy1pNGRIaHN3bmRvUXhpellkeDBKb1htbm9LNGZxYmxkODhVQTFvMkN2Z0dyOVdqdWVzNGd4Vkd3NWVVSldGbzJCZmNNbEhOdHJTUnQwS2xKQUh1WTJNazVKYnA2cy1aZ0Yzb25sMVhPeVQtTTBqYV9GeERmYU5JejNoT1N4ZnMzUTFMdlpMRnRHamphczUzLXc?oc=5",
-          "published": "Sat, 31 Oct 2026 22:28:33 GMT",
-          "summary": "✈@[[{ Representative~Guide }]] Airfare.com® Customer Service™ Usa Direct Contact Numbers&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "[Hiring] Claimant Engagement & Retention Specialist @Tort Experts - Remotive",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1hQTzlfNW1sTjdlb0JjVWg4WjZ2di1WSWFHYjY4ZzZ2Qko1amtNNUJwa3RKai1nZzZ6R3RVN1hRRkZiMzM5RUYwTWdFOTQ1MkpTQWxfalBYQ0NicVlzYTVIRnQtTGJEdWlaVFEwd3JRNVEtZFV6VU8yUFRidi02MDA2WXIyU0F5QnBfOUt2elR2YWxsYUJXdWo2WjQyUW8?oc=5",
-          "published": "Sat, 31 Oct 2026 21:27:18 GMT",
-          "summary": "[Hiring] Claimant Engagement & Retention Specialist @Tort Experts&nbsp;&nbsp;Remotive"
-        },
-        {
-          "title": "Does Expedia Work 24/7? Is Expedia Customer Service Available 24 Hours? Complete FAQs Guide - Odoo",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTTBGc1UzSkgya0JuYzN5S3prU09kUC11QnZfS2RLdUZuNUFHdGFtTTRtcEJxY1o1X29fRWZZZjBKTmhmSHQ0ZFNjaWZLX1dDc2gyWWcyYi1vMm5adU91Q2FzdThNYVROLVFzanVhdlhIR3JYS3VVVTRpSk1seWdfM3oycFA3UWppdUx6MWRtMDQ1dnEzVnVzbVFaa1FqOWRlX1NVVDFCa0ZHaFNTQ0huSklVRHNXaFBTYlFtSkhYUWVjQXMxSC12WA?oc=5",
-          "published": "Sat, 31 Oct 2026 20:47:49 GMT",
-          "summary": "Does Expedia Work 24/7? Is Expedia Customer Service Available 24 Hours? Complete FAQs Guide&nbsp;&nbsp;Odoo"
-        },
-        {
-          "title": "Customer Service Representative - foundit Gulf Formerly Monster Gulf",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2ZlbTdmUGEzem54bjhZNUkwU0hVZHlVdTgtYVc4UjdaWHktazdEdWR3azlaZkZ6SlN6VG9XM3lGN21tRl9NQjBsdUVVbzkyS09CUVM1VTAzSWw4ZzF3eE91akkyQWM0X1Q0QWdyaFB4UTlnLU9lSXRWUXJxZm5KbWF5elBabHB2ZWxjWjVUdG1nazhDMVNnamNrTkI4WWZsR3U4SUhTYlo5SUh1S2ljTVljVnBCYmk4YlVfYzNiT3I?oc=5",
-          "published": "Sat, 31 Oct 2026 19:52:53 GMT",
-          "summary": "Customer Service Representative&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
-        },
-        {
-          "title": "Chief Specialist - Customer Service - foundit Gulf Formerly Monster Gulf",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmtDd1lCRmRiTk5QX2xoMHFRVEl2Z2VwejRTaFhMVXRCang0RmYyTExtcC02Q2pnbEtMR252bEhvQ0ZJSmpVOE0yeFlxMUQ3SmRSQWwtUzRsR0t3YUU3bUpVcU5wY18zTkRJQl8yTmRibzZWZExDVW1SaTF3MjhRWnVudnM1cFBCUW9zMTVKSEJtZ193NVlLbVVGNjdZdGo2RlVWeVdpNHN3OUEwZUVGWlFXTm1oT1BfOTZfM1c2WDBxMTg?oc=5",
-          "published": "Sat, 31 Oct 2026 19:52:48 GMT",
-          "summary": "Chief Specialist - Customer Service&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
-        },
-        {
-          "title": "Customer Service Agent with 0 - 1 Years of Experience at fanatics momentum in Abu Dhabi,United Arab Emirates - foundit Gulf Formerly Monster Gulf",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnRQWktqazFZaEFzV0J4eFdVUVF5Z3c4eUVoNWh4UlcwX2xRa0lUNUV0bkJUWWU1Z19DTXlqeG5leTBKWDVocXU5TTNIWUtMczlESkd0d1BjWFVqOE40QTMzSnNLQjh3WWt3U0s0RHFqUERqM3RRUUVyNEJtNXE1QWdERGRjanRzMDVNYkp6RlA1dFc1YlE?oc=5",
-          "published": "Sat, 31 Oct 2026 19:16:57 GMT",
-          "summary": "Customer Service Agent with 0 - 1 Years of Experience at fanatics momentum in Abu Dhabi,United Arab Emirates&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
-        },
-        {
-          "title": "Call-Center - Trainee - Remote with 0 - 1 Years of Experience at jari solutions in Saudi Arabia,Riyadh - foundit Gulf Formerly Monster Gulf",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3dvSFlUc2VQc3JhdlVCLXpCM1JXaV9YNjlyUXFMLVVybHVZVUkzTzNKTG44dHpCcWF2OUlmb2djZzQ2U0tYSUVJa0owWkRRc3dfV1ZHaWQyWEU4QzMxb2hnS2ZDWWU2RVZWVEV6b04wS0tWTU9pel9CX0k2LS0xbmd5aDFSWldqMUdKTDVRektRVnJrQk5SV0hSMA?oc=5",
-          "published": "Sat, 31 Oct 2026 18:49:12 GMT",
-          "summary": "Call-Center - Trainee - Remote with 0 - 1 Years of Experience at jari solutions in Saudi Arabia,Riyadh&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
+          "title": "CRM Data for an AI Agent: What to Fix First - Vantegrate",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51aW5RelFrcktsbENhMm1KQmp4TE9wVDFTdWNibUlHSHVSaXRLd3RNcEs1cEY4S3VMeC1TVWxBNzNYRHlfMmE1R2xUdHV0aVVKanV2enVybkVlcVREM3lMOGo5Ukp3bmd1QzdlUTBNZkhSNjZ6U3pEOUh0ZTdOdw?oc=5",
+          "published": "Sat, 31 Oct 2026 17:36:09 GMT",
+          "summary": "CRM Data for an AI Agent: What to Fix First&nbsp;&nbsp;Vantegrate"
         },
         {
           "title": "Customer Service Representative - Dairy Boy",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTcFZGWjJFY3VTalJpVDZjbS0zcjUxczl4cVZCS2M5R1V6N0tDRkJPMi1DUEFvcnF2djdyMGp6YmlhaExjWUdIdE9yc3UyVGsxYmtEb0RNSWdUaklMU1kwZk5kQU13b1ByMVVIQVpNdw?oc=5",
           "published": "Sat, 31 Oct 2026 16:40:52 GMT",
           "summary": "Customer Service Representative&nbsp;&nbsp;Dairy Boy"
-        },
-        {
-          "title": "Technical Support Executive - New Delhi - Amantya Technologies - 3 to 5 years of experience - Naukri.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenRVajd6cy02eVNkelh1bTNvOEFoaElJSnBRSDc5dDZXbW1TXzQ3ZWRSVHVORmJzd2NOUlE1WnBLdVVodjdEM2dRVzI2S2NRMUxYcDVVcVdPSWJPcTVTRFp5blFjUms3WHZ0c0dEdTl4NDM3a0JOY3M5Ujl2ZTNySGk5TExNSGVhZFJVdVZOclFkMjhJRnEyVnRFT2tGUmRaQWFmRm5VbC1sVW9RZ0M2aHFwQUxRbTlaMEZlZA?oc=5",
-          "published": "Sat, 31 Oct 2026 12:26:12 GMT",
-          "summary": "Technical Support Executive - New Delhi - Amantya Technologies - 3 to 5 years of experience&nbsp;&nbsp;Naukri.com"
-        },
-        {
-          "title": "API Integration in Australia: ERP, CRM & Legacy Systems - Appinventiv",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlcFRzRUsycE1ZaVlTMVlpQ1VQa21NTGdvSElENUpfXzBUMFQwMjVxb2NDcDQtTE9KZUpVc3ZxNFFJOXFCUV9oTFE4cDFWN2RPeXc4RWZreWdWejVpbmlvVW0wM0pMQQ?oc=5",
-          "published": "Sat, 31 Oct 2026 09:27:48 GMT",
-          "summary": "API Integration in Australia: ERP, CRM & Legacy Systems&nbsp;&nbsp;Appinventiv"
-        },
-        {
-          "title": "Customer Service New Associate - Accenture",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fUDB4SWgzdlc5czUtRjZ1X2p0Vms1ZF9abHJVT1RjeGZQVklYQVpUYS0tdDFSeFpZQ0tyNlg0Q1M0a0p3TWJSUG9EbW91c09wa0U4QVJHUzRsVHIwTFRGc3hsOE1fQTNDbG1lSnF6cEE4cUJvYnc0X3FJVQ?oc=5",
-          "published": "Fri, 30 Oct 2026 22:43:33 GMT",
-          "summary": "Customer Service New Associate&nbsp;&nbsp;Accenture"
-        },
-        {
-          "title": "Sometimes I get asked what my morning routine is. The reality of a morning routine in 2026 is that an email from an AI agent tells me who I’ve been ignoring. Then I ignore the email. Very disciplined. - X",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEMVJrQU5UT1l1UERCS1ZNWEdWV1dmWnRtZXEwMlN5TlZYQ0kzNlplZEI1MmxiRGZiZHVMRUZ0bzV4Qm5penhzZkRVQW5aUWxFNE84eDkxdzlfNHJnUWc?oc=5",
-          "published": "Fri, 30 Oct 2026 22:28:19 GMT",
-          "summary": "Sometimes I get asked what my morning routine is. The reality of a morning routine in 2026 is that an email from an AI agent tells me who I’ve been ignoring. Then I ignore the email. Very disciplined.&nbsp;&nbsp;X"
         }
       ]
     },
@@ -470,41 +233,16 @@
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "items": [
-        {
-          "title": "How do I design an MSP case study that sells without bragging? - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0V6eUdFeHAxTXI3SFpmcW9NTWUtSHhSaDBNMDN4dGUzNXNRSHkyZ1dfUVZ0RDZWZXV3RDBBQlRvcHUwWlFkRUEzVkM4RTZjaTNJek4xT2FnZFhXTTAteGxmMGNrb25LSTc3dmpzVFM0b0Y5Mk9fZ25YR29kQlVwU1ZEWQ?oc=5",
-          "published": "Sat, 31 Oct 2026 07:05:55 GMT",
-          "summary": "How do I design an MSP case study that sells without bragging?&nbsp;&nbsp;The ChannelPro Network"
-        },
-        {
-          "title": "Key channel headlines: ConnectWise puts AI agents to work, Cisco expands partner incentives and more - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObl9sdms3SnpidnBTcmhqVTZPekZwa2F0VUNpV1FGa3FIUGdEQzRzb0JxRllzSkZhVEVVb090RnhzOEp6MjlmbTdUXzYycmNkV19nSXZKbFl0aTU4ZmM4cFEzWXRDRUlFOF9GN21jQmFPU21IejBzOThfMlJ2THV1V0JwYTl6cEszTUF0b1UtS2NvT1BGcUVEbmgzZEJ4MER0WTdaQlVLVDktRXRWUHF4ZE52VFkzM3hhaXZpRE4xOE1zS3dQeDBfQTJLWHdlZ1o4ZmdrOHpVaERrV3Fh?oc=5",
-          "published": "Fri, 30 Oct 2026 20:27:18 GMT",
-          "summary": "Key channel headlines: ConnectWise puts AI agents to work, Cisco expands partner incentives and more&nbsp;&nbsp;The ChannelPro Network"
-        },
-        {
-          "title": "How compliance and governance challenges are complicating agentic AI adoption - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXBzcXQ4R3VVdk1YdExTcktPX0VwMjQ0WDFNQ0o1YUV4SkxYamF1V2tEWUh3YUhabzJackFDNUZHRWtBeFNaclZWV2NOSTB3WlVvV2NValFJMHNJd2hMaXFhcEM3ZmFmeDY1TXhfbmU5YmNfNmJvdXJJLWVCbk0zV1lkVEFsTS03WFRkU3pEam9FbjFpQkFDUndqYXRFUjZTbHZjNTVCdnc?oc=5",
-          "published": "Fri, 30 Oct 2026 20:27:14 GMT",
-          "summary": "How compliance and governance challenges are complicating agentic AI adoption&nbsp;&nbsp;The ChannelPro Network"
-        }
-      ]
+      "items": []
     },
     {
       "name": "Futurum",
       "items": [
         {
-          "title": "Black October: LLMJacking Wave Exposes AI Infrastructure's Credential Crisis",
-          "link": "https://futurumgroup.com/insights/black-october-llmjacking-wave-exposes-ai-infrastructures-credential-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=black-october-llmjacking-wave-exposes-ai-infrastructures-credential-crisis",
-          "published": "Sat, 31 Oct 2026 12:07:34 +0000",
-          "summary": "The post Black October: LLMJacking Wave Exposes AI Infrastructure&#039;s Credential Crisis appeared first on Futurum.\nWiz Research documents October 2026's 'Black October' LLMJacking Wave, revealing how nine AI developer platforms fell victim to coordinated attacks exploiting credential vulnerabilities, resulting in over $100k in downstream enterprise abuse.\nThe post Black October: LLMJacking Wave Exposes AI Infrastructure&#039;s Credential Crisis appeared first on Futurum."
-        },
-        {
-          "title": "Credence Wins DLA Contract to Untangle 15,000+ Legacy Rules in DAAS",
-          "link": "https://futurumgroup.com/insights/credence-wins-dla-contract-to-untangle-15000-legacy-rules-in-daas/?utm_source=rss&utm_medium=rss&utm_campaign=credence-wins-dla-contract-to-untangle-15000-legacy-rules-in-daas",
-          "published": "Sat, 31 Oct 2026 12:07:02 +0000",
-          "summary": "The post Credence Wins DLA Contract to Untangle 15,000+ Legacy Rules in DAAS appeared first on Futurum.\nCredence won a Defense Logistics Agency contract to modernize the DAAS Business Rules Engine, analyzing 15,000+ legacy rules while deploying AI/ML to accelerate delivery and strengthen audit readiness.\nThe post Credence Wins DLA Contract to Untangle 15,000+ Legacy Rules in DAAS appeared first on Futurum."
+          "title": "BT's SWAN Completion Reframes Carriers as National Infrastructure Partners",
+          "link": "https://futurumgroup.com/insights/bts-swan-completion-reframes-carriers-as-national-infrastructure-partners/?utm_source=rss&utm_medium=rss&utm_campaign=bts-swan-completion-reframes-carriers-as-national-infrastructure-partners",
+          "published": "Mon, 02 Nov 2026 12:07:39 +0000",
+          "summary": "The post BT&#039;s SWAN Completion Reframes Carriers as National Infrastructure Partners appeared first on Futurum.\nBT Group completed Scotland's Wide Area Network programme early, upgrading connectivity at over 5,000 public sector sites and positioning itself as a key infrastructure partner for government digital transformation.\nThe post BT&#039;s SWAN Completion Reframes Carriers as National Infrastructure Partners appeared first on Futurum."
         }
       ]
     },
@@ -538,30 +276,69 @@
     },
     {
       "name": "CX Dive",
-      "items": []
+      "items": [
+        {
+          "title": "4 customer experience priorities to close out the year",
+          "link": "https://www.customerexperiencedive.com/news/4-customer-experience-priorities-close-out-year/873368/",
+          "published": "Mon, 02 Nov 2026 07:00:00 -0500",
+          "summary": "Q4 can make or break many companies. CX leaders advise brands to look back at what worked and what didn&rsquo;t, report successes to internal stakeholders and use insights to set budgets."
+        }
+      ]
     },
     {
       "name": "Call Centre Helper",
-      "items": []
+      "items": [
+        {
+          "title": "5 Mistakes Every CX Job Seeker Should Avoid in an AI World",
+          "link": "https://www.callcentrehelper.com/mistakes-job-seeker-avoid-ai-world-277948.htm",
+          "published": "Mon, 02 Nov 2026 08:00:00 +0000",
+          "summary": "Discover the job-seeking mistakes to avoid in an AI-driven recruitment world, from focusing on responsibilities, mass applications, and weak LinkedIn profiles.\nThe post 5 Mistakes Every CX Job Seeker Should Avoid in an AI World appeared first on Call Centre Helper."
+        }
+      ]
     },
     {
       "name": "Light Reading",
-      "items": []
+      "items": [
+        {
+          "title": "Eurobites: VMO2 planning mass layoffs – reports",
+          "link": "https://www.lightreading.com/business-transformation/eurobites-vmo2-planning-mass-layoffs-reports",
+          "published": "Mon, 02 Nov 2026 13:01:39 GMT",
+          "summary": "Also in today's EMEA regional roundup: Telia conducts 6G trials with Ericsson; Telefónica offloads call centers in Germany; TIM invests in unified comms."
+        }
+      ]
     },
     {
       "name": "CXM Customer Experience Magazine",
-      "items": []
+      "items": [
+        {
+          "title": "Employee Experience News Roundup: Microsoft’s 60,000-Person Buyout, Gallup’s 15-Year Engagement Low, and ASML Bosses Pay for Morale",
+          "link": "https://cxm.world/employee-experience/employee-experience-news-roundup-microsoft-exit-gallup-asml/",
+          "published": "Mon, 02 Nov 2026 13:12:38 +0000",
+          "summary": "The biggest story to land in this employee experience news roundup isn’t one of layoffs, but of a buyout. Microsoft has offered around 60,000 employees, more than a quarter of its workforce, the chance to leave with standard severance by the end of the year. Elsewhere: ASML ties executive pay to employee experience, Gallup records...\nThe post Employee Experience News Roundup: Microsoft’s 60,000-Person Buyout, Gallup’s 15-Year Engagement Low, and ASML Bosses Pay for Morale  appeared first on Cust"
+        },
+        {
+          "title": "8×8 Adds Shared Customer Memory for Human and AI Agents to CX Platform",
+          "link": "https://cxm.world/customer-experience/ai-customer-service-8x8-contextual-memory/",
+          "published": "Mon, 02 Nov 2026 11:28:20 +0000",
+          "summary": "8&#215;8 has given its AI customer service tools a longer memory. Updates to the 8&#215;8 Platform for CX, announced on 29 October, rest on the idea that &#8220;a customer should never have to explain themselves twice, whether they reach a person or an AI agent.&#8221; The mechanism is what 8&#215;8 calls governed contextual memory. This...\nThe post 8&#215;8 Adds Shared Customer Memory for Human and AI Agents to CX Platform appeared first on Customer Experience Magazine."
+        },
+        {
+          "title": "ASML Ties Executive Pay to Employee Experience. Is It Enough to Change How Leaders Behave?",
+          "link": "https://cxm.world/employee-experience/linking-executive-pay-employee-experience-asml/",
+          "published": "Mon, 02 Nov 2026 10:20:33 +0000",
+          "summary": "ASML’s decision to link executive pay to employee experience is an encouraging sign. But if organisations want sustainable performance, they need to rethink what they reward in the first place. For decades, organisations have declared that people are their greatest asset. Yet many still reward leaders primarily for financial results and quantitative targets. They do...\nThe post ASML Ties Executive Pay to Employee Experience. Is It Enough to Change How Leaders Behave? appeared first on Customer E"
+        },
+        {
+          "title": "How Pure Cremation Grew Sales by 50% Without Losing the Personal Touch",
+          "link": "https://cxm.world/customer-experience/how-pure-cremation-grew-sales-by-50-without-losing-the-personal-touch/",
+          "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+          "summary": "Few businesses meet their customers at a harder moment than a funeral provider. Families that arrive grieving and often in shock, are asked to make costly decisions within days, rarely with the time or state of mind to compare their options. In the UK, those decisions are made in a sector with almost no regulation,...\nThe post How Pure Cremation Grew Sales by 50% Without Losing the Personal Touch appeared first on Customer Experience Magazine."
+        }
+      ]
     },
     {
       "name": "CX Foundation - Google News",
-      "items": [
-        {
-          "title": "Gartner Critical Capabilities for CCaaS 2026: 7 Top Takeaways - CX Foundation",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT0VlaHBKbmt6TWdzSnY4Z19LckpialFoLTNjOHVZb0lyVlowN2JaQXZGS2NnWHV5bHp6MmUwU0hnZXhKckVjMS1OV215VWpXZWtMQzJLcHZuNVB6QWxCMnItY3ZMVTRjV0VYVkhmQ0o1Q1lwbGdvekVR?oc=5",
-          "published": "Fri, 30 Oct 2026 23:30:23 GMT",
-          "summary": "Gartner Critical Capabilities for CCaaS 2026: 7 Top Takeaways&nbsp;&nbsp;CX Foundation"
-        }
-      ]
+      "items": []
     }
   ]
 }
