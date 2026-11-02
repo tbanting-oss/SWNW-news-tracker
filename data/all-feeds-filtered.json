@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:46:34.531992+00:00",
+  "generated_at": "2026-11-02T22:52:57.090697+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 7,
@@ -51,11 +51,42 @@
     },
     {
       "name": "Google Alert - Cisco Webex",
-      "items": []
+      "items": [
+        {
+          "title": "This Week: Enterprise AI Starts Working the Night Shift - UC Today",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://uctoday.com/this-week-enterprise-ai-starts-working-the-night-shift&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw1YKzeXCR0Su6Adkva9It4J",
+          "published": "2026-11-02T21:02:11Z",
+          "summary": "Sponsored · Webex by Cisco. WebexOne 2026 Wrap-Up: Cisco Opens Webex to AI Agents. Cisco used WebexOne 2026 to put AI agents into Webex meetings&nbsp;..."
+        },
+        {
+          "title": "Notice of Proposed Development Variance Permit at Lot A Moose Road",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.northcowichan.ca/news/notice-proposed-development-variance-permit-lot-moose-road&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw2Sk-gfe6OmkPR66o4IH9gn",
+          "published": "2026-11-02T19:38:50Z",
+          "summary": "This meeting will be conducted in a hybrid format, in person in Council Chambers and electronically through the Cisco Webex platform. Review the&nbsp;..."
+        },
+        {
+          "title": "WebexOne 2026 Wrap-Up: <b>Cisco</b> Opens <b>Webex</b> to AI Agents - UC Today",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://uctoday.com/webexone-2026-wrap-up-cisco-opens-webex-to-ai-agents-webex-by-cisco&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw12O7Khn9SqgHFBldcfRbX9",
+          "published": "2026-11-02T15:54:19Z",
+          "summary": "Cisco opens Webex to AI agents, Google Meet and tighter security, helping buyers govern meetings, contact centre and rooms in one platform."
+        }
+      ]
     },
     {
       "name": "CX Today",
       "items": [
+        {
+          "title": "Gartner Unveils Inaugural Magic Quadrant for AI Agent Management",
+          "link": "https://cxtoday.com/gartner-unveils-inaugural-magic-quadrant-for-ai-agent-management",
+          "published": "Mon, 02 Nov 2026 17:01:00 GMT",
+          "summary": "Gartner’s first Magic Quadrant for AI Agent Management Platforms names Microsoft, IBM, and ServiceNow as Leaders."
+        },
+        {
+          "title": "Amazon Wants Alexa to Become Your Default Shopping Agent",
+          "link": "https://cxtoday.com/amazon-wants-alexa-to-become-your-default-shopping-agent",
+          "published": "Mon, 02 Nov 2026 15:01:00 GMT",
+          "summary": "Amazon says 400 million customers used Alexa for Shopping in the past year. But does higher order spend mean the AI assistant is improving the customer journey?"
+        },
         {
           "title": "Scale and Trust: The Two Tests for AI-Powered Customer Service",
           "link": "https://cxtoday.com/scale-and-trust-the-two-tests-for-ai-powered-customer-service-sprinklr-cs-0195",
@@ -79,12 +110,6 @@
           "link": "https://cxtoday.com/black-friday-community-management-four-weeks-to-fix-what-could-break",
           "published": "Sun, 01 Nov 2026 12:01:00 GMT",
           "summary": "Black Friday exposes gaps between community, contact centre and fulfilment. CX Today looks at Narvar, Adobe, DPD and holiday moderation planning."
-        },
-        {
-          "title": "Service Management This Week: The Bills Come In, What's Changing?",
-          "link": "https://cxtoday.com/service-management-this-week-the-bills-come-in",
-          "published": "Sat, 31 Oct 2026 15:01:00 GMT",
-          "summary": "ServiceNow, Salesforce and carrier incidents show what AI service management really costs, as CX Today tracks UK Contact Center pricing and support terms."
         }
       ]
     },
@@ -112,6 +137,18 @@
       "name": "UC Today",
       "items": [
         {
+          "title": "WebexOne 2026 Wrap-Up: Cisco Opens Webex to AI Agents",
+          "link": "https://uctoday.com/webexone-2026-wrap-up-cisco-opens-webex-to-ai-agents-webex-by-cisco",
+          "published": "Mon, 02 Nov 2026 15:51:00 GMT",
+          "summary": "Cisco opens Webex to AI agents, Google Meet and tighter security, helping buyers govern meetings, contact centre and rooms in one platform. UC Today"
+        },
+        {
+          "title": "This Week: Enterprise AI Starts Working the Night Shift",
+          "link": "https://uctoday.com/this-week-enterprise-ai-starts-working-the-night-shift",
+          "published": "Mon, 02 Nov 2026 15:01:00 GMT",
+          "summary": "OpenAI, Oracle, ServiceNow, Microsoft and Google are pushing enterprise AI beyond prompts - into workflows, persistent tasks and verifiable outputs."
+        },
+        {
           "title": "Microsoft Teams Turns AI on Phishing in External Chats",
           "link": "https://uctoday.com/microsoft-teams-turns-ai-on-phishing-in-external-chats",
           "published": "Mon, 02 Nov 2026 12:46:00 GMT",
@@ -127,7 +164,14 @@
     },
     {
       "name": "Webex Blog",
-      "items": []
+      "items": [
+        {
+          "title": "Zoom Rooms Is Now Generally Available on Cisco Collaboration ...",
+          "link": "https://blog.webex.com/workspaces/zoom-rooms-is-now-generally-available-on-cisco-devices/",
+          "published": "Mon, 02 Nov 2026 17:37:43 +0000",
+          "summary": "Have you or your customers standardized on the native Zoom Rooms experience? Learn why Cisco Collaboration Devices give the perfect choice for the next refresh with advanced on-device AI, workplace intelligence, security, and operational scale.\nThe post Zoom Rooms Is Now Generally Available on Cisco Collaboration ... appeared first on Webex Blog."
+        }
+      ]
     },
     {
       "name": "Zoom Video Communications, Inc.",
@@ -139,7 +183,26 @@
     },
     {
       "name": "CMSWire.com - All News",
-      "items": []
+      "items": [
+        {
+          "title": "Approval Fatigue Is Turning Contact Center Oversight Into Theater",
+          "link": "https://www.cmswire.com/contact-center/approval-fatigue-is-turning-contact-center-oversight-into-theater/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Mon, 02 Nov 2026 14:51:31 -0500",
+          "summary": "Agents that pass every review can still get pulled from production. Binary governance is the cause, and customer service teams carry the most exposure.\nContinue reading..."
+        },
+        {
+          "title": "Contentstack Bets on Content as the Core of Agentic Marketing",
+          "link": "https://www.cmswire.com/digital-marketing/contentstack-bets-on-content-as-the-core-of-agentic-marketing/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Mon, 02 Nov 2026 10:14:39 -0500",
+          "summary": "Vendors keep rebranding DXPs as agentic marketing platforms. Contentstack is staking its claim on content, and the category is still in flux.\nContinue reading..."
+        },
+        {
+          "title": "ContentCon: ‘Structure First, AI Second.’ How Brands Stay Visible Amid Swirling AI Changes",
+          "link": "https://www.cmswire.com/digital-experience/contentcon-structure-first-ai-second-how-brands-are-staying-visible-swirling-ai-changes/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "published": "Mon, 02 Nov 2026 09:07:20 -0500",
+          "summary": "Answer engines pull short, definitive answers from clean pages. Contentstack, Time and Alaska Airlines showed how they build those pages.\nContinue reading..."
+        }
+      ]
     },
     {
       "name": "CPaaSAA",
@@ -151,7 +214,14 @@
     },
     {
       "name": "RingCentral Blog",
-      "items": []
+      "items": [
+        {
+          "title": "Introducing RingCentral Number Reputation Service: Give customers confidence to answer",
+          "link": "https://www.ringcentral.com/us/en/blog/introducing-number-reputation-service/",
+          "published": "Mon, 02 Nov 2026 19:11:41 +0000",
+          "summary": "A call about an appointment, a fraud alert, or a service callback matters to the customer who receives it. When a carrier labels that call “Spam Risk” or “Spam Likely,” many customers let it ring. RingCentral Number Reputation Service gives eligible RingEX numbers one RingCentral-managed workflow for business verification, number registration, reputation monitoring, and spam ...\nThe post Introducing RingCentral Number Reputation Service: Give customers confidence to answer appeared first on Ring"
+        }
+      ]
     },
     {
       "name": "Twilio Blog",
@@ -165,16 +235,34 @@
       "name": "\"\"CX\" and \"Customer experience\"\" - Google News",
       "items": [
         {
+          "title": "Marriott focuses on AI, loyalty as tech enhances experiences - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUQ1MXNsVkpUNUJDemtQa2RfOThhU1F3bDViNFhqUnUxa0xGemw2U2h5UEthNEwtc1NfSEVDTUJRTWxWNExURjVDQkM0YzdDYXIwSklCcjVYX0lrOUoycWptQXcxY1hra2FYa3FXTTM5Szg5VTFMdExxdjBpVzBaWVJKS3JqU1V5YVB1S0NTUFpNMm03MDJuZGdJa19NMTZGQWRQcW1JVGo?oc=5",
+          "published": "Mon, 02 Nov 2026 20:47:09 GMT",
+          "summary": "Marriott focuses on AI, loyalty as tech enhances experiences&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "Total CX and Al Salam Bank sign MoU to explore AI-powered customer experience - Zawya",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlBjOHZhS2hibzBPUlE2VUJDUl9qR3FNbkdjLUt0d1pQNGhoUGZsVExZdHhFWmdpRE4tVGdKNjhCVlZCU2JhVmxFS011RWdfa0NJci0yQy10NFVoVXBpZWMxZDBQMVdNUmhBa0F2cXVPVjlxa3Y0YkpDQVJybzY5WlJTZTdHdXFBM2ZnT3N1blZFMEoxRW5tSU1qTHRDRF96OE9tSnY2a3dCVnJIM2tsY1BtQ1lkakpmaUF4TXlRUlNZdDNGNzV3YlhSZDlRejNkZHpGaFl3?oc=5",
+          "published": "Mon, 02 Nov 2026 14:45:00 GMT",
+          "summary": "Total CX and Al Salam Bank sign MoU to explore AI-powered customer experience&nbsp;&nbsp;Zawya"
+        },
+        {
+          "title": "4 customer experience priorities to close out the year - CX Dive",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzFsdmJydkdVdW5Zck1OQzZmLWd0NEFoS0hlNm1LcHdIamVSelVsZVprTzdCbHh2U3V4QnpZQkx1b1h1Z2tscmdkdUJwQW1Ld3NqaVRtUmhoYWJNMjJ5eGtJOVV6UThlU1J6UU9LR0RsTW5aOHVGc2tIUTJ5OEVObnI2aG9BTXVEcG1nZjRMUEhOY0NfTlZxNVhYdEhENktE?oc=5",
+          "published": "Mon, 02 Nov 2026 14:07:09 GMT",
+          "summary": "4 customer experience priorities to close out the year&nbsp;&nbsp;CX Dive"
+        },
+        {
+          "title": "Scale and Trust: The Two Tests for AI-Powered Customer Service - CX Today",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTY5MkFUdnREMGtzUnV6STVSLVFBbnBwZTNOc09hVE8ycVZKYkdWWW0zMzExOEJOSVhZUmhuTGs0RFlBOEV5djJHdTRqX1dCa1pBNjhzZkw4bDc0WFpXeWhPMnoxQ0QtX1h2N3d4SUNrQjBNOVRSVTBjb01lcUlTWDV2dXNrYVd1bWJqbjk2UGpvMmhCbW5oU19Ea0Fpbzg?oc=5",
+          "published": "Mon, 02 Nov 2026 13:35:31 GMT",
+          "summary": "Scale and Trust: The Two Tests for AI-Powered Customer Service&nbsp;&nbsp;CX Today"
+        },
+        {
           "title": "Why CX Needs to Go Back to Basics in the Age of AI - CX Today",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FUDlCU0UxbjVGeXE1YXdHU1BwRU9ybmhqQVd1dGJ1bnFobkdqc0tWQmVyeFlJQkJreHFzS0RORzVmaVhuTndHQ2pndTdEa21KbVlPb0NoS0RoMy1NWWp5V2gxd1JVc3lDdlFIS2Zrckg0X1hVdF9CeUJ3?oc=5",
           "published": "Mon, 02 Nov 2026 09:01:01 GMT",
           "summary": "Why CX Needs to Go Back to Basics in the Age of AI&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "Zoom CX enhancements for contact centers - Dynamic Business",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdC00S3VUM0RzZzRQRzlldDRTdGFDcXNtbTNjZGZQZE5Kck5fMWJVRm5IbFNpYkdyUHYyRk94THp0WDdidWFOSGJXRXZ3Vm1Od2NaeUh0TFJpMDU3TE5PcF9ZVVRjdU8zbmFmUjV3QWFHT01aR0VZSnRxQnpwNWpWR2xITkNpRzI3Wmc?oc=5",
-          "published": "Mon, 02 Nov 2026 07:16:29 GMT",
-          "summary": "Zoom CX enhancements for contact centers&nbsp;&nbsp;Dynamic Business"
         }
       ]
     },
@@ -182,40 +270,298 @@
       "name": "\"CRM\" - Google News",
       "items": [
         {
+          "title": "Booking & CRM Coordinator – Inbound Calls + CRM for US Mobile Car Detailing Company 1759341 - OnlineJobs.ph",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVo4Nm9mZHlGcnRjbkc4anJYV3R6UkYybzgtc1N5WE9QRmtLRDQ3aXpCQlpTdVVoY3dFSDVRSTF3UXBHQm04ajFneTd3YUE0SmQySDZOcnNLWV9MTUp5RTJBRFdESEppWmtPTFc2aTQ2UW5HWlZ5aExtN1Q3VE1SQ1JTR0ZqUEFkXzl6MWQ1b0Z5T3F2aFl5RXNXeXNXaVYyblR6dlZrVFlhS3lrS3ZVZGkzSWtMS3lYSXBQWjZURncxQU1a?oc=5",
+          "published": "Mon, 02 Nov 2026 22:42:55 GMT",
+          "summary": "Booking & CRM Coordinator – Inbound Calls + CRM for US Mobile Car Detailing Company 1759341&nbsp;&nbsp;OnlineJobs.ph"
+        },
+        {
+          "title": "Part-Time Phone Appointment Setter: Call Dentists Who Requested Information 1760190 - OnlineJobs.ph",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1hNNFVXX2FFWE5PeHkzY1R0YUJaM0pZSEZjRktjdWZ0TTJkTHpUVHpXVTBxcWNFdzlSaXRxcmlLOXhJV2JIcEZWMjdTR25ibkVkRmEwQlp4Z0hMTEExQ3Y0OWgzSHVOb1doYWlVQWttb0pFd1IyaTlNb25BbmNVRVdlN3dzeXV0R2E4ZzByNmlJU1FSUkpCUjl3bzluWFBfX3U3c2VFN3pGeVdMVTZKRTlERk1OTTJvTGJfdFNkOTg?oc=5",
+          "published": "Mon, 02 Nov 2026 22:42:54 GMT",
+          "summary": "Part-Time Phone Appointment Setter: Call Dentists Who Requested Information 1760190&nbsp;&nbsp;OnlineJobs.ph"
+        },
+        {
+          "title": "Manager, CRM Operations - Miami Dolphins & Hard Rock Stadium - TeamWork Online",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcS1lZDU5cFlCbzAzeUZDWXI1OFZ0REJWVWlTUGJUNFZpT0hDMzdKQlZrSk5vM1JDTVEySjY0eU9KSDV0TmJEdmswNGd4anhBYUNtdS0xeHowY2tXNUVpQzliVExtNG5LUmt4QWRtQkIxcGZmU0RlMmpfZnl2RXZtMGM4VDNCVWpIWHVMU2Z2YlBBNTVrakFaUEZKbW9XQlV1a3EtQWozenF6LUFvMy1R?oc=5",
+          "published": "Mon, 02 Nov 2026 22:18:35 GMT",
+          "summary": "Manager, CRM Operations - Miami Dolphins & Hard Rock Stadium&nbsp;&nbsp;TeamWork Online"
+        },
+        {
+          "title": "Fin is the highest-performing Agent for customer service - Salesforce",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vbnFPTVY3eVMxNmVULVZCcGxUb1liMUVKMlV4dTJaT18yWUkwdVFPY0NuWXpEWE1JdWJCU0tFVXpnYXBZS1hrMEJxLTJJcnpm?oc=5",
+          "published": "Mon, 02 Nov 2026 21:22:30 GMT",
+          "summary": "Fin is the highest-performing Agent for customer service&nbsp;&nbsp;Salesforce"
+        },
+        {
+          "title": "[Hiring] Customer Service & Retention Specialist @Community Sports Partners - Remotive",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlpMOXktLTd0VGw0c3RiRnRrdFJlV2VwbE5BWVRXVW42b2dhSEdOZGNDR1RBRGNRSlIzcWdmRFVhT0xSZXRoZVEwUmRXRFdLai1HTFFPR3VwWE10LTZ3TWlKQ0I1QXMwbHFveEFuMDdzLWlUeVZka1dUUlZtRS1aT00zU1ZwOS04aFhqbUczaF85cE5NcHpreThaRQ?oc=5",
+          "published": "Mon, 02 Nov 2026 21:07:44 GMT",
+          "summary": "[Hiring] Customer Service & Retention Specialist @Community Sports Partners&nbsp;&nbsp;Remotive"
+        },
+        {
+          "title": "📢 𝗝𝗨𝗦𝗧 𝗜𝗡: $CRM Salesforce to Acquire Cresta, Expanding AI Voice Agents and Customer Service Automation 👉 𝗞𝗲𝘆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: ➤ 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 (𝗖𝗥𝗠) signs definitive agreement to acquire 𝗖𝗿𝗲𝘀𝘁𝗮. ➤ Acquisition strengthens Salesforce's 𝗔𝗜-𝗽 - X",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sS1I1WEIxUU9tRExjWko0OTNrMVh2Zzl4YWtLZ0JHTThxcEUzeEs1ZXg1UjdXbnEtQ2FYclFJVWVXSUJDLWNLSHNJb3B5dWRnZ3I4S29rNUxSN1FpaVlydnZXaw?oc=5",
+          "published": "Mon, 02 Nov 2026 21:04:16 GMT",
+          "summary": "📢 𝗝𝗨𝗦𝗧 𝗜𝗡: $CRM Salesforce to Acquire Cresta, Expanding AI Voice Agents and Customer Service Automation 👉 𝗞𝗲𝘆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: ➤ 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 (𝗖𝗥𝗠) signs definitive agreement to acquire 𝗖𝗿𝗲𝘀𝘁𝗮. ➤ Acquisition strengthens Salesforce's 𝗔𝗜-𝗽&nbsp;&nbsp;X"
+        },
+        {
+          "title": "Programme Assistant (Protection, AAP & CFM)- SC5- Gaza - wd3.myworkdaysite.com",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbkZyM0IwT1ozclRuT2szRDNVUGt2S1hBTUNSOFR6YXVqblZSZEFjRkhCVnBoUEt6TmlZS1BuTE1DWXRwMU13NUk3akhNeUctTWUycFlFZ0ZYUHBOY0Q1WURIeC1SZHp4dnNra2VoN2pjdzJEckt5YmtRQ0FrUWY2akJ3YW5sTWJ4WkJHSVpaZ0VLdkQ3cm1mR0JsSGNlSEszM1ctQjU2YjV0MGV2emNZcm85THo5YTdjdkpmT3l0Um9KZ3dnWXBDU1hnVkxJY0FYLV82UTJSV3pqeXR1Mk1ydzMwRmtGUlZoMXc?oc=5",
+          "published": "Mon, 02 Nov 2026 20:34:16 GMT",
+          "summary": "Programme Assistant (Protection, AAP & CFM)- SC5- Gaza&nbsp;&nbsp;wd3.myworkdaysite.com"
+        },
+        {
+          "title": "Real Estate Sales Consultant with 0 - 1 Years of Experience at red real estate domain in Egypt,Cairo - foundit Gulf Formerly Monster Gulf",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3plZEVBQlNqdm9ia1ltMEd3SDJ4N2ZCOHRmTEhDRTcwZXV5aGJSb2NfRFVjZmJrU3BKZzhWdHFDQ25wU192RmNUN0Z0dTZPT3R6blcwVnhGMVZ4cFo1V2ZGang4SHdPcVFZbG44dkc1c3JOVDVUbHpNdUJWRnNOQldiYjBhZE9jYkxrMVdKX282YWtHVDJjell0Ti1qV0k?oc=5",
+          "published": "Mon, 02 Nov 2026 18:55:10 GMT",
+          "summary": "Real Estate Sales Consultant with 0 - 1 Years of Experience at red real estate domain in Egypt,Cairo&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
+        },
+        {
+          "title": "Functional Developer - £500/day - Lincoln (Hybrid) - Outside IR35 Tech Jobs",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5alR0V2hSMnFPOXhodXBFUUx2TGpBaUdDdHJBSFg4OENLNXNMcDBaclZDMkVGekdkLUg3WEJESG9uWmdlVnZPUUJCRDNkZGZlMW9OOW5NWXZSSDhxTEZscFRQZTJTMHIyRTFmUTItUlc?oc=5",
+          "published": "Mon, 02 Nov 2026 18:48:45 GMT",
+          "summary": "Functional Developer - £500/day - Lincoln (Hybrid)&nbsp;&nbsp;Outside IR35 Tech Jobs"
+        },
+        {
+          "title": "Meet the Finalists - Women in Customer Experience",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SY2x2ZG1RaG42VURxU3Bydm5DVzhBSk1zdy03aWVYODN5OEhROWc4UHNadm5JUVkwbXNCZURsTjdVa2Jwa2R4eHlCU3M4RU5Cc0NvWFM2OW1naFdXd1E?oc=5",
+          "published": "Mon, 02 Nov 2026 17:23:10 GMT",
+          "summary": "Meet the Finalists&nbsp;&nbsp;Women in Customer Experience"
+        },
+        {
+          "title": "Remote Customer Service Representative II (Seasonal) at Ninja Partners LLC - We Work Remotely",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1hGaElLUjEyZ2QwWTlQVndka2VnM1Z4eFh6OHJnZkdCZXY5RTlwdkk4RE85Mm5VNVRrYlBiWlVXZzVTNElIS01VS1lfUG05andQTHltTlk3dE1jYktOSDdDMjI0WW5BYWdRdDhhUm9ZemhFbk5FVk5iNHhXQlE5ek92ZHZudUE2OVdsQ3FueUlHWWhVRGswSkJhdGI3UTNPWVc4?oc=5",
+          "published": "Mon, 02 Nov 2026 17:02:05 GMT",
+          "summary": "Remote Customer Service Representative II (Seasonal) at Ninja Partners LLC&nbsp;&nbsp;We Work Remotely"
+        },
+        {
+          "title": "Customer Service & Sales Agent Proof of Value: 6-Week Proof of Concept - Microsoft Marketplace",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHloUnJjNmNhakJ2RzZ0Z19tSkk4OXctcWhEcE1oV0JvRUk2cHM0WkQ5bFRqQ0ZvR0dBeUx2TkFQbnpqbXp0OVhqel9sVVhHSUNyY0V4VUNIdG9aTDE1Z1ZOYWVUbGE4QlhoOVJxbFBhbGdkX2FDZm9JbWVGY1NwM3Z2RWN4R0dSODhoZEpxSmZCVjB5MkVXR29ZSQ?oc=5",
+          "published": "Mon, 02 Nov 2026 16:02:01 GMT",
+          "summary": "Customer Service & Sales Agent Proof of Value: 6-Week Proof of Concept&nbsp;&nbsp;Microsoft Marketplace"
+        },
+        {
+          "title": "Salesforce vs. ActiveCampaign: Which CRM Fits Your Growing Business? - Salesforce",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtRVlEZGdMVWw0ZUVwN1Fxd1I3bVM1R1VlV01zR1dvb1h4ME9XLWh4R2tBcXU3OTFxQlJqbFVrZXplb1A3WXNKc0VMekgxZVcxMG5VbzhRMTRtS1E3eEZXTlVYaHhOaEVjVHdaNw?oc=5",
+          "published": "Mon, 02 Nov 2026 15:56:33 GMT",
+          "summary": "Salesforce vs. ActiveCampaign: Which CRM Fits Your Growing Business?&nbsp;&nbsp;Salesforce"
+        },
+        {
+          "title": "Voice Dictation vs. Conversational AI for CRM Updates - quasa.io",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWdYNkw4TFdSZVZPMXZ4UVJYTDBwcTFWeXFFM0ZkY1NHRHUtcENDVVFrLU92MUdoQ2NWT0llRVNBOWVYVkFZV0NwV3RrNUhzaU9sa04tazZyaExzckx3d0N4bzJ6OWRCemxCeTM5Ymt2VlQyM3czUEg2YVh1cFMtZDAtUQ?oc=5",
+          "published": "Mon, 02 Nov 2026 15:38:26 GMT",
+          "summary": "Voice Dictation vs. Conversational AI for CRM Updates&nbsp;&nbsp;quasa.io"
+        },
+        {
+          "title": "Assistance and Support Customer Management - jobs.ch",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORm5CY2tTM3FmMWdWN0VncExFSDc2NkVFNF94Q1dwSkpqRGpDLXhKQVJZX2JfSU10dzNQdjBKMUtCekVPTXY4YURSb2k5NGZqTFA1SWRtR2JRQlRNMkdpSWdHZHUzZHRzVElVUDhtU1JRaHFaVlRTTGlSeTMzNGxfS3VQUQ?oc=5",
+          "published": "Mon, 02 Nov 2026 15:21:23 GMT",
+          "summary": "Assistance and Support Customer Management&nbsp;&nbsp;jobs.ch"
+        },
+        {
+          "title": "TechSee Named a Coolest Vendor in Gartner's Coolest Vendor Innovations in Customer Service and Support - PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN2NobmlBMnZ0VGxORHc4ZF9zVExud25VekdUYkdUWG00bjRMUjBLemxVdmw0aGxPbmRuTnlhcXBUckZYWng4cjkxc0ktU1lZZjFvVVJXR29MVEZVNkNOdXhhbFlrTDl5dFhlc0xKNzZQSGw5RTRxdlZOSE1EOHh3WmlfSjhPMFBaUkxPTlB4TDlHZmNOQWlCbW1UMUJlV1BPYlBwQ0ZQMkVVODlGdWdSUTNrdTVoOTlvLW5pLUFNSGNodXBpZnVMaTVmREhhMFVvZ3IzSFl2VEdzU3R0RFl5czdmOUl1bFJaZkdyRmlKMWZkQQ?oc=5",
+          "published": "Mon, 02 Nov 2026 14:59:05 GMT",
+          "summary": "TechSee Named a Coolest Vendor in Gartner's Coolest Vendor Innovations in Customer Service and Support&nbsp;&nbsp;PR Newswire"
+        },
+        {
+          "title": "Full-time On-site Customer Service Executive jobs in Confidential Company in Dubai - United Arab Emirates (UAE) - Naukrigulf",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9GMzhPdzc2bl9Sa1ZFZzZ3R3dmRlFzdjJnMFNPMFhmRG84LWhTZkppay1PZ0EtNS14Z3lQVk41WUdMYkozVkxQYVFxZTlROUpqTTZHWDQwa3BkaklCS0FGUEVTWHljLUpZdTUzRG1LSnJjay0wWG9HR0FKTTN4WHllc0pNSllTa0NWa2dQS09WV0lhOXRFQTEwVDVxRU5kZ3daSldfek1sQktuLVBVRno0RldWZ2duNk1V?oc=5",
+          "published": "Mon, 02 Nov 2026 14:52:21 GMT",
+          "summary": "Full-time On-site Customer Service Executive jobs in Confidential Company in Dubai - United Arab Emirates (UAE)&nbsp;&nbsp;Naukrigulf"
+        },
+        {
+          "title": "Manager Trainee jobs near me Islandia, NY at Hertz - Hertz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTVULTREa01uZTk3U2FzY0FUZnl4dHBudzdjSk9WNWVhM3B2eWp2eEFlN0NKbEVXaGZlZlZQaE1mWXcweEVhOERUX0RHZEtKVEN5dkc1cVd3MUdpQVdNN1hXenpwMzgzbFpMZzJLTnl6djRia2FMTF9UUk9MU3FIdFdLX0w?oc=5",
+          "published": "Mon, 02 Nov 2026 14:44:56 GMT",
+          "summary": "Manager Trainee jobs near me Islandia, NY at Hertz&nbsp;&nbsp;Hertz"
+        },
+        {
+          "title": "SAP CX Q3 2026 Release Highlights - resources - SAP Community",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXpiczJWSUJFajNwNlQ4ams3V2lNMEsya2o2eW01Nl9VUnZlY2dIRktaNHhiMVBGOHIwMTdmSUR0amlBSldyTFNURU9Eb1EwNlpRN3Y1eHRLd1hkcGc1QUtBLXRic1lrZTVNU3ZFQjJNVjNVWVIyMFdtSnBhUW90cHNyZW40OWRCc3ltZDBWdlk5QTItaUFFMHJhVVA5a0JjVFhfekpJNFZpcHpSQUt2cDFWak5Tdw?oc=5",
+          "published": "Mon, 02 Nov 2026 14:43:15 GMT",
+          "summary": "SAP CX Q3 2026 Release Highlights - resources&nbsp;&nbsp;SAP Community"
+        },
+        {
+          "title": "Manager Trainee jobs near me Erie, CO at Hertz - Hertz",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OWkxFMU1TZ3c5elpfUTdnMHpudVNGOHcwUEVSNUl2ZEo5UVNRazVZeThMZi1SYm5OeXlHa0sxUVBtOHh3OWJqS2ZGYTJ6Zk9TelU3ZjdNOVpaMG9LTXZBbmVjWk1DNFl6QkRyanc1QlJZTnhIOFUwVm1hUDgtcXc?oc=5",
+          "published": "Mon, 02 Nov 2026 14:40:46 GMT",
+          "summary": "Manager Trainee jobs near me Erie, CO at Hertz&nbsp;&nbsp;Hertz"
+        },
+        {
+          "title": "Manager Trainee jobs near me Hamilton, MA at Hertz - Hertz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2RGdUtCSTVEdUNWeDN5NlhrbEREVF85ZHR6WkhjRmVfbGRfalZ1d0tPMFNMTWloY04zaGhpbU9GWkF0c204eVEzUHozSFVacG51Mk8tb0tkWWhGR0NMel9KWEQ2VDB0X2xtbVFLQlVyYUZEV1B2WjJIUURaelZDU3MwZTk?oc=5",
+          "published": "Mon, 02 Nov 2026 14:40:38 GMT",
+          "summary": "Manager Trainee jobs near me Hamilton, MA at Hertz&nbsp;&nbsp;Hertz"
+        },
+        {
+          "title": "SparrowCRM Launches Research Agent: Know Who You're Talking To Before the First Hello - Newswire",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzJ3UGRWOWQ1TkJBSnY5TlI0NFNLbTJqa3U2ZlRYNUdGem8ybXNGR05pZ292b0FmTVo2Sml1LXBlbHBocWI3SGJFX3p0M2pzZE9oWUdfVWtSTGhYNmdwcXJrNU9CNWQ0Z3EzckcxQmwxNUJBU3dWOFFQcjcxNFRLQjBJNlNTWTZKSkFLV0JGRmlUMjRCU1BIY2pWdUx6ak5KNGZjQTN3THZyM2M?oc=5",
+          "published": "Mon, 02 Nov 2026 13:45:00 GMT",
+          "summary": "SparrowCRM Launches Research Agent: Know Who You're Talking To Before the First Hello&nbsp;&nbsp;Newswire"
+        },
+        {
+          "title": "Businesses Are Starting to Pay for AI Agents: 4 Stocks Building in the Space (CHGA, META, CRM, NOW) - markets.businessinsider.com",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOVhPWWk1eU9MYktaekhISHU1ZWJPWlF5Q0trcjNkdXNNVE1Fb0lJZk4tSXFpeTdGRE0wQTQ1TWZJS3pSVVlXWUtaMEpuZU9qSXRlM1NKeUp1SUNfdlp1UUJOSHpmT2lpdDR3eFdlZDlnV0wxLXR3U19icGZHWUVLZVhaSmJtRVg0YjQwdENhRzFCNjhQTE02bGlqcXo2Rm1pRDAyazhDRVN3Vk9CME0tTm5nZjZnRVN3TXhZaS1nb2JZLTk1dG5hUWdmdWljYXNuSVRXQTVIWU9Fb3VLSDRSUXNHUVdqNTdrMjdaTA?oc=5",
+          "published": "Mon, 02 Nov 2026 12:30:11 GMT",
+          "summary": "Businesses Are Starting to Pay for AI Agents: 4 Stocks Building in the Space (CHGA, META, CRM, NOW)&nbsp;&nbsp;markets.businessinsider.com"
+        },
+        {
+          "title": "Revenue Operations vs Sales Operations: Scope, KPIs, and When to Build Each - MyClaw",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyZF9aWk1yYThMcDYxOURhZ1pIM1IycnA3eXFoNHVlQjc0MzF3SktqNDFRNHlzNy0yTlZZVnloUjh2RFFlWVdXZjBGSlhpaGVSRFZKQzdsVGxXa3FVYXl5UTJZUmZPenhTVDBNVzVIaGV1QQ?oc=5",
+          "published": "Mon, 02 Nov 2026 11:39:36 GMT",
+          "summary": "Revenue Operations vs Sales Operations: Scope, KPIs, and When to Build Each&nbsp;&nbsp;MyClaw"
+        },
+        {
+          "title": "DMart - Naukri.com - Naukri.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEOGR3emtqVUM5X1g3a0JWam4yc3RhbXVkR21JWkYyU1hCZHo0WVVsSFo1cjFyV0NKZHp5QkRWci1FUHFFRmN4ZDAxazZRWnF4SUYtbnBYa3FUNTA?oc=5",
+          "published": "Mon, 02 Nov 2026 11:22:05 GMT",
+          "summary": "DMart - Naukri.com&nbsp;&nbsp;Naukri.com"
+        },
+        {
+          "title": "NVIDIA Auto Ontology: Open Semantic Layer for AI Agent SQL - Emergent",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NTGxaTzRMMmE4cEpHRV9GaEYyRkZaN1czWEZIOEZfMk01OWJWQkJOZkduVVVFSEhEa1duVzVrazRWd0tscVpuOVpGaWJ3UVBwaEZla1YwWTY1eFZxVE4yYy0zSUtZZHBtajR2S0dHWlU1R05xSlM0?oc=5",
+          "published": "Mon, 02 Nov 2026 10:55:33 GMT",
+          "summary": "NVIDIA Auto Ontology: Open Semantic Layer for AI Agent SQL&nbsp;&nbsp;Emergent"
+        },
+        {
+          "title": "Commercial Operations Manager - Reed",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fVEg3Vmo1ZEl5b1J2TUFHMlV0SmF1TnMyaVZhMWRSUlkxMjBwaFNxUi1ZZW9TT0NzSDRPZ3N0UWhmdkFvQWJ5eS1WYjBoRnUxUXBvVEp3LWhySjI3WVJJY2w0TmxQYnkzWGZvSG02THotUG5N?oc=5",
+          "published": "Mon, 02 Nov 2026 09:40:33 GMT",
+          "summary": "Commercial Operations Manager&nbsp;&nbsp;Reed"
+        },
+        {
+          "title": "Enabling Self-Service Form Editing During the Case Lifecycle in SAP Enterprise Service Management - SAP Community",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNXNQQXJqamt2czNtakZPRmp6endZcDBWbGJSODdKX09YQlRlamYzSlZQSVZvajZncU1fREdJTEpUU3ZWRlJOWnBrYjQwWERidzBOV1lvNHV1RWZrTjE0TXlhQzhfdDJHY3ZvWFIwSzVPWGVzb0daMDJQTmFFWWJlS3F0Z09oWjlqdjdvek9KUFBNQmJBazFxWmRjMjBmVVRoT1hMMV81ZHVzSURfT0p5REE3aGMyVjl0MzdmdURjemhMazZvamdxemNfTXZNdmcwT0l2N2hB?oc=5",
+          "published": "Mon, 02 Nov 2026 08:23:44 GMT",
+          "summary": "Enabling Self-Service Form Editing During the Case Lifecycle in SAP Enterprise Service Management&nbsp;&nbsp;SAP Community"
+        },
+        {
+          "title": "Cyra Mariz Mortillero - Appointment Setter - WeAnswer Careers - Himalayas",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zdnJoamZpbEYtR3BRU2lrZ3AybF9IaV96XzlKdGZYemxnRzRYRGkwX1d6RDk0OXBuZDhzUUR6WkhMdDBSclBSQWpmOGxKYjlURk5kNg?oc=5",
+          "published": "Mon, 02 Nov 2026 08:03:37 GMT",
+          "summary": "Cyra Mariz Mortillero - Appointment Setter - WeAnswer Careers&nbsp;&nbsp;Himalayas"
+        },
+        {
+          "title": "Amanda Boadu - Test Center Administrator - Tampa Bay Testing Center - Himalayas",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55N1JVTV9GaXpuaEoxbTVqdUlUb3V6VVNzTmwxbk13YmFON3Juc2JETm1OX05tdFl5elowOU5OSFZfMVE2Q3RwbXNR?oc=5",
+          "published": "Mon, 02 Nov 2026 08:03:24 GMT",
+          "summary": "Amanda Boadu - Test Center Administrator - Tampa Bay Testing Center&nbsp;&nbsp;Himalayas"
+        },
+        {
+          "title": "Virtual Assistant for Fence Company (Lead Response, Scheduling & CRM) 1759711 - OnlineJobs.ph",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclI5cHV2RFgyUkRqTDZOb09WNXZRMTRSc0dsZTQyMndrSURXeWE5eThKSlVzbHhId091aTJ5SVE2RUc4T0ZTWENqUnU5MTE0aVV5V25veWszVXlmS2dlTU9tc1FqNF9wcHQ3XzNPVVMtUE1QWk43OFRYLVcwRUh0dkdUWk10ZXh5U0FuRHczcEZaeGdDSFYxYzhyTE9HTkU2ZElFMEF1ZEFmY0RfZEVBb1cxUQ?oc=5",
+          "published": "Mon, 02 Nov 2026 07:33:37 GMT",
+          "summary": "Virtual Assistant for Fence Company (Lead Response, Scheduling & CRM) 1759711&nbsp;&nbsp;OnlineJobs.ph"
+        },
+        {
+          "title": "Senior Advisory Solution Consultant - CRM and Industry Workflows job at ServiceNow in Melbourne, VIC, Australia - Remote.co",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMF9MZUhTT1FxM3NfT3FSQ01hQkllcXNtQkkwTlhpeWJpREVTVkkxNlZaVzJwSWZpeEhWUTZGS2M5WGxQc0JVNUJ4LWo5RXNSaENMeHc0XzBmTE9za3Z0NHlQNTJfQnBUUmVaeFVzUnN1Y3FtUHhQdVhzUDA4Z0FuMDExVmlTV1h6S01UejVXRkQ4M0hFZ1phMzEybmM5VThfNTcteGNWemVRZXI2WDExWGQxTTNsNkNCM1dmOG92SWpHU3gtakpEMA?oc=5",
+          "published": "Mon, 02 Nov 2026 06:51:31 GMT",
+          "summary": "Senior Advisory Solution Consultant - CRM and Industry Workflows job at ServiceNow in Melbourne, VIC, Australia&nbsp;&nbsp;Remote.co"
+        },
+        {
+          "title": "Advisory Solution Consultant - CRM and Industry Workflows job at ServiceNow in Melbourne, VIC, Australia - Remote.co",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaTEtVXVfMnpQcHdkeWZTcThJQmUyMloxczJ0b1U2N2Q4WVJVMmZUZVhMVlhiNndzQ3g4dHJZSWNDcEtmbzZrZllUd0ZxS09PSGpoLUY3XzN1cWNzTVI4M0tpcjVlckJHV2wzNWduN0J1N002V2taNndyMFpyNG1KdEYzZXFOaTNkMWYwR1lzSWY1cHFRNHdUaGh0b0hZeDgzV2FObS1CQXNEQW5YRFY0M0JCZ2JUTDZySFFNVFJhYw?oc=5",
+          "published": "Mon, 02 Nov 2026 06:29:25 GMT",
+          "summary": "Advisory Solution Consultant - CRM and Industry Workflows job at ServiceNow in Melbourne, VIC, Australia&nbsp;&nbsp;Remote.co"
+        },
+        {
+          "title": "GoHighLevel (GHL) Expert / CRM Architect – Scale a 30-Year Beauty Enterprise 1759664 - OnlineJobs.ph",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDBsc2FvZG5TNS1JY2VPTFZBaHpQSTVHOHpXNmpoWjRvUjZkYVRGLWV5Z3JQa3B1SmhKY19xYlBnenpTWlFJdTJqTVZ3aUQxNDhJc0RXQm9jUDU5cTJIWEZhTVVrVHAtSnB4aGtpMF9DMzdMblkwRGxXVmszaU1kZGNoRERyMU9pWVdxMGEwckgwWGJybUlXdjNaM0hyZnhhRVZ3VmJ6dVZPYldWMzcwM3VOLWNxdzVxT2lz?oc=5",
+          "published": "Mon, 02 Nov 2026 05:16:26 GMT",
+          "summary": "GoHighLevel (GHL) Expert / CRM Architect – Scale a 30-Year Beauty Enterprise 1759664&nbsp;&nbsp;OnlineJobs.ph"
+        },
+        {
+          "title": "Cyara Launches Agentic CX Trust Platform - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOU5yaVA0RkFVR2dDdWxjbkxFQXNsMEgtUmU3YnVPSWhUSENZdTlYVlBKQXdQcnBYSlJGNjI5ZlNrY3RLSkNGaFZERzNESnd6RVNhbm0tdW9XZ1p0V3JvczROcW9IT0lfRXZqbVZIV2RYdkNyVEpRUlczVHFGcGE4UVlLOUk3TXBGVmFPc05hQnR4STQ2TjFGUUg0V0FrUW9KOU1uck43WXh6REtIM1k2YTVVaDB6cmdVd0FoS1Bn?oc=5",
+          "published": "Mon, 02 Nov 2026 05:00:52 GMT",
+          "summary": "Cyara Launches Agentic CX Trust Platform&nbsp;&nbsp;Destination CRM"
+        },
+        {
+          "title": "Syndigo Partners with Microsoft on Commerce Solutions - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTVfdkp5a3F5Y2xyZmpOeGRQT0dnZWg2Yjd0ZUFDeWdNYzZQQnRiOWY3eDFtUWtGb2hzYkRvWll1Y3g0T1JmemhkVUxLUUJtdmpGdXBjeWNhcHAycUFBdnMwbHFUMmdjcUp0ZURIaUpoYWN3WHkxYnprS0Q3RkpHdU04cEZhZl8wWExzMkhGeV9YTEVxMWIwaHZ6dzNSVFdGUEYzTDJYUG9XMWp2RTlQcENndEZZRHhxMlNGSXdCdWNyNkh4RGpMN2JmbTlVQkFIZUM1anN4cw?oc=5",
+          "published": "Mon, 02 Nov 2026 05:00:51 GMT",
+          "summary": "Syndigo Partners with Microsoft on Commerce Solutions&nbsp;&nbsp;Destination CRM"
+        },
+        {
+          "title": "ZoomInfo Launches MCP Connector and API on Snowflake - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMnY3SkNHUDBna3pqaWtJeDlaZ181WnFDZkZFeF9jNmpXVVhLaXBWRTh2OHZ6WEpCUmNPTV9VTmpqUVJZdjdRSFdRaExqT3VIVDBqSURUb2VKRkNBX09JN0tWbnh1dWRJM00xUkFMbVlQOVQ5VU5RNlJkMEhnS0RhSEVBSE1OQnVvNHpCTFpNWW8wME4xbElEQzFjX0dwcDRKTFFXMlowSU1vX3M5WGE5a2FhLUs0Yksxa0hJejBoQ3RfYmJVWExxdDJWNWNYQQ?oc=5",
+          "published": "Mon, 02 Nov 2026 05:00:32 GMT",
+          "summary": "ZoomInfo Launches MCP Connector and API on Snowflake&nbsp;&nbsp;Destination CRM"
+        },
+        {
+          "title": "The Hidden Cost of Reconstructing Customer Context Across Enterprise Systems - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQlBaZHhjc3hQZGgtTFFCZzgtdXUtZjNaSGU3TUNfaGMyVnBlTnFZd2JXY1FlUVJHcHo2NnZYMUdkT3JlOXFjRDg0VUoxMmJFeWJ6Wnc1SmNBRUJ1QzN0MUJoRkFJQ05iSkJ6cWoxUEZPMFg0WTJHVkRWeFVWdzBMc2VXWXo2MUtMRkg1a3c2ZHlERUpWa0tldy00YzBGYVJvaDNSQTRCbEFWQmUwcTNsZy1VSF9PQ0hpeHNWNlU2M2xIejVtdVhkbkNyNDE1dzlSb2x1RWNWQWVDSlpsQ1ZUUkJLMWM4Q2ZQRkE?oc=5",
+          "published": "Mon, 02 Nov 2026 05:00:00 GMT",
+          "summary": "The Hidden Cost of Reconstructing Customer Context Across Enterprise Systems&nbsp;&nbsp;Destination CRM"
+        },
+        {
+          "title": "Live Buzz Intelligence Brings Immersive Shopping to Life - Destination CRM",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ2J2Y2FscnpHRmtZQnhPQ0N6OG5zZk5TZUpFTlh4UFlFd3BTbmdUX3BuN04wV3docTNsRXZnZEFvSFFnckFhUk9vNmw3VXNjdTQ5c2FETUdtajFHQm9lUFZnQXJFTzZSRm90ZmZpVUhwa0ZOMkFMVURRZ3ZpRWF2NldqV2FyTEtiaDd3U3JFc3ZOY2RobmZTdWpTRGR6X0hWc2cwRFNSZnBnN3VKX0Z2Z1JLWndNNWhETzY2SVRDU3hhaGFUX2xaWC1PVXpNam85OVUwaUJR?oc=5",
+          "published": "Mon, 02 Nov 2026 05:00:00 GMT",
+          "summary": "Live Buzz Intelligence Brings Immersive Shopping to Life&nbsp;&nbsp;Destination CRM"
+        },
+        {
           "title": "From the Microsoft Dynamics 365 CE/CRM blogs; Headless CRM; Boosting customer service automation; Cost of implementation; Workforce engagement management - MSDynamicsWorld.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY2I3eDZTSzZocklXd3IxRTZvX3gwbTJMNkFzcXkwVGo2MC12WlY4cjdZajFhR3gxWkIyZVE1NTV3d2w2dFVaVlFhWjMtVENGNkZ3YThFT0lwdW5QVUs5UEZTSi1NRGVzcXNUVEY2YXNFMVpBZVJlOHJ3UXFkcDlhb0I4SlpFa2JPZ1dyV2N4TWM4Nmh3WFRYbF9XMld6VWM3b2dJa3JUb05kaE5iNWREcllmbEczeG56OURVR2VSazg?oc=5",
           "published": "Mon, 02 Nov 2026 03:45:53 GMT",
           "summary": "From the Microsoft Dynamics 365 CE/CRM blogs; Headless CRM; Boosting customer service automation; Cost of implementation; Workforce engagement management&nbsp;&nbsp;MSDynamicsWorld.com"
         },
         {
-          "title": "Business Analyst (CRM Next) with 7 - 10 Years of Experience at Virtusa in United Arab Emirates,Dubai - foundit Gulf Formerly Monster Gulf",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXI4eGNGdEJKQ3ZRU011WENnYnJfb3luNzBIOGx6SHFMRG9tMnBwTHZtdkpRSTlpZlFCZjd5VXRXN05OdU1lakticm15bFZDT08wZTlYcEZYblRBRnJZWHdjU25FeFVuaUVnRjZJdUducHpPZE1od0VoU1E5RDdva1U2X0VwSGt2U3dyT3hIdHltNDE4RUxrRFRDOA?oc=5",
-          "published": "Sun, 01 Nov 2026 18:57:02 GMT",
-          "summary": "Business Analyst (CRM Next) with 7 - 10 Years of Experience at Virtusa in United Arab Emirates,Dubai&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
+          "title": "Clickable List Of Official Alaska Airlines.™ Customer Service Phone - Odoo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTVKOXVDLVNJTFlNOUtjaEJ1NFlhcXc0LUVqOHE4Y1hKcHhrVkpUUm1xVldQcHFhUFNmX0RXVmVJcnNNbjBlWmRHd2ZDcURqQUFoU29HdUlTZl9CaTBOOHVTYkF2WkdVNXo2eDJXSjQzR1lENjdUTU1XUVlHeUd3dVBQQk9lc0pNRThzLUVHX1FwT0EyUGxaWXZBb3hJR3hPQmZ5akExSlpweXVJ?oc=5",
+          "published": "Mon, 02 Nov 2026 00:36:51 GMT",
+          "summary": "Clickable List Of Official Alaska Airlines.™ Customer Service Phone&nbsp;&nbsp;Odoo"
         },
         {
-          "title": "Remote Client Liaison & Appointment Setter - Freelancer",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXhsNkpseGdHSlY2Q25EQ3cxamFHQmdDOVAtdXB5X3VCVFRuMU9ZNTVnTW51c1JWQTlyVURQOFM4Z0x0SThqSV96VUN1cEkzbE5XamdXUms5ZVM4Sy1HdHphNl9ZS3FHd09YMWg5ZmxxWmRUNmpwd19fT0FOeEZvX0tkQnNnYmkyb0pVMnhjZ0xkTlJIdnFRMg?oc=5",
-          "published": "Sun, 01 Nov 2026 09:32:01 GMT",
-          "summary": "Remote Client Liaison & Appointment Setter&nbsp;&nbsp;Freelancer"
+          "title": "((24/7™Availability Guide)) Does SkyWest Airlines Work 24/7?:Can You Speak to an SkyWest Airlines Representative at Any Time? - Odoo",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORTYtMm1vN3VDTTh4V3JQWlB6UXltLU9xdmx6akxjajF1QlgxSXlCbWNGZHBtaTdCWGphQ21aaEdsbmdseFdVMnNiZ3ZzUVFVeXNVbzAwLVFqWkxGVUFJUkpFemVtb1lOeTREcTJsSkNmenRvN0lQeUtPdFpLdzlKeXRNZ2FncGNoUkpRQ0g2ZjdRdUtfUTFOTHpYYm1kTTA5Q0tCdmdIb1F2UjdmdEJlUXpyMTBsYlVQRTdvbWhLd2stODh3d1hJajNsY1Q3WEptQUlzLTlCSGd6UkNIeUV5TVAwNGtSVUpKbVZ3YkhmZTZmZw?oc=5",
+          "published": "Mon, 02 Nov 2026 00:21:25 GMT",
+          "summary": "((24/7™Availability Guide)) Does SkyWest Airlines Work 24/7?:Can You Speak to an SkyWest Airlines Representative at Any Time?&nbsp;&nbsp;Odoo"
         },
         {
-          "title": "Proactive Customer Service: Solve the Problem Before the Customer Calls - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVFNVEszcjBkeTVHUGJGekpRUXlzZjg3NlR3eUIzQlZtenNJbmMwdzhFQlVDLTUzOTB5MjhtU3JGT2dMRmxVSWppTmIyTWtSY21ybEhoR3FRT3RTT2dQX2JPYnBQcFplS2hFdkVieE15VzJka0NqdjY4a0d3YXFJd0hIeUtLLTBSUFdUTzEwUG84dXd6WXhKLTZIU2huSEdORGMweVJPNUZGNFdObWZOU3dFSjdKc0U0aW80?oc=5",
-          "published": "Sun, 01 Nov 2026 01:35:49 GMT",
-          "summary": "Proactive Customer Service: Solve the Problem Before the Customer Calls&nbsp;&nbsp;Destination CRM"
+          "title": "((24/7™Availability Guide)) Does Oman Air Work 24/7?:Can You Speak to an Oman Air Representative at Any Time? - Odoo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0U2S3gxbWo4anBybUtYcV9kZXJUVU1vR2RtQTJ6SFItZlFJTnBoU0NTVXhkOG1rQ09USUtYVE5HLWVrYXZDRWxWUGx0ZWo4OGhKb1I2Y0NHLUdjMWZoWHh3M0U5eklEYmNmTEhlS1YzZkFMeUdxRjZmNXdMQkptajcxcDc3cXNCeHZjaF9EVzNNczloMWtGSzdMNUJiRGJ4bFN1bk9rbkxVdDBNNXZWekhHdGlPSkZwMDNhWTRNcTF2YUVXSFlSZlRGMDR5M0tQV1NNRG5PUDFNVU9y?oc=5",
+          "published": "Mon, 02 Nov 2026 00:21:11 GMT",
+          "summary": "((24/7™Availability Guide)) Does Oman Air Work 24/7?:Can You Speak to an Oman Air Representative at Any Time?&nbsp;&nbsp;Odoo"
         },
         {
-          "title": "CRM Data for an AI Agent: What to Fix First - Vantegrate",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51aW5RelFrcktsbENhMm1KQmp4TE9wVDFTdWNibUlHSHVSaXRLd3RNcEs1cEY4S3VMeC1TVWxBNzNYRHlfMmE1R2xUdHV0aVVKanV2enVybkVlcVREM3lMOGo5Ukp3bmd1QzdlUTBNZkhSNjZ6U3pEOUh0ZTdOdw?oc=5",
-          "published": "Sat, 31 Oct 2026 17:36:09 GMT",
-          "summary": "CRM Data for an AI Agent: What to Fix First&nbsp;&nbsp;Vantegrate"
+          "title": "How Do I Speak to Someone at Priceline ? A Complete Guide to Contacting Customer Service - Odoo",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVVwelVTT0lnUE1aRVRESXAtdHlWVDJjTE5fRHRoNmRPZnBVSjdkXzAyX1g1cFpRclFaZVVCSTYwazRiaUFhRTMzUll1bFpuY0N6eVhVMF9FdGVkcG5OSVhRQ0dhQUFQNEtvaVpXcHY2X2tjYmxsV2JyWWpWU0NSeWs1T1FVRDlhcTUzeXl5WmxqcENfTVFTZjRBQlRwZEd4eTBPenRmUlNDZ3RMdDVSV2U3SmdrU3dwWmhCMlI3ZlROOUll?oc=5",
+          "published": "Mon, 02 Nov 2026 00:15:24 GMT",
+          "summary": "How Do I Speak to Someone at Priceline ? A Complete Guide to Contacting Customer Service&nbsp;&nbsp;Odoo"
         },
         {
-          "title": "Customer Service Representative - Dairy Boy",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTcFZGWjJFY3VTalJpVDZjbS0zcjUxczl4cVZCS2M5R1V6N0tDRkJPMi1DUEFvcnF2djdyMGp6YmlhaExjWUdIdE9yc3UyVGsxYmtEb0RNSWdUaklMU1kwZk5kQU13b1ByMVVIQVpNdw?oc=5",
-          "published": "Sat, 31 Oct 2026 16:40:52 GMT",
-          "summary": "Customer Service Representative&nbsp;&nbsp;Dairy Boy"
+          "title": "Clickable List Of Official Priceline.™ Customer Service Phone - Odoo",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFdUbWswVzY0M2VYcFVRSEdTLW1jdkxiODIzYXVVd290TGV3Q0YxN1loajN6MndqUGo3Y2RwNU1ubFZBVzA3cHlYWVYtWERSSWNmSXVnR3lybVNQTzJqZktxSFkwOEZKZTJRRWM3eEpkbnNILTNibU5PUzFQMHBrMi04V2RyVzNScDR6Y25xMnN0dmVxcGhWamZLeFNqQ09rQWNPdg?oc=5",
+          "published": "Mon, 02 Nov 2026 00:07:30 GMT",
+          "summary": "Clickable List Of Official Priceline.™ Customer Service Phone&nbsp;&nbsp;Odoo"
+        },
+        {
+          "title": "Remote Customer Service & Scheduling Coordinator 1759549 - OnlineJobs.ph",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRERReTdobzFvYUtwSDhKT1RYYXFpOTYtUmFIb1ptY2JjVDlsUnhTcWh2dmhtZ3JRa0JjRy1oWWtnR1NXaFBneS1saE90OC1lQWlTTHJoOGpqQ3BFc1hxbkc3eHVJaUhDWXRMSWFvVlZndldsUGdoU0UwQmg1TXpCaTJPMl9jcnI0VHJpZGhuRWFPSVM0RUZBSEZNbw?oc=5",
+          "published": "Sun, 01 Nov 2026 22:23:15 GMT",
+          "summary": "Remote Customer Service & Scheduling Coordinator 1759549&nbsp;&nbsp;OnlineJobs.ph"
+        },
+        {
+          "title": "Customer Service Representative - Salesforce",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHRLVzJ3MWh1Q3gxVTNwNll0SkU0eHFWdXY0Z1FxdEpJb05GUkZxaXZQcDlLME9MTlVRay1wTnItMXlCbXNoczdaQUF3a3JHaHRzc0dBZHRWOWtreTZYb0RNNVpwSC1FTEpnaGZTT2huZkY2NlBrdXRHSE5vLVhERVo5MWFfb192OHhTeFk1cjRKams?oc=5",
+          "published": "Sun, 01 Nov 2026 07:00:00 GMT",
+          "summary": "Customer Service Representative&nbsp;&nbsp;Salesforce"
+        },
+        {
+          "title": "Senior Digital Marketing Manager - Reed",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CdmtVRjV2eXdRaFNRa2NYYmVKajlZb2ZLZTJZMDlzSFBMTWJ1b3FyWnRhOEJDaHRObXhNaWlyNmxELWc4QlJUM3pmRllORmJlcEhXQl9vMHlSVEoySEhkRGtxb1JYdEdwUGhBWWdZbng5WnJZaGk4aQ?oc=5",
+          "published": "Sun, 01 Nov 2026 04:53:30 GMT",
+          "summary": "Senior Digital Marketing Manager&nbsp;&nbsp;Reed"
+        },
+        {
+          "title": "How do you track SaaS trials and pilot conversions in your CRM? - Reddit",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFpMenRDUDhnQVM2OVg3QlhLWDd5VG0xUFJfeU1GSGJCcmxCT2o0MHRnUmtFY21vRlpscjhvNjJwZmdHTnUyWFRDQXRlWklCZFg5WE5YNDFDQmhNNzZIQUxoWk5QRVBiOFFWWTRVXzRseXI4WmM4Vmdob1NGR3FsSWNMZ3B5cVg3NmQ0Ym5R?oc=5",
+          "published": "Sat, 31 Oct 2026 22:52:36 GMT",
+          "summary": "How do you track SaaS trials and pilot conversions in your CRM?&nbsp;&nbsp;Reddit"
         }
       ]
     },
@@ -233,11 +579,90 @@
     },
     {
       "name": "The ChannelPro Network - IT and Business Insights for SMB Solution Providers",
-      "items": []
+      "items": [
+        {
+          "title": "Voice of the Vendor – ASCII Edge 2026, San Antonio - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNnJkc0dITmFIUXg0MzczODN1QThyd2o0dE9PVUl6c0cyZ2N5VDBhRkZBV3BSUk5McmxWMVNrZ2pYWDI2T2FGSHZBOHZTeEhUZTlzNkotLUlqbU9ZNnNFRXZ2ekVkczcxbzZBbjd5ZlBIc2hVM1c1S3owdWVxVkxGUU80NVpMU2Jsb2ZiekFpN0k3TTRoTkVXbw?oc=5",
+          "published": "Mon, 02 Nov 2026 21:07:47 GMT",
+          "summary": "Voice of the Vendor – ASCII Edge 2026, San Antonio&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "Evaluate MDR with Blackpoint Cyber e-book \"The 2AM Test\" - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE5vX3ZkNHlHVXJPamhLOHpjWWJUQmNIX1JGR1B3Qzl6MDg4OTRmUE11MGYxeFlGZ1ZtUEZ3LTJISWl6V1pMSG80NkxHZ09EZGJBR0pFMVFWNmVmSXR0ZlNFS3hZeTlQSjdPQTA3V3R1bVA3X0xHc3k0d2ZTSzYwekZQendlbkI4NTc5WA?oc=5",
+          "published": "Mon, 02 Nov 2026 18:17:48 GMT",
+          "summary": "Evaluate MDR with Blackpoint Cyber e-book \"The 2AM Test\"&nbsp;&nbsp;The ChannelPro Network"
+        },
+        {
+          "title": "How MSPs can find hidden opportunities in OT security - The ChannelPro Network",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0JnZVhtblcyZGVfRHYxYXlNWXQ3SUhxcG9TQThiWnFrWHVvUGhaYkhLSjhMS1J5cVkxb01tdFhkM245M2Z5cDZ2anZWQU15M01EMWZfYW9WMU9UMVVjVHJBOTNHT1dEcVZESXlFQWNrMXlxMmdJUUU3VlNmQTNTMmV4bGdvUW9TdlBSMmxpczI?oc=5",
+          "published": "Mon, 02 Nov 2026 15:00:36 GMT",
+          "summary": "How MSPs can find hidden opportunities in OT security&nbsp;&nbsp;The ChannelPro Network"
+        }
+      ]
     },
     {
       "name": "Futurum",
       "items": [
+        {
+          "title": "Microsoft Q1 FY 2027: Copilot Consumption Expands the AI Business",
+          "link": "https://futurumgroup.com/insights/microsoft-q1-fy-2027-copilot-consumption-expands-the-ai-business/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-q1-fy-2027-copilot-consumption-expands-the-ai-business",
+          "published": "Mon, 02 Nov 2026 17:19:52 +0000",
+          "summary": "The post Microsoft Q1 FY 2027: Copilot Consumption Expands the AI Business appeared first on Futurum.\nFuturum Research analyzes Microsoft’s Q1 FY 2027 results, examining Copilot consumption, Foundry adoption, infrastructure efficiency, and enterprise agent governance.\nThe post Microsoft Q1 FY 2027: Copilot Consumption Expands the AI Business appeared first on Futurum."
+        },
+        {
+          "title": "Specialized AI Clouds Belong on the Shortlist for Multi-Year AI Commitments",
+          "link": "https://futurumgroup.com/research-reports/specialized-ai-clouds-belong-on-the-shortlist-for-multi-year-ai-commitments/?utm_source=rss&utm_medium=rss&utm_campaign=specialized-ai-clouds-belong-on-the-shortlist-for-multi-year-ai-commitments",
+          "published": "Mon, 02 Nov 2026 17:01:37 +0000",
+          "summary": "The post Specialized AI Clouds Belong on the Shortlist for Multi-Year AI Commitments appeared first on Futurum.\nIn our latest thought leadership brief, Specialized AI Clouds Belong on the Shortlist for Multi-Year AI Commitments, completed in partnership with CoreWeave, Futurum Research examines why enterprises signing multi-year AI infrastructure contracts should evaluate specialized AI clouds alongside hyperscalers and price those commitments on cost per token rather than hourly GPU rates.\nThe "
+        },
+        {
+          "title": "Want Better MFA Adoption? Look at How Game Studios Do It.",
+          "link": "https://futurumgroup.com/insights/want-better-mfa-adoption-look-at-how-game-studios-do-it/?utm_source=rss&utm_medium=rss&utm_campaign=want-better-mfa-adoption-look-at-how-game-studios-do-it",
+          "published": "Mon, 02 Nov 2026 16:43:18 +0000",
+          "summary": "The post Want Better MFA Adoption? Look at How Game Studios Do It. appeared first on Futurum.\nFuturum's Fernando Montenegro, with Tom Hollingsworth, Kate Scarcella, and Corey Dirrig, on why gaming runs some of the most advanced consumer security anywhere, and what enterprise MFA and account recovery can learn from it.\nThe post Want Better MFA Adoption? Look at How Game Studios Do It. appeared first on Futurum."
+        },
+        {
+          "title": "ABB Q3 FY 2026 Earnings Show Record Orders Outpacing Revenue on Data Centers",
+          "link": "https://futurumgroup.com/insights/abb-q3-fy-2026-earnings-show-record-orders-outpacing-revenue-on-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=abb-q3-fy-2026-earnings-show-record-orders-outpacing-revenue-on-data-centers",
+          "published": "Mon, 02 Nov 2026 15:30:20 +0000",
+          "summary": "The post ABB Q3 FY 2026 Earnings Show Record Orders Outpacing Revenue on Data Centers appeared first on Futurum.\nOlivier Blanchard, Research Director and Practice Lead, Intelligent Devices at The Futurum Group, reviews ABB's Q3 FY 2026 earnings, record data center-led orders, the Infinitus DC launch, and the Mitsubishi Electric JV.\nThe post ABB Q3 FY 2026 Earnings Show Record Orders Outpacing Revenue on Data Centers appeared first on Futurum."
+        },
+        {
+          "title": "Stellantis Q3 FY 2026 Earnings Show Cost Cuts Offsetting a Weak Europe",
+          "link": "https://futurumgroup.com/insights/stellantis-q3-fy-2026-earnings-show-cost-cuts-offsetting-a-weak-europe/?utm_source=rss&utm_medium=rss&utm_campaign=stellantis-q3-fy-2026-earnings-show-cost-cuts-offsetting-a-weak-europe",
+          "published": "Mon, 02 Nov 2026 15:15:37 +0000",
+          "summary": "The post Stellantis Q3 FY 2026 Earnings Show Cost Cuts Offsetting a Weak Europe appeared first on Futurum.\nOlivier Blanchard, Research Director and Practice Lead, Intelligent Devices at The Futurum Group, reviews Stellantis' Q3 FY 2026 earnings, Value Creation Program cost gains, North America's recovery, and Europe's margin pressure.\nThe post Stellantis Q3 FY 2026 Earnings Show Cost Cuts Offsetting a Weak Europe appeared first on Futurum."
+        },
+        {
+          "title": "Texas Instruments Q3 FY 2026 Earnings Beat as Data Center Sales Nearly Double",
+          "link": "https://futurumgroup.com/insights/texas-instruments-q3-fy-2026-earnings-beat-as-data-center-sales-nearly-double/?utm_source=rss&utm_medium=rss&utm_campaign=texas-instruments-q3-fy-2026-earnings-beat-as-data-center-sales-nearly-double",
+          "published": "Mon, 02 Nov 2026 15:00:22 +0000",
+          "summary": "The post Texas Instruments Q3 FY 2026 Earnings Beat as Data Center Sales Nearly Double appeared first on Futurum.\nBrendan Burke, Research Director, Semiconductors, Supply Chain &#038; Emerging Tech at Futurum, reviews Texas Instruments' Q3 FY 2026 earnings, data center growth, a new industrial peak, and capacity-driven pricing gains.\nThe post Texas Instruments Q3 FY 2026 Earnings Beat as Data Center Sales Nearly Double appeared first on Futurum."
+        },
+        {
+          "title": "Intel Q3 FY 2026: Xeon Demand Tests Supply as PC Spending Weakens",
+          "link": "https://futurumgroup.com/insights/intel-q3-fy-2026-xeon-demand-tests-supply-as-pc-spending-weakens/?utm_source=rss&utm_medium=rss&utm_campaign=intel-q3-fy-2026-xeon-demand-tests-supply-as-pc-spending-weakens",
+          "published": "Mon, 02 Nov 2026 14:45:12 +0000",
+          "summary": "The post Intel Q3 FY 2026: Xeon Demand Tests Supply as PC Spending Weakens appeared first on Futurum.\nFuturum Research analyzes Intel’s Q3 FY 2026 earnings, examining Xeon demand, PC purchasing constraints, and foundry execution as manufacturing capacity shapes its AI opportunity.\nThe post Intel Q3 FY 2026: Xeon Demand Tests Supply as PC Spending Weakens appeared first on Futurum."
+        },
+        {
+          "title": "Oracle AI World: Oracle Introduces Deep Trust AI to Enforce AI Safety at the Database Tier",
+          "link": "https://futurumgroup.com/insights/oracle-ai-world-oracle-introduces-deep-trust-ai-to-enforce-ai-safety-at-the-database-tier/?utm_source=rss&utm_medium=rss&utm_campaign=oracle-ai-world-oracle-introduces-deep-trust-ai-to-enforce-ai-safety-at-the-database-tier",
+          "published": "Mon, 02 Nov 2026 14:30:47 +0000",
+          "summary": "The post Oracle AI World: Oracle Introduces Deep Trust AI to Enforce AI Safety at the Database Tier appeared first on Futurum.\nBrad Shimmin analyzes Oracle Deep Trust AI Architecture, examining how embedding security policies, identity tokens, and SQL assertions into the database tier resolves autonomous agent write-back risks.\nThe post Oracle AI World: Oracle Introduces Deep Trust AI to Enforce AI Safety at the Database Tier appeared first on Futurum."
+        },
+        {
+          "title": "Twilio Q3 FY 2026: Voice AI Drives Higher-Value Software Demand",
+          "link": "https://futurumgroup.com/insights/twilio-q3-fy-2026-voice-ai-drives-higher-value-software-demand/?utm_source=rss&utm_medium=rss&utm_campaign=twilio-q3-fy-2026-voice-ai-drives-higher-value-software-demand",
+          "published": "Mon, 02 Nov 2026 14:15:08 +0000",
+          "summary": "The post Twilio Q3 FY 2026: Voice AI Drives Higher-Value Software Demand appeared first on Futurum.\nFuturum Research analyzes Twilio’s Q3 FY 2026 earnings, examining voice AI adoption, enterprise conversations deals, and agent identity as messaging demand shapes its outlook.\nThe post Twilio Q3 FY 2026: Voice AI Drives Higher-Value Software Demand appeared first on Futurum."
+        },
+        {
+          "title": "Ingram Micro Q3 FY 2026: AI Infrastructure and Cloud Drive Growth",
+          "link": "https://futurumgroup.com/insights/ingram-micro-q3-fy-2026-ai-infrastructure-and-cloud-drive-growth/?utm_source=rss&utm_medium=rss&utm_campaign=ingram-micro-q3-fy-2026-ai-infrastructure-and-cloud-drive-growth",
+          "published": "Mon, 02 Nov 2026 14:00:01 +0000",
+          "summary": "The post Ingram Micro Q3 FY 2026: AI Infrastructure and Cloud Drive Growth appeared first on Futurum.\nFuturum Research analyzes Ingram Micro’s Q3 FY 2026 earnings, examining Xvantage adoption, agentic procurement, AI infrastructure economics, and cloud services opportunities.\nThe post Ingram Micro Q3 FY 2026: AI Infrastructure and Cloud Drive Growth appeared first on Futurum."
+        },
         {
           "title": "BT's SWAN Completion Reframes Carriers as National Infrastructure Partners",
           "link": "https://futurumgroup.com/insights/bts-swan-completion-reframes-carriers-as-national-infrastructure-partners/?utm_source=rss&utm_medium=rss&utm_campaign=bts-swan-completion-reframes-carriers-as-national-infrastructure-partners",
@@ -278,6 +703,12 @@
       "name": "CX Dive",
       "items": [
         {
+          "title": "Marriott focuses on AI, loyalty as tech enhances experiences",
+          "link": "https://www.customerexperiencedive.com/news/marriott-focuses-ai-loyalty-tech-enhances-experiences/873493/",
+          "published": "Mon, 02 Nov 2026 15:14:35 -0500",
+          "summary": "AI is changing how travelers discover travel options, while the Marriott Bonvoy loyalty program deepens the brand&rsquo;s relationships with guests, CEO Anthony Capuano said."
+        },
+        {
           "title": "4 customer experience priorities to close out the year",
           "link": "https://www.customerexperiencedive.com/news/4-customer-experience-priorities-close-out-year/873368/",
           "published": "Mon, 02 Nov 2026 07:00:00 -0500",
@@ -288,6 +719,12 @@
     {
       "name": "Call Centre Helper",
       "items": [
+        {
+          "title": "8×8 Help Teams Start Every Customer Conversation With Context",
+          "link": "https://www.callcentrehelper.com/8x8-conversation-with-context-278458.htm",
+          "published": "Mon, 02 Nov 2026 13:51:17 +0000",
+          "summary": "8x8 has announced a series of updates for CX, introducing new capabilities designed to give agents greater visibility of customer interactions.\nThe post 8&#215;8 Help Teams Start Every Customer Conversation With Context appeared first on Call Centre Helper."
+        },
         {
           "title": "5 Mistakes Every CX Job Seeker Should Avoid in an AI World",
           "link": "https://www.callcentrehelper.com/mistakes-job-seeker-avoid-ai-world-277948.htm",
@@ -310,6 +747,18 @@
     {
       "name": "CXM Customer Experience Magazine",
       "items": [
+        {
+          "title": "The AI Bubble Wobble: What October’s Tech Sell-Off Could Mean for CX Leaders",
+          "link": "https://cxm.world/customer-experience/ai-bubble-tech-sell-off-cx-leaders/",
+          "published": "Mon, 02 Nov 2026 15:16:21 +0000",
+          "summary": "In October, Wall Street began to seriously lose patience with AI. More than $2 trillion was set to be wiped from the Nasdaq 100 over the month, as Big Tech earnings intensified scrutiny of whether AI spending &#8220;can generate returns quickly enough&#8221;, Reuters reported. Talk of an AI bubble is now everywhere. As alarming as...\nThe post The AI Bubble Wobble: What October&#8217;s Tech Sell-Off Could Mean for CX Leaders appeared first on Customer Experience Magazine."
+        },
+        {
+          "title": "Shoppers Aren’t Buying the AI Agent Hype, or Much of Anything Through Them",
+          "link": "https://cxm.world/customer-experience/shoppers-arent-buying-the-ai-agent-hype-or-much-of-anything-through-them/",
+          "published": "Mon, 02 Nov 2026 15:09:51 +0000",
+          "summary": "AI agents that can order dinner, book travel and fill a grocery basket were meant to be the consumer story of 2026, with tech companies racing to launch them and payment networks rushing to let them spend. Customers have proved far harder to win over than the launch announcements suggested. Shoppers will gladly let an...\nThe post Shoppers Aren’t Buying the AI Agent Hype, or Much of Anything Through Them appeared first on Customer Experience Magazine."
+        },
         {
           "title": "Employee Experience News Roundup: Microsoft’s 60,000-Person Buyout, Gallup’s 15-Year Engagement Low, and ASML Bosses Pay for Morale",
           "link": "https://cxm.world/employee-experience/employee-experience-news-roundup-microsoft-exit-gallup-asml/",
