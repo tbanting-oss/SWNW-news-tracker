@@ -63,9 +63,69 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "UC",
+          "headline": "Cisco opens Webex to AI agents, Google Meet",
+          "sowhat": "Webex now supports third-party AI agents and Google Meet interop, reducing lock-in and opening multi-platform governance for buyers already split across collaboration estates.",
+          "url": "https://uctoday.com/webexone-2026-wrap-up-cisco-opens-webex-to-ai-agents-webex-by-cisco",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Zoom Rooms generally available on Cisco devices",
+          "sowhat": "Cisco now sells its collaboration hardware as a Zoom Rooms endpoint, signalling a platform-neutral device strategy that benefits buyers with mixed estates but raises questions about Webex's hardware lock-in.",
+          "url": "https://blog.webex.com/workspaces/zoom-rooms-is-now-generally-available-on-cisco-devices/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Webex (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Gartner names first AI Agent Management MQ Leaders",
+          "sowhat": "Microsoft, IBM, and ServiceNow lead Gartner's inaugural AI Agent Management quadrant, setting the frame for enterprise governance tooling buyers will now benchmark.",
+          "url": "https://cxtoday.com/gartner-unveils-inaugural-magic-quadrant-for-ai-agent-management",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "RingCentral launches carrier-facing Number Reputation Service",
+          "sowhat": "RingCentral now manages business number verification and spam labelling centrally, addressing the real cost of missed customer callbacks flagged as spam by carriers.",
+          "url": "https://www.ringcentral.com/us/en/blog/introducing-number-reputation-service/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "RingCentral (vendor blog)"
+        },
+        {
+          "pill": "Teardown",
+          "cat": "CX",
+          "headline": "Binary approval fatigue breaks contact centre governance",
+          "sowhat": "AI agents that pass every pre-deployment review still get pulled from production because yes/no approvals can't surface the nuanced failure modes buyers actually need to govern.",
+          "url": "https://www.cmswire.com/contact-center/approval-fatigue-is-turning-contact-center-oversight-into-theater/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Enterprise AI shifts from prompts to persistent workflows",
+          "sowhat": "OpenAI, Oracle, ServiceNow, Microsoft, and Google are pushing enterprise AI toward verifiable, long-running tasks — reducing prompt fatigue and raising the bar for buyer proof-of-value.",
+          "url": "https://uctoday.com/this-week-enterprise-ai-starts-working-the-night-shift",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
         }
       ],
-      "pattern_watch": ""
+      "pattern_watch": "AI agent governance and interoperability emerging as buyer requirements across UC, CCaaS, and CX stacks"
     },
     {
       "iso": "2026-11-01",
@@ -957,5 +1017,5 @@
       "pattern_watch": "Three items (Oracle agentic apps, Anthropic Claude traces, RingCentral Warriors) show enterprise-grade agentic AI moving from demo to named deployment."
     }
   ],
-  "updated": "2026-11-02T15:09:33.985316+00:00"
+  "updated": "2026-11-02T22:59:36.552381+00:00"
 }
