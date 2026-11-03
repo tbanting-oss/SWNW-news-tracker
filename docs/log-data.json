@@ -73,9 +73,69 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CX",
+          "headline": "Salesforce acquires Cresta for reported $2.7B",
+          "sowhat": "Salesforce adds voice-first AI for contact centres and real-time agent coaching, its third CX acquisition in two weeks — though integration risks and ROI timelines remain unproven.",
+          "url": "https://www.cmswire.com/contact-center/salesforce-adds-cresta-to-the-cart-in-its-2026-cx-shopping-spree-01/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Cyara launches Trust Observability for AI agents",
+          "sowhat": "Cyara scores every live AI agent conversation for quality and compliance across vendors — buyers testing multiple voice platforms now have a cross-stack audit layer.",
+          "url": "https://www.cmswire.com/contact-center/cyara-debuts-trust-platform-for-ai-agents/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Cisco opens Webex to AI agents in meetings",
+          "sowhat": "WebexOne introduced AI agent participation in meetings, contact centres, and rooms, plus Google Meet interop — testing whether universal presence can offset Microsoft's Teams AI lead.",
+          "url": "https://cxtoday.com/webexone-2026-wrap-up-cisco-opens-webex-to-ai-agents-webex-by-cisco-cs-0244",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CPaaS",
+          "headline": "Twilio sees AI voice and agent identity move into production",
+          "sowhat": "Twilio reports enterprise buyers moving AI voice, Flex, and agent identity from pilots to production — a discrete signal that CPaaS-layer AI workflows are clearing procurement.",
+          "url": "https://cxtoday.com/twilio-sees-cx-demand-rise-for-ai-voice-and-agent-identity",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "CallTower positions as global CX unification layer",
+          "sowhat": "CallTower pitches a single foundation across regional carriers, Genesys, Five9, Webex, and Zoom Contact Center — solving multi-vendor CX for global buyers, if integration SLAs hold.",
+          "url": "https://uctoday.com/how-to-deploy-the-foundation-for-global-cx-calltower-cs-0252",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "NiCE cuts 500 roles during AI transition struggle",
+          "sowhat": "NiCE is laying off 500 staff as it struggles to pivot legacy contact-centre software to AI-native models — a warning for buyers locked into platforms with uncertain AI roadmaps.",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjWHhmSWstQlFZUmNadzVMYjZyUXpzS0pfYUdiYmNEYm5hUVdYRjVkTGdkU2lkRTdMS04yTFZYX2NzU0pEN3M1M1VHaEhOVTFTbnU3aGY4YnNxbHE5dHNoOXN5QVdZT1E?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CTech"
         }
       ],
-      "pattern_watch": "Three database/CRM vendors (Salesforce, Oracle, Freshworks) buying or hardening AI agent governance in one week"
+      "pattern_watch": "Three voice AI deals (Salesforce/Cresta, Cyara Trust, Twilio production) in one week suggest voice automation demand is moving from pilot to procurement."
     },
     {
       "iso": "2026-11-02",
@@ -987,5 +1047,5 @@
       "pattern_watch": "Three agentic application launches (Oracle, Sprinklr, general marketing) suggest vendors are racing to ship discrete task-based AI agents before the term loses currency."
     }
   ],
-  "updated": "2026-11-03T13:52:35.617033+00:00"
+  "updated": "2026-11-03T20:46:48.540052+00:00"
 }
