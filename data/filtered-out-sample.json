@@ -1,133 +1,193 @@
 {
-  "generated_at": "2026-11-05T13:27:18.761405+00:00",
+  "generated_at": "2026-11-05T21:12:16.947696+00:00",
   "recency_window_hours": 48,
-  "count": 77,
+  "count": 81,
   "rejected": [
     {
       "feed": "TechCrunch",
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "published": "Thu, 05 Nov 2026 19:48:28 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "published": "Thu, 05 Nov 2026 19:12:39 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "published": "Thu, 05 Nov 2026 19:06:12 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "published": "Thu, 05 Nov 2026 18:48:34 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "published": "Thu, 05 Nov 2026 18:02:27 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "published": "Thu, 05 Nov 2026 17:52:44 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "published": "Thu, 05 Nov 2026 17:11:48 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "published": "Thu, 05 Nov 2026 16:16:45 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Bluesky hit peak usage for the year on election night",
+      "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+      "published": "Thu, 05 Nov 2026 15:44:58 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+      "published": "Thu, 05 Nov 2026 15:40:34 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+      "published": "Thu, 05 Nov 2026 15:33:58 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+      "published": "Thu, 05 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+      "published": "Thu, 05 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "published": "Thu, 05 Nov 2026 14:42:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "RadianX promises solar-powered devices that never need charging",
+      "summary": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "feed": "TechCrunch",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materi",
       "published": "Thu, 05 Nov 2026 13:00:00 +0000"
     },
     {
-      "feed": "TechCrunch",
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-      "published": "Thu, 05 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-      "summary": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
-      "published": "Thu, 05 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "published": "Thu, 05 Nov 2026 01:26:22 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "published": "Thu, 05 Nov 2026 01:02:14 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "published": "Wed, 04 Nov 2026 22:45:09 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "published": "Wed, 04 Nov 2026 22:13:16 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "published": "Wed, 04 Nov 2026 21:56:01 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for addition",
-      "published": "Wed, 04 Nov 2026 21:49:29 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "published": "Wed, 04 Nov 2026 21:25:44 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "published": "Wed, 04 Nov 2026 21:10:56 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-      "published": "Wed, 04 Nov 2026 20:36:57 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
-      "published": "Wed, 04 Nov 2026 19:30:04 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "published": "Wed, 04 Nov 2026 19:29:52 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-      "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-      "published": "Wed, 04 Nov 2026 18:12:30 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-      "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
-      "published": "Wed, 04 Nov 2026 18:10:11 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Sequoia hits rewind, undoing 20 years of expansion",
-      "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
-      "published": "Wed, 04 Nov 2026 17:11:15 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-      "published": "Wed, 04 Nov 2026 16:51:35 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-      "published": "Wed, 04 Nov 2026 16:17:22 +0000"
-    },
-    {
-      "feed": "TechCrunch",
-      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-      "summary": "Titan OS has raised $110 million in funding to date.",
-      "published": "Wed, 04 Nov 2026 15:00:00 +0000"
+      "feed": "\"CRM\" - Google News",
+      "title": "Senior CRM Account Executive – SLED at ServiceNow - United States Remote - Remote Rocketship",
+      "summary": "[job-board outlet rule]",
+      "published": "Thu, 05 Nov 2026 20:01:11 GMT"
     },
     {
       "feed": "\"CRM\" - Google News",
-      "title": "Dynamics CRM Functional Consultant at Atos - United Kingdom Remote - Remote Rocketship",
+      "title": "CRM Executive - Audience & Systems in Livingston, West Lothian | schuh - Totaljobs",
       "summary": "[job-board outlet rule]",
-      "published": "Thu, 05 Nov 2026 12:43:55 GMT"
+      "published": "Thu, 05 Nov 2026 17:47:22 GMT"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "Rising demand puts Locaweb&#8217;s data center strategy to the test",
+      "summary": "Growing demand and hardware shortages are forcing service providers to rethink data center capacity planning. For Locaweb Serviços de Internet S/A, a cloud hosting and digital services provider based ",
+      "published": "2026-11-05T21:04:29Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "University of Utah retains operational sovereignty as Redtail expands research access",
+      "summary": "Operational sovereignty gives universities authority over how shared computing resources are allocated, managed and secured. The University of Utah’s Redtail AI factory supercomputer brings advanced c",
+      "published": "2026-11-05T17:35:34Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "Oracle wants to pull stalled AI agents out of demo mode and into production",
+      "summary": "Companies want AI agents faster than they can build the AI architecture to run them. Most can put together a convincing demo. Far fewer can move agents into production without exposing data, hurting u",
+      "published": "2026-11-05T16:40:52Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "Same model, better answer: Enterprise data is what turns generic AI into a business tool",
+      "summary": "Generic AI models can write SQL, but they don&#8217;t know a company&#8217;s orders, customers or revenue definitions. Now, Oracle Database aims to give AI agents the context to move a stalled order f",
+      "published": "2026-11-05T16:25:31Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "What to expect during KubeCon + CloudNativeCon NA: Join theCUBE Nov. 10-12",
+      "summary": "Kubernetes has emerged as the default container orchestration standard, a foundational platform layer across the enterprise. Will Kubernetes also play a central role in positioning the next generation",
+      "published": "2026-11-05T16:17:06Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "Oracle&#8217;s multicloud approach: Put the database wherever AI pipelines already run",
+      "summary": "Enterprises racing to put AI agents into production are learning that real-time data pipelines matter as much as the models. An agent working from a stale subset of corporate records delivers far less",
+      "published": "2026-11-05T16:11:17Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "Aina&#8217;s smart AI ring promises a new way to interact with AI agents that anticipate user&#8217;s needs",
+      "summary": "Artificial intelligence has come a long way in a very short space of time, writing emails, answering questions, generating code, images, video and more besides. But as breathtaking as these advances a",
+      "published": "2026-11-05T15:00:23Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "Box taps Nvidia&#8217;s AI models to build a rich context layer for autonomous enterprise agents",
+      "summary": "Few technology firms have embraced the arrival of artificial intelligence agents quite like Box Inc., and today it went even further down the road to automation with an expanded partnership with Nvidi",
+      "published": "2026-11-05T14:00:44Z"
+    },
+    {
+      "feed": "SiliconANGLE",
+      "title": "Exclusive: StrongestLayer launches tools to verify payment requests and block hidden AI instructions",
+      "summary": "Artificial intelligence email security startup StrongestLayer Inc. today launched two products aimed at email that can move money or manipulate an AI assistant. The first product, Intent Workflows, ca",
+      "published": "2026-11-05T14:00:26Z"
     },
     {
       "feed": "SiliconANGLE",
@@ -256,58 +316,34 @@
       "published": "2026-11-04T16:05:47Z"
     },
     {
-      "feed": "SiliconANGLE",
-      "title": "Descope launches Envoy to let consumer apps accept personal AI agents as users",
-      "summary": "Customer and agentic identity platform company Descope Inc. today launched Envoy, a service that lets consumer websites and apps accept personal artificial intelligence agents acting for their custome",
-      "published": "2026-11-04T14:00:50Z"
+      "feed": "Technology News For IT Channel Partners and Solution Providers",
+      "title": "8 Women Of The Year CEO Finalists On How They Foster Innovation",
+      "summary": "As CRN prepares for the 2026 Women of the Year Awards, we share how our finalists for CEO of the Year inspire innovation within their organizations.",
+      "published": "Thu, 05 Nov 2026 20:25:00 GMT"
     },
     {
-      "feed": "SiliconANGLE",
-      "title": "Oumi&#8217;s Frontier AI Engineer now builds AI agents and retrains the models behind them",
-      "summary": "Enterprise artificial intelligence platform company Oumi PBC today extended its Frontier AI Engineer agent so it can build AI agents for customers and retrain the models those agents run on. The relea",
-      "published": "2026-11-04T14:00:32Z"
+      "feed": "Technology News For IT Channel Partners and Solution Providers",
+      "title": "AWS, Anthropic Partner Caylent CEO: Cloud AI Governance Will Define The Next Decade",
+      "summary": "AWS and Anthropic partner Caylent says AI governance will be key to winning the next decade as customers grapple with AI fear, uncertainty and business outcomes.",
+      "published": "Thu, 05 Nov 2026 16:30:00 GMT"
     },
     {
-      "feed": "SiliconANGLE",
-      "title": "Google fine-tunes its Agentic Data Cloud to support highly scalable autonomous AI workers",
-      "summary": "Artificial intelligence is no longer just about conversational assistants that tell people what to do. These days, it’s all about work automation, and Google Cloud is making sure it’s right at the for",
-      "published": "2026-11-04T14:00:09Z"
+      "feed": "Technology News For IT Channel Partners and Solution Providers",
+      "title": "10 Cool Companies That Raised Funding In October 2026",
+      "summary": "Startups that raised funding in October 2026 included AI-focused startups Modal Labs, Upwind Security and Armadin.",
+      "published": "Thu, 05 Nov 2026 16:15:00 GMT"
     },
     {
-      "feed": "SiliconANGLE",
-      "title": "Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents",
-      "summary": "Software development security startup BlueFlag Security Inc. today expanded the artificial intelligence agent governance tools in its developer risk platform to cover unapproved coding agents, includi",
-      "published": "2026-11-04T14:00:02Z"
+      "feed": "Technology News For IT Channel Partners and Solution Providers",
+      "title": "Nutanix Partner Head On New ‘Money-Making’ Rebates, AI Tools And Incentives For Channel Partners",
+      "summary": "Nutanix unveils new Elevate Partner Program rebates, AI tools and incentives designed to drive partner profits, cross-selling, services and renewals.",
+      "published": "Thu, 05 Nov 2026 14:00:00 GMT"
     },
     {
-      "feed": "SiliconANGLE",
-      "title": "Sentra raises $150M to control what AI agents can reach in corporate data",
-      "summary": "Data security startup Sentra Inc. today revealed it has raised $150 million in new funding to expand its platform for controlling what artificial intelligence agents can reach inside corporate data st",
-      "published": "2026-11-04T12:30:51Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation",
-      "summary": "Traversal Inc., a startup that’s trying to automate site reliability engineering tasks with artificial intelligence agents, seems to be closing in on that goal after raising $120 million in fresh fund",
-      "published": "2026-11-04T03:47:11Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "Supermicro and Arista Networks crush expectations as AI infrastructure wins again",
-      "summary": "Growing nervousness about spending on the artificial intelligence boom has made technology stocks increasingly volatile this year, but all it takes is one good quarter to reignite investor confidence,",
-      "published": "2026-11-04T02:27:21Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "AMD beats expectations as agentic AI sparks its data center revenue growth engines",
-      "summary": "Shares of the chipmaker Advanced Micro Devices Inc. rose more than 5% in late trading today after it delivered solid third-quarter earnings and revenue today, with data center sales almost doubling fr",
-      "published": "2026-11-04T01:43:41Z"
-    },
-    {
-      "feed": "SiliconANGLE",
-      "title": "Google offers tepid response to accusations it would hold Search hostage if schools restrict AI tools",
-      "summary": "Google LLC today faced a barrage of criticism after the company warned that if schools restricted their students from using its artificial intelligence tools, the same students wouldn’t be able to use",
-      "published": "2026-11-04T01:28:52Z"
+      "feed": "Technology News For IT Channel Partners and Solution Providers",
+      "title": "WWT Exec: No One ‘Was Prepared’ For Channel’s Big Physical AI Moment",
+      "summary": "In a CRN interview, World Wide Technology executive Mike Trojecki explained why and how his company is making big investments in physical AI, which he views as a big channel opportunity.",
+      "published": "Thu, 05 Nov 2026 14:00:00 GMT"
     },
     {
       "feed": "Technology News For IT Channel Partners and Solution Providers",
@@ -376,28 +412,34 @@
       "published": "Wed, 04 Nov 2026 00:39:00 GMT"
     },
     {
-      "feed": "Technology News For IT Channel Partners and Solution Providers",
-      "title": "The 25 Hottest IoT And 5G Services Companies: 2026 Edge Computing 100",
-      "summary": "Cisco, T-Mobile and AT&amp;T are among CRN’s 25 hottest IoT and 5G services companies of 2026.",
-      "published": "Tue, 03 Nov 2026 19:00:00 GMT"
+      "feed": "Light Reading",
+      "title": "Vistance CEO stepping down in wake of CommScope dismantling",
+      "summary": "Chuck Treadway will step down as CEO of Vistance in February, an exit that follows a series of divestitures that got the company (formerly known as CommScope) clear of a massive debt load. Vistance is",
+      "published": "Thu, 05 Nov 2026 17:00:12 GMT"
     },
     {
-      "feed": "Technology News For IT Channel Partners and Solution Providers",
-      "title": "Cloud Market Share Q3: Google Cloud Gains As AWS Loses Ground; Anthropic And SpaceX Crack Into Top 10",
-      "summary": "Cloud market share in Q3 2026 saw Google Cloud gain share, while AWS and Microsoft lost share in the global $168 billion market. Anthropic and SpaceX also made the cloud services rankings.",
-      "published": "Tue, 03 Nov 2026 18:30:00 GMT"
+      "feed": "Light Reading",
+      "title": "Deutsche Telekom braces for SpaceX impact in US",
+      "summary": "Deutsche Telekom CEO Tim Höttges says he takes SpaceX seriously as a new mobile network competitor in the US, as the carrier reports Q3 earnings.",
+      "published": "Thu, 05 Nov 2026 14:33:16 GMT"
     },
     {
-      "feed": "Technology News For IT Channel Partners and Solution Providers",
-      "title": "Cisco Pushes Partners To Lead With ‘High-Margin’ Resilient Infrastructure Services",
-      "summary": "Cisco is urging partners to lead with resilient infrastructure services, and a wave of new tools is meant to make that easier, including new Cloud Control AgenticOps features, Model Foundry, a quantum",
-      "published": "Tue, 03 Nov 2026 18:00:00 GMT"
+      "feed": "Light Reading",
+      "title": "Data centers lose at ballot box",
+      "summary": "Voters expressed their feelings on data centers on Tuesday via ballot measures restricting their development. That rejection comes as public opposition to data centers and fear of AI continues to rise",
+      "published": "Thu, 05 Nov 2026 14:16:38 GMT"
     },
     {
-      "feed": "Technology News For IT Channel Partners and Solution Providers",
-      "title": "The 25 Hottest Edge Security Companies: 2026 Edge Computing 100",
-      "summary": "As part of CRN’s Edge Computing 100 for 2026, here are 25 security vendors working to protect users and data across IT, OT and IoT environments.",
-      "published": "Tue, 03 Nov 2026 15:00:00 GMT"
+      "feed": "Light Reading",
+      "title": "Globe steps up AI strategy, expands Amdocs deal to transform core infrastructure",
+      "summary": "Globe Telecom and Amdocs have signed a new multi-year deal to modernize Globe's core platforms and accelerate its shift to AI-driven services.",
+      "published": "Thu, 05 Nov 2026 14:11:24 GMT"
+    },
+    {
+      "feed": "Light Reading",
+      "title": "Eurobites: BT confirms outlook after steady H1, plays patriot card",
+      "summary": "Also in today's EMEA regional roundup: Telia and Ericsson combine on 5G for Swedish military; Ethio Telecom and ZTE do AI-RAN; Vodafone UK claims broadband breakthrough.",
+      "published": "Thu, 05 Nov 2026 13:30:46 GMT"
     },
     {
       "feed": "Light Reading",
@@ -446,24 +488,6 @@
       "title": "SoftBank and Sceye seal five-year commercial HAPS deal",
       "summary": "SoftBank and Sceye's five-year agreement will see the commercialization of HAPS services in Japan.",
       "published": "Wed, 04 Nov 2026 11:39:09 GMT"
-    },
-    {
-      "feed": "Light Reading",
-      "title": "Harmonic revenues break beyond Comcast and Spectrum",
-      "summary": "In further evidence that it is diversifying its broadband business, Harmonic said four customers topped 10% of Q3 revenues, expanding from its two marquee customers – Comcast and Spectrum.",
-      "published": "Tue, 03 Nov 2026 18:23:49 GMT"
-    },
-    {
-      "feed": "Light Reading",
-      "title": "Cable One extends mobile to small businesses",
-      "summary": "Following its residential launch, Cable One said it has introduced mobile service for small businesses, which can take up to 25 lines per account. #pressrelease",
-      "published": "Tue, 03 Nov 2026 15:13:32 GMT"
-    },
-    {
-      "feed": "Light Reading",
-      "title": "Marvell-Lumentum deal tests whether AI optics go single-vendor",
-      "summary": "Who gets the lasers? Marvell's Lumentum deal puts a big InP fab inside an AI chip company just as telecom and datacom buyers compete for the same supply.",
-      "published": "Tue, 03 Nov 2026 14:00:00 GMT"
     }
   ]
 }
