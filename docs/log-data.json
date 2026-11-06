@@ -1,6 +1,73 @@
 {
   "days": [
     {
+      "iso": "2026-11-06",
+      "label": "Fri 06 Nov 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Five9 acquires Level AI for $325m all-cash",
+          "sowhat": "Five9 is betting $325m on AI-native contact intelligence as a competitive wedge, but integration and retention of Level's engineering team will determine payback.",
+          "url": "https://siliconangle.com/2026/11/05/five9-buys-contact-center-intelligence-startup-level-ai-after-posting-narrow-earnings-beat/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "SiliconANGLE"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Salesforce Agentforce use up 21x in three months",
+          "sowhat": "Agentforce usage rose 21x; the real test is whether Teams access and $50 pricing convert trial into sustained revenue at scale.",
+          "url": "https://cxtoday.com/can-salesforce-win-the-ai-front-door-inside-teams",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "SupportNinja acquires Aventus for ecommerce CX AI",
+          "sowhat": "SupportNinja adds Aventus to strengthen AI-native ecommerce service; success depends on whether combined delivery beats in-house builds.",
+          "url": "https://www.cmswire.com/customer-experience/supportninja-acquires-aventus-for-ai-native-ecommerce-cx/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": ""
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Adobe launches CX Enterprise Coworker across AI platforms",
+          "sowhat": "Adobe is embedding its CX agent into Anthropic, Google, Microsoft and OpenAI stacks—distribution matters, but differentiation from native assistants is unclear.",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT1JvVGhHYk5vZnJZUVg5cTFEYzVFTnhhS0N3eVFfaERCWlNNQ1RRWjlRRlhiQk52ZWdWaDg0Ri03MVg4Ukt3UGdaeHB2NW5yNG9XSTRfdGlheUtzZXhUamZwa0NzVWtNZG1xdFlxZnZ3SWVnTzhXSU1fUXAwc0JtR08xQWpTYmhIdENMbmVDd3FwVFRCZnVyVGI0OTVxTWRGRHBZVWtNQjZjNmxSQk5CWnFaekpDSHR1SHh0bXdyZWU0ZU1NOFNqQzA4MW5RUy1yUnRYMEZwTFNPRlhETXh5bVBWTnJxTkFfVG53dVpKdkNFckxrUTdiWWJQVUx6T3FDU3piVEtR?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Morningstar"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Microsoft shakes up M365 Education licensing and pricing",
+          "sowhat": "Microsoft is changing its M365 Education line-up; education buyers should model the impact on per-seat costs and entitlement coverage over the next two years.",
+          "url": "https://www.directionsonmicrosoft.com/microsoft-shakes-up-its-m365-education-portfolio/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Directions on Microsoft"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "TaskUs CEO credits AI-plus-human blend for CX results",
+          "sowhat": "TaskUs says blending AI and human agents is delivering, but BPO buyers still need to see bottom-line proof beyond efficiency claims.",
+          "url": "https://www.customerexperiencedive.com/news/taskus-ceo-blending-ai-human-talent-working-cx/873945/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
+        }
+      ],
+      "pattern_watch": "AI acquisitions cluster: Five9/Level AI, SupportNinja/Aventus, Adobe CX embedding—contact center platforms consolidating AI natively."
+    },
+    {
       "iso": "2026-11-05",
       "label": "Thu 05 Nov 2026",
       "rows": [
@@ -878,154 +945,7 @@
         }
       ],
       "pattern_watch": "AI agent governance moves from theory to production—Cisco, Salesforce, and Cresta all ship tools for detection, control, and developer access this week."
-    },
-    {
-      "iso": "2026-10-29",
-      "label": "Thu 29 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Microsoft Q1: Copilot usage rises, seat disclosure stops",
-          "sowhat": "Microsoft's shift to usage-based billing and no seat count means buyers lose the benchmark for AI spend comparison.",
-          "url": "https://uctoday.com/microsoft-q1-copilot-usage-jumps-seat-count-goes-missing",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "Anthropic S-1 reveals $16B revenue, $9B compute cost",
-          "sowhat": "Anthropic's infrastructure burn rate exposes the compute cost enterprise buyers inherit when they rely on frontier AI providers.",
-          "url": "https://uctoday.com/anthropics-16-3-billion-revenue-surge-comes-with-an-8-9-billion-co",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce acquires Braze in customer engagement consolidation",
-          "sowhat": "Salesforce's Braze deal signals platform vendors are competing to own live customer signals, not just store historical CRM data.",
-          "url": "https://cxtoday.com/salesforce-braze-and-the-battle-for-customer-signals",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Zoom and Salesforce deepen CX integration around context",
-          "sowhat": "Zoom's Salesforce tie-up shows UC vendors must now surface customer context in real time to remain relevant in enterprise stacks.",
-          "url": "https://cxtoday.com/how-zoom-and-salesforce-target-more-connected-cx",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "CallTower wins AVANT's top UCaaS NPS for second year",
-          "sowhat": "Back-to-back NPS recognition suggests CallTower's customer service is outperforming peers in a commoditising UCaaS market.",
-          "url": "https://telecomreseller.com/2026/10/28/calltower-earns-avants-top-vendor-nps-in-ucaas-award-for-second-consecutive-year/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "AppZen builds kill-switch controls for autonomous finance agents",
-          "sowhat": "AppZen's kill-switch protocols for expense and invoice agents suggest governance is becoming a buyer requirement, not a vendor promise.",
-          "url": "https://telecomreseller.com/2026/10/28/appzen-builds-kill-switch-protocols-for-autonomous-finance-agents/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Insightly ships CRM MCP server for AI assistants",
-          "sowhat": "Insightly's Model Context Protocol server lets AI assistants query CRM data directly, reducing API integration overhead for buyers.",
-          "url": "https://customerthink.com/insightly-launches-crm-mcp-server-to-bring-customer-data-into-ai-assistants/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": ""
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "RingCentral orchestrates AI and human agents together",
-          "sowhat": "RingCX now manages AI and human agents in one WFM and quality system, raising the operational question of whether blended supervision scales or fragments accountability.",
-          "url": "https://telecomreseller.com/2026/10/29/ringcentral-orchestrates-ai-and-human-agents-as-one-workforce-in-ringcx/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "8×8 surfaces full customer history in CRM",
-          "sowhat": "The Platform for CX now keeps call records in the CRM and displays a customer's full history in one view, aiming to cut context-switching for agents handling repeat contacts.",
-          "url": "https://telecomreseller.com/2026/10/29/new-updates-to-the-8x8-platform-for-cx-help-teams-start-every-customer-conversation-with-context/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Deepgram acquires Daily to control real-time infrastructure",
-          "sowhat": "By taking Pipecat in-house, Deepgram gains the full stack from voice model to transport, letting it own latency and quality for voice AI deployments at scale.",
-          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "TechCrunch"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "ServiceNow lands HPE and Stagwell as CRM",
-          "sowhat": "ServiceNow's 'new CRM' push beyond sales into support and IT governance now has enterprise proof points, but it still competes with incumbents who own the contact record.",
-          "url": "https://cxtoday.com/servicenow-lands-hpe-and-stagwell-as-it-pushes-new-crm-beyond-legacy",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Meeting room market recovery stalls despite AI",
-          "sowhat": "Logitech, Barco and Microsoft claimed a meeting-room renaissance, but 2026 data shows vendors sold hardware upgrades, not a return to the office at scale.",
-          "url": "https://uctoday.com/meeting-room-market-2026-did-vendors-sell-a-renaissance",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "AI observability budgets eaten by AI itself",
-          "sowhat": "Futurum warns that AI inference costs are now cutting into the monitoring budgets needed to keep AI safe, forcing buyers to justify observability by full-cost transparency, not token economics.",
-          "url": "https://futurumgroup.com/insights/observability-ai-is-eating-the-budget-that-keeps-ai-safe/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Quantum computing opens $1.5tn addressable market by 2040",
-          "sowhat": "Futurum argues quantum has reached its '2012 moment' for breaking AI's science barrier, but enterprise buyers still face a decade-plus wait for production readiness.",
-          "url": "https://futurumgroup.com/insights/quantum-computing-will-break-ais-science-barrier-and-open-a-1-5-trillion-addressable-market-by-2040/",
-          "vendor_flag": true,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "Three items (RingCentral, 8×8, Futurum observability) share one thread: the operational cost of managing AI and human workforces together is now material enough to show up in WFM, CRM context and monitoring budgets."
     }
   ],
-  "updated": "2026-11-05T21:20:34.947743+00:00"
+  "updated": "2026-11-06T13:57:32.870951+00:00"
 }
