@@ -63,9 +63,49 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "CX Dive"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Five9 acquires Level AI for $325 million",
+          "sowhat": "Five9 is betting $325m that Level AI's conversational intelligence can expand its AI positioning, but the real test is whether buyers will pay for tighter integration or just shop standalone alternatives.",
+          "url": "https://www.callcentrehelper.com/five9-acquire-level-ai-278581.htm",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Call Centre Helper"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Salesforce acquires voice AI firm Cresta",
+          "sowhat": "Salesforce is buying Cresta to plug a voice AI gap, signalling that hosted CCaaS vendors now see real-time agent assist as table stakes for their enterprise roadmaps.",
+          "url": "https://cxm.world/customer-experience/voice-ai-in-customer-service-deals-and-early-results/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Dialpad and Ada agree to merge",
+          "sowhat": "Dialpad and Ada are merging to combine voice and digital AI, a structural bet that unified agent platforms will win over point solutions in the CCaaS consolidation race.",
+          "url": "https://cxm.world/customer-experience/customer-experience-news-roundup-ai-customer-service/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "HubSpot Q3 beats but buyers delay AI",
+          "sowhat": "HubSpot's 17% revenue growth masks a slowdown in AI agent commitment, confirming that SMB buyers now want proof before they pay for generative features.",
+          "url": "https://cxm.world/customer-experience/hubspot-ai-agents-q3-2026-results/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
         }
       ],
-      "pattern_watch": "AI acquisitions cluster: Five9/Level AI, SupportNinja/Aventus, Adobe CX embedding—contact center platforms consolidating AI natively."
+      "pattern_watch": "Three voice/conversational AI acquisitions in one week (Five9–Level AI, Salesforce–Cresta, Dialpad–Ada) signal a structural consolidation bet on real-time agent assist."
     },
     {
       "iso": "2026-11-05",
@@ -947,5 +987,5 @@
       "pattern_watch": "AI agent governance moves from theory to production—Cisco, Salesforce, and Cresta all ship tools for detection, control, and developer access this week."
     }
   ],
-  "updated": "2026-11-06T13:57:32.870951+00:00"
+  "updated": "2026-11-06T20:42:24.541638+00:00"
 }
