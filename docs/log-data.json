@@ -1,6 +1,73 @@
 {
   "days": [
     {
+      "iso": "2026-11-07",
+      "label": "Sat 07 Nov 2026",
+      "rows": [
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Five9 acquires Level AI for $325M all-cash",
+          "sowhat": "Five9 is buying conversation intelligence and agentic AI capability rather than building it, a material bet that its Genius CX platform needs faster automation to compete.",
+          "url": "https://www.cmswire.com/contact-center/five9-buys-level-ai-for-325m-to-expand-cx-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Priority acquires Fireberry for over $30M in CRM expansion",
+          "sowhat": "Priority is adding AI-powered CRM to its ERP base, betting that integrated business management plus automation will defend existing customers against single-function vendors.",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMWZnbXVFSF9ZWDAwcUh1ckF2bkhMb1ZlMV9hNTVnbU1fbzZpVDVvcnpHLUJfZGNETGhUU3cwUnk0TGVXQXVya2hqMy11S1ZsSVZfOWlzeVF5X04zWnRiQUtuc1pJeXc?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CTech"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CCaaS",
+          "headline": "Enreach wins Best UC Platform at UC Awards 2026",
+          "sowhat": "Enreach's win signals evidence-backed execution in a UC market where challenger platforms are gaining on legacy vendors through clear customer outcomes.",
+          "url": "https://uctoday.com/this-week-in-uc-c-uc-awards-2026-winners-won-on-evidence",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Oracle named Leader in Gartner CRM CEC quadrant",
+          "sowhat": "Oracle's Leader position in Gartner's CRM Customer Engagement Center quadrant indicates sustained execution, though Gartner placement alone rarely changes enterprise shortlists.",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzk0VS1FRW9OZ2E2VjUwVk1KZEhzMXJJQ1RTdjZkZ2lmRU9GdmR6Z3N5S1JGWXk2SFZpUjlDcXFDbDFOaFEyR1plQ0F3SUVBT3NmalNrLTlIdU0xa2lDeDU0MWZuNTllM1hyX3RXLUlxVmJBbU9pUGxJSVVQZUdYRno1SXdzZURVUEVhOUxOdkxiTXc1ZjJ1UldBTjc2U1hrTU5MeTZjWGdTX2VtZVd1eXRlMjE0ODRMbzM3MzlqNVMzLW9yUUE?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Oracle Blogs"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "SupportNinja acquires Aventus for AI-native ecommerce CX capability",
+          "sowhat": "SupportNinja is buying an AI-native ecommerce CX vendor to speed its own AI rollout, a signal that BPO providers are competing on owned AI capability rather than reselling vendor platforms.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDYtMlI5LU1YSm02elI2V25zLUVmMzFOV3hJT3dYWnN4Rk5iaFY1MTJTYllBREY0NHV6bHVrWU4tZ0hYck5UNk5VUmFKSkRQSnVkZ2l3OE9oSDV0SldSd1RpSmlUZU9XeXRrNEVTdzltSGhkT2xyZXZSMlJMYTVtYUllTW8tS0tfMlZCRlRwZW16Nk1kYjg0UGdPSll2QQ?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CMSWire"
+        },
+        {
+          "pill": "Signal",
+          "cat": "UC",
+          "headline": "Apple's Vision Pro silence contrasts with XR glasses overtaking headsets",
+          "sowhat": "Apple's Q4 earnings avoided Vision Pro detail while IDC shows XR glasses overtaking headsets, meaning workplace buyers should watch Meta and Samsung rather than wait for Apple's next move.",
+          "url": "https://uctoday.com/what-does-apples-q4-earnings-reveal-about-the-future-of-xr",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        }
+      ],
+      "pattern_watch": "Two CX/CCaaS M&A deals (Five9–Level AI, Priority–Fireberry, SupportNinja–Aventus) suggest vendors buying AI capability rather than building it"
+    },
+    {
       "iso": "2026-11-06",
       "label": "Fri 06 Nov 2026",
       "rows": [
@@ -838,154 +905,7 @@
         }
       ],
       "pattern_watch": "Agent governance (Google sandbox, Sprinklr auditability) and partner AI service models (Cisco, ServiceNow) share a shift from seats to capabilities."
-    },
-    {
-      "iso": "2026-10-30",
-      "label": "Fri 30 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal+",
-          "cat": "CX",
-          "headline": "Salesforce to acquire Rune Technologies for AI",
-          "sowhat": "Salesforce is adding another AI building block rather than relying on core platform evolution alone.",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0tKdlZreVpBOC1MZUY3N0p3dFVQa09aWG56SjhqaG5Wa1hJY1UwYlprZkdQMmdRYVRzUWZEUkQtLWN5VDJENDMwelNrMWNjQllCREFpMXhtV25rWE5rQXg3SGJIY1p2OF9tcTdIZmdVZU5YM2t3T2ZQb3Y2QnNSSE12ZlJRWmxYS1NJWkwtWHdtTF9UYWN2Rk13ZnJUUXhmWVpJNlhEaFFjMkk?oc=5",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Salesforce"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Vonage adds email to omnichannel messaging API",
-          "sowhat": "Vonage is closing a channel gap, but unified APIs are table stakes, not a competitive edge.",
-          "url": "https://www.callcentrehelper.com/vonage-adds-email-to-api-278402.htm",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Call Centre Helper"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Mitel updates call console for dispatchers, traders",
-          "sowhat": "Mitel refreshed Xpert for high-line-density verticals, a niche play unlikely to shift enterprise UC positioning.",
-          "url": "https://cxm.world/customer-experience/mitel-updates-call-console-for-emergency-dispatchers-and-financial-traders/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Jitterbit launches partner program with 40% margins",
-          "sowhat": "Jitterbit is investing in channel economics, but the program's impact depends on partner quality, not margin alone.",
-          "url": "https://telecomreseller.com/2026/10/29/jitterbit-launches-new-partner-program/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Telecom Reseller"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Assembled partners with Nextiva for WFM integration",
-          "sowhat": "Nextiva is filling a WFM gap via partnership rather than building, signaling incremental feature coverage, not platform depth.",
-          "url": "https://www.callcentrehelper.com/assembled-partners-with-nextiva-278411.htm",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Call Centre Helper"
-        },
-        {
-          "pill": "Pattern",
-          "cat": "AI",
-          "headline": "Contact centres deploy AI for analytics, self-service first",
-          "sowhat": "Earnings calls confirm buyers are adopting AI in narrow, measurable jobs, not broad agent replacement.",
-          "url": "https://www.cmswire.com/contact-center/what-are-contact-centers-actually-doing-with-ai/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CMSWire"
-        },
-        {
-          "pill": "Teardown",
-          "cat": "CX",
-          "headline": "Effort reduction predicts churn, not necessarily retention",
-          "sowhat": "Brands have spent years cutting effort, but evidence suggests ease alone rarely drives loyalty or advocacy.",
-          "url": "https://cxm.world/customer-experience/customers-will-leave-over-effort-but-will-they-stay-for-ease/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "cxm.world"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Cresta opens agent platform to developer self-service",
-          "sowhat": "Enterprise developers can now build customer-facing AI agents on Cresta without vendor hand-holding, accelerating time-to-deployment but raising internal governance questions.",
-          "url": "https://www.cmswire.com/contact-center/cresta-opens-agent-platform-to-developer-selfservice/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "CMSWire"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "ServiceNow lands HPE and Stagwell as 'new CRM'",
-          "sowhat": "ServiceNow won enterprise customers by positioning itself as a CRM alternative, signalling continued pressure on legacy CRM vendors from workflow platforms.",
-          "url": "https://cxtoday.com/servicenow-lands-hpe-stagwell-as-it-pushes-new-crm-beyond-legacy",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": ""
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Oracle sells HR AI on outcomes, bills by token",
-          "sowhat": "Oracle's Fusion Cloud HR apps promise outcome-based pricing but meter by token at 10–20× markup, forcing HR buyers to audit consumption models before signing.",
-          "url": "https://uctoday.com/oracle-sells-hr-ai-on-outcomes-then-bills-by-the-token",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "UC Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Cisco Project Quarry aims to standardise agent detection",
-          "sowhat": "Cisco's open-source rule language for detecting harmful AI agent behaviour addresses critical governance gaps, but adoption depends on whether it gains Sigma-level community support.",
-          "url": "https://futurumgroup.com/insights/cisco-wants-project-quarry-to-be-the-sigma-of-agent-detection/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Salesforce Agent Fabric adds AI kill switch and cost controls",
-          "sowhat": "Salesforce's MuleSoft-powered control plane now enforces production evals, hard cost limits, and kill switches—addressing CIO governance concerns as agents cross platforms.",
-          "url": "https://futurumgroup.com/insights/salesforce-agent-fabric-expands-to-ai-control/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "AI",
-          "headline": "Commvault adds identity resilience with cross-provider auditing",
-          "sowhat": "Commvault's new identity resilience capabilities—including cross-provider auditing and AI-guided remediation—move it from recovery toward exposure management, competing with CrowdStrike and Okta.",
-          "url": "https://futurumgroup.com/insights/commvault-moves-identity-resilience-from-recovery-toward-exposure/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CPaaS",
-          "headline": "Vonage QoD goes live with Bdeo across 50+ insurers",
-          "sowhat": "Bdeo deployed Vonage's Quality on Demand Network API across 50+ insurers in 25+ countries, marking one of the first enterprise implementations of programmable network prioritisation for AI workflows.",
-          "url": "https://futurumgroup.com/insights/bdeo-goes-live-with-vonage-qod-network-aware-ai-hits-insurance/",
-          "vendor_flag": false,
-          "run": "PM",
-          "outlet": "Futurum"
-        }
-      ],
-      "pattern_watch": "AI agent governance moves from theory to production—Cisco, Salesforce, and Cresta all ship tools for detection, control, and developer access this week."
     }
   ],
-  "updated": "2026-11-06T20:42:24.541638+00:00"
+  "updated": "2026-11-07T12:41:50.105093+00:00"
 }
