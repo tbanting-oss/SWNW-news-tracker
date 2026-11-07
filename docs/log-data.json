@@ -63,6 +63,46 @@
           "vendor_flag": false,
           "run": "PM",
           "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal+",
+          "cat": "CCaaS",
+          "headline": "Five9 acquires Level AI for $325M",
+          "sowhat": "Five9 is buying conversational-intelligence capability to close the gap with competitors already embedding real-time AI coaching and sentiment analysis into agent workflows.",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qQllzREtXM2tNemFWbkNmcElwZ2JURXpkLTYxMW9aV0V0RzZmdEYzQ05tbjY5YjA0NGtlZHMwLWJpN2p0VVd0elZsYnhfbk5GeS0xV2J5bXdncEFVQm1COXc5S3hzZw?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Foundation"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Twilio launches Conversation Memory for AI agents",
+          "sowhat": "Twilio is adding stateful memory to its CPaaS-AI stack so agents can recall past interactions, competing with incumbents already offering persistent context in voice and messaging flows.",
+          "url": "https://www.twilio.com/en-us/blog/insights/ai-agent-remember-returning-customers",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Twilio (vendor blog)"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "IntouchCX recognised by HFS for AI-led operations",
+          "sowhat": "A BPO vendor winning HFS recognition for operations-led AI signals that contact-centre outsourcers are productising automation to defend margins against in-house AI agent deployments.",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTlc1ZTRMLUpaekNFbjllejEweG1FWXc1dS1oeG9iQS12SzZBTG9lSExrWTM1dUoyMzBuN3ZfZVM0VmlQRkVGTE10ZzJ0U0hsVWhpWk5oX3VSSGp0cEUwSE1hZDgxaWYzYmgwYXk2ZHYyNGx4bHBUWlIyWjV6ZW0tSVFwQjJzQW5ZTExINXAteko2ZzkzcGRWbzFkSDVHVnJSMUlxNzdnQ0hkMnRZT3dMWjQ2bXZVSTZvcjhjb0pVcWNzOWNCZ3haQ2c5Rl9EV0Z5LW50UzRRSTZIVjBFYll6RHozckptMTFKc0g3MmNtRzZlOGZNOVEzaQ?oc=5",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "Via Ritzau"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Cava runs hospitality contest to shape CX strategy",
+          "sowhat": "A fast-casual chain using a staff competition to identify replicable CX practices suggests operators are hunting for low-cost, high-signal feedback loops before buying more technology.",
+          "url": "https://www.customerexperiencedive.com/news/cavas-hospitality-contest-to-inform-cx-strategy/874025/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Dive"
         }
       ],
       "pattern_watch": "Two CX/CCaaS M&A deals (Five9–Level AI, Priority–Fireberry, SupportNinja–Aventus) suggest vendors buying AI capability rather than building it"
@@ -907,5 +947,5 @@
       "pattern_watch": "Agent governance (Google sandbox, Sprinklr auditability) and partner AI service models (Cisco, ServiceNow) share a shift from seats to capabilities."
     }
   ],
-  "updated": "2026-11-07T12:41:50.105093+00:00"
+  "updated": "2026-11-07T19:15:32.324319+00:00"
 }
