@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:00:51.302317+00:00",
+  "generated_at": "2026-11-08T12:06:54.229707+00:00",
   "recency_window_hours": 48,
   "feeds_fetched": 38,
   "feeds_with_errors": 7,
@@ -51,20 +51,7 @@
     },
     {
       "name": "Google Alert - Cisco Webex",
-      "items": [
-        {
-          "title": "Sign in - Webex",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://web.webex.com/sign-in&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0uIyJgzNcnYThCzzRVmrHb",
-          "published": "2026-11-07T05:31:20Z",
-          "summary": ""
-        },
-        {
-          "title": "From Collaboration to Intelligent Workplace: What's New for <b>Cisco</b> Partners in 2026",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://blogs.cisco.com/partner/from-collaboration-to-intelligent-workplace-whats-new-for-cisco-partners-in-2026&ct=ga&cd=CAIyHGQ1OTM2Mjk3MmM5OGRmMWI6Y28udWs6ZW46R0I&usg=AOvVaw0sXlF_nKFQS9c49NgNN7bB",
-          "published": "2026-11-06T19:34:29Z",
-          "summary": "Cisco Cloud Control, Workplace Advisor and our AI Assistants give IT a single view. What we have announced: At WebexOne in Austin in October, we&nbsp;..."
-        }
-      ]
+      "items": []
     },
     {
       "name": "CX Today",
@@ -92,37 +79,12 @@
           "link": "https://cxtoday.com/microsoft-ignite-2026-7-questions-for-cx-leaders",
           "published": "Fri, 06 Nov 2026 12:46:22 GMT",
           "summary": "Microsoft Ignite 2026 must show if Dynamics 365 Contact Center, CCI, voice agents and Agent 365 can simplify CX for buyers, CX Today"
-        },
-        {
-          "title": "Your Restaurant Managers Are the Key to Guest Retention",
-          "link": "https://cxtoday.com/your-restaurant-managers-are-the-key-to-guest-retention",
-          "published": "Fri, 06 Nov 2026 12:01:03 GMT",
-          "summary": "Silent customer churn is costing restaurants regulars. Guestologie's Ryan Volberg explains why personal recognition protects loyalty better than rewards or digital outreach."
-        },
-        {
-          "title": "Is Your AI Ready to Support a Critical CX Moment?",
-          "link": "https://cxtoday.com/is-your-ai-ready-to-support-a-critical-cx-moment-contentguru-cs-0225",
-          "published": "Fri, 06 Nov 2026 10:31:00 GMT",
-          "summary": "When demand spikes, CX automation must cope and hand over to people. Content Guru explains how AI can support outages, weather and safety incidents."
-        },
-        {
-          "title": "Cyber Threats Spread Across Customer Data and Critical Infrastructure",
-          "link": "https://cxtoday.com/cyber-threats-spread-across-customer-data-and-critical-infrastructure",
-          "published": "Fri, 06 Nov 2026 09:01:00 GMT",
-          "summary": "Cyber threats are hitting customer data and infrastructure, as WorkOS, Chainalysis and Binance incidents show why CX and security buyers should care."
         }
       ]
     },
     {
       "name": "Directions on Microsoft",
-      "items": [
-        {
-          "title": "Overwhelmed by Your Next Microsoft Renewal? Here’s Where to Focus",
-          "link": "https://www.directionsonmicrosoft.com/overwhelmed-by-your-next-microsoft-renewal-heres-where-to-focus/",
-          "published": "Thu, 05 Nov 2026 20:09:14 +0000",
-          "summary": "I haven’t written a post in almost four months. It wasn’t for lack of things to say. I’ve been living the playbook from my Your Next EA Renewal series, one renewal at a time, and it left very little time to write about it.  If your next renewal feels overwhelming, you are not alone. It’s...\nThe post Overwhelmed by Your Next Microsoft Renewal? Here’s Where to Focus appeared first on Directions on Microsoft."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Microsoft 365 Roadmap - Get the Latest Updates",
@@ -198,114 +160,6 @@
           "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566523",
           "published": "Fri, 06 Nov 2026 23:04:41 Z",
           "summary": "Chat naturally with Facilitator without tagging it each time.GA date: December CY2026"
-        },
-        {
-          "title": "OneDrive: Command-line tool for the OneDrive sync app",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578910",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "A new command-line tool, odcli, lets OneDrive users, IT admins and support engineers check and manage the OneDrive sync app from the command line. Commands cover sync status, accounts, configuration, policies, and managing the sync app. JSON output lets scripts, management tools and AI agents automate these tasks.GA date: March CY2027"
-        },
-        {
-          "title": "Dynamics 365 Project Operations: Invoice usability enhancements",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578905",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "When billing teams review an invoice, they need to see where it stands, which transactions it includes, and what's still waiting to be billed. When that information is spread across tabs and long lists, reviews take longer and it's easier to miss a transaction.\nThis update makes invoices easier to review:\nTimeline on the summary. The invoice summary includes a timeline [Confirm what it shows, such as status history from draft to posted], so you can see where the invoice stands without leaving th"
-        },
-        {
-          "title": "Dynamics 365 Finance: Table edit with Microsoft Power BI filters and slicers",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578876",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "The table edit visual now responds to filters and slicers applied within the Microsoft Power BI report. When users filter the report using a slicer or other supported report filtering experience, the table edit visual reflects that filter context and displays the relevant dimension records.More info: https://learn.microsoft.com/en-us/dynamics365/finance/business-performance-planning/table-editGA date: November CY2026"
-        },
-        {
-          "title": "Dynamics 365 Finance: Faster cube data loading with optimized dataflows",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578874",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Business performance planning introduces an optimized dataflow capability designed to improve the performance of loading data into planning cubes.\nThe optimized dataflow improves how data is processed and loaded into the cube, reducing the time required to populate planning models, particularly when working with larger datasets.GA date: November CY2026"
-        },
-        {
-          "title": "Dynamics 365 Finance: Faster cube data loading with optimized dataflows",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578873",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "The Matrix visual now provides clearer control over how zero and blank values are handled during planning.\nUsers can explicitly save 0 as a planning value, preserving the underlying record with a value of zero. Users can also delete an existing planning record by clearing the cell and saving the blank value.\nThis behavior is supported when editing both leaf-level and parent-level cells, providing a consistent experience when users enter values directly or make adjustments at an aggregated levelM"
-        },
-        {
-          "title": "Work IQ: Memory capabilities expand to agents",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578869",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "A new Work IQ MCP path, /memory/me/coreMemories, gives authorized agents access to a user’s memory profile. This profile enables agents to provide more personalized and relevant assistance. At launch, it includes Custom Instructions, Saved Memories, relevant work account data, and memories derived from chat history. The memory profile will continue to evolve and improve over time.GA date: December CY2026"
-        },
-        {
-          "title": "Microsoft Viva: Insights and Copilot Analytics in GCC and GCC High",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578868",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "We are expanding the availability of Viva Insights and Copilot Analytics capabilities in Microsoft 365 Government Community Cloud (GCC, or GCC-M) and GCC High (GCC-H). Availability differs for a small number of capabilities by cloud, as noted below.\n•\tEligible users will see updated Insights app features and supported Insights Admin Center experiences.\n•\tAdoption and Impact experiences will include supported Copilot usage and impact measures, group and app views, trends, and filters.\n•\tAnalysts "
-        },
-        {
-          "title": "Microsoft 365 Copilot (Microsoft 365): Accounting skills",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578864",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Streamline corporate accounting work\nNew accounting capabilities in Excel and Cowork help accountants spend less time on repetitive, manual tasks in the places they already work, including:\n•\tReconcile accounts with confidence: Compare balances and transactions, identify discrepancies, and prepare reconciling items for review.\n•\tPrepare journal entries faster: Draft accruals, reclassifications, allocations, reversals, and recurring entries, with checks for required inputs and balanced entries.\n•"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Specify contacts on orders and quotations in POS",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577748",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "In B2B commerce, the company is the customer of record, but the individuals who place orders, make deposits, and collect goods can vary from transaction to transaction. Without a way to identify these individuals, retailers have limited visibility into who performed specific actions. This can create accountability gaps and make it more difficult to resolve disputes or meet compliance requirements.\nThis feature addresses that challenge by making contacts a first-class part of the Store Commerce t"
-        },
-        {
-          "title": "Microsoft 365: [Education] Microsoft Learning Zone - Improve Lesson Insights",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577544",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "See where your class is struggling and which students need support, with lesson-level results for every student. Aggregated responses show the mistakes many students made in a lesson. You can then open each student's answers to plan targeted follow-up.\n#educationGA date: December CY2026"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Unified Pricing Management - Attribute-based margin thresholds and tiers for approvals and reporting",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577415",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Pricing managers can set margin controls that match how the business actually sells, instead of one threshold for everything. Each product, channel and customer gets the right margin guardrail.\nWith this feature, pricing managers can define margin thresholds based on price attributes such as product category, product attributes, channel and customer group. Each threshold can include three margin tiers: floor, target and ceiling. The tiers drive approvals for price overrides and manual discounts "
-        },
-        {
-          "title": "Dynamics 365 Commerce: Unified Pricing Management - Set prices per price unit for low-value items",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577413",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Businesses that sell small, low-value items, such as fasteners, electronic components or packaging, can maintain prices more easily and accurately, without rounding problems from tiny per-unit prices.\nWith this feature, Unified Pricing Management supports price units, so you can set a price per batch of units instead of per single unit. For example, you can price an item per 100 or 1,000 units. Unified Pricing Management then calculates the correct line amount from the order quantity.GA date: Ma"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Unified Pricing Management - Require manager approval for price overrides and manual discounts that exceed margin limits",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577412",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Retailers can protect their profitability without slowing down store operations. Sales associates can still adjust prices to close a sale. Any change that would push an item below the allowed margin goes to a manager for review, so discounting decisions stay controlled and consistent.\nWith this feature, Unified Pricing Management checks every price override and manual discount against margin thresholds set in the pricing parameters. If a change would exceed the allowed limit, Store Commerce (POS"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Unified Pricing Management - View item margins on carts and orders in POS and APIs",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577410",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Store associates and other selling channels can now see margins while they sell. This helps them make better pricing decisions and avoid unprofitable discounts or price overrides, so pricing stays consistent across channels.GA date: December CY2026Preview date: October CY2026"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Show ATP and transfer lead time in Dynamics 365 Commerce inventory lookup",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577406",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Store and trade-counter associates often need to source items from another store or warehouse and tell the customer when the item will arrive. This feature brings available-to-promise (ATP) data from Inventory Visibility together with transfer lead times in Store Commerce, so associates can choose the best location and set accurate delivery dates. This feature includes:\n\nATP and estimated arrival in inventory lookup: View ATP quantities and dates across locations, plus the estimated arrival date"
-        },
-        {
-          "title": "Dynamics 365 Commerce: Tap to Pay on Android using Adyen connector",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577402",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Business Value\nTap to Pay on Android empowers sales associates with mobility, enabling them to accept payments directly on over-the-counter Android devices without relying on fixed terminals. This reduces the need for costly payment hardware, streamlines checkout experiences, and enhances customer engagement by allowing transactions anywhere in the store.\nFeature Details\nThis feature enables Tap to Pay on Android devices running the Store Commerce App via the Adyen payment connector. As a prereq"
-        },
-        {
-          "title": "Microsoft Purview: Data Lifecycle Management-Enable version trimming for data covered by retention policies in OneDrive and SharePoint",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575284",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Let tenants trim file-version bloat created by retention, without breaking compliance promises. SharePoint/compliance admins at large, regulated enterprises must cap and reclaim storage consumed by retained file versions, while keeping legal-hold and records promises intact. Admins with appropriate Purview RBAC can enable version cleanup for ODB/SPO content even when retention policies are in effect. This would be a policy scoped setting that essentially overrides the default behavior where all "
-        },
-        {
-          "title": "Dynamics 365 Business Central: Expense Agent - specify when receipts must contain a VAT number",
-          "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573611",
-          "published": "Thu, 05 Nov 2026 23:59:28 Z",
-          "summary": "Help ensure expense receipts include required company VAT information by applying your organization’s receipt validation rules. Expense Agent can check submitted receipts for a valid company VAT number (Tax ID) when your configured rules require one, and flag receipts for review or prevent them from moving forward based on your policies.\nBenefits\n•\tConfigure when a company VAT number is required on submitted expense receipts.\n•\tAutomatically validate required VAT information during expense proce"
         }
       ]
     },
@@ -340,14 +194,7 @@
     },
     {
       "name": "Webex Blog",
-      "items": [
-        {
-          "title": "Saudi Arabia’s Ministry of Human Resources and Social Development ...",
-          "link": "https://blog.webex.com/collaboration/saudi-arabias-ministry-human-resources-social-development-hrsd-scales-digital-public-services-one-webex-cloud-cisco-collaboration-devices/",
-          "published": "Thu, 05 Nov 2026 20:53:54 +0000",
-          "summary": "By moving calling, meetings, and messaging from on-premises systems to Webex — Saudi Arabia’s HRSD turned siloed infrastructure into one cloud platform for more than 11,000 users and gave IT the visibility to resolve issues before employees or beneficiaries notice.\nThe post Saudi Arabia’s Ministry of Human Resources and Social Development ... appeared first on Webex Blog."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Zoom Video Communications, Inc.",
@@ -377,37 +224,12 @@
           "link": "https://www.cmswire.com/digital-marketing/what-the-it-singularity-means-for-marketers-deploying-agents/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
           "published": "Fri, 06 Nov 2026 15:10:29 -0500",
           "summary": "Forrester says the AI hype is used up. What&apos;s left: operating-model work, and marketing&apos;s customer-facing agents are where unclear decision rights show up.\nContinue reading..."
-        },
-        {
-          "title": "How to Audit What ChatGPT and Google Say About Your Business",
-          "link": "https://www.cmswire.com/digital-experience/how-to-audit-what-chatgpt-and-google-say-about-your-business-improve-ai-search/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 05 Nov 2026 16:35:32 -0500",
-          "summary": "Customers now ask ChatGPT whether your business is legit and may never visit your site. Audit what answer engines say, then fix the sources they cite.\nContinue reading..."
-        },
-        {
-          "title": "When Automation Levels the Field, Customer Experience Becomes the Real Test",
-          "link": "https://www.cmswire.com/customer-experience/when-automation-levels-the-field-customer-experience-becomes-the-real-test/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 05 Nov 2026 15:46:39 -0500",
-          "summary": "Brands running the same models on the same data start to sound alike. The ones that stand out keep a clear path to a person when it counts.\nContinue reading..."
-        },
-        {
-          "title": "Black October Shows Tech Giants Racing Toward a Preventable Disaster",
-          "link": "https://www.cmswire.com/digital-experience/black-october-shows-tech-giants-racing-toward-a-preventable-disaster/?utm_source=cmswire.com&utm_medium=web&utm_campaign=cm&utm_content=all-articles-rss",
-          "published": "Thu, 05 Nov 2026 14:49:37 -0500",
-          "summary": "Patches can&apos;t keep up with AI-found flaws. The industry still won&apos;t coordinate until a catastrophe forces its hand.\nContinue reading..."
         }
       ]
     },
     {
       "name": "CPaaSAA",
-      "items": [
-        {
-          "title": "Six paths, one year on. Ahead on voice and trust, behind on RCS. - CPaaSAA",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2dQTkFWV1Fqd2huTWktLWhDZXR1RkpyQ1FNcjhTNkFkalQ2N3dfbkp1b1VUX1FRVEg3WWxqTnFzM2JMbzFBWFNZQmF1MUZyLTRfaG85d28xaGhzbHYzSmJ2MERqZnROZXNCN3lnTWNxQUxUeExSS1d0Ykh0aVhjbG1OVFVKOS1a0gGIAUFVX3lxTE03Z1BOQVZXUWp3aG5NaS0taENldHVGSnJDUU1yOFM2QWRqVDY3d19uSnVvVVRfUVFUSDdZbGpOcXMzYkxvMUFYU1lCYXUxRnItNF9obzl3bzFoaHNsdjNKYnYwRGpmdE5lc0I3eWdNY3FBTFR4TFJLV3RiSHRpWGNsbU5UVUo5LVo?oc=5",
-          "published": "Fri, 06 Nov 2026 08:15:00 GMT",
-          "summary": "Six paths, one year on. Ahead on voice and trust, behind on RCS.&nbsp;&nbsp;CPaaSAA"
-        }
-      ]
+      "items": []
     },
     {
       "name": "Microsoft 365 Blog",
@@ -419,14 +241,7 @@
     },
     {
       "name": "Twilio Blog",
-      "items": [
-        {
-          "title": "How to build an AI agent that remembers returning customers",
-          "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-remember-returning-customers",
-          "published": "Thu, 05 Nov 2026 19:00:00 -0500",
-          "summary": "Build an AI agent that recognizes returning customers, recalls past conversations, and saves new facts, with Twilio Conversation Memory."
-        }
-      ]
+      "items": []
     },
     {
       "name": "\"\"unified communications\" or \"UCaaS\"\" - Google News",
@@ -448,40 +263,202 @@
           "summary": "Oracle recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Customer Engagement Center&nbsp;&nbsp;Oracle Blogs"
         },
         {
-          "title": "Cava’s hospitality contest to inform its CX strategy - CX Dive",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0VRQnBFd1UzZUZZWHdQNFJLMjBpUWoxRzNmdkNJY0Z3QktNX2RSV280c1dhNVJHZHdZS2U0UDBSQWxIa2d0MjljUVBJbGVIMXdyUkhyM29TWG1vNUoxaGc4dW9DajdBenZZRXFZVGt0WHl5bFl2OGlzOW9PaWFjMFlpQ0c0Tlc0bnFhUTlPT2ZndmdZNnNXY2ZSSUltcGI2?oc=5",
-          "published": "Fri, 06 Nov 2026 19:36:43 GMT",
-          "summary": "Cava’s hospitality contest to inform its CX strategy&nbsp;&nbsp;CX Dive"
-        },
-        {
-          "title": "Why Customer Feedback Still Fails to Fix the Journey - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JM0pCLUJMa1VVbE4zWlY0anV2cWVnaHlsWGJ2OVByOElkemtvZUYwTjhDX01PMGJNdTNIZXNTdDZaX3pEaVVpTERFeWhHOFNTd0M3VElWZVZianJNOUdyYmxKdHo3QWE1NEN5ZXM1UzFvempFMy1UTjF2UTg?oc=5",
-          "published": "Fri, 06 Nov 2026 15:01:00 GMT",
-          "summary": "Why Customer Feedback Still Fails to Fix the Journey&nbsp;&nbsp;CX Today"
-        },
-        {
           "title": "IntouchCX Recognized for Operations led AI and End to End CX Transformation by HFS Research - Via Ritzau",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTlc1ZTRMLUpaekNFbjllejEweG1FWXc1dS1oeG9iQS12SzZBTG9lSExrWTM1dUoyMzBuN3ZfZVM0VmlQRkVGTE10ZzJ0U0hsVWhpWk5oX3VSSGp0cEUwSE1hZDgxaWYzYmgwYXk2ZHYyNGx4bHBUWlIyWjV6ZW0tSVFwQjJzQW5ZTExINXAteko2ZzkzcGRWbzFkSDVHVnJSMUlxNzdnQ0hkMnRZT3dMWjQ2bXZVSTZvcjhjb0pVcWNzOWNCZ3haQ2c5Rl9EV0Z5LW50UzRRSTZIVjBFYll6RHozckptMTFKc0g3MmNtRzZlOGZNOVEzaQ?oc=5",
           "published": "Fri, 06 Nov 2026 14:00:00 GMT",
           "summary": "IntouchCX Recognized for Operations led AI and End to End CX Transformation by HFS Research&nbsp;&nbsp;Via Ritzau"
-        },
-        {
-          "title": "Microsoft Ignite 2026: 7 Questions for CX Leaders - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uLVBxN2NOdjdLOG03SFA2cGRHejFTVTJQTFFkWGtWSDFpcjVJMDcybkwyYklkMkRodUhLX0s1UVVBRXRIU2FZeUpJMGFIYmZRaHRKb05yY0swMDltcE5ySjZ5TXJuOHZ4c1VMcFJvNjE2ME96WmM0?oc=5",
-          "published": "Fri, 06 Nov 2026 12:47:04 GMT",
-          "summary": "Microsoft Ignite 2026: 7 Questions for CX Leaders&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "2026 State of CX: Where AI Is Working, Where It’s Stalling and What to Do Next - CMSWire",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMjJOVXNXeUhHSnZ1NTZkV2VrUnk5dVFoUS1EYkh0UnVGb3NkbDVRcHdIYVN1aUZBR3piWi1td09iMXBENzNMYm9BcVBkbDRPYjQ3NDR4bXdIQU02c0dOaHZEandkYVNWVkI1UjVyaHJya09ra1VadzF0RFBmT2JieWJEdjBkWXBwNVF0LUxkSEVJdmk0Z1pxNXluamtRcWxOZERDMGJmVU9Zdmt3QkNfTzBTWDVkYjRkZUVmNmZUejVwcHpqTm1QU0FyZmhadG1uQXota0lhdUdrOWxseDlNdGpWX0locDI2T24yNmFXZ1FUNnJzaWQ2dS1n?oc=5",
-          "published": "Thu, 05 Nov 2026 23:15:13 GMT",
-          "summary": "2026 State of CX: Where AI Is Working, Where It’s Stalling and What to Do Next&nbsp;&nbsp;CMSWire"
         }
       ]
     },
     {
       "name": "\"CRM\" - Google News",
       "items": [
+        {
+          "title": "Customer Service Representative - Naukrigulf",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZlJtUzdIMC10MkpmYTZ1ektxWUV1eUR1M0pGcWY3TVZjNi1Ma0hUeXh1TmIzNVZENDMtS0VHZThSa3JuazBycmZtVWZXdXp1SFJEQ2JuaWlmWjR5N21mT2pkSnA3bHR2RXlxbmQ2amxGLWp5a09QTGdIekFDd21WcHZXQk1meThaY1NqaFBtWmRXLUg4MG05M2VuMzRSTUhzVXZVYklqSDFCSUkxZmhJWGk3RjhBTzZONnZ3MG5fNmFIZjBiVlRSOUc1UWxEUUxJaVA2Y3IyRVd6UDZxdThwVTlHM2ZtR2hmNjRJSW1HOXlCZw?oc=5",
+          "published": "Sun, 08 Nov 2026 07:16:51 GMT",
+          "summary": "Customer Service Representative&nbsp;&nbsp;Naukrigulf"
+        },
+        {
+          "title": "Remote Bilingual Mandarin Customer Experience Specialist at Alignment Health - DailyRemote",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0djNENLOEJtSlByWURXekVuTXZtNnlkSVdrbk94Ym5nU3g4Vmw5WDFiSWtVVEtxVnQteml1T1lLbU5JeUZtQTVoRTBEd0JoZDZ3QmJDNlRXY1lMOV9leUE1dlptMExkUElzaGh4emhOMVFFZHdvZmRwZjlrX0h1MlBpOTJ3a2FTUkF5QWJpWHFDLXppNXo0SW9sdF9oMnhQ?oc=5",
+          "published": "Sun, 08 Nov 2026 05:29:13 GMT",
+          "summary": "Remote Bilingual Mandarin Customer Experience Specialist at Alignment Health&nbsp;&nbsp;DailyRemote"
+        },
+        {
+          "title": "Remote Bilingual Vietnamese Customer Experience Specialist at Alignment Health - DailyRemote",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalM5N183ay1KVm9NdDlCeGJVdkZfMERKSTRFbUxLV0pTZElkbG1uSjF3MlE1Zm1RTEYyVzl5TzRaTk1lY0RENGxPU2RwaWlYZkFzLWJaV0pDM1pxZW9SUUhMQS1NamxGcDhldG5UOExFTmlUaGRGUFZKd0FPV0F6SFh6NkhCODhEcmpQOW52MXZ5WUhmZGoyQkoycUhFc0JfekRF?oc=5",
+          "published": "Sun, 08 Nov 2026 05:29:12 GMT",
+          "summary": "Remote Bilingual Vietnamese Customer Experience Specialist at Alignment Health&nbsp;&nbsp;DailyRemote"
+        },
+        {
+          "title": "Alexandra Kfoury - Sales Executive - BMB Group - Himalayas",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0endudlYxX0l5UHpwR1JlRFdoSFZ6MTVKaEVCU2w0dG5ZZXVuaTNCb0xuY0tkRmw4VjEtZjYyM1pkc2lUdk11VFpHSUVQbVU?oc=5",
+          "published": "Sun, 08 Nov 2026 05:15:40 GMT",
+          "summary": "Alexandra Kfoury - Sales Executive - BMB Group&nbsp;&nbsp;Himalayas"
+        },
+        {
+          "title": "Daniel Ayobami - Customer Support Specialist - E-Bliss Technologies - Himalayas",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hZUxoNWRQQjJDVGJnUVFaeUZKV3p5amM4MWktYU1EQlYxUHdkdGlFUnF6T1VjMTJKdUYzMUU5YXEyMC1SLVJWVmdZVkg?oc=5",
+          "published": "Sun, 08 Nov 2026 02:46:18 GMT",
+          "summary": "Daniel Ayobami - Customer Support Specialist - E-Bliss Technologies&nbsp;&nbsp;Himalayas"
+        },
+        {
+          "title": "Build Your Own AI CRM to Replaces Manual Admin Work - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fT1JCSURsZjcyY2pteHYxUXVQLWwyOHdoM1RqMDlfY3NVQlBRbjFMemFhQ3dmZVpoS1dpUkR3OUlwWmVTWFFvZUxVU2JUNGt1ZUJoaW9B?oc=5",
+          "published": "Sun, 08 Nov 2026 02:00:10 GMT",
+          "summary": "Build Your Own AI CRM to Replaces Manual Admin Work&nbsp;&nbsp;YouTube"
+        },
+        {
+          "title": "Hodo Samuel - Customer Service Representative - Five Iron Golf - Himalayas",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tWDFqelhYSDZEZ0JUY2dFdS02ZXVQUkV5bEZHY1NmZEx6T05MQ1owMjd4ZjNZMVAzME9DS0xnS1JCTFYzcXY1Zw?oc=5",
+          "published": "Sun, 08 Nov 2026 01:56:08 GMT",
+          "summary": "Hodo Samuel - Customer Service Representative - Five Iron Golf&nbsp;&nbsp;Himalayas"
+        },
+        {
+          "title": "Client Relations Coordinator at Strategic Factory — Owings Mills, MD - HiringCafe",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ29ENU1LS3FMdUNqd2dhaWtrMTFmNHg1eWkyelQ4ZkJRUFNvM3l1LVVRVHNrRkg3ZEtwSGRrQXFfQmNHWktQNnNIUGcxMEhCcnRzR29TTWhHY0pVWHd3SmFMTkJqa2F3cnlQd1NUUWxZUVpKZi1VTGI4all1eXMwTFJVVTdMbFhTQUVOWkRoMG9mOEhydFdIemlRNnEzajloSHJCTGJVWjV2WkJkUHhMWTln?oc=5",
+          "published": "Sat, 07 Nov 2026 22:33:34 GMT",
+          "summary": "Client Relations Coordinator at Strategic Factory — Owings Mills, MD&nbsp;&nbsp;HiringCafe"
+        },
+        {
+          "title": "【Chase Travel Hotel Change Policy for Canceled Reservations】 Can I reinstate or rebook a hotel reservation after cancellation? - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrMEhSWDQybjd2SUJjR0JCNkFRX2Nab3dqeGR5blBuZ1JnS0paM2MwTEpMTng3c2VrcGJUcldSQTNSbzZ0NmNnYVNMb0lSWXZFcFM4STFJdWo2QVVCMk1pS3RwLVhzQnk4Mi1v?oc=5",
+          "published": "Sat, 07 Nov 2026 22:03:43 GMT",
+          "summary": "【Chase Travel Hotel Change Policy for Canceled Reservations】 Can I reinstate or rebook a hotel reservation after cancellation?&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "【Chase Travel Hotel Change Policy Through Customer Service】 How can I contact a representative to modify my hotel reservation? - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QYlFIMlBFSWgzalJJVThZTDN2TjdQbWo1YXVfM1B2R1p4b1JIMkZEckJyQ0xJcGJxMExaRy1rOGZySlZ4UlY0NkdUQmJUN2VLamt6SE80YXdacThzVXVUcUw0WkVkY0w0TDQ4?oc=5",
+          "published": "Sat, 07 Nov 2026 22:02:29 GMT",
+          "summary": "【Chase Travel Hotel Change Policy Through Customer Service】 How can I contact a representative to modify my hotel reservation?&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "【Chase Travel Hotel Change Policy During Emergencies】 Can I modify my hotel booking due to an emergency? - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02X0lmU1BONUd4THlBakVfdGRKemNzX2JvR1hhR1F1THVwb2t4bmNxRmpFNm1uM21QcllEMkUyZy1LTjNBR1ZnVDNqZ2tzSnQxdlFjeDZtdlNYQmxlcElPQVhHY0lFMnVIbkZJ?oc=5",
+          "published": "Sat, 07 Nov 2026 21:59:08 GMT",
+          "summary": "【Chase Travel Hotel Change Policy During Emergencies】 Can I modify my hotel booking due to an emergency?&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "【Chase Travel Hotel Change Policy for International Bookings】 Can I change an international hotel reservation? - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13eTRLbWZmcF9HZGVFaFpsQVA0WmRWX1BJcW5VbGVJRlR3NExtR3RHTUVqNXVHcnRtNWJqSy0tMXZLMWcySEc5ZS14ek5KUVhGcl8yOGNIZlRKSlZmVkdmeGUxLUpNOWhwS1NV?oc=5",
+          "published": "Sat, 07 Nov 2026 21:58:25 GMT",
+          "summary": "【Chase Travel Hotel Change Policy for International Bookings】 Can I change an international hotel reservation?&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "Contact Center Representative at DataPath — Remote - HiringCafe",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGtmRVMtUDMzc2Z2WWpXX1R3Wi11eWRtczdUU1YzUnl5MEdjZzg3dERQOXV6N2JYUV84VENwTUJ1Zi1vMm1hdjJ2Z2Q4emxqX1dWckRsSnNiYjFZNVY2WHF3d0ZobE1rQTZhTjJDa2Nlc3hGZC1ua2V2eXVOVEZ0V251Mk5tOTNvMUxEek94TmZCNm1pQ1QwTmRSWFM?oc=5",
+          "published": "Sat, 07 Nov 2026 21:22:08 GMT",
+          "summary": "Contact Center Representative at DataPath — Remote&nbsp;&nbsp;HiringCafe"
+        },
+        {
+          "title": "Crm or sales reporting tools,Noida, - foundit",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOTjVXanRsOVJ4T1ZNSnFZWDdQSTV0SWhpckwxR1hwSjJGb1VIcTJwNFN1LWZWSEQ3QlJIVXU2UmF0VW1jSlhVSS1ESW9rTEJZWTh2VDdiSGppUmpGSHJKTDdLRXZDXzh5WVkwWVhkN3VEdHQyOEdINWJvMGU?oc=5",
+          "published": "Sat, 07 Nov 2026 20:08:00 GMT",
+          "summary": "Crm or sales reporting tools,Noida,&nbsp;&nbsp;foundit"
+        },
+        {
+          "title": "Crm or sales tracking systems,Coimbatore, - foundit",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFhuUVRmOGlLaDBUcmFTSnp4ZkVYVVdxbTZPa19qTDBxWHAwaUxRbk44UzkzNUVYQ2hPM1RIY0N4RzJjWDhNREpkNmpHOUxCd0RjcUZGbnk1ejBHSGdHeVBucXU1WHN3RWhSbFBHR3JkWVVLQzFTamJXaXlabjdUdlBfZ0s?oc=5",
+          "published": "Sat, 07 Nov 2026 20:07:59 GMT",
+          "summary": "Crm or sales tracking systems,Coimbatore,&nbsp;&nbsp;foundit"
+        },
+        {
+          "title": "Crm tools zoho or similar,India, - foundit",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAycndOay1mWlVBVlRVU0ZKOHBydGU3cXVVclI3RVR3QndzbFBVQnlTcVRGSU85cXdfV1d6b0pobkdIRHhLRFdKNXJFc1U3a3l1YWUyaWJ4R1JxVWVld0xNN3hkMnhxcjJ1bXNfQUV2amprcWJiOElORw?oc=5",
+          "published": "Sat, 07 Nov 2026 20:07:59 GMT",
+          "summary": "Crm tools zoho or similar,India,&nbsp;&nbsp;foundit"
+        },
+        {
+          "title": "account manager jobs in ockendon rm15 - SimplyHired",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBENFQxWFk3c2U3WmJERkNEN0NnNlM1WjFmLXgwU0N5RnVJU2xJSVlOQVd5eUhtTXdqOTZZZWtMWVEyVENuUXdWMXdQM2tNMFpqZi1EQXM3cml2a2hNUV9RMmpFbE1wajZjOXhtQTAxY2JfdjNhcUpWaEtR?oc=5",
+          "published": "Sat, 07 Nov 2026 19:30:24 GMT",
+          "summary": "account manager jobs in ockendon rm15&nbsp;&nbsp;SimplyHired"
+        },
+        {
+          "title": "How to Contact Chase Travel™ Customer Service – Official Phone Numbers, Support Options, and FAQs (US) - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sU3FabHZxRWUtQ0plUG1hOXRmakxHZkR3ODNxSGpJRHJmSUJuaUFZdlJ6WUs3dzZuNjRPZ3paQmE1R2MxeWNGcy1xZzIzMVNrdW5IeWhYVU5iVmlaMUVqeU9QbWo5OXZ1bHZj?oc=5",
+          "published": "Sat, 07 Nov 2026 19:27:39 GMT",
+          "summary": "How to Contact Chase Travel™ Customer Service – Official Phone Numbers, Support Options, and FAQs (US)&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "Customer Service Representative with 1 - 3 Years of Experience at boldtech air springs in Sharjah,United Arab Emirates - foundit Gulf Formerly Monster Gulf",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdl9qaEl4bFVmazMtaWJ0VkluMHRVc2xnYVJRSmpFazBBc0JOUG0tcHhpMWJNRS1DM050elhLZmFOVE9FUUozbmktaURUcWhJTnlvTE5hQk1kNFRQcHlmWG1NQ0lpdVhwNjUtN1FIblpiUS1mQ2FpbE5LbzZZY1oxU2lzaEpvd2U5aVdTYnc0QzJzY2VvU2otaEdTRk96aXlvcUpv?oc=5",
+          "published": "Sat, 07 Nov 2026 19:24:43 GMT",
+          "summary": "Customer Service Representative with 1 - 3 Years of Experience at boldtech air springs in Sharjah,United Arab Emirates&nbsp;&nbsp;foundit Gulf Formerly Monster Gulf"
+        },
+        {
+          "title": "Chase Travel™ Official Customer Service Number – Contact Information, Support Guide, and FAQs (USA) - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wZnZiSHZrMjQ1NURaQ0RiUlNnNl96ckptUnM4a2w4OHJRYy1UVDNvVmtjSnVRVV9VMnhUWnRUbHlFV0xGYlFKdjZUT1RyUjFQOHlZSXM3djhhMG5HSE1qME5HOWxUY2taMkg0?oc=5",
+          "published": "Sat, 07 Nov 2026 19:24:26 GMT",
+          "summary": "Chase Travel™ Official Customer Service Number – Contact Information, Support Guide, and FAQs (USA)&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "What Is the Official Chase Travel™ Phone Number? – Customer Support Contacts and FAQs (US) - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ySXI4b3lWQVk5Y1VUV0kwVnNtak9UaXlmcDFNcFcwd01Xa3hHRHpaTUJ6Smh6NFVaVVJvU2tXSVdLQi1kZkFueWtDdWszMFRiQk0ySE5MbElWSnVCLTk0SHpua3dWVG9qa29v?oc=5",
+          "published": "Sat, 07 Nov 2026 19:16:22 GMT",
+          "summary": "What Is the Official Chase Travel™ Phone Number? – Customer Support Contacts and FAQs (US)&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "Official Chase Travel™ Customer Service Phone Number – Complete Contact Guide and FAQs (USA) - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hSldSb29LREdqaXl4RWhYbWlibXZmMXVVejl1TmZCMTdDejJMVWpjNlJKc2VTWFdJUFhKWlJuZFlXaGprWGNJd2p5NWl4R2JLcGZkcHpNTkYtNW5FclIxRVNCS2NhUUd2SVRR?oc=5",
+          "published": "Sat, 07 Nov 2026 19:14:58 GMT",
+          "summary": "Official Chase Travel™ Customer Service Phone Number – Complete Contact Guide and FAQs (USA)&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "Complete Chase Travel™ Contact Numbers in the USA – Detailed Customer Service and Support Guide - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xektNUmpjaWJWT1VlRDJlbThGZ3pWS3pLUnh0NzJVeXB5d08wRXJzVW0zR3NVSE5BbXYtVWtpZV93Wno1c3VVbzJuSnh2ZUp6RGQtNnA5VS12dXc5VFNpd2syYTNWSm1PUjJB?oc=5",
+          "published": "Sat, 07 Nov 2026 19:10:45 GMT",
+          "summary": "Complete Chase Travel™ Contact Numbers in the USA – Detailed Customer Service and Support Guide&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "✈【Chase Travel Support Guide™】Complete List of US Customer Service Numbers & Contact Options - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBySjRNWkEwMUthd2ZfaXB3cjlzdFVaOW9GSmlIVXUtN0JNSnM1ZTBJRW1fZWRxdm4xTFlZTG1ZV0hYMWJOY29KUzNURTF6ZUNmNHQ2OUhGU2Jmb1BjUHNZalppUHNBZWV5NGNn?oc=5",
+          "published": "Sat, 07 Nov 2026 19:10:40 GMT",
+          "summary": "✈【Chase Travel Support Guide™】Complete List of US Customer Service Numbers & Contact Options&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "✈【Chase Travel USA Help Desk】All Customer Service Phone Numbers, Booking Support & FAQs - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vcWxoYVM0d1NRMFZsZHB4QXJ6cDRiZXZVcWRkRGsyeWZ1cjUwWnVXTmxEWk9Fak5Va2FDUnhXSXYxS2I5eTV5dGpRUG9kaFA0enIzNEplS3JTbURIY3ZCOWF1OGtYSnpVV3FJ?oc=5",
+          "published": "Sat, 07 Nov 2026 19:06:43 GMT",
+          "summary": "✈【Chase Travel USA Help Desk】All Customer Service Phone Numbers, Booking Support & FAQs&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "✈【Chase Travel Phone Numbers USA 2026】Full Customer Service Contact List & Assistance - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lbkhWSTVWSjZTa1doQllEUGR4NFJFbEtyTWJPdlpESlppLU5fVm44VjlqbE90TzhmM3hDVmJIRGx2dnJsM3NhWUNiZGY4T1ltN0JmazEwNWJNMVdjY3N6SFVSS1JQZjFnUUxR?oc=5",
+          "published": "Sat, 07 Nov 2026 19:03:55 GMT",
+          "summary": "✈【Chase Travel Phone Numbers USA 2026】Full Customer Service Contact List & Assistance&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "✈【Chase Travel Customer Service USA™】Complete Phone Number Directory & Support Guide - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzRG9EMEJUNVlLY3NiRU53a2psYWNCbE5neWp3bG52QTRyWFNySzI2LXl0ZG5MWWM0WDZjVWdWbjZkWXhmMTEtQUtPbDY3R04tcV8zUy1faDU5TEVnaXZjLWp4VlRtQXNld2pZ?oc=5",
+          "published": "Sat, 07 Nov 2026 19:02:37 GMT",
+          "summary": "✈【Chase Travel Customer Service USA™】Complete Phone Number Directory & Support Guide&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "✈【Chase Travel Contact Guide 2026】All Customer Service Numbers & Frequently Asked Questions - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95ZWRZeS0zcHlCeUNsaXlRd2hUbnZ4RHNTbHJYMkM2elhGOVJOai1WLV9za2JLNnZ2d0JZQUQ5ckt4TWZkblpZMjJma3BWVWRHU291UWFXRjZzYUF6TEd1V0VybE5wSFVMX193?oc=5",
+          "published": "Sat, 07 Nov 2026 19:01:24 GMT",
+          "summary": "✈【Chase Travel Contact Guide 2026】All Customer Service Numbers & Frequently Asked Questions&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "✈【Chase Travel Phone Numbers 2026】Find Customer Support Contacts & Assistance - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0eFdnNWwyUnlDc1FmMGVFQTJjd3VzRFRVamxPSHAxdlowakxQbXJBNG9NRWk0Qm5NbFdvazBKWm9IbGVNeE15X3BkTTlObzZtQXBkYnhwVHpsOUFsWERGWDdqYjZUZjJQb04w?oc=5",
+          "published": "Sat, 07 Nov 2026 19:00:42 GMT",
+          "summary": "✈【Chase Travel Phone Numbers 2026】Find Customer Support Contacts & Assistance&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "✈【Chase Travel Customer Service Numbers 2026】Complete Contact Guide & FAQs - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Zb2FEUTF2Z04xbWNEMkxvWlVBNG5pRGtraFBVT1NZcDZMOTk1SkJUVTZlR2g2eFkyYnlZU1NvWGxLWXJXS1pRbWF2V2pMWGpaanMzMXhHRlphNjBaQkhFWmZubXQ4QTVYd0NB?oc=5",
+          "published": "Sat, 07 Nov 2026 19:00:25 GMT",
+          "summary": "✈【Chase Travel Customer Service Numbers 2026】Complete Contact Guide & FAQs&nbsp;&nbsp;Neon One"
+        },
+        {
+          "title": "[[Faq]]Complete List of Chase Travel Customer Service Numbers: 2026 FAQ Guide - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIQ2loUEdXckkwWURMM1h1NmtFZVlQSDAzaHY4ZUQzQlIySDN2TkZPZlNDOFVTTGhHaUNubmFiOUk2Z1EwT0JyVVIyX0JkMXRZb2cyWko4UVhWZEV6aFdVZkpIY014MkhvTGw0?oc=5",
+          "published": "Sat, 07 Nov 2026 18:59:59 GMT",
+          "summary": "[[Faq]]Complete List of Chase Travel Customer Service Numbers: 2026 FAQ Guide&nbsp;&nbsp;Neon One"
+        },
         {
           "title": "✈【Chase Travel FAQ & Support™】Wondering About Customer Service Hours? Find Out When Help - Neon One",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OV3FIdWpNSUVNckI3c0tlQkJyZUw3NkFMMHpWVWhWT21BVVpSdHJ1eFQ5ek92R0ZIc0pLenVRSHZuam56a2JWaFZJZGFVT2lXaDY0c1VRYXYySXhSektVb3MzVXktbG1yYldj?oc=5",
@@ -493,6 +470,12 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXlkQVlYMHdaMWdUWnVRZWswcm80Z2lfSzE3Y0t0TlJwWkpsckFnRzBRRkwtYm5sY3hmRkZxd2RVUWFZMkRJRzZEaVp6eEJmcVNrMXRJek4xZ2tGR2J5cE9wQlVwSDRjOGpCbVVMeHcyQ3RTbWRlNng3RE5mQUF4UUdCWlE4dDFCUHg4SlB1RUROZw?oc=5",
           "published": "Sat, 07 Nov 2026 18:40:07 GMT",
           "summary": "[Hiring] Client Experience Specialist @Intertek&nbsp;&nbsp;Remotive"
+        },
+        {
+          "title": "【Chase Travel Refund Assistance Number】How can I contact Chase Travel about a flight refund? - Neon One",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Dak1nb3RGVmtWX1pCVFVtT0NjRzM2T1JQWm8yNnJHSHdXZDZhdVpocWZ1d3FGNVFrZDhzRFVtSWxxXzRieU5XTXd6M1N5MTVjSlh5QmpodWtSTUVmT3dFdk5OT2I3RHMwQ0s0?oc=5",
+          "published": "Sat, 07 Nov 2026 18:19:52 GMT",
+          "summary": "【Chase Travel Refund Assistance Number】How can I contact Chase Travel about a flight refund?&nbsp;&nbsp;Neon One"
         },
         {
           "title": "【Chase Travel Flight Cancellation Support】What number do I call to cancel my flight reservation? - Neon One",
@@ -543,76 +526,16 @@
           "summary": "Senior Reporting and Analytics Specialist / Salesforce CRM Analy Remote / Telecommute Jobs&nbsp;&nbsp;Security Clearance Jobs"
         },
         {
-          "title": "【Chase Travel Booking Support Number】How do I contact customer service about my flight reservation? - Neon One",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoX3Y4emEydVphTTJYOFFBWENxMkota0RtZ0ppLTlhWWFFMmEySG01NTZ6YTVRbjFVZmR3VGQ4UnI4bUVsUExMRjVyQ1RTYm5QZTNIUVRObVI4WENDNERYWXdOQU1FMmNvc2Vv?oc=5",
-          "published": "Sat, 07 Nov 2026 17:18:24 GMT",
-          "summary": "【Chase Travel Booking Support Number】How do I contact customer service about my flight reservation?&nbsp;&nbsp;Neon One"
-        },
-        {
           "title": "Hi everyone! Which self-hosted, open-source CRM/ERP would you recommend for integrating local AI agents? I’m looking for a solution for a small B2B company with 2–3 users. I’m considering ERPNext/Frappe CRM, Odoo Community, EspoCRM, Twenty, an - Facebook",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01S0N1d2RJbHh4cVEyMVEyOHpIcnFRVmlaa2tXbGpPci0xbGJWa25TOEJ0d3pYMGRTb1Q5alR3dDU2WE5KeGNDOGNLQXBnMHF1N25LUXdaNkNrSk1tME5BOXFUS1V3SHNfNDlZbFE0OGxGVFJCbHg0WHkzNA?oc=5",
           "published": "Sat, 07 Nov 2026 17:18:18 GMT",
           "summary": "Hi everyone! Which self-hosted, open-source CRM/ERP would you recommend for integrating local AI agents? I’m looking for a solution for a small B2B company with 2–3 users. I’m considering ERPNext/Frappe CRM, Odoo Community, EspoCRM, Twenty, an&nbsp;&nbsp;Facebook"
         },
         {
-          "title": "【Chase Travel Official Helpline Guide】What number should I call to speak with a Chase Travel representative? - Neon One",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xRThtZklxQ2tzZmI3VG9zb0V6TXV1T01HLXozNFVlN1pQUzRxcy1PQWlGUXg5OFZlWkFlUFpGdGNlSDdLQTJienZQUEU4bHZudlFoRHQySWFDUEVQcHFZVHV4S2hkUVdjc2x3?oc=5",
-          "published": "Sat, 07 Nov 2026 17:16:24 GMT",
-          "summary": "【Chase Travel Official Helpline Guide】What number should I call to speak with a Chase Travel representative?&nbsp;&nbsp;Neon One"
-        },
-        {
-          "title": "【Chase Travel Customer Service Number 24/7】How can I contact Chase Travel customer support by phone? - Neon One",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hazZaYTFIVDUxZ1RkcWhtb2VrMVI3SmFWYWdORmxJbnFhODBrR3BwTnM5OWM4RGo1QmZZS196cE9YR29uSF9LeWZqaHl2b2dveFowdmdYT2hrOTlGeXBuM0w4NnJoODJvQXNv?oc=5",
-          "published": "Sat, 07 Nov 2026 17:14:34 GMT",
-          "summary": "【Chase Travel Customer Service Number 24/7】How can I contact Chase Travel customer support by phone?&nbsp;&nbsp;Neon One"
-        },
-        {
-          "title": "CXone Specialist - (NiCE Certified) at PA Team Software Consulting Ltd. - DailyRemote",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWRWOGFIMUlXYWJBUElGM1A5UFdJdEQwN2pyYURlTEN3bGN6bTVTc2JWdUlVdkJGeXEwYWdLaXdUbXhpY1Nnb3hvRFNGUlFMc2VVSDVrNGhFUzJlNXM1aExDeU1vS3ZWSkdIbjdfNXVPNEY1RGJ6VTc2ZVluVlNkWVpR?oc=5",
-          "published": "Sat, 07 Nov 2026 17:00:35 GMT",
-          "summary": "CXone Specialist - (NiCE Certified) at PA Team Software Consulting Ltd.&nbsp;&nbsp;DailyRemote"
-        },
-        {
-          "title": "Warm Client Communications VA - Freelancer",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjI1RzBMNGxhZGdKRkhTM0lZWjZwd1RLcW1QWFZiNU0tV0dmR3JXeTc4cTFFUGdPRWtlVnpjMm1OWmk2b2I1bUs5dXB3SF9CSEJkbFlaRDU0ZmtmT0o0bnZJQjhyaFQ1cHh0UXV5cmNfeDJ1TF90amJ2NUhsWEVybFRDOHIwcHdWMlp1NmxB?oc=5",
-          "published": "Sat, 07 Nov 2026 13:09:21 GMT",
-          "summary": "Warm Client Communications VA&nbsp;&nbsp;Freelancer"
-        },
-        {
-          "title": "CX Workforce Management Manager - Melio - Thrive Capital",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnRfOFo4UXFGR01pTC1YeE9VcW9FdVhrRzYyVFZkdHJENkM5OWtQcnc5S0lUWWo1ZVppR2xOM01ySXFMdDRkN2hHSUtXVW5zVjZ2MHNzX0taQklkbkpSMWl4WF9HTGVJTDhvUnRTUEJWUC00RUtqRVFpUlhJV1FtNFgtaVp1MTFnTlNMNFZubi1CUEFJa0ZLNkVB?oc=5",
-          "published": "Sat, 07 Nov 2026 11:13:04 GMT",
-          "summary": "CX Workforce Management Manager - Melio&nbsp;&nbsp;Thrive Capital"
-        },
-        {
-          "title": "Remote-Customer Experience Specialist at Alignment Health - DailyRemote",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDJJSlUySndlT19oRndMcHVGWmxvTEV5UTNkN0ZVcXczeGc2TXhYbV9kbzJja19yYURlQ0o1TlJncEtYa3FTUTVTeHRlNm43RTY5TzFqbzQ4T09BbVRYbXZ1R3ZUVnRhQzQtTVdZeFVRUG5Uc0FmRmlrWGNmMkI1eGpMaHdXUG8?oc=5",
-          "published": "Sat, 07 Nov 2026 11:03:42 GMT",
-          "summary": "Remote-Customer Experience Specialist at Alignment Health&nbsp;&nbsp;DailyRemote"
-        },
-        {
-          "title": "Customer Experience Specialist - Las Vegas, NV at Alignment Health - DailyRemote",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXo4OG0xaGlXY2JnM0ZSeGI4RXVvWDJwRVlVZVhSeE1KOGZwMGowb05RMHJ0c0VCS2k4Rk1kck1JcTdQWnQyQ2FHbV9ZS2lHRzlKakowajBSNTFLdFdsdFljUHU0Y0dfa0pVUkNIZlVTNmFpcURVUGRkeHVyREhvTjhtakFWTzhzWXdVRENDTQ?oc=5",
-          "published": "Sat, 07 Nov 2026 11:00:40 GMT",
-          "summary": "Customer Experience Specialist - Las Vegas, NV at Alignment Health&nbsp;&nbsp;DailyRemote"
-        },
-        {
-          "title": "Ude Timothy - Writer - Mercor - Himalayas",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81YUhEaTRkbFR2S0xTMGJEUjFaczJXYUR6ejJEdzF4cHhEQmhIYXhlbTJCbWxTZ0x3V3IybndKSVFLNHFILXB3Tw?oc=5",
-          "published": "Sat, 07 Nov 2026 10:42:40 GMT",
-          "summary": "Ude Timothy - Writer - Mercor&nbsp;&nbsp;Himalayas"
-        },
-        {
-          "title": "Senior Customer Service Manager at Stanley Black & Decker, Inc. - Jobgether",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXVtWHpadk02NDV0YXlDdko2WHhzajFKTTdDc0JuaGtLck1CQmxEdXcxOEVIdXZhNnNYYWxval9aMUwxVGxiWTQyeko5V3cyR21KZ3VweWdsUVAtY0tzSUtaSENwMUhoZDUwRDc3WXFwcGt5N0pmMmpsQ3gyOGJTWU1fYUhNa0puODhEQw?oc=5",
-          "published": "Sat, 07 Nov 2026 08:31:16 GMT",
-          "summary": "Senior Customer Service Manager at Stanley Black & Decker, Inc.&nbsp;&nbsp;Jobgether"
-        },
-        {
-          "title": "[Hiring] Client Success & CRM Operations Specialist @Hire Hangar - Remotive",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmdyODJXUG9vRGk1aUxkcG9vbVU1VEFHYVYySzM3YXM2SFEyYXAyYm10NVJFZ1VET0g1d1pCZzNlWGZaVnI3NF9tSk9uWnRvOERBclVRV080MWNJUnFZZjQ0VHhGZ2pQdWNEcmgyVDZ6TGo0YjRxbzB5NlNET3VCMXJDaDdTcjBiOXRIdWljYWxWcVF6alZVTjJzaV9xd00?oc=5",
-          "published": "Sat, 07 Nov 2026 08:17:08 GMT",
-          "summary": "[Hiring] Client Success & CRM Operations Specialist @Hire Hangar&nbsp;&nbsp;Remotive"
+          "title": "I Built a WhatsApp Automation CRM Software with Google Sheets | QR Code or Official Meta API - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UaTZQNE0yNzNtX1Q5cGp0QUhLX1RidDVwc24zQUNFZ2wwSGs3TVllck0yQU5BeVpWRXc1cjdfNGc0a2hxRlNLNGhOVzRKME4xLWM1MkZR?oc=5",
+          "published": "Sat, 07 Nov 2026 13:00:26 GMT",
+          "summary": "I Built a WhatsApp Automation CRM Software with Google Sheets | QR Code or Official Meta API&nbsp;&nbsp;YouTube"
         },
         {
           "title": "Priority buys Fireberry to expand CRM automation - ContentGrip",
@@ -621,52 +544,16 @@
           "summary": "Priority buys Fireberry to expand CRM automation&nbsp;&nbsp;ContentGrip"
         },
         {
-          "title": "Customer Service Specialist (SeqCenter) - Workable Jobs",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXVoS25VVHJncXZPU0dPdFZMeGJTRHlrLWJ5NWxuMjRCYzkyaEl1MnJEVFhQVm02Y2VQZmhRZzF3QUlUa2VYSWt5WjRaWDZzUHZONFM5UDdXOWMtdy1aekU0Wkl2T0IxY18zS2luZm9aWTc0OHJFMGxqZGdYVjhDRHVMektVSTBWczBheWtQZm5oNUloYnozdFpvSEU2dkxaWUotS0V3QW4zMzdmRE11VktOc1IwRmFmTXBn?oc=5",
-          "published": "Sat, 07 Nov 2026 05:58:29 GMT",
-          "summary": "Customer Service Specialist (SeqCenter)&nbsp;&nbsp;Workable Jobs"
-        },
-        {
-          "title": "Customer Service Specialist (SeqCenter) at SeqCenter — Pittsburgh, PA - HiringCafe",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVVGeVc2YTZoakZhU3FrX3dUR3g5M1BaUGZtQUxmbEZjc0FhT3FvOEVUT0IyWkRsQkRUUzI5enpRd2hZaEZYc2swc3ByOEx4YU03YTZsaEgybDRxUGdYZjVwZWdXeWc2ZjdWdmlmTFA4TEk1Ym5qWEtFa0Z4QTY3aS1McS1nUTNueGlpVkcyaWFZdnRhNzk4Q20yb21sT2xBWFBlRA?oc=5",
-          "published": "Sat, 07 Nov 2026 05:25:29 GMT",
-          "summary": "Customer Service Specialist (SeqCenter) at SeqCenter — Pittsburgh, PA&nbsp;&nbsp;HiringCafe"
-        },
-        {
-          "title": "Director, CRM Sales – State & Local Government (West) - Built In",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVE14ZWNOSmNIQzZMZElKdjZtQ0VXWG9FSVhkVm15ZW1FWnJBY2owSHNxNndCNi1PUTBhQVV2LXVyZ1ZnY0JtangwYy1Hd1FGZHoyTDhJWHljaTVsdTlJSlE1dDZnallHRGlnVTVXNUhiWF9vd0tISHp3VUE2Wm8tVnp5ME1mQQ?oc=5",
-          "published": "Sat, 07 Nov 2026 05:21:37 GMT",
-          "summary": "Director, CRM Sales – State & Local Government (West)&nbsp;&nbsp;Built In"
-        },
-        {
-          "title": "CRM Account Executive - Commercial - Built In Boston",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3kzNjZVUUY3TW5OLWZmeXJ1eTBmV0dfb0hZVWdqZm1QRTRmaTVUVncwd1ltNlBzdUxJX28xMUlfNFQ5UXNMeS1Lck9HTEUzdHMwSXBkRm1xYXc2YmRUeGx2OXpBVmN3cG85RGt1RVZDQlplMm1QazdvcjQwRExpVA?oc=5",
-          "published": "Sat, 07 Nov 2026 05:21:17 GMT",
-          "summary": "CRM Account Executive - Commercial&nbsp;&nbsp;Built In Boston"
-        },
-        {
-          "title": "Unified Channels: Omnichannel AI Customer Service - Odoo Apps Store",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91aUJjWF9Ka2NnNmk0cTI1WE00ZlllSnN5clRROE13WmduYjNhNE1RODN0ZTBsbzlUQkowNllha25vTGJOZWhzMkdsVEtjbFNSWXMydUdadlFFWmhaWnpNdTdVSUJvcDQ?oc=5",
-          "published": "Sat, 07 Nov 2026 05:14:32 GMT",
-          "summary": "Unified Channels: Omnichannel AI Customer Service&nbsp;&nbsp;Odoo Apps Store"
-        },
-        {
-          "title": "When Your CRM Learns to Take Payments | by Christine Soliman | Nov, 2026 - Medium",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmM2WDVUaXI5MlN1UTlFamM1TUp5YkhISnRwNWtuTXQ4OXY1NE9UZDJyVGIySlB4RnphRGNLZWkzQ29rMjlDdURlUFRKQ3Z0aFhQTVJLY3hXQzZ6dUt1REdQVnBidTBTXzNNeThfckw1M2pMZUlvYm5lNzV3dVRJQU5NR3ZjSmVmNm9MYm1B?oc=5",
-          "published": "Sat, 07 Nov 2026 04:48:21 GMT",
-          "summary": "When Your CRM Learns to Take Payments | by Christine Soliman | Nov, 2026&nbsp;&nbsp;Medium"
+          "title": "Lead Customer Service Representative + Dispatcher (HVAC) - Cobex Air | Sacramento, CA - SimplyHired",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFhHTkNzbllWX2puaFJqLTFVc0pGU3B0ZGtjdEVjS1dCSjAtczRra3JQQmlTMEJKR0VVT2hNWG9CLURQaC1zVFk4TGtJMll4Y2pRUVlId1diclhZX2Z3RnhrRnU4OVBwTXBJNWxRMldjSUNQcmEzRGhabloxbWR5X25GRmNST2UwUjc3Z0NMNA?oc=5",
+          "published": "Sat, 07 Nov 2026 01:05:19 GMT",
+          "summary": "Lead Customer Service Representative + Dispatcher (HVAC) - Cobex Air | Sacramento, CA&nbsp;&nbsp;SimplyHired"
         },
         {
           "title": "Sales & Customer Service Virtual Assistant (Mentorship Business) 1762718 - OnlineJobs.ph",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTNHTkQtRW1tVUJ0T1JjbmtXZ2NreWdCemhXdjFjVlpBUWZscUJmVl83dWp2cHF0MWZzS1dmbzluUXJ4X19WU0xjd09MQ1dETG04Wm5uY21vTXEzM0hfdlhWLUtmbTRnZjNlcHJiWUxiOXctU19LdHJnVG9SWGZKTkRmYXMwbDhPYXd0VlA5YlhieTdHUUpoSWRHNFBDWTZhaDhpazNxSmRiU192UFE?oc=5",
           "published": "Fri, 06 Nov 2026 22:16:22 GMT",
           "summary": "Sales & Customer Service Virtual Assistant (Mentorship Business) 1762718&nbsp;&nbsp;OnlineJobs.ph"
-        },
-        {
-          "title": "\"Tell Me the Outcome That You Want\": SAP CX President Balaji Balasubramanian on Autonomous CX - ERP Today",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2N6TVJtQ3RYd2NMLVp1Sk0xUWgyOHZlOUxZQTJkdlk4Q0REbzllMEJrNVBCOU9FOUVPalcxMllqMkI1WXRDNGVTQXBkbE1sUi1wSkVhMDR5REZKQWNPUXNFOGdhLWtpNG9DSHZ3WjJaMDk3enhVaEl4QjJfejBSTldNT3RZc2hLN0F5aVE0V0JJdkxGMFBEUFFBRHNnQUVrQkl3TElWVl81ZUdwNUE?oc=5",
-          "published": "Fri, 06 Nov 2026 21:16:01 GMT",
-          "summary": "\"Tell Me the Outcome That You Want\": SAP CX President Balaji Balasubramanian on Autonomous CX&nbsp;&nbsp;ERP Today"
         },
         {
           "title": "Oracle recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for CRM Customer Engagement Center - Oracle Blogs",
@@ -679,66 +566,6 @@
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94WF9raUstRTM0Z1p6U0pKUVJ2ZHlLSkZsNUtBR2MtdlVRaUMzb3ZwNVRBLWpzLURMWklzbHYweEJrb0dBaDdueG5TaGVjR3lXWmJ2bWFZUy1SOGVLWWJVUlh4MFNCMi1Ea0w5bGgyUm9FdUNz?oc=5",
           "published": "Fri, 06 Nov 2026 15:18:51 GMT",
           "summary": "Hi everyone! Which self-hosted, open-source CRM/ERP would you recommend for integrating local AI agents? I’m looking for a solution for a small B2B company with 2–3 users. I’m considering ERPNext/Frappe CRM, Odoo Community, EspoCRM, Twenty, an&nbsp;&nbsp;Facebook"
-        },
-        {
-          "title": "CX Strategy Director - Agency - Reed",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fRTBCcjRtNnU2aDZGak1iWWt0M3k0X3pkcFpTaUxUdy1Ed05QTW9kYjZGZFEzSG5STktzNmNidE5CaWV2ZkVoQjRGd25wcUxTeTBDTlJPM0xTeWt5X3ZGRVVBVGNGaTVaNG5ubzJkdzhWUQ?oc=5",
-          "published": "Fri, 06 Nov 2026 15:02:48 GMT",
-          "summary": "CX Strategy Director - Agency&nbsp;&nbsp;Reed"
-        },
-        {
-          "title": "Account Support Officer - Chennai - British Council - 2 to 7 years of experience - Naukri.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDViYTNvSnhMemV2NkpWcGhyS2JLVG83OC0tVHBPUl9fYnNyaGlPV2lZbEpEQ1Y0c2U5aV8tRkpmaFpERUxtMkliVDZuaGd3OFFwNF9CU2ZTUHFUc0NpLWtUZm1jR0lleUVzd29qSmp1WmpleEItOXp4UHhQYkZLaXpCTnBuZXpVTWxwZHRZdXlzS2ZFMWhmWlh1OWlZWkVReW5zX29xLTRMeTR4SGc?oc=5",
-          "published": "Fri, 06 Nov 2026 14:31:25 GMT",
-          "summary": "Account Support Officer - Chennai - British Council - 2 to 7 years of experience&nbsp;&nbsp;Naukri.com"
-        },
-        {
-          "title": "Microsoft Ignite 2026: 7 Questions for CX Leaders - CX Today",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uLVBxN2NOdjdLOG03SFA2cGRHejFTVTJQTFFkWGtWSDFpcjVJMDcybkwyYklkMkRodUhLX0s1UVVBRXRIU2FZeUpJMGFIYmZRaHRKb05yY0swMDltcE5ySjZ5TXJuOHZ4c1VMcFJvNjE2ME96WmM0?oc=5",
-          "published": "Fri, 06 Nov 2026 12:47:04 GMT",
-          "summary": "Microsoft Ignite 2026: 7 Questions for CX Leaders&nbsp;&nbsp;CX Today"
-        },
-        {
-          "title": "SugarAI Turns CRM and ERP Intelligence into Next Best Sales Action - MarTech Cube",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTVteERpdThTSzlYSURpYmFQdUU3ZU1JSDEtZi1SdHRJVGwtQnpQU0FhLTlONDNRV0hQdjFEUnpoeW9CNFIteFlJV2N2Q1F6RVlyZ2lBb0l0LS05VWZnOEotSFB4MlhPZ2dwWTVzOFhrQS1FYkF1MEQ4Mm92bjBrb0VOSURmZmVlMVhLQkRBSEhMOFBRalJXbExHYw?oc=5",
-          "published": "Fri, 06 Nov 2026 09:23:38 GMT",
-          "summary": "SugarAI Turns CRM and ERP Intelligence into Next Best Sales Action&nbsp;&nbsp;MarTech Cube"
-        },
-        {
-          "title": "Smarsh's Archie Achieves Key Deflection Milestones - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE5UeGtETElQQjZnckJTVWVwYmVPMWpUNjc3XzB6eEZ5TU5EOFJCLVdtTkhHcUlLSjZtN2Q2M2szNXhuM2I4UlNENmc4WFg0NUZzZXl3aTdMOFR4YTRWUzhwUG1ETlYtZHlkZXB3V1dlSUloMzVLQTVCcEZMSW5ac0JyOXFYbEhrekpKN2J4Tlc2cGVMeDBzNldDSndScXFKR1F2YzdBajN0dFhTM0ZTa0k3VTFSYUIzTWVFM3g5elkwWEVtckZudnJ6Yw?oc=5",
-          "published": "Fri, 06 Nov 2026 05:00:55 GMT",
-          "summary": "Smarsh's Archie Achieves Key Deflection Milestones&nbsp;&nbsp;Destination CRM"
-        },
-        {
-          "title": "ContinuumGlobal Adds Video Assistant to Smart Marketing Engine - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmN6Sm1NVXJpdmo2S0N3OVFxTUtyV1RENUwxc181Wk9SdTFqT2Y4bFFfeGV1Nk5MOXhxMHBDc29RbzdNTG01UkdMcEZfelJqUnlRajV6d2VSTWhOZkFiUWhQUTNQeXkzTWJoaWtKeG9ObFFXQkVqejBUWEUzV01UanpKWmM3M1dnR2NzVmNHTkZhQmd5Vm15RHdEN0dkSGV5NUJWWlFhV2ktUl9GSnhXcWpDbTRVU1F5QVFEZktmc0JVSXBpY0RLRnF4YTN0TjZLR3piMHVZUHpYOWM?oc=5",
-          "published": "Fri, 06 Nov 2026 05:00:54 GMT",
-          "summary": "ContinuumGlobal Adds Video Assistant to Smart Marketing Engine&nbsp;&nbsp;Destination CRM"
-        },
-        {
-          "title": "Sugar Adds AI to Sales Workflows - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVJPQkJRdi01NFp2eVNYbFA4dWd4WFZ3dUJHaDh0LVNPVzI5TDV1RHkyVV9YQ2VLVUQtbDVBVFRqR2FBT3EzSHN6YXdmUHVXNUt3eU1EbmpOaWIyUEEwaGs3S3NXOU1fMThZd1lsRkstX21pUTRGT3NOZkxKMDZCUmM1Z09nRmxfbU1WUE5iY2JfMnYtMnczb182RDMwdXVjSGd1WXpNVlJlRFFXeFFfYTRaUQ?oc=5",
-          "published": "Fri, 06 Nov 2026 05:00:50 GMT",
-          "summary": "Sugar Adds AI to Sales Workflows&nbsp;&nbsp;Destination CRM"
-        },
-        {
-          "title": "Influ2 Launches Audienscope Discover - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDhqdDZ0bGlFam81QVBhckNPSmg3X0FQTDJCT2tTdGwtZkxCN3RtOE42c2FoeGw4LTZiOElFUXgtRGNaX2xEaG1WQUJHcjJWSjIwMl9MZW96MlY5OG95eVF5MFY1T0ZIeFFYRmpwRWhPb2RWNFdRVXU5cEZfUEh0aHVvdmN0aDlUcDJGbC1wLW9FaHBwdWJnXy0xeThOaDdOVjFESlMwQWtmaGRjdzhNNzNyemh2SVot?oc=5",
-          "published": "Fri, 06 Nov 2026 05:00:37 GMT",
-          "summary": "Influ2 Launches Audienscope Discover&nbsp;&nbsp;Destination CRM"
-        },
-        {
-          "title": "Your CRM Is Measuring the Wrong Relationship - Destination CRM",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3dDYl9RSVNIYzYyWGNwNnVSWVF0clBsWlpOQjVFOEJTVk5FUlVvZGZSNWo3MHgtNWFRM0dJRnhZaV9mYWhMVDRfRmRKeFdSTG5JaFBuUVgxZVlyZ2hNS0ttb293SVpwZ2UtN3VzYUlqcHNjTmdCQzdBemhuNjh5YVF1WFgzcWZBMHhTRzBFZEkyVDJYZmVaLUdOLWNZUHpWWE1qdGV2YS1Eb3duMFFFOXdfaXdYTzNtekJEVEJ3?oc=5",
-          "published": "Fri, 06 Nov 2026 05:00:00 GMT",
-          "summary": "Your CRM Is Measuring the Wrong Relationship&nbsp;&nbsp;Destination CRM"
-        },
-        {
-          "title": "Priority acquires AI-powered CRM company Fireberry in deal valued at over $30 million - CTech",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMWZnbXVFSF9ZWDAwcUh1ckF2bkhMb1ZlMV9hNTVnbU1fbzZpVDVvcnpHLUJfZGNETGhUU3cwUnk0TGVXQXVya2hqMy11S1ZsSVZfOWlzeVF5X04zWnRiQUtuc1pJeXc?oc=5",
-          "published": "Thu, 05 Nov 2026 19:27:00 GMT",
-          "summary": "Priority acquires AI-powered CRM company Fireberry in deal valued at over $30 million&nbsp;&nbsp;CTech"
         }
       ]
     },
@@ -792,12 +619,6 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMDJYTDBVRVBjclo4RG9HbF9NVS1HU1loMnotUXNPSFNaektfRkpJSDkwVUxWbzJublFrdWdUQlZsX2lqZlA5b1NQSldvcmloZHhPRGRvX2l4ZUU4TURXWDFRZkk3VnUtUmhyOTJ3bFhvOTBJN19INGJTVFl1aUtjRW81c2kzUjRLeEJYb3dxVG5PcUwwQW1OLVV3Vm8yVzZlMTR1Ug?oc=5",
           "published": "Fri, 06 Nov 2026 15:06:58 GMT",
           "summary": "What are some top MSP cybersecurity and data protection best practices?&nbsp;&nbsp;The ChannelPro Network"
-        },
-        {
-          "title": "How MSPs can find better prospects and build a stronger sales pipeline - The ChannelPro Network",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUkI1czV0bWllaFU5VnZVVlQ2UlQxbzkyNl8zcmJ6Z1dacFBpcDBuT2hpRDYzYkFaTFFHdmxwUENhQmxfeldwUy16bFg3SFktOXlFMmx6NlhLRUE5VlVGOFlBb1ljNjBrbGZOQThNOVUwbzhubDRJZ3FYNkpKeVBkZ1Q3cVpLdnpOUWF6U3EzU3IyZm1VU09mNjlmeVo?oc=5",
-          "published": "Thu, 05 Nov 2026 20:07:35 GMT",
-          "summary": "How MSPs can find better prospects and build a stronger sales pipeline&nbsp;&nbsp;The ChannelPro Network"
         }
       ]
     },
@@ -881,12 +702,6 @@
           "link": "https://futurumgroup.com/insights/guidepoint-security-builds-partner-infrastructure-for-scale/?utm_source=rss&utm_medium=rss&utm_campaign=guidepoint-security-builds-partner-infrastructure-for-scale",
           "published": "Fri, 06 Nov 2026 12:06:37 +0000",
           "summary": "The post GuidePoint Security Builds Partner Infrastructure for Scale appeared first on Futurum.\nGuidePoint Security launched a dedicated Partner Portal on November 6, 2026, giving vendor partners centralized access to eight-region organization, cybersecurity services, and enablement resources—signaling deliberate infrastructure investment as.\nThe post GuidePoint Security Builds Partner Infrastructure for Scale appeared first on Futurum."
-        },
-        {
-          "title": "Columbus ASTRA 29: Betting on Outcomes Over Billable Hours",
-          "link": "https://futurumgroup.com/insights/columbus-astra-29-betting-on-outcomes-over-billable-hours/?utm_source=rss&utm_medium=rss&utm_campaign=columbus-astra-29-betting-on-outcomes-over-billable-hours",
-          "published": "Fri, 06 Nov 2026 12:05:56 +0000",
-          "summary": "The post Columbus ASTRA 29: Betting on Outcomes Over Billable Hours appeared first on Futurum.\nColumbus launched ASTRA 29, a three-year strategy replacing time-and-materials billing with Augmented Delivery powered by AI. The pivot targets DKK 2bn revenue and DKK 300m EBITDA by 2029, capitalizing on enterprise demand for agentic AI solutions.\nThe post Columbus ASTRA 29: Betting on Outcomes Over Billable Hours appeared first on Futurum."
         }
       ]
     },
@@ -900,14 +715,7 @@
     },
     {
       "name": "SiliconANGLE",
-      "items": [
-        {
-          "title": "Five9 buys contact center intelligence startup Level AI after posting narrow earnings beat",
-          "link": "https://siliconangle.com/2026/11/05/five9-buys-contact-center-intelligence-startup-level-ai-after-posting-narrow-earnings-beat/",
-          "published": "2026-11-06T00:35:15Z",
-          "summary": "Contact center company Five9 Inc. flexed its acquisitive muscles today as it announced a $325 million all-cash deal to buy an artificial intelligence-native rival called Level AI as it posted its third-quarter financial results. The deal is expected to close in the fourth quarter, subject to customary closing conditions. Five9 is a leading player in [&#8230;]\nThe post Five9 buys contact center intelligence startup Level AI after posting narrow earnings beat appeared first on SiliconANGLE."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Technology News For IT Channel Partners and Solution Providers",
@@ -933,25 +741,12 @@
           "link": "https://www.customerexperiencedive.com/news/cavas-hospitality-contest-to-inform-cx-strategy/874025/",
           "published": "Fri, 06 Nov 2026 13:55:00 -0500",
           "summary": "About two-thirds of locations saw a bump in guest experience metrics during the contest, and the practices are now scaling across the system, CEO Brett Schulman said."
-        },
-        {
-          "title": "TaskUs CEO: Blending AI and human talent is working in CX",
-          "link": "https://www.customerexperiencedive.com/news/taskus-ceo-blending-ai-human-talent-working-cx/873945/",
-          "published": "Thu, 05 Nov 2026 16:03:00 -0500",
-          "summary": "Business process outsourcer TaskUs is delivering on its strategy of AI plus human agents, but for buyers the real question is about bottom line benefits."
         }
       ]
     },
     {
       "name": "Call Centre Helper",
-      "items": [
-        {
-          "title": "Five9 to Acquire Level AI in $325 Million Deal",
-          "link": "https://www.callcentrehelper.com/five9-acquire-level-ai-278581.htm",
-          "published": "Fri, 06 Nov 2026 10:48:52 +0000",
-          "summary": "Five9 has announced an agreement to acquire Level AI, expanding its artificial intelligence capabilities.\nThe post Five9 to Acquire Level AI in $325 Million Deal appeared first on Call Centre Helper."
-        }
-      ]
+      "items": []
     },
     {
       "name": "Light Reading",
@@ -971,12 +766,6 @@
           "link": "https://cxm.world/customer-experience/openreach-takes-top-honours-at-the-international-customer-experience-awards-2026/",
           "published": "Fri, 06 Nov 2026 16:10:44 +0000",
           "summary": "Openreach was crowned Overall Winner at the International Customer Experience Awards (ICXA) 2026 at Wembley Stadium on 5 November, after earning the judges&#8217; highest score across every entry. Hundreds gathered for the ceremony, where the winners spanned more than 25 countries, from Saudi Arabia and UAE to Moldova, Kenya, Brazil, and the UK. Organised by...\nThe post Openreach Takes Top Honours at the International Customer Experience Awards 2026 appeared first on Customer Experience Magazine"
-        },
-        {
-          "title": "HubSpot Beats Q3 Forecasts as AI Agent Buyers Ask for Proof",
-          "link": "https://cxm.world/customer-experience/hubspot-ai-agents-q3-2026-results/",
-          "published": "Fri, 06 Nov 2026 11:34:22 +0000",
-          "summary": "HubSpot beat third-quarter forecasts on 4 November, with revenue up 17% to $947.6 million. However, the CRM company&#8217;s customers are taking longer to commit to its AI agents, and its outlook for the rest of the year is softer as a result. Subscription revenue grew 18% to $930.2 million, and the customer count reached 311,704,...\nThe post HubSpot Beats Q3 Forecasts as AI Agent Buyers Ask for Proof appeared first on Customer Experience Magazine."
         }
       ]
     },
