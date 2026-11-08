@@ -1,6 +1,43 @@
 {
   "days": [
     {
+      "iso": "2026-11-08",
+      "label": "Sun 08 Nov 2026",
+      "rows": [
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Nissan CX lead: more feedback fails journeys",
+          "sowhat": "Fragmented ownership and no unified view mean customer feedback volume doesn't translate to journey fixes.",
+          "url": "https://cxtoday.com/why-customer-feedback-still-fails-to-fix-the-journey",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "CX Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "AI",
+          "headline": "Microsoft Ignite faces Copilot value scrutiny",
+          "sowhat": "Microsoft stopped disclosing paid Copilot seats, so buyers want pricing clarity and agent governance, not feature lists.",
+          "url": "https://uctoday.com/microsoft-ignite-2026-will-copilot-prove-its-value",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "UC Today"
+        },
+        {
+          "pill": "Signal",
+          "cat": "CX",
+          "headline": "Openreach wins ICXA 2026 overall award",
+          "sowhat": "Openreach scored highest across all International Customer Experience Awards categories, but no discrete operational change disclosed.",
+          "url": "https://cxm.world/customer-experience/openreach-takes-top-honours-at-the-international-customer-experience-awards-2026/",
+          "vendor_flag": false,
+          "run": "PM",
+          "outlet": "cxm.world"
+        }
+      ],
+      "pattern_watch": ""
+    },
+    {
       "iso": "2026-11-07",
       "label": "Sat 07 Nov 2026",
       "rows": [
@@ -868,84 +905,7 @@
         }
       ],
       "pattern_watch": "Agentic AI adoption accelerates even as credential security and governance gaps surface across multiple enterprise platforms"
-    },
-    {
-      "iso": "2026-10-31",
-      "label": "Sat 31 Oct 2026",
-      "rows": [
-        {
-          "pill": "Signal",
-          "cat": "CCaaS",
-          "headline": "Gartner publishes 2026 CCaaS Critical Capabilities",
-          "sowhat": "Gartner's annual capability benchmark gives buyers a standardised basis to compare CCaaS platforms on defined use cases rather than vendor claims.",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT0VlaHBKbmt6TWdzSnY4Z19LckpialFoLTNjOHVZb0lyVlowN2JaQXZGS2NnWHV5bHp6MmUwU0hnZXhKckVjMS1OV215VWpXZWtMQzJLcHZuNVB6QWxCMnItY3ZMVTRjV0VYVkhmQ0o1Q1lwbGdvekVR?oc=5",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Foundation"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Salesforce reportedly acquires Rune for $375M",
-          "sowhat": "The defence-tech acquisition signals Salesforce's continued M&A appetite outside core CRM, though buyer relevance remains unclear.",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjlYUmFUdGdUUExXR0JlYW15ZGUwRmxMaU9vVnd2VkN6eXNhZldneHp0YkF1VXlzNmlCZ0NaSm1UMjVWYU1ZTTREOVg2NGRxLUxsTEdibWpUM2R1VGdWZmtUT0I4blNObFRIbTFHNk1LczZSYjNRdHFuSExlZHJNR0FxOGFGTXRaYU1fTUU2aFpjck5sUDNUUkxsUV9JTFQzTjk1ZjBvWTd6Ri16RUZNM1YzM2RYSnpDRW9PaG5B?oc=5",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "TechCrunch"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "ServiceNow lands HPE, Stagwell customer wins",
-          "sowhat": "HPE and Stagwell deployments add reference credibility to ServiceNow's \"new CRM\" positioning beyond legacy systems.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3hDaFRfY2hhbzRfWFc5TDhzbi05MVpPemt3X3FwOTdUT3ZRdzdzbnI1bUxnRVJDVmxaX2JvRm5BR1JBS3Z0aTdyeUFVemxmUW53LWtTRDNLcDgxams5bnJyYlFHSGZlWkgzZExYQ29tTGdoYmRYTW5NQk8wek01Z1hXT3gzaWdjYmhpeFBJcmhyUQ?oc=5",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal+",
-          "cat": "AI",
-          "headline": "Google Agent Compute Engine launches cross-cloud",
-          "sowhat": "Google's new sandbox isolates backend credentials from agents, a governance move that sets a cross-cloud parity benchmark competitors must now match.",
-          "url": "https://futurumgroup.com/insights/google-agent-compute-engine-puts-cross-cloud-governance-to-a-parity-test/?utm_source=rss&utm_medium=rss&utm_campaign=google-agent-compute-engine-puts-cross-cloud-governance-to-a-parity-test",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "UC",
-          "headline": "Cisco Partner Summit emphasises AI service opportunity",
-          "sowhat": "Cisco IQ, Model Foundry, and improved deal registration aim to shift partner revenue toward AI services rather than pure resale.",
-          "url": "https://futurumgroup.com/insights/cisco-partner-summit-2026-an-energized-cisco-bets-on-partner-led-ai/?utm_source=rss&utm_medium=rss&utm_campaign=cisco-partner-summit-2026-an-energized-cisco-bets-on-partner-led-ai",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "Futurum"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "Sprinklr launches Marketing AI Agents beta",
-          "sowhat": "The beta and \"Show Your Work\" research tie customer-facing AI to auditability, addressing the governance gap before buyers scale agent use.",
-          "url": "https://cxtoday.com/sprinklr-pushes-ai-agents-toward-proof-at-cxunifiers",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "CX Today"
-        },
-        {
-          "pill": "Signal",
-          "cat": "CX",
-          "headline": "US employee engagement drops to 2011 low",
-          "sowhat": "Gallup's Q3 reading shows remote and hybrid workers in AI-adopting organisations are disengaging fastest, raising CX delivery risk.",
-          "url": "https://cxm.world/employee-experience/remote-hybrid-employee-engagement-gallup-ai/",
-          "vendor_flag": false,
-          "run": "AM",
-          "outlet": "cxm.world"
-        }
-      ],
-      "pattern_watch": "Agent governance (Google sandbox, Sprinklr auditability) and partner AI service models (Cisco, ServiceNow) share a shift from seats to capabilities."
     }
   ],
-  "updated": "2026-11-07T19:15:32.324319+00:00"
+  "updated": "2026-11-08T12:58:54.579342+00:00"
 }
